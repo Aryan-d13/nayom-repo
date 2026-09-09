@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0.0",
+  "meta": {
+    "generated_at": "2026-03-09T00:00:00Z",
+    "generator_version": "1.0.0",
+    "template_id": "hearth-and-pipe"
+  },
+  "identity": {
+    "name": "Hearth & Pipe",
+    "tagline": "The things that make a home work.",
+    "description": "Plumbing repairs, water heaters, drains and the everyday things that keep a home running."
+  },
+  "contact": {
+    "phone": "(206) 555-0146",
+    "raw_phone": "2065550146",
+    "email": "hello@hearthpipe.example",
+    "city": "Seattle",
+    "state": "Washington",
+    "hours": "Mon–Fri · 8 AM–5 PM",
+    "service_areas": [
+      "Seattle",
+      "Bellevue",
+      "Kirkland"
+    ]
+  },
+  "editorial": {
+    "headline": "GOOD MORNING. IT SHOULD JUST WORK.",
+    "subheadline": "Plumbing repairs, water heaters, drains and the everyday things that keep a home running.",
+    "value_proposition": "The things that make a home work.",
+    "primary_cta": {
+      "text": "BOOK A PLUMBER",
+      "href": "#booking"
+    }
+  },
+  "offerings": [
+    {
+      "id": "repairs",
+      "name": "Plumbing Repairs",
+      "summary": "Fixing leaking traps, running toilets, and dripping faucets with clean craftsmanship."
+    },
+    {
+      "id": "water-heaters",
+      "name": "Water Heaters",
+      "summary": "When the water isn't getting hot or staying hot, diagnostic troubleshooting and replacement."
+    },
+    {
+      "id": "drains",
+      "name": "Drain Cleaning",
+      "summary": "Clearing sluggish bathroom and kitchen drains safely without harsh chemicals."
+    },
+    {
+      "id": "leak-detection",
+      "name": "Leak Detection",
+      "summary": "Tracing mystery damp spots under cabinets and behind walls to their source."
+    },
+    {
+      "id": "fixtures",
+      "name": "Fixtures & Faucets",
+      "summary": "Precise installation of architectural taps, sinks, and modern residential fixtures."
+    }
+  ],
+  "assets": [
+    {
+      "kind": "hero",
+      "url_or_path": "/images/hero_morning_bathroom.jpg"
+    }
+  ]
+}

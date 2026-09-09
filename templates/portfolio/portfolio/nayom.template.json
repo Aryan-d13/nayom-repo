@@ -1,0 +1,31 @@
+{
+  "id": "portfolio",
+  "name": "Personal / Creative Portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "industry": [
+    "portfolio"
+  ],
+  "categories": [
+    "portfolio",
+    "personal",
+    "developer",
+    "creator",
+    "designer",
+    "engineer"
+  ],
+  "styles": [
+    "dark_monochrome",
+    "editorial_thought",
+    "sparse_brutalist"
+  ],
+  "layouts": [
+    "curiosity_archive",
+    "selected_builds",
+    "process_journey"
+  ],
+  "features": [],
+  "entrypoint": "app/page.tsx",
+  "slots": {},
+  "preview_image": "preview/thumbnail.png"
+}

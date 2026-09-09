@@ -1,0 +1,88 @@
+@import "tailwindcss";
+
+@theme {
+  --color-ink: #15212A;
+  --color-cream: #F4F0E7;
+  --color-water-blue: #397A91;
+  --color-pale-blue: #D8E9EA;
+  --color-urgency-red: #D85B46;
+  --color-white: #FFFFFF;
+
+  --font-sans: var(--font-inter), system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-serif: var(--font-instrument), "Instrument Serif", Georgia, serif;
+}
+
+:root {
+  --ink: #15212A;
+  --cream: #F4F0E7;
+  --water-blue: #397A91;
+  --pale-blue: #D8E9EA;
+  --urgency-red: #D85B46;
+  --white: #FFFFFF;
+}
+
+html {
+  background-color: #F4F0E7;
+  color: #15212A;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Custom organic media frame */
+.organic-frame {
+  border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%;
+  transition: border-radius 8s ease-in-out infinite alternate;
+}
+
+/* Animated flow line dash animation */
+@keyframes flowDraw {
+  0% {
+    stroke-dashoffset: 1000;
+  }
+  100% {
+    stroke-dashoffset: 0;
+  }
+}
+
+.animate-flow {
+  stroke-dasharray: 1000;
+  stroke-dashoffset: 1000;
+  animation: flowDraw 2.4s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+/* Smooth subtle link hover indicator */
+.editorial-link {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+}
+
+.editorial-link::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 0%;
+  height: 1.5px;
+  background-color: #397A91;
+  transition: width 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.editorial-link:hover::after {
+  width: 100%;
+}
+
+/* Custom scrollbar matching cream & ink palette */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #F4F0E7;
+}
+::-webkit-scrollbar-thumb {
+  background: #C4D3D5;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #397A91;
+}

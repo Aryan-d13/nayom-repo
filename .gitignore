@@ -67,6 +67,9 @@ Thumbs.db
 generated/
 data/runs/
 data/websites/
+data/leads.db
+data/raw/
+data/normalized/
 
 # Executables & temporary build artifacts
 *.exe

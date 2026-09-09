@@ -1,0 +1,48 @@
+{
+  "id": "north-air",
+  "name": "North Air Heating & Cooling",
+  "version": "1.0.0",
+  "description": "Atmospheric residential HVAC showcase with interactive temperature comfort visualizer, home diagnostic symptoms, seasonal atmosphere states, and technician booking modal.",
+  "categories": [
+    "hvac",
+    "heating",
+    "air_conditioning",
+    "cooling",
+    "contractor",
+    "home_services",
+    "local_service"
+  ],
+  "industries": [
+    "hvac"
+  ],
+  "style_keywords": [
+    "warm_editorial",
+    "atmospheric",
+    "minimalist"
+  ],
+  "layout_patterns": [
+    "editorial_showcase",
+    "interactive_temperature",
+    "atmosphere_cards"
+  ],
+  "supported_features": [
+    "temperature_visualizer",
+    "hvac_symptoms_intake",
+    "atmosphere_states",
+    "booking_modal"
+  ],
+  "supported_slots": [],
+  "preview_image": "preview/thumbnail.png",
+  "entrypoint": "src/app/page.tsx",
+  "template_dir": "E:\\Code\\Nayom\\templates\\hvac\\north-air",
+  "is_valid": true,
+  "is_runnable": true,
+  "validation_errors": [],
+  "validation_warnings": [],
+  "industry": null,
+  "supported_industries": [],
+  "capabilities": {},
+  "default_theme": null,
+  "supported_variants": [],
+  "available_sections": []
+}

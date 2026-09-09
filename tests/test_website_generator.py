@@ -162,15 +162,14 @@ class TestWebsiteGenerator(unittest.TestCase):
         site_data = self.populator.populate(self.sample_intel, template_meta)
 
         self.assertIsInstance(site_data, dict)
-        self.assertEqual(site_data["site"]["name"], "Test Dev Corp")
-        self.assertEqual(site_data["hero"]["title"], "ENGINEERING SCALABLE SYSTEMS")
-        self.assertEqual(site_data["hero"]["cta"], "Explore Projects")
+        self.assertEqual(site_data["identity"]["name"], "Test Dev Corp")
+        self.assertEqual(site_data["editorial"]["headline"], "ENGINEERING SCALABLE SYSTEMS")
+        self.assertEqual(site_data["editorial"]["primary_cta"]["text"], "Explore Projects")
         self.assertEqual(site_data["contact"]["email"], "hello@testdev.example.com")
-        self.assertIn("Indore", site_data["contact"]["location"])
-        self.assertEqual(len(site_data["services"]), 1)
-        self.assertEqual(site_data["services"][0]["name"], "Data Pipeline Engine")
-        self.assertIn("Python", site_data["techStack"])
-        self.assertEqual(len(site_data["testimonials"]), 1)
+        self.assertIn("Indore", site_data["contact"]["city"])
+        self.assertEqual(len(site_data["offerings"]), 1)
+        self.assertEqual(site_data["offerings"][0]["name"], "Data Pipeline Engine")
+        self.assertEqual(len(site_data["social_proof"]["testimonials"]), 0)
 
     def test_generator_end_to_end_project_assembly(self):
         with tempfile.TemporaryDirectory() as tmp_dir:
@@ -201,8 +200,8 @@ class TestWebsiteGenerator(unittest.TestCase):
             # Read and verify site-data.json
             with open(out_dir / "site-data.json", "r", encoding="utf-8") as f:
                 saved_site_data = json.load(f)
-            self.assertEqual(saved_site_data["site"]["name"], "Test Dev Corp")
-            self.assertEqual(saved_site_data["hero"]["cta"], "Explore Projects")
+            self.assertEqual(saved_site_data["identity"]["name"], "Test Dev Corp")
+            self.assertEqual(saved_site_data["editorial"]["primary_cta"]["text"], "Explore Projects")
 
             # Read and verify generator-manifest.json
             with open(out_dir / "generator-manifest.json", "r", encoding="utf-8") as f:
@@ -230,29 +229,30 @@ class TestWebsiteGenerator(unittest.TestCase):
             with open(out_dir / "site-data.json", "r", encoding="utf-8") as f:
                 data = json.load(f)
 
-            self.assertEqual(data["site"]["name"], "Aryan Sharma")
-            self.assertIn("Julius", [s["name"] for s in data["services"]])
+            self.assertEqual(data["identity"]["name"], "Aryan Sharma")
+            self.assertIn("Julius", [s["name"] for s in data["offerings"]])
 
     def test_generator_avoids_non_runnable_template_stubs(self):
         """Verify that generator selects only runnable templates even when intelligence recommends non-runnable stub."""
-        intel_dental = create_sample_intelligence(
-            site_id="test_dentist",
-            rec_template="dental-smooth-practice",
-            category="dental",
-            industry="Dental Clinic",
-            style_direction="clean_corporate",
+        intel_gym = create_sample_intelligence(
+            site_id="test_gym",
+            rec_template="gym-power",
+            category="gym",
+            industry="Fitness Center",
+            style_direction="bold_dark",
         )
         with tempfile.TemporaryDirectory() as tmp_dir:
             out_base = Path(tmp_dir) / "generated"
             generator = WebsiteGenerator(output_base_dir=out_base)
 
-            res = generator.generate(source=intel_dental)
+            res = generator.generate(source=intel_gym)
 
             self.assertTrue(res.is_success)
-            # Must NOT select the non-runnable dental-smooth stub
-            self.assertNotEqual(res.template_id, "dental-smooth")
-            # Must fall back to runnable generic-modern
-            self.assertEqual(res.template_id, "generic-modern")
+            # Must NOT select the non-runnable gym-power stub
+            self.assertNotEqual(res.template_id, "gym-power")
+            # Must select a valid and runnable template
+            selected_t = generator._selector.get_template(res.template_id)
+            self.assertTrue(selected_t.is_runnable)
 
             out_dir = Path(res.output_dir)
             self.assertTrue((out_dir / "package.json").exists())

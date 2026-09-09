@@ -1,0 +1,32 @@
+{
+  "id": "goodflow-plumbing",
+  "name": "Goodflow Plumbing",
+  "version": "1.0.0",
+  "description": "",
+  "industry": [
+    "plumbing"
+  ],
+  "categories": [
+    "plumbing",
+    "plumber",
+    "contractor",
+    "home_services",
+    "drain_cleaning",
+    "water_heaters",
+    "leak_detection"
+  ],
+  "styles": [
+    "clean_editorial",
+    "natural_warm",
+    "residential"
+  ],
+  "layouts": [
+    "interactive_house",
+    "everyday_diagnostics",
+    "dialogue_process"
+  ],
+  "features": [],
+  "entrypoint": "app/page.tsx",
+  "slots": {},
+  "preview_image": "preview/thumbnail.png"
+}

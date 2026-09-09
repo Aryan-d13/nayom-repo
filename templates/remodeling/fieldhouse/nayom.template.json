@@ -1,0 +1,31 @@
+{
+  "id": "fieldhouse",
+  "name": "Fieldhouse Remodeling",
+  "version": "1.0.0",
+  "description": "",
+  "industry": [
+    "remodeling"
+  ],
+  "categories": [
+    "remodeling",
+    "home_renovation",
+    "contractor",
+    "home_services",
+    "interior_design",
+    "architecture"
+  ],
+  "styles": [
+    "craftsman_preservation",
+    "warm_editorial",
+    "architectural"
+  ],
+  "layouts": [
+    "preservation_showcase",
+    "before_after_transformations",
+    "interactive_floorplan"
+  ],
+  "features": [],
+  "entrypoint": "app/page.tsx",
+  "slots": {},
+  "preview_image": "preview/thumbnail.png"
+}

@@ -78,22 +78,34 @@ class TemplateSelector:
                 score += 90.0
 
         # 2. Industry & Category match
-        ind_lower = industry.lower().strip()
-        cat_lower = template_category.lower().strip()
+        ind_lower = industry.lower().strip().replace("-", " ").replace("_", " ")
+        cat_lower = template_category.lower().strip().replace("-", " ").replace("_", " ")
+        ind_tokens = set(ind_lower.split()) if ind_lower else set()
+        cat_tokens = set(cat_lower.split()) if cat_lower else set()
 
         for c in template.categories:
-            c_low = c.lower()
+            c_low = c.lower().replace("-", " ").replace("_", " ")
+            c_tokens = set(c_low.split())
             if cat_lower and (cat_lower in c_low or c_low in cat_lower):
                 score += 60.0
             if ind_lower and (ind_lower in c_low or c_low in ind_lower):
                 score += 50.0
+            if ind_tokens and (ind_tokens & c_tokens):
+                score += 35.0
+            if cat_tokens and (cat_tokens & c_tokens):
+                score += 30.0
 
         for i in template.industries:
-            i_low = i.lower()
+            i_low = i.lower().replace("-", " ").replace("_", " ")
+            i_tokens = set(i_low.split())
             if ind_lower and (ind_lower in i_low or i_low in ind_lower):
                 score += 50.0
             if cat_lower and (cat_lower in i_low or i_low in cat_lower):
                 score += 40.0
+            if ind_tokens and (ind_tokens & i_tokens):
+                score += 35.0
+            if cat_tokens and (cat_tokens & i_tokens):
+                score += 30.0
 
         # 3. Style direction match
         style_low = style_direction.lower().strip()

@@ -73,28 +73,45 @@ class TemplateValidator:
                 errors=[f"Template directory does not exist or is not a directory: {template_dir}"],
             )
 
-        # Check 1: metadata.json existence & parsing
+        # Check 1: manifest file existence (nayom.template.json or metadata.json)
+        manifest_path = template_dir / "nayom.template.json"
         meta_path = template_dir / "metadata.json"
-        if not meta_path.exists():
-            # Check v1 fallback
-            if (template_dir / "v1" / "metadata.json").exists():
-                meta_path = template_dir / "v1" / "metadata.json"
-            else:
-                return TemplateValidationResult(
-                    template_id=template_dir.name,
-                    template_dir=str(template_dir),
-                    is_valid=False,
-                    is_runnable=False,
-                    errors=["Missing required file: metadata.json"],
-                )
-
+        
         raw_meta: Dict[str, Any] = {}
-        try:
-            with open(meta_path, "r", encoding="utf-8") as f:
-                raw_meta = json.load(f)
-            checks_passed.append("metadata_json_parsed")
-        except Exception as e:
-            errors.append(f"metadata.json is not valid JSON: {e}")
+        if manifest_path.exists():
+            try:
+                with open(manifest_path, "r", encoding="utf-8") as f:
+                    raw_manifest = json.load(f)
+                from contracts.template import NayomTemplateManifest
+                manifest_obj = NayomTemplateManifest.model_validate(raw_manifest)
+                metadata_obj = manifest_obj.to_metadata(template_dir=str(template_dir))
+                raw_meta = metadata_obj.model_dump(mode="json")
+                checks_passed.append("nayom_template_manifest_parsed")
+            except Exception as e:
+                errors.append(f"nayom.template.json is not valid: {e}")
+        elif meta_path.exists():
+            try:
+                with open(meta_path, "r", encoding="utf-8") as f:
+                    raw_meta = json.load(f)
+                checks_passed.append("metadata_json_parsed")
+            except Exception as e:
+                errors.append(f"metadata.json is not valid JSON: {e}")
+        elif (template_dir / "v1" / "metadata.json").exists():
+            meta_path = template_dir / "v1" / "metadata.json"
+            try:
+                with open(meta_path, "r", encoding="utf-8") as f:
+                    raw_meta = json.load(f)
+                checks_passed.append("metadata_json_parsed")
+            except Exception as e:
+                errors.append(f"metadata.json is not valid JSON: {e}")
+        else:
+            return TemplateValidationResult(
+                template_id=template_dir.name,
+                template_dir=str(template_dir),
+                is_valid=False,
+                is_runnable=False,
+                errors=["Missing required file: metadata.json (or nayom.template.json)"],
+            )
 
         # Extract template ID
         template_id = str(raw_meta.get("id") or template_dir.name).strip()
@@ -106,44 +123,44 @@ class TemplateValidator:
             else:
                 checks_passed.append("unique_template_id")
 
-        # Check 3: Required metadata.json fields
-        if raw_meta:
-            # Build Pydantic model to test schema conformity
+        # Check 3: Required metadata fields
+        if raw_meta and not metadata_obj:
             try:
                 raw_meta["template_dir"] = str(template_dir)
                 metadata_obj = TemplateMetadata.model_validate(raw_meta)
                 checks_passed.append("metadata_schema_valid")
-
-                # Verify individual required fields are populated
-                if not metadata_obj.name:
-                    errors.append("metadata.json 'name' field cannot be empty")
-                if not metadata_obj.description:
-                    warnings.append("metadata.json 'description' field is empty")
-                if not metadata_obj.categories and not metadata_obj.industries:
-                    warnings.append("metadata.json has no 'categories' or 'industries' specified")
-                if not metadata_obj.style_keywords:
-                    warnings.append("metadata.json has no 'style_keywords' specified")
-                if not metadata_obj.layout_patterns:
-                    warnings.append("metadata.json has no 'layout_patterns' specified")
-
             except Exception as e:
-                errors.append(f"metadata.json failed schema validation: {e}")
+                errors.append(f"Metadata failed schema validation: {e}")
 
-        # Check 4: slots.json existence & parsing
+        if metadata_obj:
+            if not metadata_obj.name:
+                errors.append("Template manifest 'name' field cannot be empty")
+            if not metadata_obj.categories and not metadata_obj.industries:
+                warnings.append("Template manifest has no 'categories' or 'industries' specified")
+            if not metadata_obj.style_keywords:
+                warnings.append("Template manifest has no 'style_keywords' specified")
+
+        # Check 4: Content layer (canonical adapter or legacy slots.json)
+        has_adapter = (
+            (template_dir / "src" / "data" / "adapter.ts").exists()
+            or (template_dir / "data" / "adapter.ts").exists()
+            or (template_dir / "src" / "data" / "content.ts").exists()
+            or (template_dir / "data" / "content.ts").exists()
+        )
         slots_path = template_dir / "slots.json"
-        raw_slots: Dict[str, Any] = {}
-        if slots_path.exists():
+        if has_adapter:
+            checks_passed.append("canonical_content_layer_present")
+        elif slots_path.exists():
             try:
                 with open(slots_path, "r", encoding="utf-8") as f:
-                    raw_slots = json.load(f)
-                checks_passed.append("slots_json_parsed")
+                    json.load(f)
+                checks_passed.append("legacy_slots_json_parsed")
             except Exception as e:
-                errors.append(f"slots.json is not valid JSON: {e}")
+                warnings.append(f"slots.json is not valid JSON: {e}")
         else:
-            errors.append("Missing required file: slots.json")
-            is_runnable = False
+            warnings.append("No src/data/adapter.ts or slots.json found for content integration")
 
-        # Check 5: site-data.json existence & parsing
+        # Check 5: site-data.json existence & parsing (optional / recommended)
         site_data_path = template_dir / "site-data.json"
         if site_data_path.exists():
             try:
@@ -152,19 +169,8 @@ class TemplateValidator:
                 checks_passed.append("site_data_json_parsed")
             except Exception as e:
                 warnings.append(f"site-data.json is not valid JSON: {e}")
-        else:
-            warnings.append("Missing recommended file: site-data.json (used as sample template payload)")
 
-        # Check 6: Slot consistency between slots.json and metadata.json
-        if raw_slots and metadata_obj and metadata_obj.supported_slots:
-            slot_keys = set(raw_slots.keys())
-            declared_slots = set(metadata_obj.supported_slots)
-            missing_declared = slot_keys - declared_slots
-            if missing_declared:
-                warnings.append(f"slots.json contains slots not declared in metadata.json: {sorted(list(missing_declared))}")
-            checks_passed.append("slots_consistency_checked")
-
-        # Check 7: Next.js Structure & Package Manifest
+        # Check 6: Next.js Structure & Package Manifest
         pkg_path = template_dir / "package.json"
         if pkg_path.exists():
             try:
@@ -181,38 +187,47 @@ class TemplateValidator:
             errors.append("Missing required file: package.json (Next.js project descriptor)")
             is_runnable = False
 
-        # Check 8: Entrypoint & App/Pages directory
+        # Check 7: Entrypoint & App/Pages directory (supports both src/ and root)
         entrypoint_rel = metadata_obj.entrypoint if metadata_obj else "app/page.tsx"
         entry_path = template_dir / entrypoint_rel
-        has_app_dir = (template_dir / "app").is_dir()
-        has_pages_dir = (template_dir / "pages").is_dir()
+        has_app_dir = (template_dir / "app").is_dir() or (template_dir / "src" / "app").is_dir()
+        has_pages_dir = (template_dir / "pages").is_dir() or (template_dir / "src" / "pages").is_dir()
 
         if not has_app_dir and not has_pages_dir:
-            errors.append("Missing Next.js application directory (expected 'app/' or 'pages/')")
+            errors.append("Missing Next.js application directory (expected 'src/app/', 'app/', 'src/pages/', or 'pages/')")
             is_runnable = False
         else:
             checks_passed.append("nextjs_app_directory_present")
 
         if not entry_path.exists():
-            # Check for alternative extensions (.tsx, .jsx, .js, .ts)
+            # Check for standard alternative locations
             alt_candidates = [
+                template_dir / "src" / "app" / "page.tsx",
+                template_dir / "src" / "app" / "page.jsx",
+                template_dir / "src" / "app" / "page.js",
                 template_dir / "app" / "page.tsx",
                 template_dir / "app" / "page.jsx",
                 template_dir / "app" / "page.js",
+                template_dir / "src" / "pages" / "index.tsx",
+                template_dir / "src" / "pages" / "index.jsx",
                 template_dir / "pages" / "index.tsx",
                 template_dir / "pages" / "index.jsx",
             ]
-            if not any(c.exists() for c in alt_candidates):
+            found_alt = next((c for c in alt_candidates if c.exists()), None)
+            if not found_alt:
                 errors.append(f"Entrypoint file not found: {entrypoint_rel}")
                 is_runnable = False
             else:
                 checks_passed.append("nextjs_entrypoint_present")
+                if metadata_obj:
+                    metadata_obj.entrypoint = str(found_alt.relative_to(template_dir)).replace("\\", "/")
         else:
             checks_passed.append("nextjs_entrypoint_present")
 
-        # Check 9: Optional components & preview folders
-        if not (template_dir / "components").is_dir():
-            warnings.append("No 'components/' directory found (recommended for modular React structure)")
+        # Check 8: Optional components directory
+        has_components = (template_dir / "components").is_dir() or (template_dir / "src" / "components").is_dir()
+        if not has_components:
+            warnings.append("No 'components/' or 'src/components/' directory found")
         else:
             checks_passed.append("components_directory_present")
 

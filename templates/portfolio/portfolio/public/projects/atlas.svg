@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <defs>
+    <linearGradient id="atlasBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090A0F"/>
+      <stop offset="40%" stop-color="#121829"/>
+      <stop offset="100%" stop-color="#0B0E17"/>
+    </linearGradient>
+    <linearGradient id="hudGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#8096C7" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#6B638F" stop-opacity="0.2"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="100%" height="100%" fill="url(#atlasBg)"/>
+
+  <!-- Viewport HUD frames -->
+  <rect x="80" y="70" width="640" height="360" rx="12" fill="#101525" fill-opacity="0.6" stroke="#8096C7" stroke-opacity="0.25" stroke-width="1.5"/>
+  <rect x="96" y="86" width="608" height="40" rx="6" fill="#090A0F" fill-opacity="0.7"/>
+  
+  <!-- Window dots -->
+  <circle cx="116" cy="106" r="4" fill="#6B638F" fill-opacity="0.8"/>
+  <circle cx="132" cy="106" r="4" fill="#8096C7" fill-opacity="0.8"/>
+  <circle cx="148" cy="106" r="4" fill="#E7E6DF" fill-opacity="0.8"/>
+  
+  <text x="400" y="111" text-anchor="middle" fill="#878993" font-family="monospace" font-size="11" letter-spacing="2">ATLAS_WORKSPACE // VIEWPORT_CANVAS</text>
+
+  <!-- Central Design Concept Mockup Elements -->
+  <g transform="translate(140, 160)">
+    <!-- Main content canvas -->
+    <rect x="0" y="0" width="340" height="220" rx="8" fill="#090A0F" stroke="#8096C7" stroke-opacity="0.3"/>
+    
+    <!-- Vector shapes inside canvas -->
+    <circle cx="170" cy="110" r="60" fill="none" stroke="url(#hudGrad)" stroke-width="2"/>
+    <circle cx="170" cy="110" r="40" fill="none" stroke="#E7E6DF" stroke-opacity="0.2" stroke-dasharray="4,4"/>
+    <circle cx="170" cy="110" r="15" fill="#8096C7" fill-opacity="0.2" stroke="#8096C7"/>
+    <line x1="170" y1="30" x2="170" y2="190" stroke="#8096C7" stroke-opacity="0.3" stroke-dasharray="2,2"/>
+    <line x1="90" y1="110" x2="250" y2="110" stroke="#8096C7" stroke-opacity="0.3" stroke-dasharray="2,2"/>
+
+    <!-- Sidebar inspect pane -->
+    <rect x="360" y="0" width="160" height="220" rx="8" fill="#090A0F" stroke="white" stroke-opacity="0.08"/>
+    <text x="375" y="30" fill="#8096C7" font-family="monospace" font-size="10">PROPERTIES</text>
+    <rect x="375" y="45" width="130" height="18" rx="4" fill="#101525"/>
+    <rect x="375" y="75" width="130" height="18" rx="4" fill="#101525"/>
+    <rect x="375" y="105" width="130" height="18" rx="4" fill="#101525"/>
+    <text x="382" y="58" fill="#878993" font-family="monospace" font-size="8">scale: 1.000</text>
+    <text x="382" y="88" fill="#878993" font-family="monospace" font-size="8">coords: [42.1, 78.4]</text>
+    <text x="382" y="118" fill="#878993" font-family="monospace" font-size="8">damping: 0.85</text>
+  </g>
+
+  <!-- Watermark -->
+  <text x="700" y="455" text-anchor="end" fill="#878993" font-family="monospace" font-size="10" letter-spacing="1">PROJECT ATLAS // 02</text>
+</svg>

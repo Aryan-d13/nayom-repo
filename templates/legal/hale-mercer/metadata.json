@@ -1,0 +1,42 @@
+{
+  "id": "hale-mercer",
+  "name": "Hale & Mercer Attorneys at Law",
+  "version": "1.0.0",
+  "description": "",
+  "categories": [
+    "legal",
+    "law_firm",
+    "attorney",
+    "lawyer",
+    "professional_services",
+    "corporate_law"
+  ],
+  "industries": [
+    "legal"
+  ],
+  "style_keywords": [
+    "editorial",
+    "chambers_classic",
+    "sophisticated_monochrome"
+  ],
+  "layout_patterns": [
+    "document_matter",
+    "practice_index",
+    "partner_profile"
+  ],
+  "supported_features": [],
+  "supported_slots": [],
+  "preview_image": "preview/thumbnail.png",
+  "entrypoint": "app/page.tsx",
+  "template_dir": "E:\\Code\\Nayom\\templates\\legal\\hale-mercer",
+  "is_valid": true,
+  "is_runnable": true,
+  "validation_errors": [],
+  "validation_warnings": [],
+  "industry": null,
+  "supported_industries": [],
+  "capabilities": {},
+  "default_theme": null,
+  "supported_variants": [],
+  "available_sections": []
+}

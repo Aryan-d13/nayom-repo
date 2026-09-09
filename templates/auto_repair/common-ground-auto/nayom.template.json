@@ -1,0 +1,35 @@
+{
+  "id": "common-ground-auto",
+  "name": "Common Ground Auto Repair",
+  "version": "1.0.0",
+  "description": "Industrial automotive diagnostics and repair workshop showcase with interactive symptom intake, vehicle zone inspection, documentary shop bays, and appointment booking.",
+  "industry": [
+    "auto_repair"
+  ],
+  "categories": [
+    "auto_repair",
+    "mechanic",
+    "car_repair",
+    "automotive",
+    "local_service"
+  ],
+  "styles": [
+    "industrial",
+    "editorial",
+    "monochrome_high_contrast"
+  ],
+  "layouts": [
+    "intake_diagnostic",
+    "interactive_inspection",
+    "editorial_showcase"
+  ],
+  "features": [
+    "symptom_intake",
+    "vehicle_zone_diagnostics",
+    "shop_facility_showcase",
+    "appointment_booking"
+  ],
+  "entrypoint": "src/app/page.tsx",
+  "slots": {},
+  "preview_image": "preview/thumbnail.png"
+}

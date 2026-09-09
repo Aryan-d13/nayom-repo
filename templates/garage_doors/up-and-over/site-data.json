@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0.0",
+  "business_id": "demo",
+  "generated_at": "2026-09-09T00:00:00Z",
+  "identity": {
+    "name": "UP & OVER",
+    "tagline": "Garage Doors • Nashville",
+    "category": "garage_doors",
+    "description": "Architectural garage doors, precision spring replacements, whisper openers, and custom residential facades across Nashville and Middle Tennessee."
+  },
+  "contact": {
+    "phone": "(615) 555-0143",
+    "raw_phone": "6155550143",
+    "email": "hello@upandover.example",
+    "city": "Nashville",
+    "state": "Tennessee",
+    "country": "US"
+  },
+  "editorial": {
+    "headline": "YOUR HOME STARTS HERE.",
+    "subheadline": "Garage doors, repairs and openers for homes across Nashville.",
+    "primary_cta": {
+      "text": "GET A QUOTE",
+      "link": "#doors"
+    }
+  },
+  "offerings": [],
+  "social_proof": {
+    "rating": 5.0,
+    "review_count": 48,
+    "testimonials": []
+  },
+  "seo": {
+    "title": "UP & OVER | Garage Doors Nashville",
+    "meta_description": "Come home to something better. Garage doors, repairs and openers for homes across Nashville, Tennessee."
+  },
+  "assets": []
+}

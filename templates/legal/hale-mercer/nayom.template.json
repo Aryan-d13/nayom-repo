@@ -1,0 +1,31 @@
+{
+  "id": "hale-mercer",
+  "name": "Hale & Mercer Attorneys at Law",
+  "version": "1.0.0",
+  "description": "",
+  "industry": [
+    "legal"
+  ],
+  "categories": [
+    "legal",
+    "law_firm",
+    "attorney",
+    "lawyer",
+    "professional_services",
+    "corporate_law"
+  ],
+  "styles": [
+    "editorial",
+    "chambers_classic",
+    "sophisticated_monochrome"
+  ],
+  "layouts": [
+    "document_matter",
+    "practice_index",
+    "partner_profile"
+  ],
+  "features": [],
+  "entrypoint": "app/page.tsx",
+  "slots": {},
+  "preview_image": "preview/thumbnail.png"
+}

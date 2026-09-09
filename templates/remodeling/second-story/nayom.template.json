@@ -1,0 +1,31 @@
+{
+  "id": "second-story",
+  "name": "Second Story Remodeling",
+  "version": "1.0.0",
+  "description": "",
+  "industry": [
+    "remodeling"
+  ],
+  "categories": [
+    "remodeling",
+    "home_renovation",
+    "contractor",
+    "home_services",
+    "victorian_renovation",
+    "interior_design"
+  ],
+  "styles": [
+    "sophisticated_editorial",
+    "minimal_luxury",
+    "tactile"
+  ],
+  "layouts": [
+    "continuous_transformation",
+    "interactive_peek",
+    "room_explorer"
+  ],
+  "features": [],
+  "entrypoint": "app/page.tsx",
+  "slots": {},
+  "preview_image": "preview/thumbnail.png"
+}

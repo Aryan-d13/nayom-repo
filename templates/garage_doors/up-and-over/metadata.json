@@ -1,0 +1,45 @@
+{
+  "id": "up-and-over",
+  "name": "Up & Over Garage Doors",
+  "version": "1.0.0",
+  "description": "Architectural residential garage door showcase with interactive open/close states, door style selector, repair diagnostics, and quote modal.",
+  "categories": [
+    "garage_doors",
+    "garage_door_services",
+    "home_services",
+    "contractor",
+    "local_service"
+  ],
+  "industries": [
+    "garage_doors"
+  ],
+  "style_keywords": [
+    "warm_editorial",
+    "architectural",
+    "industrial"
+  ],
+  "layout_patterns": [
+    "editorial_showcase",
+    "interactive_story"
+  ],
+  "supported_features": [
+    "quote_modal",
+    "style_selector",
+    "repair_diagnostics",
+    "open_close_interactive"
+  ],
+  "supported_slots": [],
+  "preview_image": "preview/thumbnail.png",
+  "entrypoint": "src/app/page.tsx",
+  "template_dir": "E:\\Code\\Nayom\\templates\\garage_doors\\up-and-over",
+  "is_valid": true,
+  "is_runnable": true,
+  "validation_errors": [],
+  "validation_warnings": [],
+  "industry": null,
+  "supported_industries": [],
+  "capabilities": {},
+  "default_theme": null,
+  "supported_variants": [],
+  "available_sections": []
+}

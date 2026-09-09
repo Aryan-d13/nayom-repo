@@ -1,0 +1,104 @@
+@import "tailwindcss";
+
+@theme {
+  --color-parchment: #EDE8DE;
+  --color-ink: #232321;
+  --color-moss: #687060;
+  --color-terracotta: #A95D49;
+  --color-warm-white: #FAF8F2;
+  --color-dust: #C8C0B4;
+
+  --font-sans: var(--font-sans), Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-serif: var(--font-serif), "Cormorant Garamond", Georgia, serif;
+  --font-hand: var(--font-hand), Caveat, "Architects Daughter", cursive;
+}
+
+:root {
+  --background: #FAF8F2;
+  --foreground: #232321;
+  --parchment: #EDE8DE;
+  --ink: #232321;
+  --moss: #687060;
+  --terracotta: #A95D49;
+  --warm-white: #FAF8F2;
+  --dust: #C8C0B4;
+}
+
+/* Lenis smooth scrolling rules */
+html.lenis,
+html.lenis body {
+  height: auto;
+}
+
+.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+
+.lenis.lenis-smooth [data-lenis-prevent],
+[data-lenis-prevent] {
+  overscroll-behavior: contain;
+  -webkit-overflow-scrolling: touch;
+}
+
+.lenis.lenis-stopped {
+  overflow: hidden;
+}
+
+.lenis.lenis-smooth iframe {
+  pointer-events: none;
+}
+
+/* Subtle architectural selection color */
+::selection {
+  background-color: rgba(169, 93, 73, 0.22);
+  color: #232321;
+}
+
+/* Smooth typography and image rendering */
+html {
+  font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #FAF8F2;
+  color: #232321;
+}
+
+/* Delicate architectural scrollbar */
+::-webkit-scrollbar {
+  width: 5px;
+}
+::-webkit-scrollbar-track {
+  background: #FAF8F2;
+}
+::-webkit-scrollbar-thumb {
+  background: #C8C0B4;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #687060;
+}
+
+/* Diagonal wipe reveal clipping */
+.clip-diagonal {
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+}
+
+/* Hand-drawn pencil sketch line animation */
+@keyframes drawPencil {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+.pencil-line {
+  stroke-dasharray: 400;
+  stroke-dashoffset: 400;
+  animation: drawPencil 1.4s ease-out forwards;
+}
+
+/* Subtle architectural grid texture */
+.bg-pencil-grid {
+  background-size: 32px 32px;
+  background-image: 
+    linear-gradient(to right, rgba(200, 192, 180, 0.25) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(200, 192, 180, 0.25) 1px, transparent 1px);
+}

@@ -1,0 +1,47 @@
+{
+  "id": "form-dental",
+  "name": "Form Dental",
+  "version": "1.0.0",
+  "description": "Minimalist architectural dental studio showcase with unhurried consultation philosophy, precision treatment disciplines, operatory space gallery, and visit booking.",
+  "categories": [
+    "dentists",
+    "dental",
+    "cosmetic_dentistry",
+    "orthodontics",
+    "healthcare",
+    "local_service"
+  ],
+  "industries": [
+    "dentists"
+  ],
+  "style_keywords": [
+    "minimalist",
+    "architectural",
+    "restraint"
+  ],
+  "layout_patterns": [
+    "editorial_showcase",
+    "horizontal_scroll",
+    "restrained_grid"
+  ],
+  "supported_features": [
+    "treatment_disciplines",
+    "space_gallery",
+    "practitioner_profile",
+    "consultation_modal"
+  ],
+  "supported_slots": [],
+  "preview_image": "preview/thumbnail.png",
+  "entrypoint": "src/app/page.tsx",
+  "template_dir": "E:\\Code\\Nayom\\templates\\dentists\\form-dental",
+  "is_valid": true,
+  "is_runnable": true,
+  "validation_errors": [],
+  "validation_warnings": [],
+  "industry": null,
+  "supported_industries": [],
+  "capabilities": {},
+  "default_theme": null,
+  "supported_variants": [],
+  "available_sections": []
+}

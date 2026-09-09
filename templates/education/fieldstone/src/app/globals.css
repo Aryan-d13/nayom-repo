@@ -1,0 +1,80 @@
+@import "tailwindcss";
+
+@theme {
+  --color-paper: #F5F1E8;
+  --color-ink: #20231F;
+  --color-school-blue: #4E7FA3;
+  --color-school-yellow: #E5B84C;
+  --color-school-coral: #D76C56;
+  --color-school-green: #73866C;
+  --color-school-white: #FFFDF8;
+
+  --font-sans: var(--font-inter), system-ui, -apple-system, sans-serif;
+  --font-serif: var(--font-fraunces), Georgia, serif;
+  --font-hand: var(--font-caveat), cursive;
+}
+
+:root {
+  --paper: #F5F1E8;
+  --ink: #20231F;
+  --blue: #4E7FA3;
+  --yellow: #E5B84C;
+  --coral: #D76C56;
+  --green: #73866C;
+  --white: #FFFDF8;
+}
+
+/* Texture & subtle tactile feel */
+body {
+  background-color: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Editorial Serif & Handwritten utilities */
+.font-serif-title {
+  font-family: var(--font-serif);
+  font-optical-sizing: auto;
+}
+
+.font-handwritten {
+  font-family: var(--font-hand);
+}
+
+/* Smooth focus rings for accessibility */
+*:focus-visible {
+  outline: 2px solid var(--ink);
+  outline-offset: 3px;
+}
+
+/* Reduced motion preference */
+@media (prefers-reduced-motion: reduce) {
+  *, ::before, ::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Subtle organic paper shadow */
+.shadow-paper {
+  box-shadow: 0 4px 20px -2px rgba(32, 35, 31, 0.08), 0 1px 4px 0 rgba(32, 35, 31, 0.04);
+}
+
+.shadow-paper-lg {
+  box-shadow: 0 16px 40px -8px rgba(32, 35, 31, 0.12), 0 4px 12px 0 rgba(32, 35, 31, 0.06);
+}
+
+/* Tactile tape / sticker effect */
+.photo-border {
+  border: 8px solid #FFFDF8;
+  box-shadow: 0 10px 30px -5px rgba(32, 35, 31, 0.12), 0 2px 6px -1px rgba(32, 35, 31, 0.08);
+}
+
+.photo-border-dark {
+  border: 8px solid #20231F;
+  box-shadow: 0 10px 30px -5px rgba(0, 0, 0, 0.35);
+}

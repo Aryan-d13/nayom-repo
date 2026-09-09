@@ -1,0 +1,66 @@
+{
+  "schema_version": "1.0.0",
+  "business_id": "demo",
+  "generated_at": "2026-09-09T00:00:00Z",
+  "identity": {
+    "name": "NORTH AIR",
+    "short_name": "NORTH AIR",
+    "tagline": "You should feel good at home.",
+    "category": "hvac",
+    "description": "Heating, cooling and indoor air service for the spaces you spend your life in throughout Nashville, Tennessee."
+  },
+  "contact": {
+    "phone": "(615) 555-0148",
+    "raw_phone": "6155550148",
+    "email": "hello@northair.example",
+    "city": "Nashville",
+    "state": "Tennessee",
+    "country": "US",
+    "hours": "Mon–Fri · 8 AM–5 PM"
+  },
+  "editorial": {
+    "headline": "YOU CAN FEEL IT.",
+    "subheadline": "Heating, cooling and indoor air service for the spaces you spend your life in.",
+    "value_proposition": "When a room is right, you stop thinking about it.",
+    "primary_cta": {
+      "text": "BOOK A VISIT",
+      "link": "#booking"
+    }
+  },
+  "offerings": [
+    {
+      "id": "ac-repair",
+      "name": "AC Repair & Maintenance",
+      "category": "Cooling",
+      "summary": "Precision tune-ups, coil cleaning, and refrigerant diagnostics."
+    },
+    {
+      "id": "heat-pumps",
+      "name": "Heat Pump Installation",
+      "category": "Heating",
+      "summary": "High-efficiency inverter heat pumps designed for quiet comfort year-round."
+    },
+    {
+      "id": "air-quality",
+      "name": "Indoor Air Quality",
+      "category": "Air Quality",
+      "summary": "Whole-home filtration, HEPA purification, and humidity balancing."
+    },
+    {
+      "id": "ductwork",
+      "name": "Duct Balancing & Sealing",
+      "category": "Ducts",
+      "summary": "Airflow balancing so every bedroom stays the exact temperature you set."
+    }
+  ],
+  "social_proof": {
+    "rating": 5.0,
+    "review_count": 73,
+    "testimonials": []
+  },
+  "seo": {
+    "title": "NORTH AIR | Nashville Heating & Cooling",
+    "meta_description": "Heating, cooling and indoor air service for the spaces you spend your life in Nashville, TN."
+  },
+  "assets": []
+}

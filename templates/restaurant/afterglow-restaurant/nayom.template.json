@@ -1,0 +1,31 @@
+{
+  "id": "afterglow-restaurant",
+  "name": "Afterglow Restaurant & Wine Bar",
+  "version": "1.0.0",
+  "description": "",
+  "industry": [
+    "restaurant"
+  ],
+  "categories": [
+    "restaurant",
+    "wine_bar",
+    "dining",
+    "bistro",
+    "hospitality",
+    "cocktail_bar"
+  ],
+  "styles": [
+    "cinematic_night",
+    "warm_editorial",
+    "candlelit"
+  ],
+  "layouts": [
+    "tonight_menu",
+    "night_progression",
+    "ambient_reservation"
+  ],
+  "features": [],
+  "entrypoint": "app/page.tsx",
+  "slots": {},
+  "preview_image": "preview/thumbnail.png"
+}

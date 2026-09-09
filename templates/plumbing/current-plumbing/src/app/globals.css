@@ -1,0 +1,118 @@
+@import "tailwindcss";
+
+@theme {
+  --color-paper: #F3EFE7;
+  --color-navy: #17252A;
+  --color-water: #68B8C3;
+  --color-foam: #DDF0EC;
+  --color-coral: #C86650;
+  --color-porcelain: #FFFDF8;
+
+  --font-sans: var(--font-inter), -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-serif: var(--font-cormorant), "Cormorant Garamond", Georgia, serif;
+}
+
+:root {
+  --paper: #F3EFE7;
+  --navy: #17252A;
+  --water: #68B8C3;
+  --foam: #DDF0EC;
+  --coral: #C86650;
+  --porcelain: #FFFDF8;
+}
+
+html {
+  background-color: #F3EFE7;
+  color: #17252A;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Subtle architectural floor-plan grid (abstract, not blueprint) */
+.architectural-grid {
+  background-image: 
+    linear-gradient(to right, rgba(23, 37, 42, 0.035) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(23, 37, 42, 0.035) 1px, transparent 1px);
+  background-size: 44px 44px;
+}
+
+.architectural-grid-dark {
+  background-image: 
+    linear-gradient(to right, rgba(221, 240, 236, 0.04) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(221, 240, 236, 0.04) 1px, transparent 1px);
+  background-size: 44px 44px;
+}
+
+/* Water ripple keyframes */
+@keyframes waterPulse {
+  0%, 100% {
+    transform: scale(1);
+    opacity: 0.85;
+  }
+  50% {
+    transform: scale(1.04);
+    opacity: 1;
+  }
+}
+
+.animate-water-pulse {
+  animation: waterPulse 4.5s ease-in-out infinite;
+}
+
+@keyframes dropRipple {
+  0% {
+    transform: scale(0.6);
+    opacity: 0.9;
+  }
+  100% {
+    transform: scale(3.5);
+    opacity: 0;
+  }
+}
+
+.animate-drop-ripple {
+  animation: dropRipple 2.2s cubic-bezier(0.2, 0.8, 0.2, 1) infinite;
+}
+
+/* Pressure breathing animation */
+@keyframes pressureWobble {
+  0%, 100% {
+    border-radius: 48% 52% 51% 49% / 51% 49% 51% 49%;
+  }
+  25% {
+    border-radius: 45% 55% 48% 52% / 54% 46% 53% 47%;
+  }
+  50% {
+    border-radius: 53% 47% 55% 45% / 47% 53% 48% 52%;
+  }
+  75% {
+    border-radius: 49% 51% 46% 54% / 52% 48% 55% 45%;
+  }
+}
+
+.animate-pressure-wobble {
+  animation: pressureWobble 6s ease-in-out infinite;
+}
+
+/* Focus and selection */
+::selection {
+  background-color: #DDF0EC;
+  color: #17252A;
+}
+
+:focus-visible {
+  outline: 2px solid #68B8C3;
+  outline-offset: 3px;
+}
+
+/* Reduced motion preference support */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  ::before,
+  ::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

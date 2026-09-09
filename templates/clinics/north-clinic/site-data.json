@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0.0",
+  "business_id": "demo",
+  "generated_at": "2026-09-09T00:00:00Z",
+  "identity": {
+    "name": "NORTH",
+    "short_name": "NORTH",
+    "tagline": "A sequence of care, not a transactional list of services.",
+    "category": "clinics",
+    "description": "A quiet place in a busy city. Providing primary care, preventive screenings, women’s health, and same-day consultations in Brooklyn."
+  },
+  "contact": {
+    "phone": "(718) 555-0164",
+    "raw_phone": "7185550164",
+    "email": "hello@northclinic.example",
+    "address": "91 Kent Avenue",
+    "city": "Brooklyn",
+    "state": "New York",
+    "postal_code": "11249",
+    "country": "US",
+    "hours": "Mon–Fri 8 AM–6 PM"
+  },
+  "editorial": {
+    "headline": "YOU CAN SLOW DOWN HERE.",
+    "subheadline": "Thoughtful primary and preventive care for the people who live around here.",
+    "value_proposition": "We'll take the time.",
+    "primary_cta": {
+      "text": "BOOK A VISIT",
+      "link": "#booking"
+    }
+  },
+  "offerings": [
+    {
+      "id": "primary-care",
+      "name": "Primary Care",
+      "category": "General",
+      "summary": "Routine care, screenings and keeping track of what's changing."
+    },
+    {
+      "id": "preventive-health",
+      "name": "Preventive Care",
+      "category": "Wellness",
+      "summary": "Baseline labs, wellness visits, and longevity consultations."
+    },
+    {
+      "id": "womens-health",
+      "name": "Women's Health",
+      "category": "Specialized",
+      "summary": "Compassionate, unhurried care and reproductive health."
+    },
+    {
+      "id": "same-day",
+      "name": "Same-Day Consultations",
+      "category": "Urgent",
+      "summary": "Clear diagnostics and treatment when unexpected concerns arise."
+    }
+  ],
+  "social_proof": {
+    "rating": 5.0,
+    "review_count": 52,
+    "testimonials": []
+  },
+  "seo": {
+    "title": "NORTH | Private Medical Clinic Brooklyn",
+    "meta_description": "Thoughtful primary and preventive care for the people who live around here in Brooklyn, NY."
+  },
+  "assets": []
+}

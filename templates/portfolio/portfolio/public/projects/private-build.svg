@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <defs>
+    <linearGradient id="pBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090A0F"/>
+      <stop offset="50%" stop-color="#0C0E14"/>
+      <stop offset="100%" stop-color="#090A0F"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="100%" height="100%" fill="url(#pBg)"/>
+
+  <!-- Subtle confidential blueprint grid -->
+  <g opacity="0.08" stroke="#E7E6DF" stroke-width="1">
+    <line x1="200" y1="0" x2="200" y2="500"/>
+    <line x1="400" y1="0" x2="400" y2="500"/>
+    <line x1="600" y1="0" x2="600" y2="500"/>
+    <line x1="0" y1="160" x2="800" y2="160"/>
+    <line x1="0" y1="320" x2="800" y2="320"/>
+  </g>
+
+  <!-- Central encrypted schematic lock icon -->
+  <g transform="translate(340, 160)" stroke="#878993" fill="none">
+    <!-- Outer shield/box -->
+    <rect x="0" y="40" width="120" height="100" rx="8" stroke-width="2" stroke="#8096C7" stroke-opacity="0.6"/>
+    <!-- Shackle -->
+    <path d="M25,40 V15 C25,-5 95,-5 95,15 V40" stroke-width="2" stroke="#8096C7" stroke-opacity="0.6"/>
+    <!-- Keyhole -->
+    <circle cx="60" cy="80" r="8" fill="#8096C7" fill-opacity="0.4"/>
+    <path d="M57,85 L54,105 H66 L63,85 Z" fill="#8096C7" fill-opacity="0.4"/>
+  </g>
+
+  <!-- Encrypted strings -->
+  <g font-family="monospace" font-size="10" fill="#878993" opacity="0.4">
+    <text x="120" y="240">0x8F9A4...32C1</text>
+    <text x="120" y="260">HASH: SHA-512/PROT</text>
+    <text x="120" y="280">STATUS: PRIVATE // IN_DEV</text>
+    <text x="560" y="240">CONFIDENTIAL BUILD</text>
+    <text x="560" y="260">TARGET: Q4 2026</text>
+    <text x="560" y="280">ENCRYPTION: ACTIVE</text>
+  </g>
+
+  <!-- Status tag -->
+  <rect x="330" y="340" width="140" height="26" rx="13" fill="#101525" stroke="#8096C7" stroke-opacity="0.3"/>
+  <text x="400" y="357" text-anchor="middle" fill="#E7E6DF" font-family="monospace" font-size="10" letter-spacing="2">UNNAMED BUILD</text>
+</svg>

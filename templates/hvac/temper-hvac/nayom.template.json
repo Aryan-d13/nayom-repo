@@ -1,0 +1,32 @@
+{
+  "id": "temper-hvac",
+  "name": "Temper Heating & Air",
+  "version": "1.0.0",
+  "description": "",
+  "industry": [
+    "hvac"
+  ],
+  "categories": [
+    "hvac",
+    "heating",
+    "air_conditioning",
+    "cooling",
+    "contractor",
+    "home_services",
+    "local_service"
+  ],
+  "styles": [
+    "desert_modern",
+    "editorial",
+    "warm_minimalist"
+  ],
+  "layouts": [
+    "editorial_story",
+    "sensory_exploration",
+    "room_chapters"
+  ],
+  "features": [],
+  "entrypoint": "app/page.tsx",
+  "slots": {},
+  "preview_image": "preview/thumbnail.png"
+}

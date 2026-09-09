@@ -1,0 +1,42 @@
+{
+  "id": "mara-restaurant",
+  "name": "Mara Seasonal Mediterranean",
+  "version": "1.0.0",
+  "description": "",
+  "categories": [
+    "restaurant",
+    "mediterranean",
+    "dining",
+    "wood_fired",
+    "hospitality",
+    "brooklyn_dining"
+  ],
+  "industries": [
+    "restaurant"
+  ],
+  "style_keywords": [
+    "warm_editorial",
+    "rustic_mediterranean",
+    "hearth_fire"
+  ],
+  "layout_patterns": [
+    "featured_menu",
+    "food_in_motion",
+    "dining_postcard"
+  ],
+  "supported_features": [],
+  "supported_slots": [],
+  "preview_image": "preview/thumbnail.png",
+  "entrypoint": "app/page.tsx",
+  "template_dir": "E:\\Code\\Nayom\\templates\\restaurant\\mara-restaurant",
+  "is_valid": true,
+  "is_runnable": true,
+  "validation_errors": [],
+  "validation_warnings": [],
+  "industry": null,
+  "supported_industries": [],
+  "capabilities": {},
+  "default_theme": null,
+  "supported_variants": [],
+  "available_sections": []
+}

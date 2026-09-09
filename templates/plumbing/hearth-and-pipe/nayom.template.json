@@ -1,0 +1,32 @@
+{
+  "id": "hearth-and-pipe",
+  "name": "Hearth & Pipe",
+  "version": "1.0.0",
+  "description": "",
+  "industry": [
+    "plumbing"
+  ],
+  "categories": [
+    "plumbing",
+    "plumber",
+    "contractor",
+    "home_services",
+    "water_heaters",
+    "drain_cleaning",
+    "repairs"
+  ],
+  "styles": [
+    "warm_editorial",
+    "craftsman",
+    "pacific_northwest"
+  ],
+  "layouts": [
+    "observation_moments",
+    "residential_spaces",
+    "transparent_approach"
+  ],
+  "features": [],
+  "entrypoint": "app/page.tsx",
+  "slots": {},
+  "preview_image": "preview/thumbnail.png"
+}

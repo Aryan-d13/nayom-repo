@@ -1,0 +1,31 @@
+{
+  "id": "mara-restaurant",
+  "name": "Mara Seasonal Mediterranean",
+  "version": "1.0.0",
+  "description": "",
+  "industry": [
+    "restaurant"
+  ],
+  "categories": [
+    "restaurant",
+    "mediterranean",
+    "dining",
+    "wood_fired",
+    "hospitality",
+    "brooklyn_dining"
+  ],
+  "styles": [
+    "warm_editorial",
+    "rustic_mediterranean",
+    "hearth_fire"
+  ],
+  "layouts": [
+    "featured_menu",
+    "food_in_motion",
+    "dining_postcard"
+  ],
+  "features": [],
+  "entrypoint": "app/page.tsx",
+  "slots": {},
+  "preview_image": "preview/thumbnail.png"
+}

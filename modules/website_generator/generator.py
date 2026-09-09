@@ -152,6 +152,7 @@ class WebsiteGenerator:
         output_dir: Optional[Union[str, Path]] = None,
         template_override: Optional[str] = None,
         overwrite: bool = True,
+        business: Optional[Any] = None,
     ) -> WebsiteGenerationResult:
         """
         Executes deterministic website generation from intelligence data.
@@ -200,11 +201,12 @@ class WebsiteGenerator:
         # 4. Copy template project structure
         self._copy_template_files(template_path, target_project_dir, overwrite=overwrite)
 
-        # 5. Populate site-data.json
+        # 5. Populate canonical site-data.json
         site_data = self._populator.populate(
             intelligence=intel,
             template_meta=template_meta,
             website_raw=website_raw,
+            business=business,
         )
 
         # 6. Write site-data.json into project with atomic write

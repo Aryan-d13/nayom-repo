@@ -164,7 +164,18 @@ class TemplateImporter:
 
             if not entrypoint_found:
                 # Check standard alternatives
-                for candidate in ["app/page.tsx", "app/page.jsx", "app/page.js", "pages/index.tsx", "pages/index.js"]:
+                for candidate in [
+                    "src/app/page.tsx",
+                    "src/app/page.jsx",
+                    "src/app/page.js",
+                    "app/page.tsx",
+                    "app/page.jsx",
+                    "app/page.js",
+                    "src/pages/index.tsx",
+                    "src/pages/index.jsx",
+                    "pages/index.tsx",
+                    "pages/index.js",
+                ]:
                     if (source_path / candidate).exists():
                         entrypoint_rel = candidate
                         entrypoint_found = True
@@ -474,9 +485,15 @@ class TemplateImporter:
             with open(target_dir / "metadata.json", "w", encoding="utf-8") as f:
                 json.dump(meta_obj.model_dump(mode="json"), f, indent=2, ensure_ascii=False)
 
-            # 8. Scaffold slots.json if missing
+            # 8. Check content layer (adapter vs legacy slots.json)
+            has_adapter = (
+                (target_dir / "src" / "data" / "adapter.ts").exists()
+                or (target_dir / "data" / "adapter.ts").exists()
+                or (target_dir / "src" / "data" / "content.ts").exists()
+                or (target_dir / "data" / "content.ts").exists()
+            )
             slots_file = target_dir / "slots.json"
-            if not slots_file.exists() or slots_file.stat().st_size == 0:
+            if not has_adapter and (not slots_file.exists() or slots_file.stat().st_size == 0):
                 slots_content = self._build_slots_json_scaffold(manifest)
                 with open(slots_file, "w", encoding="utf-8") as f:
                     json.dump(slots_content, f, indent=2, ensure_ascii=False)

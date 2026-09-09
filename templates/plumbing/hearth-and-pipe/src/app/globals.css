@@ -1,0 +1,73 @@
+@import "tailwindcss";
+
+@theme {
+  --color-steam: #E9E7E1;
+  --color-ink: #242522;
+  --color-water: #A8C7C8;
+  --color-copper: #A86F4F;
+  --color-tile: #D4D0C7;
+  --color-white: #FAFAF7;
+
+  --font-sans: var(--font-inter), "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-serif: var(--font-cormorant), "Cormorant Garamond", Garamond, Georgia, serif;
+}
+
+:root {
+  --steam: #E9E7E1;
+  --ink: #242522;
+  --water: #A8C7C8;
+  --copper: #A86F4F;
+  --tile: #D4D0C7;
+  --white: #FAFAF7;
+}
+
+html {
+  background-color: #FAFAF7;
+  color: #242522;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Subtle steam drift keyframes */
+@keyframes steamDrift {
+  0% {
+    transform: translateY(0) scale(1) translateX(0);
+    opacity: 0.3;
+  }
+  50% {
+    transform: translateY(-24px) scale(1.06) translateX(12px);
+    opacity: 0.55;
+  }
+  100% {
+    transform: translateY(-50px) scale(1.15) translateX(24px);
+    opacity: 0;
+  }
+}
+
+.animate-steam-slow {
+  animation: steamDrift 9s ease-in-out infinite;
+}
+
+.animate-steam-delayed {
+  animation: steamDrift 11s ease-in-out 3s infinite;
+}
+
+/* Architectural focus ring */
+*:focus-visible {
+  outline: 1.5px solid #A86F4F;
+  outline-offset: 3px;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #E9E7E1;
+}
+::-webkit-scrollbar-thumb {
+  background: #D4D0C7;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #A86F4F;
+}

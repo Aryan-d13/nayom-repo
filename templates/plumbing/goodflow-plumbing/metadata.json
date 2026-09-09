@@ -1,0 +1,43 @@
+{
+  "id": "goodflow-plumbing",
+  "name": "Goodflow Plumbing",
+  "version": "1.0.0",
+  "description": "",
+  "categories": [
+    "plumbing",
+    "plumber",
+    "contractor",
+    "home_services",
+    "drain_cleaning",
+    "water_heaters",
+    "leak_detection"
+  ],
+  "industries": [
+    "plumbing"
+  ],
+  "style_keywords": [
+    "clean_editorial",
+    "natural_warm",
+    "residential"
+  ],
+  "layout_patterns": [
+    "interactive_house",
+    "everyday_diagnostics",
+    "dialogue_process"
+  ],
+  "supported_features": [],
+  "supported_slots": [],
+  "preview_image": "preview/thumbnail.png",
+  "entrypoint": "app/page.tsx",
+  "template_dir": "E:\\Code\\Nayom\\templates\\plumbing\\goodflow-plumbing",
+  "is_valid": true,
+  "is_runnable": true,
+  "validation_errors": [],
+  "validation_warnings": [],
+  "industry": null,
+  "supported_industries": [],
+  "capabilities": {},
+  "default_theme": null,
+  "supported_variants": [],
+  "available_sections": []
+}

@@ -1,0 +1,49 @@
+{
+  "id": "morrow-dental",
+  "name": "Morrow Dental",
+  "version": "1.0.0",
+  "description": "Warm editorial dental boutique showcase celebrating natural individuality with horizontal treatment notebooks, philosophy pillars, studio detail gallery, and consultation booking.",
+  "categories": [
+    "dentists",
+    "dental",
+    "cosmetic_dentistry",
+    "veneers",
+    "orthodontics",
+    "healthcare",
+    "local_service"
+  ],
+  "industries": [
+    "dentists"
+  ],
+  "style_keywords": [
+    "warm_editorial",
+    "calm_luxury",
+    "minimalist"
+  ],
+  "layout_patterns": [
+    "editorial_showcase",
+    "horizontal_notebook",
+    "gallery_strip"
+  ],
+  "supported_features": [
+    "treatment_notebook",
+    "philosophy_pillars",
+    "detail_gallery",
+    "team_showcase",
+    "booking_modal"
+  ],
+  "supported_slots": [],
+  "preview_image": "preview/thumbnail.png",
+  "entrypoint": "src/app/page.tsx",
+  "template_dir": "E:\\Code\\Nayom\\templates\\dentists\\morrow-dental",
+  "is_valid": true,
+  "is_runnable": true,
+  "validation_errors": [],
+  "validation_warnings": [],
+  "industry": null,
+  "supported_industries": [],
+  "capabilities": {},
+  "default_theme": null,
+  "supported_variants": [],
+  "available_sections": []
+}

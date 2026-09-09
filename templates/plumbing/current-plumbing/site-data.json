@@ -1,0 +1,67 @@
+{
+  "schema_version": "1.0.0",
+  "meta": {
+    "generated_at": "2026-03-09T00:00:00Z",
+    "generator_version": "1.0.0",
+    "template_id": "current-plumbing"
+  },
+  "identity": {
+    "name": "Current Plumbing",
+    "tagline": "Keep things moving.",
+    "description": "Repairs, drains, water heaters and the plumbing behind everyday life."
+  },
+  "contact": {
+    "phone": "(512) 555-0192",
+    "raw_phone": "5125550192",
+    "email": "hello@currentplumbing.example",
+    "city": "Austin",
+    "state": "Texas",
+    "service_areas": [
+      "Austin",
+      "Round Rock",
+      "Cedar Park"
+    ]
+  },
+  "editorial": {
+    "headline": "EVERYTHING HAS A WAY IN.",
+    "subheadline": "Repairs, drains, water heaters and the plumbing behind everyday life.",
+    "value_proposition": "Water knows the way.",
+    "primary_cta": {
+      "text": "BOOK A PLUMBER",
+      "href": "#booking"
+    }
+  },
+  "offerings": [
+    {
+      "id": "leaks",
+      "name": "Leak Detection",
+      "summary": "Pinhole leaks in copper runs, weeping shut-off valves, and hidden supply joints."
+    },
+    {
+      "id": "drains",
+      "name": "Drain Cleaning",
+      "summary": "Water standing around your ankles or sluggish sink discharge."
+    },
+    {
+      "id": "hot-water",
+      "name": "Water Heaters",
+      "summary": "Stepping into a shower that stays lukewarm or cold. Fast diagnostic and same-day recovery."
+    },
+    {
+      "id": "toilets",
+      "name": "Plumbing Repairs",
+      "summary": "The phantom sound of water refilling at 2 AM or running toilets."
+    },
+    {
+      "id": "fixtures",
+      "name": "Fixtures & Faucets",
+      "summary": "Upgrading to architectural brass, matte black, or deep basins."
+    }
+  ],
+  "assets": [
+    {
+      "kind": "hero",
+      "url_or_path": "/images/clean_morning_kitchen.jpg"
+    }
+  ]
+}

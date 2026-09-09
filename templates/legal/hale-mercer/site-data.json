@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.0.0",
+  "meta": {
+    "generated_at": "2026-03-09T00:00:00Z",
+    "generator_version": "1.0.0",
+    "template_id": "hale-mercer"
+  },
+  "identity": {
+    "name": "Hale & Mercer",
+    "tagline": "Clear thinking when it matters.",
+    "description": "Practical legal counsel for people and businesses facing decisions that cannot be guessed at."
+  },
+  "contact": {
+    "phone": "(212) 555-0147",
+    "raw_phone": "2125550147",
+    "email": "hello@halemercer.example",
+    "address": "245 Madison Avenue",
+    "city": "New York",
+    "state": "NY",
+    "postal_code": "10016"
+  },
+  "editorial": {
+    "headline": "CLEAR THINKING WHEN IT MATTERS.",
+    "subheadline": "Practical legal counsel for people and businesses facing decisions that cannot be guessed at.",
+    "value_proposition": "The important things deserve your full attention.",
+    "primary_cta": {
+      "text": "TALK TO AN ATTORNEY",
+      "href": "#contact"
+    },
+    "secondary_cta": {
+      "text": "OUR PRACTICE",
+      "href": "#practice"
+    }
+  },
+  "offerings": [
+    {
+      "id": "business",
+      "name": "BUSINESS & COMMERCIAL",
+      "description": "Agreements, disputes, partnerships and the legal decisions that shape a company."
+    },
+    {
+      "id": "employment",
+      "name": "EMPLOYMENT LAW",
+      "description": "Advice for employers and employees when work gets complicated."
+    },
+    {
+      "id": "realestate",
+      "name": "REAL ESTATE",
+      "description": "Helping clients move through significant property decisions with clarity."
+    },
+    {
+      "id": "estates",
+      "name": "ESTATES & TRUSTS",
+      "description": "Planning for the people and things you care about."
+    }
+  ],
+  "assets": [
+    {
+      "kind": "hero",
+      "url_or_path": "/images/hero-lawyer.jpg"
+    }
+  ]
+}

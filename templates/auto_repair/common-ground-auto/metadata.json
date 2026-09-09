@@ -1,0 +1,46 @@
+{
+  "id": "common-ground-auto",
+  "name": "Common Ground Auto Repair",
+  "version": "1.0.0",
+  "description": "Industrial automotive diagnostics and repair workshop showcase with interactive symptom intake, vehicle zone inspection, documentary shop bays, and appointment booking.",
+  "categories": [
+    "auto_repair",
+    "mechanic",
+    "car_repair",
+    "automotive",
+    "local_service"
+  ],
+  "industries": [
+    "auto_repair"
+  ],
+  "style_keywords": [
+    "industrial",
+    "editorial",
+    "monochrome_high_contrast"
+  ],
+  "layout_patterns": [
+    "intake_diagnostic",
+    "interactive_inspection",
+    "editorial_showcase"
+  ],
+  "supported_features": [
+    "symptom_intake",
+    "vehicle_zone_diagnostics",
+    "shop_facility_showcase",
+    "appointment_booking"
+  ],
+  "supported_slots": [],
+  "preview_image": "preview/thumbnail.png",
+  "entrypoint": "src/app/page.tsx",
+  "template_dir": "E:\\Code\\Nayom\\templates\\auto_repair\\common-ground-auto",
+  "is_valid": true,
+  "is_runnable": true,
+  "validation_errors": [],
+  "validation_warnings": [],
+  "industry": null,
+  "supported_industries": [],
+  "capabilities": {},
+  "default_theme": null,
+  "supported_variants": [],
+  "available_sections": []
+}

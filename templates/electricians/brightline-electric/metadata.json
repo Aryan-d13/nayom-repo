@@ -1,0 +1,46 @@
+{
+  "id": "brightline-electric",
+  "name": "Brightline Residential Electric",
+  "version": "1.0.0",
+  "description": "Architectural residential electrician showcase with interactive diagnostic scene, room electrical zone cards, craftsmanship gallery, and service dispatch booking.",
+  "categories": [
+    "electricians",
+    "electrical",
+    "contractor",
+    "home_services",
+    "local_service"
+  ],
+  "industries": [
+    "electricians"
+  ],
+  "style_keywords": [
+    "warm_editorial",
+    "architectural",
+    "ambient_glow"
+  ],
+  "layout_patterns": [
+    "editorial_showcase",
+    "zone_inspection",
+    "craftsmanship_gallery"
+  ],
+  "supported_features": [
+    "troubleshooting_diagnostics",
+    "room_electrical_zones",
+    "project_showcase",
+    "service_booking"
+  ],
+  "supported_slots": [],
+  "preview_image": "preview/thumbnail.png",
+  "entrypoint": "src/app/page.tsx",
+  "template_dir": "E:\\Code\\Nayom\\templates\\electricians\\brightline-electric",
+  "is_valid": true,
+  "is_runnable": true,
+  "validation_errors": [],
+  "validation_warnings": [],
+  "industry": null,
+  "supported_industries": [],
+  "capabilities": {},
+  "default_theme": null,
+  "supported_variants": [],
+  "available_sections": []
+}

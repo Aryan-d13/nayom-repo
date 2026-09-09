@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0.0",
+  "business_id": "demo",
+  "generated_at": "2026-09-09T00:00:00Z",
+  "identity": {
+    "name": "FORM DENTAL",
+    "short_name": "FORM",
+    "tagline": "Care, considered.",
+    "category": "dentists",
+    "description": "Thoughtful dentistry for people who'd rather understand what's happening before anything happens. 1840 N Damen Avenue, Chicago."
+  },
+  "contact": {
+    "phone": "(312) 555-0184",
+    "raw_phone": "+13125550184",
+    "email": "hello@formdental.example",
+    "address": "1840 N Damen Avenue",
+    "city": "Chicago",
+    "state": "Illinois",
+    "postal_code": "60647",
+    "country": "US",
+    "hours": "Mon–Fri · 8 AM–5 PM"
+  },
+  "editorial": {
+    "headline": "TAKE YOUR TIME.",
+    "subheadline": "Thoughtful dentistry for people who'd rather understand what's happening before anything happens.",
+    "value_proposition": "Good care starts with a conversation.",
+    "primary_cta": {
+      "text": "BOOK A VISIT →",
+      "link": "#contact"
+    }
+  },
+  "offerings": [
+    {
+      "id": "clean",
+      "name": "CLEAN",
+      "category": "Preventive",
+      "summary": "Routine care, checkups and prevention."
+    },
+    {
+      "id": "restore",
+      "name": "RESTORE",
+      "category": "Restorative",
+      "summary": "Repairs when something needs attention."
+    },
+    {
+      "id": "straighten",
+      "name": "STRAIGHTEN",
+      "category": "Orthodontics",
+      "summary": "Clear aligners designed around everyday life."
+    },
+    {
+      "id": "refine",
+      "name": "REFINE",
+      "category": "Cosmetic",
+      "summary": "Cosmetic work that still looks like you."
+    }
+  ],
+  "social_proof": {
+    "rating": 5.0,
+    "review_count": 89,
+    "testimonials": []
+  },
+  "seo": {
+    "title": "FORM DENTAL · Chicago · Care, considered.",
+    "meta_description": "Thoughtful dentistry for people who'd rather understand what's happening before anything happens. 1840 N Damen Avenue, Chicago."
+  },
+  "assets": []
+}

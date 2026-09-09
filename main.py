@@ -963,6 +963,43 @@ def main():
         s_args = send_parser.parse_args()
         run_email_sending(s_args, s_args.target)
         return
+    elif len(sys.argv) > 1 and sys.argv[1].lower() in ("leads", "lead"):
+        leads_parser = argparse.ArgumentParser(description="Inspect lead state tracking and outreach quality gates")
+        leads_parser.add_argument("command", help="'leads'")
+        leads_parser.add_argument("action", nargs="?", default="list", choices=["list", "show"], help="'list' or 'show'")
+        leads_parser.add_argument("business_id", nargs="?", default=None, help="Target business ID for 'show'")
+        l_args = leads_parser.parse_args()
+        from modules.tracking.tracker import LeadTracker
+        tracker = LeadTracker()
+        if l_args.action == "show" and l_args.business_id:
+            lead = tracker.get_lead(l_args.business_id)
+            if not lead:
+                print(f"[ERROR] Lead '{l_args.business_id}' not found in state database.", file=sys.stderr)
+                sys.exit(1)
+            print("\n" + "=" * 80)
+            print(f" LEAD DETAILS: {lead['business_name']} ({lead['business_id']})")
+            print("=" * 80)
+            for k, v in lead.items():
+                print(f"  {k:<20}: {v}")
+            eligible = tracker.is_eligible_for_outreach(l_args.business_id)
+            print(f"  {'outreach_eligible':<20}: {'YES' if eligible else 'NO (Hard Gate: Requires Gen OK + Build Passed)'}")
+            print("=" * 80 + "\n")
+        else:
+            leads = tracker.list_leads()
+            print("\n" + "=" * 120)
+            print(f"| {'Business Name':<28} | {'Category':<16} | {'Template':<16} | {'Gen':<8} | {'Build':<8} | {'Outreach':<10} | {'Live URL':<20} |")
+            print("|" + "-" * 30 + "|" + "-" * 18 + "|" + "-" * 18 + "|" + "-" * 10 + "|" + "-" * 10 + "|" + "-" * 12 + "|" + "-" * 22 + "|")
+            for l in leads:
+                eligible = "READY" if (l.get('generation_status') == 'completed' and l.get('build_status') == 'passed') else l.get('outreach_status', 'pending').upper()
+                name = (l.get('business_name') or '')[:26]
+                cat = (l.get('category') or 'N/A')[:14]
+                tpl = (l.get('selected_template') or 'N/A')[:14]
+                gen = (l.get('generation_status') or 'pending')[:7]
+                bld = (l.get('build_status') or 'pending')[:7]
+                url = (l.get('live_url') or 'N/A')[:18]
+                print(f"| {name:<28} | {cat:<16} | {tpl:<16} | {gen:<8} | {bld:<8} | {eligible:<10} | {url:<20} |")
+            print("=" * 120 + "\n")
+        return
 
     parser.add_argument("query", help="Target URL, website.json, website_intelligence.json, generated/<id>, or Maps query")
     parser.add_argument("-n", "--max-results", type=int, default=50, help="Max results / pages to collect (default: 50, use 0 or --all for unlimited)")

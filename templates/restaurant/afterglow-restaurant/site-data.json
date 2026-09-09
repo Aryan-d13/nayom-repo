@@ -1,0 +1,73 @@
+{
+  "schema_version": "1.0.0",
+  "meta": {
+    "generated_at": "2026-03-09T00:00:00Z",
+    "generator_version": "1.0.0",
+    "template_id": "afterglow-restaurant"
+  },
+  "identity": {
+    "name": "Afterglow",
+    "tagline": "Dinner. Then see what happens.",
+    "description": "Late-night neighbourhood restaurant and wine bar in London. Seasonal food, natural wine, and nowhere you need to be yet."
+  },
+  "contact": {
+    "phone": "020 7946 0182",
+    "address": "27 Mare Street",
+    "city": "London",
+    "postal_code": "E8 4RP",
+    "hours": "Tue–Sat: 5:30 PM — Late (till 1:00 AM)"
+  },
+  "editorial": {
+    "headline": "DINNER. STAY A WHILE.",
+    "subheadline": "Seasonal food, good wine, and nowhere you need to be yet.",
+    "value_proposition": "Dinner. Then see what happens.",
+    "primary_cta": {
+      "text": "BOOK A TABLE",
+      "href": "#reservation"
+    }
+  },
+  "offerings": [
+    {
+      "id": "peppers",
+      "name": "FIRE-ROASTED PEPPERS",
+      "summary": "anchovy, almond, sherry",
+      "pricing": "£11"
+    },
+    {
+      "id": "chicken",
+      "name": "CHARRED CHICKEN",
+      "summary": "preserved lemon, green olive, herbs",
+      "pricing": "£22"
+    },
+    {
+      "id": "tagliatelle",
+      "name": "TAGLIATELLE",
+      "summary": "brown butter, sage, parmesan",
+      "pricing": "£17"
+    },
+    {
+      "id": "aubergine",
+      "name": "ROASTED AUBERGINE",
+      "summary": "tomato, tahini, mint",
+      "pricing": "£15"
+    },
+    {
+      "id": "seabass",
+      "name": "WHOLE SEA BASS",
+      "summary": "fennel, lemon, salsa verde",
+      "pricing": "£28"
+    },
+    {
+      "id": "tart",
+      "name": "CHOCOLATE TART",
+      "summary": "olive oil, sea salt",
+      "pricing": "£9"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "hero",
+      "url_or_path": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=1400&q=85"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "schema_version": "1.0.0",
+  "meta": {
+    "generated_at": "2026-03-09T00:00:00Z",
+    "generator_version": "1.0.0",
+    "template_id": "second-story"
+  },
+  "identity": {
+    "name": "Second Story",
+    "tagline": "Make room for what matters.",
+    "description": "Thoughtful residential remodeling in San Francisco for homes that deserve to be lived in differently."
+  },
+  "contact": {
+    "phone": "(415) 555-0168",
+    "raw_phone": "4155550168",
+    "email": "hello@secondstory.example",
+    "city": "San Francisco",
+    "state": "California",
+    "service_areas": [
+      "Noe Valley",
+      "Bernal Heights",
+      "Inner Sunset",
+      "Pacific Heights",
+      "Mission District"
+    ]
+  },
+  "editorial": {
+    "headline": "YOUR HOME HAS MORE TO GIVE.",
+    "subheadline": "Thoughtful remodeling for homes that deserve to be lived in differently.",
+    "value_proposition": "Let's find it.",
+    "primary_cta": {
+      "text": "Start a Project",
+      "href": "#contact"
+    },
+    "secondary_cta": {
+      "text": "See Our Work",
+      "href": "#work"
+    }
+  },
+  "offerings": [
+    {
+      "id": "kitchen",
+      "name": "Kitchen",
+      "summary": "More room to cook. More room to gather. Turning the kitchen into the calm, intuitive center of daily life.",
+      "features": ["Fluted oak island", "Concealed ventilation", "Honed quartzite slabs"]
+    },
+    {
+      "id": "bathroom",
+      "name": "Bathroom",
+      "summary": "Quiet plaster walls, steam-resistant natural light, and floor-to-ceiling simplicity.",
+      "features": ["Continuous lime plaster", "Walk-in curbless shower", "Unlacquered brass"]
+    },
+    {
+      "id": "living",
+      "name": "Living Space",
+      "summary": "Opening up sightlines without losing the charm of historic San Francisco trim and quiet reading corners.",
+      "features": ["Restored Victorian moldings", "Concealed acoustic treatment", "Wide plank Douglas fir"]
+    },
+    {
+      "id": "whole-home",
+      "name": "Whole Home",
+      "summary": "Connecting levels, re-engineering structural load lines, and allowing your entire house to breathe.",
+      "features": ["Structural envelope refinement", "Unified thermal envelope", "Custom architectural joinery"]
+    }
+  ],
+  "assets": [
+    {
+      "kind": "hero",
+      "url_or_path": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=2200&q=85"
+    }
+  ]
+}

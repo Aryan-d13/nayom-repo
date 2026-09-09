@@ -1,0 +1,42 @@
+{
+  "id": "fieldhouse",
+  "name": "Fieldhouse Remodeling",
+  "version": "1.0.0",
+  "description": "",
+  "categories": [
+    "remodeling",
+    "home_renovation",
+    "contractor",
+    "home_services",
+    "interior_design",
+    "architecture"
+  ],
+  "industries": [
+    "remodeling"
+  ],
+  "style_keywords": [
+    "craftsman_preservation",
+    "warm_editorial",
+    "architectural"
+  ],
+  "layout_patterns": [
+    "preservation_showcase",
+    "before_after_transformations",
+    "interactive_floorplan"
+  ],
+  "supported_features": [],
+  "supported_slots": [],
+  "preview_image": "preview/thumbnail.png",
+  "entrypoint": "app/page.tsx",
+  "template_dir": "E:\\Code\\Nayom\\templates\\remodeling\\fieldhouse",
+  "is_valid": true,
+  "is_runnable": true,
+  "validation_errors": [],
+  "validation_warnings": [],
+  "industry": null,
+  "supported_industries": [],
+  "capabilities": {},
+  "default_theme": null,
+  "supported_variants": [],
+  "available_sections": []
+}

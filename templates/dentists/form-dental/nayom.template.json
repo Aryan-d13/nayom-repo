@@ -1,0 +1,36 @@
+{
+  "id": "form-dental",
+  "name": "Form Dental",
+  "version": "1.0.0",
+  "description": "Minimalist architectural dental studio showcase with unhurried consultation philosophy, precision treatment disciplines, operatory space gallery, and visit booking.",
+  "industry": [
+    "dentists"
+  ],
+  "categories": [
+    "dentists",
+    "dental",
+    "cosmetic_dentistry",
+    "orthodontics",
+    "healthcare",
+    "local_service"
+  ],
+  "styles": [
+    "minimalist",
+    "architectural",
+    "restraint"
+  ],
+  "layouts": [
+    "editorial_showcase",
+    "horizontal_scroll",
+    "restrained_grid"
+  ],
+  "features": [
+    "treatment_disciplines",
+    "space_gallery",
+    "practitioner_profile",
+    "consultation_modal"
+  ],
+  "entrypoint": "src/app/page.tsx",
+  "slots": {},
+  "preview_image": "preview/thumbnail.png"
+}

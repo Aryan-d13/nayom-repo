@@ -1,0 +1,71 @@
+{
+  "business_name": "Fieldstone",
+  "tagline": "Come curious. Leave with more questions.",
+  "phone": "(206) 555-0178",
+  "email": "hello@fieldstone.example",
+  "address": "4210 Greenwood Avenue",
+  "city": "Seattle",
+  "state": "WA",
+  "postal_code": "98103",
+  "country": "US",
+  "hours": "Mon–Fri · 8 AM–4 PM",
+  "hero": {
+    "headline": "COME CURIOUS.",
+    "subheadline": "Fieldstone is an independent K–12 school for students who like to ask why. School is not just desks and schedules. It is experiments, arguments, mistakes, and ideas you cannot stop thinking about on the bus ride home.",
+    "primary_cta_text": "VISIT THE SCHOOL →",
+    "secondary_cta_text": "Explore Fieldstone"
+  },
+  "offerings": [
+    {
+      "name": "MUSIC",
+      "description": "Acoustic strings, percussion, brass & unexpected harmonies.",
+      "category": "Interests"
+    },
+    {
+      "name": "SCIENCE",
+      "description": "Microbiology, ecology, robotics & spontaneous testing.",
+      "category": "Interests"
+    },
+    {
+      "name": "SPORT",
+      "description": "Courtyard soccer, cross-country runs & breathless team play.",
+      "category": "Interests"
+    },
+    {
+      "name": "ART",
+      "description": "Oils, charcoal, ceramic wheels & oversized canvas paper.",
+      "category": "Interests"
+    },
+    {
+      "name": "BOOKS",
+      "description": "Deep reading, worn anthologies & quiet sunny corners.",
+      "category": "Interests"
+    },
+    {
+      "name": "BUILDING",
+      "description": "Timber joints, circuit boards, bridges & prototypes.",
+      "category": "Interests"
+    }
+  ],
+  "values": [
+    {
+      "title": "THINK FOR YOURSELF.",
+      "description": "Question assumptions. Examine the evidence. Form convictions that are truly your own."
+    },
+    {
+      "title": "TRY THINGS.",
+      "description": "Build the fragile prototype. Sing the chord. Make the bold mistake that teaches you something."
+    },
+    {
+      "title": "CARE ABOUT OTHER PEOPLE.",
+      "description": "Listen with patience. Disagree with generosity. Leave the room kinder than you found it."
+    }
+  ],
+  "social_proof": {
+    "rating": 4.9,
+    "review_count": 84,
+    "reviews": []
+  },
+  "meta_title": "Fieldstone Independent School | Seattle, WA (K–12) — Come Curious",
+  "meta_description": "Fieldstone is an independent K–12 school in Seattle for students who like to ask why. Not just classrooms and schedules, but questions, experiments, friendships, and discoveries."
+}

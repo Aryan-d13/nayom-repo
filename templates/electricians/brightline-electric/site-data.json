@@ -1,0 +1,66 @@
+{
+  "schema_version": "1.0.0",
+  "business_id": "demo",
+  "generated_at": "2026-09-09T00:00:00Z",
+  "identity": {
+    "name": "BRIGHTLINE",
+    "short_name": "BRIGHTLINE",
+    "tagline": "Portland, Oregon Residential Electrical",
+    "category": "electricians",
+    "description": "Repairs, lighting, upgrades and the electrical work that keeps your home running the way it should in Portland, Oregon."
+  },
+  "contact": {
+    "phone": "(503) 555-0174",
+    "raw_phone": "5035550174",
+    "email": "hello@brightline.example",
+    "city": "Portland",
+    "state": "Oregon",
+    "country": "US",
+    "hours": "Mon–Fri · 8 AM–6 PM"
+  },
+  "editorial": {
+    "headline": "MAKE YOUR HOME FEEL RIGHT.",
+    "subheadline": "Repairs, lighting, upgrades and the electrical work that keeps your home running the way it should.",
+    "value_proposition": "It's more than wiring.",
+    "primary_cta": {
+      "text": "Book a Service",
+      "link": "#booking"
+    }
+  },
+  "offerings": [
+    {
+      "id": "lighting",
+      "name": "Architectural Lighting",
+      "category": "Lighting",
+      "summary": "Recessed warm LED layouts, dimmer controls, and pendant illumination."
+    },
+    {
+      "id": "panel-upgrades",
+      "name": "Panel Upgrades",
+      "category": "Upgrades",
+      "summary": "Modern 200A service upgrades for EV charging and conditioned heat pumps."
+    },
+    {
+      "id": "troubleshooting",
+      "name": "Diagnostics & Repair",
+      "category": "Repair",
+      "summary": "Tracing dead outlets, tripping breakers, and flickering circuits safely."
+    },
+    {
+      "id": "rewiring",
+      "name": "Whole-Home Rewiring",
+      "category": "Safety",
+      "summary": "Replacing cloth-insulated or ungrounded knob-and-tube circuitry."
+    }
+  ],
+  "social_proof": {
+    "rating": 5.0,
+    "review_count": 67,
+    "testimonials": []
+  },
+  "seo": {
+    "title": "BRIGHTLINE | Portland Residential Electrician",
+    "meta_description": "Thoughtful residential electrical repairs, panel upgrades, and architectural lighting in Portland, OR."
+  },
+  "assets": []
+}

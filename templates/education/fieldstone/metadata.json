@@ -1,0 +1,36 @@
+{
+  "id": "fieldstone",
+  "name": "Fieldstone Independent School",
+  "version": "1.0.0",
+  "description": "Warm, editorial, and inquisitive website template designed for schools, academies, learning centers, and educational programs with interactive campus map, day arc, and inquiry-driven layouts.",
+  "categories": [
+    "education"
+  ],
+  "industries": [
+    "education"
+  ],
+  "style_keywords": [],
+  "layout_patterns": [],
+  "supported_features": [],
+  "supported_slots": [
+    "business_name",
+    "tagline",
+    "phone",
+    "email",
+    "address",
+    "hours"
+  ],
+  "preview_image": "preview/thumbnail.png",
+  "entrypoint": "app/page.tsx",
+  "template_dir": "E:\\Code\\Nayom\\templates\\education\\fieldstone",
+  "is_valid": true,
+  "is_runnable": true,
+  "validation_errors": [],
+  "validation_warnings": [],
+  "industry": null,
+  "supported_industries": [],
+  "capabilities": {},
+  "default_theme": null,
+  "supported_variants": [],
+  "available_sections": []
+}

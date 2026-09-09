@@ -1,0 +1,38 @@
+{
+  "id": "morrow-dental",
+  "name": "Morrow Dental",
+  "version": "1.0.0",
+  "description": "Warm editorial dental boutique showcase celebrating natural individuality with horizontal treatment notebooks, philosophy pillars, studio detail gallery, and consultation booking.",
+  "industry": [
+    "dentists"
+  ],
+  "categories": [
+    "dentists",
+    "dental",
+    "cosmetic_dentistry",
+    "veneers",
+    "orthodontics",
+    "healthcare",
+    "local_service"
+  ],
+  "styles": [
+    "warm_editorial",
+    "calm_luxury",
+    "minimalist"
+  ],
+  "layouts": [
+    "editorial_showcase",
+    "horizontal_notebook",
+    "gallery_strip"
+  ],
+  "features": [
+    "treatment_notebook",
+    "philosophy_pillars",
+    "detail_gallery",
+    "team_showcase",
+    "booking_modal"
+  ],
+  "entrypoint": "src/app/page.tsx",
+  "slots": {},
+  "preview_image": "preview/thumbnail.png"
+}

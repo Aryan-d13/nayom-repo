@@ -1,0 +1,43 @@
+{
+  "id": "current-plumbing",
+  "name": "Current Plumbing",
+  "version": "1.0.0",
+  "description": "",
+  "categories": [
+    "plumbing",
+    "plumber",
+    "contractor",
+    "home_services",
+    "leak_detection",
+    "water_heaters",
+    "drain_cleaning"
+  ],
+  "industries": [
+    "plumbing"
+  ],
+  "style_keywords": [
+    "minimalist",
+    "hydraulic_flow",
+    "cyan_industrial"
+  ],
+  "layout_patterns": [
+    "interactive_flow",
+    "fluid_path",
+    "common_calls"
+  ],
+  "supported_features": [],
+  "supported_slots": [],
+  "preview_image": "preview/thumbnail.png",
+  "entrypoint": "app/page.tsx",
+  "template_dir": "E:\\Code\\Nayom\\templates\\plumbing\\current-plumbing",
+  "is_valid": true,
+  "is_runnable": true,
+  "validation_errors": [],
+  "validation_warnings": [],
+  "industry": null,
+  "supported_industries": [],
+  "capabilities": {},
+  "default_theme": null,
+  "supported_variants": [],
+  "available_sections": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "current-plumbing",
+  "name": "Current Plumbing",
+  "version": "1.0.0",
+  "description": "",
+  "industry": [
+    "plumbing"
+  ],
+  "categories": [
+    "plumbing",
+    "plumber",
+    "contractor",
+    "home_services",
+    "leak_detection",
+    "water_heaters",
+    "drain_cleaning"
+  ],
+  "styles": [
+    "minimalist",
+    "hydraulic_flow",
+    "cyan_industrial"
+  ],
+  "layouts": [
+    "interactive_flow",
+    "fluid_path",
+    "common_calls"
+  ],
+  "features": [],
+  "entrypoint": "app/page.tsx",
+  "slots": {},
+  "preview_image": "preview/thumbnail.png"
+}

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <defs>
+    <linearGradient id="mBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090A0F"/>
+      <stop offset="50%" stop-color="#141126"/>
+      <stop offset="100%" stop-color="#090A0F"/>
+    </linearGradient>
+    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6B638F" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#8096C7" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#E7E6DF" stop-opacity="0.6"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="100%" height="100%" fill="url(#mBg)"/>
+
+  <!-- Sinusoidal dynamic motion waves -->
+  <path d="M50,250 C150,120 250,380 350,250 C450,120 550,380 650,250 C700,185 750,200 780,250" fill="none" stroke="url(#wave1)" stroke-width="3.5" stroke-linecap="round"/>
+  
+  <path d="M50,250 C150,160 250,340 350,250 C450,160 550,340 650,250 C700,205 750,220 780,250" fill="none" stroke="#6B638F" stroke-opacity="0.4" stroke-width="2" stroke-dasharray="6,4"/>
+
+  <path d="M50,250 C150,80 250,420 350,250 C450,80 550,420 650,250" fill="none" stroke="#8096C7" stroke-opacity="0.25" stroke-width="1.5"/>
+
+  <!-- Keyframe markers -->
+  <circle cx="150" cy="120" r="5" fill="#E7E6DF"/>
+  <circle cx="250" cy="380" r="5" fill="#8096C7"/>
+  <circle cx="350" cy="250" r="6" fill="#6B638F"/>
+  <circle cx="450" cy="120" r="5" fill="#E7E6DF"/>
+  <circle cx="550" cy="380" r="5" fill="#8096C7"/>
+
+  <!-- Bezier handles -->
+  <line x1="300" y1="250" x2="400" y2="250" stroke="#8096C7" stroke-width="1.5" stroke-opacity="0.7"/>
+  <circle cx="300" cy="250" r="3" fill="#8096C7"/>
+  <circle cx="400" cy="250" r="3" fill="#8096C7"/>
+
+  <!-- Info text -->
+  <text x="60" y="70" fill="#E7E6DF" font-family="sans-serif" font-size="20" font-weight="600" letter-spacing="2">MOTION LAB</text>
+  <text x="60" y="92" fill="#878993" font-family="monospace" font-size="10" letter-spacing="1.5">KINETIC CHOREOGRAPHY &amp; INTERACTION PHYSICS</text>
+  <text x="740" y="440" text-anchor="end" fill="#8096C7" font-family="monospace" font-size="11">cubic-bezier(0.16, 1, 0.3, 1)</text>
+</svg>

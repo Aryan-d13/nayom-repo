@@ -1,0 +1,42 @@
+{
+  "id": "afterglow-restaurant",
+  "name": "Afterglow Restaurant & Wine Bar",
+  "version": "1.0.0",
+  "description": "",
+  "categories": [
+    "restaurant",
+    "wine_bar",
+    "dining",
+    "bistro",
+    "hospitality",
+    "cocktail_bar"
+  ],
+  "industries": [
+    "restaurant"
+  ],
+  "style_keywords": [
+    "cinematic_night",
+    "warm_editorial",
+    "candlelit"
+  ],
+  "layout_patterns": [
+    "tonight_menu",
+    "night_progression",
+    "ambient_reservation"
+  ],
+  "supported_features": [],
+  "supported_slots": [],
+  "preview_image": "preview/thumbnail.png",
+  "entrypoint": "app/page.tsx",
+  "template_dir": "E:\\Code\\Nayom\\templates\\restaurant\\afterglow-restaurant",
+  "is_valid": true,
+  "is_runnable": true,
+  "validation_errors": [],
+  "validation_warnings": [],
+  "industry": null,
+  "supported_industries": [],
+  "capabilities": {},
+  "default_theme": null,
+  "supported_variants": [],
+  "available_sections": []
+}

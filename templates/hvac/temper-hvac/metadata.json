@@ -1,0 +1,43 @@
+{
+  "id": "temper-hvac",
+  "name": "Temper Heating & Air",
+  "version": "1.0.0",
+  "description": "",
+  "categories": [
+    "hvac",
+    "heating",
+    "air_conditioning",
+    "cooling",
+    "contractor",
+    "home_services",
+    "local_service"
+  ],
+  "industries": [
+    "hvac"
+  ],
+  "style_keywords": [
+    "desert_modern",
+    "editorial",
+    "warm_minimalist"
+  ],
+  "layout_patterns": [
+    "editorial_story",
+    "sensory_exploration",
+    "room_chapters"
+  ],
+  "supported_features": [],
+  "supported_slots": [],
+  "preview_image": "preview/thumbnail.png",
+  "entrypoint": "app/page.tsx",
+  "template_dir": "E:\\Code\\Nayom\\templates\\hvac\\temper-hvac",
+  "is_valid": true,
+  "is_runnable": true,
+  "validation_errors": [],
+  "validation_warnings": [],
+  "industry": null,
+  "supported_industries": [],
+  "capabilities": {},
+  "default_theme": null,
+  "supported_variants": [],
+  "available_sections": []
+}

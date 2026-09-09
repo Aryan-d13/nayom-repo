@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0.0",
+  "business_id": "demo",
+  "generated_at": "2026-09-09T00:00:00Z",
+  "identity": {
+    "name": "COMMON GROUND AUTO",
+    "short_name": "COMMON GROUND",
+    "tagline": "Know what's wrong. Know what's next.",
+    "category": "auto_repair",
+    "description": "Independent auto repair in Denver, Colorado. Practical investigation, clear explanations, and reliable work for the vehicles you depend on daily."
+  },
+  "contact": {
+    "phone": "(303) 555-0194",
+    "raw_phone": "3035550194",
+    "email": "hello@commongroundauto.example",
+    "address": "1842 Larimer Street",
+    "city": "Denver",
+    "state": "Colorado",
+    "postal_code": "80202",
+    "country": "US",
+    "hours": "Mon–Fri · 8 AM–6 PM"
+  },
+  "editorial": {
+    "headline": "THAT SOUND? LET'S FIGURE IT OUT.",
+    "subheadline": "Repairs, maintenance and diagnostics for the cars that get you through the week.",
+    "value_proposition": "Practical investigation, clear explanations, and reliable work.",
+    "primary_cta": {
+      "text": "BOOK SERVICE",
+      "link": "#booking"
+    }
+  },
+  "offerings": [
+    {
+      "id": "repair",
+      "name": "REPAIR",
+      "category": "Repair",
+      "summary": "For the thing that shouldn't be making that sound."
+    },
+    {
+      "id": "brakes",
+      "name": "BRAKES",
+      "category": "Brakes",
+      "summary": "When stopping doesn't feel quite right."
+    },
+    {
+      "id": "diagnostics",
+      "name": "DIAGNOSTICS",
+      "category": "Diagnostics",
+      "summary": "When the warning light isn't telling you enough."
+    },
+    {
+      "id": "maintenance",
+      "name": "MAINTENANCE",
+      "category": "Maintenance",
+      "summary": "Keep small problems from becoming bigger ones."
+    },
+    {
+      "id": "tires",
+      "name": "TIRES",
+      "category": "Tires",
+      "summary": "Because four contact points matter."
+    },
+    {
+      "id": "electrical",
+      "name": "ELECTRICAL",
+      "category": "Electrical",
+      "summary": "When something isn't turning on."
+    }
+  ],
+  "social_proof": {
+    "rating": 5.0,
+    "review_count": 64,
+    "testimonials": []
+  },
+  "seo": {
+    "title": "COMMON GROUND AUTO | Independent Auto Repair Denver",
+    "meta_description": "Practical investigation, clear explanations, and reliable work for the vehicles you depend on daily in Denver, CO."
+  },
+  "assets": []
+}

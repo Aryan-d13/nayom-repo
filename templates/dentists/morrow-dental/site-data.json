@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0.0",
+  "business_id": "demo",
+  "generated_at": "2026-09-09T00:00:00Z",
+  "identity": {
+    "name": "MORROW DENTAL",
+    "short_name": "MORROW",
+    "tagline": "Keep it looking like you.",
+    "category": "dentists",
+    "description": "Thoughtful dental care focused on health, comfort, and natural-looking results. General and cosmetic dentistry at 812 North Fairfax Avenue, Los Angeles."
+  },
+  "contact": {
+    "phone": "(323) 555-0176",
+    "raw_phone": "+13235550176",
+    "email": "hello@morrowdental.example",
+    "address": "812 North Fairfax Avenue",
+    "city": "Los Angeles",
+    "state": "California",
+    "postal_code": "90046",
+    "country": "US",
+    "hours": "Mon–Fri · 8 AM–5 PM"
+  },
+  "editorial": {
+    "headline": "A GOOD SMILE LOOKS LIKE YOU.",
+    "subheadline": "Thoughtful dental care focused on health, comfort, and natural-looking results.",
+    "value_proposition": "Not someone else.",
+    "primary_cta": {
+      "text": "BOOK A VISIT →",
+      "link": "#booking"
+    }
+  },
+  "offerings": [
+    {
+      "id": "general-dentistry",
+      "name": "General Dentistry",
+      "category": "General",
+      "summary": "Routine exams, gentle cleanings, and preventive oral health."
+    },
+    {
+      "id": "cosmetic-dentistry",
+      "name": "Cosmetic Dentistry",
+      "category": "Cosmetic",
+      "summary": "Restrained enhancements that respect your natural tooth structure."
+    },
+    {
+      "id": "veneers",
+      "name": "Custom Veneers",
+      "category": "Restorative",
+      "summary": "Handcrafted porcelain veneers designed for subtle, realistic depth."
+    },
+    {
+      "id": "clear-aligners",
+      "name": "Clear Aligners",
+      "category": "Orthodontics",
+      "summary": "Discreet orthodontic alignment tailored to your face and bite."
+    }
+  ],
+  "social_proof": {
+    "rating": 5.0,
+    "review_count": 78,
+    "testimonials": []
+  },
+  "seo": {
+    "title": "MORROW DENTAL — Keep it looking like you. | Los Angeles",
+    "meta_description": "Thoughtful dental care focused on health, comfort, and natural-looking results in Los Angeles."
+  },
+  "assets": []
+}

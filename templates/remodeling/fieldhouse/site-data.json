@@ -1,0 +1,71 @@
+{
+  "schema_version": "1.0.0",
+  "meta": {
+    "generated_at": "2026-03-09T00:00:00Z",
+    "generator_version": "1.0.0",
+    "template_id": "fieldhouse"
+  },
+  "identity": {
+    "name": "Fieldhouse",
+    "tagline": "Homes worth staying for.",
+    "description": "Remodeling thoughtful homes without removing the things that make them feel like home."
+  },
+  "contact": {
+    "phone": "(503) 555-0161",
+    "raw_phone": "5035550161",
+    "email": "hello@fieldhouse.example",
+    "city": "Portland",
+    "state": "Oregon",
+    "service_areas": [
+      "Portland",
+      "Lake Oswego",
+      "West Linn"
+    ]
+  },
+  "editorial": {
+    "headline": "KEEP THE GOOD PARTS.",
+    "subheadline": "Remodeling thoughtful homes without removing the things that make them feel like home.",
+    "value_proposition": "Then make the rest work better.",
+    "primary_cta": {
+      "text": "Plan a Project",
+      "href": "#contact"
+    },
+    "secondary_cta": {
+      "text": "See Our Work",
+      "href": "#transformations"
+    }
+  },
+  "offerings": [
+    {
+      "id": "kitchens",
+      "name": "Kitchens",
+      "summary": "Open, light-filled living kitchens designed with honest materials and architectural sensitivity."
+    },
+    {
+      "id": "bathrooms",
+      "name": "Bathrooms",
+      "summary": "Serene plaster bathrooms with unlacquered brass, natural daylight, and enduring finishes."
+    },
+    {
+      "id": "additions",
+      "name": "Additions",
+      "summary": "Thoughtful spatial extensions that blend seamlessly with existing rooflines and trim details."
+    },
+    {
+      "id": "whole-home",
+      "name": "Whole-Home Remodeling",
+      "summary": "Comprehensive renovations that improve layout and comfort while preserving historic character."
+    },
+    {
+      "id": "built-ins",
+      "name": "Custom Built-ins",
+      "summary": "Milled cabinetry, telephone desks, and library alcoves tailored to your home's unique footprint."
+    }
+  ],
+  "assets": [
+    {
+      "kind": "hero",
+      "url_or_path": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=2200&q=85"
+    }
+  ]
+}

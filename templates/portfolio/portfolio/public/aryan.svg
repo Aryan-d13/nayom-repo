@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" width="600" height="750">
+  <defs>
+    <!-- Background atmospheric nocturnal gradient -->
+    <radialGradient id="portraitBg" cx="50%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#182035"/>
+      <stop offset="50%" stop-color="#0E1220"/>
+      <stop offset="100%" stop-color="#090A0F"/>
+    </radialGradient>
+    <!-- Warm desk lamp glow rim -->
+    <linearGradient id="warmLight" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F2EEE4" stop-opacity="0.9"/>
+      <stop offset="60%" stop-color="#8096C7" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#090A0F" stop-opacity="0"/>
+    </linearGradient>
+    <!-- Skin tone lighting -->
+    <linearGradient id="faceGrad" x1="30%" y1="20%" x2="90%" y2="80%">
+      <stop offset="0%" stop-color="#D4B59D"/>
+      <stop offset="45%" stop-color="#B28F77"/>
+      <stop offset="85%" stop-color="#6E5446"/>
+      <stop offset="100%" stop-color="#3A2C25"/>
+    </linearGradient>
+    <filter id="grain" x="0%" y="0%" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.65" numOctaves="3" result="noise"/>
+      <feColorMatrix type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 0.08 0"/>
+      <feComposite in2="SourceGraphic" in="gl" operator="in"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="url(#portraitBg)"/>
+
+  <!-- Subtle desk lamp warm glow from upper left -->
+  <circle cx="100" cy="120" r="280" fill="#F2EEE4" opacity="0.04"/>
+
+  <!-- Upper body / Charcoal sweater -->
+  <path d="M120,750 C120,620 180,520 250,500 L350,500 C420,520 480,620 480,750 Z" fill="#15171E"/>
+  <!-- Sweater neck collar -->
+  <ellipse cx="300" cy="500" rx="60" ry="24" fill="#0D0F14" stroke="#878993" stroke-width="0.7" stroke-opacity="0.3"/>
+
+  <!-- Neck -->
+  <path d="M265,420 L265,510 C280,520 320,520 335,510 L335,420 Z" fill="#8B6C59"/>
+  <!-- Neck shadow -->
+  <path d="M285,420 L285,515 C305,520 335,515 335,420 Z" fill="#5A4234" opacity="0.6"/>
+
+  <!-- Head / Face silhouette -->
+  <path d="M210,300 C205,420 270,470 300,470 C330,470 395,420 390,300 C390,200 350,180 300,180 C250,180 210,200 210,300 Z" fill="url(#faceGrad)"/>
+
+  <!-- Subtle facial structure & shadow (nocturnal, contemplative) -->
+  <!-- Nose ridge -->
+  <path d="M296,280 L292,345 L306,350 L300,358" fill="none" stroke="#5A4234" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Eyes (thoughtful, slight downward/horizon gaze) -->
+  <path d="M245,285 Q262,280 278,285" fill="none" stroke="#251C17" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="262" cy="289" r="4.5" fill="#1C1410"/>
+  <circle cx="264" cy="287" r="1.5" fill="#E7E6DF" opacity="0.6"/>
+
+  <path d="M322,285 Q338,280 355,285" fill="none" stroke="#251C17" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="338" cy="289" r="4.5" fill="#1C1410"/>
+  <circle cx="340" cy="287" r="1.5" fill="#E7E6DF" opacity="0.6"/>
+
+  <!-- Eyebrows -->
+  <path d="M240,270 Q262,263 282,272" fill="none" stroke="#1C1410" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M318,272 Q338,263 360,270" fill="none" stroke="#1C1410" stroke-width="3.5" stroke-linecap="round"/>
+
+  <!-- Mouth -->
+  <path d="M280,395 Q300,397 320,395" fill="none" stroke="#52382C" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Jaw contour shadow -->
+  <path d="M340,320 C370,360 380,410 330,460" fill="none" stroke="#2E1F18" stroke-width="8" opacity="0.4"/>
+
+  <!-- Dark wavy hair with subtle texture -->
+  <path d="M190,290 C185,190 220,130 300,125 C380,120 415,185 410,290 C395,270 380,240 370,220 C350,195 320,185 300,185 C270,185 240,200 220,235 C205,260 195,280 190,290 Z" fill="#141113"/>
+  <path d="M200,240 C210,160 250,140 310,135 C370,130 400,170 405,230 C375,190 335,175 295,175 C255,175 225,195 200,240 Z" fill="#1D1A1E" opacity="0.7"/>
+  <!-- Hair strands -->
+  <path d="M220,180 Q260,150 290,170" fill="none" stroke="#2C272E" stroke-width="2.5"/>
+  <path d="M310,160 Q350,145 380,185" fill="none" stroke="#2C272E" stroke-width="2.5"/>
+
+  <!-- Left warm rim light highlight -->
+  <path d="M200,280 C198,220 225,170 280,140" fill="none" stroke="#F2EEE4" stroke-width="2" stroke-opacity="0.35" stroke-linecap="round"/>
+  <!-- Right cold blue rim light highlight from screen -->
+  <path d="M400,270 C405,220 380,170 330,135" fill="none" stroke="#8096C7" stroke-width="1.8" stroke-opacity="0.4" stroke-linecap="round"/>
+
+  <!-- Film stamp watermark -->
+  <text x="40" y="710" fill="#878993" font-family="monospace" font-size="10" opacity="0.5" letter-spacing="2">35MM · ISO 800 · 3 AM</text>
+  <text x="560" y="710" text-anchor="end" fill="#878993" font-family="monospace" font-size="10" opacity="0.5" letter-spacing="1">ARYAN SHARMA</text>
+</svg>

@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0.0",
+  "meta": {
+    "generated_at": "2026-03-09T00:00:00Z",
+    "generator_version": "1.0.0",
+    "template_id": "temper-hvac"
+  },
+  "identity": {
+    "name": "Temper Heating & Air",
+    "tagline": "Feels better in here.",
+    "description": "Air conditioning, heating and comfort for the places you spend your life."
+  },
+  "contact": {
+    "phone": "(602) 555-0188",
+    "raw_phone": "6025550188",
+    "email": "hello@temper.example",
+    "city": "Phoenix",
+    "state": "Arizona",
+    "service_area": "Phoenix, Paradise Valley, Scottsdale, and surrounding valley homes."
+  },
+  "editorial": {
+    "headline": "HOW SHOULD HOME FEEL?",
+    "subheadline": "Air conditioning, heating and comfort for the places you spend your life.",
+    "value_proposition": "Cool enough to forget about it.",
+    "primary_cta": {
+      "text": "Book a Visit",
+      "href": "#booking"
+    }
+  },
+  "offerings": [
+    {
+      "id": "ac-repair",
+      "name": "AC Repair & Installation",
+      "description": "Phoenix summers don't negotiate. We service and install air conditioning systems calibrated specifically for desert heat loads."
+    },
+    {
+      "id": "heating",
+      "name": "Heating & Seasonal Service",
+      "description": "Desert winters bring sudden cold desert nights. We maintain heat pumps and furnaces so they switch on smoothly."
+    },
+    {
+      "id": "indoor-air",
+      "name": "Indoor Air & Maintenance",
+      "description": "Dust, pollen, and lingering moisture shouldn't recirculate day after day. High-efficiency whole-home filtration."
+    }
+  ],
+  "assets": [
+    {
+      "kind": "hero",
+      "url_or_path": "/temper-hero.jpg"
+    }
+  ]
+}

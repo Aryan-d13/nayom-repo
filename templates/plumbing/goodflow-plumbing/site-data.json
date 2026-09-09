@@ -1,0 +1,72 @@
+{
+  "schema_version": "1.0.0",
+  "meta": {
+    "generated_at": "2026-03-09T00:00:00Z",
+    "generator_version": "1.0.0",
+    "template_id": "goodflow-plumbing"
+  },
+  "identity": {
+    "name": "Goodflow Plumbing",
+    "tagline": "Water should just work.",
+    "description": "Repairs, drains, water heaters and the everyday plumbing problems that need fixing."
+  },
+  "contact": {
+    "phone": "(503) 555-0139",
+    "raw_phone": "5035550139",
+    "email": "hello@goodflow.example",
+    "city": "Portland",
+    "state": "Oregon",
+    "service_areas": [
+      "Portland",
+      "Beaverton",
+      "Tigard",
+      "Lake Oswego"
+    ]
+  },
+  "editorial": {
+    "headline": "WATER SHOULD JUST WORK.",
+    "subheadline": "Repairs, drains, water heaters and the everyday plumbing problems that need fixing.",
+    "value_proposition": "When it doesn't, call someone who knows what to do.",
+    "primary_cta": {
+      "text": "Book a Plumber",
+      "href": "#booking"
+    },
+    "secondary_cta": {
+      "text": "Call Us",
+      "href": "tel:5035550139"
+    }
+  },
+  "offerings": [
+    {
+      "id": "repairs",
+      "name": "Plumbing Repairs",
+      "summary": "Everyday residential leaks, running toilets, and dripping faucets sorted cleanly."
+    },
+    {
+      "id": "drains",
+      "name": "Drain Cleaning",
+      "summary": "Clearing hair, soap buildup, and organic grease from slow-moving household drains."
+    },
+    {
+      "id": "heaters",
+      "name": "Water Heaters",
+      "summary": "Tank and tankless water heater maintenance, element repairs, and emergency replacements."
+    },
+    {
+      "id": "leaks",
+      "name": "Leak Detection",
+      "summary": "Locating hidden pipe leaks behind walls and beneath flooring with non-invasive methods."
+    },
+    {
+      "id": "fixtures",
+      "name": "Fixture Installation",
+      "summary": "Professional installation for faucets, sinks, disposals, and modern bathroom fixtures."
+    }
+  ],
+  "assets": [
+    {
+      "kind": "hero",
+      "url_or_path": "/images/hero_faucet.jpg"
+    }
+  ]
+}

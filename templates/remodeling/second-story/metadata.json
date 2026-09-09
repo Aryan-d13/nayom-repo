@@ -1,0 +1,42 @@
+{
+  "id": "second-story",
+  "name": "Second Story Remodeling",
+  "version": "1.0.0",
+  "description": "",
+  "categories": [
+    "remodeling",
+    "home_renovation",
+    "contractor",
+    "home_services",
+    "victorian_renovation",
+    "interior_design"
+  ],
+  "industries": [
+    "remodeling"
+  ],
+  "style_keywords": [
+    "sophisticated_editorial",
+    "minimal_luxury",
+    "tactile"
+  ],
+  "layout_patterns": [
+    "continuous_transformation",
+    "interactive_peek",
+    "room_explorer"
+  ],
+  "supported_features": [],
+  "supported_slots": [],
+  "preview_image": "preview/thumbnail.png",
+  "entrypoint": "app/page.tsx",
+  "template_dir": "E:\\Code\\Nayom\\templates\\remodeling\\second-story",
+  "is_valid": true,
+  "is_runnable": true,
+  "validation_errors": [],
+  "validation_warnings": [],
+  "industry": null,
+  "supported_industries": [],
+  "capabilities": {},
+  "default_theme": null,
+  "supported_variants": [],
+  "available_sections": []
+}

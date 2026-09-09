@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0.0",
+  "meta": {
+    "generated_at": "2026-03-09T00:00:00Z",
+    "generator_version": "1.0.0",
+    "template_id": "mara-restaurant"
+  },
+  "identity": {
+    "name": "Mara",
+    "tagline": "Seasonal Mediterranean",
+    "description": "A neighbourhood seasonal Mediterranean restaurant in Greenpoint, Brooklyn. Open fire cooking, market fish, natural wine, and honest bread. Come hungry. Stay awhile."
+  },
+  "contact": {
+    "phone": "(718) 555-0142",
+    "raw_phone": "7185550142",
+    "address": "184 Franklin Street",
+    "city": "Brooklyn",
+    "state": "NY",
+    "postal_code": "11222",
+    "hours": "Dinner Service Tonight: 5 PM – 11 PM"
+  },
+  "editorial": {
+    "headline": "COME HUNGRY. LEAVE HAPPY.",
+    "subheadline": "Seasonal Mediterranean cooking over open embers. Market fish, slow grains, wild herbs, and natural wines.",
+    "value_proposition": "Come hungry. Stay awhile.",
+    "primary_cta": {
+      "text": "Reserve a Table",
+      "href": "#reservation-section"
+    },
+    "secondary_cta": {
+      "text": "Explore Tonight's Menu",
+      "href": "#menu-section"
+    }
+  },
+  "offerings": [
+    {
+      "id": "sourdough",
+      "name": "Warm Sourdough & Cultured Butter",
+      "summary": "Naturally leavened 48-hour loaf baked twice daily in our wood deck oven.",
+      "pricing": "$9"
+    },
+    {
+      "id": "olives",
+      "name": "Warm Marinated Olives",
+      "summary": "Castelvetrano and kalamata olives gently warmed in cold-pressed olive oil, fennel, and charred orange.",
+      "pricing": "$11"
+    },
+    {
+      "id": "octopus",
+      "name": "Charred Spanish Octopus",
+      "summary": "Tender braised tentacle seared over glowing embers with Gigante bean purée.",
+      "pricing": "$28"
+    },
+    {
+      "id": "peaches",
+      "name": "Roasted Peaches & Fresh Stracciatella",
+      "summary": "Charred Hudson Valley peaches, torn stracciatella, aged balsamic, and pine nuts.",
+      "pricing": "$22"
+    },
+    {
+      "id": "fish",
+      "name": "Whole Roasted Mediterranean Sea Bass",
+      "summary": "Whole wild branzino with flowering thyme, roasted over olive wood embers.",
+      "pricing": "$42"
+    },
+    {
+      "id": "cake",
+      "name": "Meyer Lemon Olive Oil Cake",
+      "summary": "Tender crumb baked with single-estate Biancolilla olive oil and mascarpone.",
+      "pricing": "$14"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "hero",
+      "url_or_path": "/images/hero_octopus.jpg"
+    }
+  ]
+}

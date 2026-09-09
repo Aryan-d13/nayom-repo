@@ -1,0 +1,35 @@
+{
+  "id": "brightline-electric",
+  "name": "Brightline Residential Electric",
+  "version": "1.0.0",
+  "description": "Architectural residential electrician showcase with interactive diagnostic scene, room electrical zone cards, craftsmanship gallery, and service dispatch booking.",
+  "industry": [
+    "electricians"
+  ],
+  "categories": [
+    "electricians",
+    "electrical",
+    "contractor",
+    "home_services",
+    "local_service"
+  ],
+  "styles": [
+    "warm_editorial",
+    "architectural",
+    "ambient_glow"
+  ],
+  "layouts": [
+    "editorial_showcase",
+    "zone_inspection",
+    "craftsmanship_gallery"
+  ],
+  "features": [
+    "troubleshooting_diagnostics",
+    "room_electrical_zones",
+    "project_showcase",
+    "service_booking"
+  ],
+  "entrypoint": "src/app/page.tsx",
+  "slots": {},
+  "preview_image": "preview/thumbnail.png"
+}

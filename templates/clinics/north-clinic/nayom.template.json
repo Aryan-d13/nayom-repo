@@ -1,0 +1,38 @@
+{
+  "id": "north-clinic",
+  "name": "North Private Medical Clinic",
+  "version": "1.0.0",
+  "description": "Quiet, editorial private medical clinic showcase with patient concern intake, sequence of care, experiential visit timeline, physician profiles, and consultation booking.",
+  "industry": [
+    "clinics"
+  ],
+  "categories": [
+    "clinics",
+    "medical",
+    "doctor",
+    "healthcare",
+    "primary_care",
+    "wellness",
+    "local_service"
+  ],
+  "styles": [
+    "warm_editorial",
+    "minimalist",
+    "calm_luxury"
+  ],
+  "layouts": [
+    "editorial_narrative",
+    "experiential_timeline",
+    "concern_intake"
+  ],
+  "features": [
+    "concern_selector",
+    "care_sequence",
+    "visit_timeline",
+    "physician_profiles",
+    "consultation_modal"
+  ],
+  "entrypoint": "app/page.tsx",
+  "slots": {},
+  "preview_image": "preview/thumbnail.png"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "fieldstone",
+  "name": "Fieldstone Independent School",
+  "version": "1.0.0",
+  "description": "Warm, editorial, and inquisitive website template designed for schools, academies, learning centers, and educational programs with interactive campus map, day arc, and inquiry-driven layouts.",
+  "industry": [
+    "education"
+  ],
+  "categories": [],
+  "styles": [],
+  "layouts": [],
+  "features": [],
+  "entrypoint": "app/page.tsx",
+  "slots": {
+    "business_name": "Fieldstone",
+    "tagline": "Come curious.",
+    "phone": "(206) 555-0178",
+    "email": "hello@fieldstone.example",
+    "address": "4210 Greenwood Avenue, Seattle",
+    "hours": "Mon–Fri · 8 AM–4 PM"
+  },
+  "preview_image": "preview/thumbnail.png"
+}

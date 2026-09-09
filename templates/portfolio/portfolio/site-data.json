@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0.0",
+  "meta": {
+    "generated_at": "2026-03-09T00:00:00Z",
+    "generator_version": "1.0.0",
+    "template_id": "portfolio"
+  },
+  "identity": {
+    "name": "Aryan Sharma",
+    "tagline": "Engineering / Building / Thinking",
+    "description": "Aryan Sharma is an engineering student, builder, and writer exploring physics, systems, technology, and curiosity. A mind in motion."
+  },
+  "contact": {
+    "email": "aryan@example.com",
+    "social_links": {
+      "github": "https://github.com",
+      "linkedin": "https://linkedin.com",
+      "x": "https://x.com"
+    }
+  },
+  "editorial": {
+    "headline": "I'M STILL FIGURING IT OUT.",
+    "subheadline": "learning · building · writing · asking better questions",
+    "value_proposition": "That's kind of the point.",
+    "primary_cta": {
+      "text": "EXPLORE",
+      "href": "#work"
+    }
+  },
+  "offerings": [
+    {
+      "id": "nayom",
+      "name": "NAYOM",
+      "summary": "A system built around ambitious ideas and experimentation.",
+      "features": ["Systems", "Architecture", "Distributed"]
+    },
+    {
+      "id": "project-atlas",
+      "name": "PROJECT ATLAS",
+      "summary": "An experimental interface and product concept.",
+      "features": ["Spatial Interface", "Design Concept", "Tooling"]
+    },
+    {
+      "id": "motion-lab",
+      "name": "MOTION LAB",
+      "summary": "A collection of interaction and animation experiments.",
+      "features": ["Interaction Physics", "Micro-Motion", "TypeScript"]
+    }
+  ]
+}

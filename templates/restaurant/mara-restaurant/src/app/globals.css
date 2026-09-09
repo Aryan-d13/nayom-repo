@@ -1,0 +1,102 @@
+@import "tailwindcss";
+
+@theme {
+  --color-paper: #F2EADB;
+  --color-paper-tint: #FAF6EE;
+  --color-paper-dark: #E5DBC7;
+  --color-paper-border: #DDD1BB;
+  --color-ink: #20201D;
+  --color-ink-muted: #68655E;
+  --color-ink-light: #9B978F;
+  --color-tomato: #C75037;
+  --color-tomato-dark: #A93E27;
+  --color-olive: #687052;
+  --color-olive-light: #EEF1E8;
+  --color-lemon: #E7C85A;
+  --color-lemon-light: #FAF5DC;
+  --color-milk: #FFFDF8;
+
+  --font-serif: var(--font-serif), "Cormorant Garamond", Georgia, serif;
+  --font-sans: var(--font-sans), "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-hand: var(--font-hand), "Caveat", cursive;
+}
+
+/* Base custom styles */
+body {
+  background-color: #F2EADB;
+  color: #20201D;
+  font-family: var(--font-sans);
+  overflow-x: hidden;
+}
+
+/* Subtle paper texture overlay */
+.paper-grain {
+  background-image: radial-gradient(rgba(32, 32, 29, 0.04) 1px, transparent 0);
+  background-size: 24px 24px;
+}
+
+/* Masking tape effect */
+.masking-tape {
+  position: relative;
+}
+.masking-tape::before {
+  content: "";
+  position: absolute;
+  top: -12px;
+  left: 50%;
+  transform: translateX(-50%) rotate(-1.5deg);
+  width: 90px;
+  height: 26px;
+  background-color: rgba(242, 234, 219, 0.75);
+  border-left: 2px dashed rgba(200, 190, 170, 0.5);
+  border-right: 2px dashed rgba(200, 190, 170, 0.5);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+  backdrop-filter: blur(1px);
+  z-index: 10;
+}
+
+/* Corner tape left */
+.tape-top-left::before {
+  content: "";
+  position: absolute;
+  top: -10px;
+  left: -15px;
+  transform: rotate(-35deg);
+  width: 65px;
+  height: 22px;
+  background-color: rgba(235, 226, 206, 0.85);
+  box-shadow: 0 1px 2px rgba(0,0,0,0.07);
+  z-index: 10;
+}
+
+/* Corner tape right */
+.tape-top-right::after {
+  content: "";
+  position: absolute;
+  top: -8px;
+  right: -15px;
+  transform: rotate(32deg);
+  width: 65px;
+  height: 22px;
+  background-color: rgba(235, 226, 206, 0.85);
+  box-shadow: 0 1px 2px rgba(0,0,0,0.07);
+  z-index: 10;
+}
+
+/* Ink Stamp Look */
+.stamp-border {
+  border: 2px dashed #C75037;
+  border-radius: 4px;
+}
+
+/* Custom scrollbar for full menu modal */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 6px;
+}
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: #E5DBC7;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: #C75037;
+  border-radius: 3px;
+}

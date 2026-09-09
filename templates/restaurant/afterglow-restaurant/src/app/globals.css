@@ -1,0 +1,108 @@
+@import "tailwindcss";
+
+@theme {
+  --color-night: #171514;
+  --color-paper: #E9E2D4;
+  --color-wine: #702F35;
+  --color-butter: #E6C875;
+  --color-smoke: #B7AEA0;
+  --color-cream: #F7F2E8;
+
+  --font-sans: var(--font-inter), -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-serif: var(--font-cormorant), "DM Serif Display", Georgia, serif;
+  --font-display: var(--font-dm-serif), var(--font-cormorant), Georgia, serif;
+  --font-hand: var(--font-caveat), "Caveat", cursive;
+}
+
+:root {
+  --night: #171514;
+  --paper: #E9E2D4;
+  --wine: #702F35;
+  --butter: #E6C875;
+  --smoke: #B7AEA0;
+  --cream: #F7F2E8;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #171514;
+}
+::-webkit-scrollbar-thumb {
+  background: #702F35;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #8b3a42;
+}
+
+/* Tactile paper texture simulation with subtle grain */
+.paper-grain {
+  background-color: #E9E2D4;
+  background-image: radial-gradient(rgba(23, 21, 20, 0.04) 1px, transparent 0);
+  background-size: 24px 24px;
+}
+
+.night-grain {
+  background-color: #171514;
+  background-image: radial-gradient(rgba(233, 226, 212, 0.03) 1px, transparent 0);
+  background-size: 20px 20px;
+}
+
+.wine-grain {
+  background-color: #702F35;
+  background-image: radial-gradient(rgba(247, 242, 232, 0.05) 1px, transparent 0);
+  background-size: 24px 24px;
+}
+
+/* Stamp & print aesthetic */
+.stamp-border {
+  border: 1px dashed rgba(112, 47, 53, 0.4);
+}
+
+.ticket-edge {
+  background: radial-gradient(circle at top, transparent 8px, #E9E2D4 8.5px);
+}
+
+/* Prevent layout shifts */
+html, body {
+  overflow-x: hidden;
+  max-width: 100vw;
+}
+
+/* Screen reader only utility */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+/* Lenis smooth scrolling rules */
+html.lenis, html.lenis body {
+  height: auto;
+}
+
+.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+
+.lenis.lenis-smooth [data-lenis-prevent] {
+  overscroll-behavior: contain;
+}
+
+.lenis.lenis-stopped {
+  overflow: hidden;
+}
+
+.lenis.lenis-smooth iframe {
+  pointer-events: none;
+}
+

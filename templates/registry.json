@@ -1,10 +1,105 @@
 {
   "version": "1.0.0",
-  "generated_at": "2026-09-03T15:05:18.727101+00:00",
-  "total_templates": 11,
-  "valid_templates": 3,
-  "runnable_templates": 3,
+  "generated_at": "2026-09-09T17:41:30.917000+00:00",
+  "total_templates": 29,
+  "valid_templates": 21,
+  "runnable_templates": 21,
   "templates": {
+    "common-ground-auto": {
+      "id": "common-ground-auto",
+      "name": "Common Ground Auto Repair",
+      "version": "1.0.0",
+      "description": "Industrial automotive diagnostics and repair workshop showcase with interactive symptom intake, vehicle zone inspection, documentary shop bays, and appointment booking.",
+      "categories": [
+        "auto_repair",
+        "mechanic",
+        "car_repair",
+        "automotive",
+        "local_service"
+      ],
+      "industries": [
+        "auto_repair"
+      ],
+      "style_keywords": [
+        "industrial",
+        "editorial",
+        "monochrome_high_contrast"
+      ],
+      "layout_patterns": [
+        "intake_diagnostic",
+        "interactive_inspection",
+        "editorial_showcase"
+      ],
+      "supported_features": [
+        "symptom_intake",
+        "vehicle_zone_diagnostics",
+        "shop_facility_showcase",
+        "appointment_booking"
+      ],
+      "supported_slots": [],
+      "preview_image": "preview/thumbnail.png",
+      "entrypoint": "src/app/page.tsx",
+      "template_dir": "E:\\Code\\Nayom\\templates\\auto_repair\\common-ground-auto",
+      "is_valid": true,
+      "is_runnable": true,
+      "validation_errors": [],
+      "validation_warnings": [],
+      "industry": null,
+      "supported_industries": [],
+      "capabilities": {},
+      "default_theme": null,
+      "supported_variants": [],
+      "available_sections": []
+    },
+    "north-clinic": {
+      "id": "north-clinic",
+      "name": "North Private Medical Clinic",
+      "version": "1.0.0",
+      "description": "Quiet, editorial private medical clinic showcase with patient concern intake, sequence of care, experiential visit timeline, physician profiles, and consultation booking.",
+      "categories": [
+        "clinics",
+        "medical",
+        "doctor",
+        "healthcare",
+        "primary_care",
+        "wellness",
+        "local_service"
+      ],
+      "industries": [
+        "clinics"
+      ],
+      "style_keywords": [
+        "warm_editorial",
+        "minimalist",
+        "calm_luxury"
+      ],
+      "layout_patterns": [
+        "editorial_narrative",
+        "experiential_timeline",
+        "concern_intake"
+      ],
+      "supported_features": [
+        "concern_selector",
+        "care_sequence",
+        "visit_timeline",
+        "physician_profiles",
+        "consultation_modal"
+      ],
+      "supported_slots": [],
+      "preview_image": "preview/thumbnail.png",
+      "entrypoint": "app/page.tsx",
+      "template_dir": "E:\\Code\\Nayom\\templates\\clinics\\north-clinic",
+      "is_valid": true,
+      "is_runnable": true,
+      "validation_errors": [],
+      "validation_warnings": [],
+      "industry": null,
+      "supported_industries": [],
+      "capabilities": {},
+      "default_theme": null,
+      "supported_variants": [],
+      "available_sections": []
+    },
     "construction-craft": {
       "id": "construction-craft",
       "name": "Construction Craft & Trades",
@@ -69,51 +164,18 @@
       "is_runnable": false,
       "validation_errors": [
         "Missing required file: package.json (Next.js project descriptor)",
-        "Missing Next.js application directory (expected 'app/' or 'pages/')",
+        "Missing Next.js application directory (expected 'src/app/', 'app/', 'src/pages/', or 'pages/')",
         "Entrypoint file not found: app/page.tsx"
       ],
       "validation_warnings": [
-        "No 'components/' directory found (recommended for modular React structure)"
+        "No 'components/' or 'src/components/' directory found"
       ],
       "industry": null,
       "supported_industries": [],
-      "capabilities": {
-        "supportsBooking": true,
-        "supportsGallery": true,
-        "supportsPricing": false,
-        "supportsMultiLocation": true,
-        "supportsTestimonials": true,
-        "supportsFaq": true,
-        "supportsBeforeAfter": true
-      },
-      "default_theme": {
-        "palette": [
-          "#f59e0b",
-          "#1e293b",
-          "#f8fafc",
-          "#0f172a"
-        ],
-        "typography": "Chakra Petch, sans-serif",
-        "iconStyle": "lucide-bold",
-        "borderRadius": "4px",
-        "buttonStyle": "industrial-solid",
-        "animationStyle": "slide-heavy"
-      },
-      "supported_variants": [
-        "industrial",
-        "light",
-        "dark"
-      ],
-      "available_sections": [
-        "hero",
-        "services",
-        "projects",
-        "before-after",
-        "testimonials",
-        "faqs",
-        "estimate-request",
-        "contact"
-      ]
+      "capabilities": {},
+      "default_theme": null,
+      "supported_variants": [],
+      "available_sections": []
     },
     "dental-smooth": {
       "id": "dental-smooth",
@@ -177,51 +239,243 @@
       "is_runnable": false,
       "validation_errors": [
         "Missing required file: package.json (Next.js project descriptor)",
-        "Missing Next.js application directory (expected 'app/' or 'pages/')",
+        "Missing Next.js application directory (expected 'src/app/', 'app/', 'src/pages/', or 'pages/')",
         "Entrypoint file not found: app/page.tsx"
       ],
       "validation_warnings": [
-        "No 'components/' directory found (recommended for modular React structure)"
+        "No 'components/' or 'src/components/' directory found"
       ],
       "industry": null,
       "supported_industries": [],
-      "capabilities": {
-        "supportsBooking": true,
-        "supportsGallery": true,
-        "supportsPricing": true,
-        "supportsMultiLocation": false,
-        "supportsTestimonials": true,
-        "supportsFaq": true,
-        "supportsBeforeAfter": true
-      },
-      "default_theme": {
-        "palette": [
-          "#00a8ff",
-          "#00d2d3",
-          "#f5f6fa",
-          "#2f3640"
-        ],
-        "typography": "Plus Jakarta Sans, sans-serif",
-        "iconStyle": "lucide-soft",
-        "borderRadius": "16px",
-        "buttonStyle": "rounded-soft",
-        "animationStyle": "bounce-subtle"
-      },
-      "supported_variants": [
-        "light",
-        "glassmorphism"
+      "capabilities": {},
+      "default_theme": null,
+      "supported_variants": [],
+      "available_sections": []
+    },
+    "form-dental": {
+      "id": "form-dental",
+      "name": "Form Dental",
+      "version": "1.0.0",
+      "description": "Minimalist architectural dental studio showcase with unhurried consultation philosophy, precision treatment disciplines, operatory space gallery, and visit booking.",
+      "categories": [
+        "dentists",
+        "dental",
+        "cosmetic_dentistry",
+        "orthodontics",
+        "healthcare",
+        "local_service"
       ],
-      "available_sections": [
-        "hero",
-        "services",
-        "about",
-        "before-after",
-        "testimonials",
-        "pricing",
-        "faqs",
-        "booking",
-        "contact"
-      ]
+      "industries": [
+        "dentists"
+      ],
+      "style_keywords": [
+        "minimalist",
+        "architectural",
+        "restraint"
+      ],
+      "layout_patterns": [
+        "editorial_showcase",
+        "horizontal_scroll",
+        "restrained_grid"
+      ],
+      "supported_features": [
+        "treatment_disciplines",
+        "space_gallery",
+        "practitioner_profile",
+        "consultation_modal"
+      ],
+      "supported_slots": [],
+      "preview_image": "preview/thumbnail.png",
+      "entrypoint": "src/app/page.tsx",
+      "template_dir": "E:\\Code\\Nayom\\templates\\dentists\\form-dental",
+      "is_valid": true,
+      "is_runnable": true,
+      "validation_errors": [],
+      "validation_warnings": [],
+      "industry": null,
+      "supported_industries": [],
+      "capabilities": {},
+      "default_theme": null,
+      "supported_variants": [],
+      "available_sections": []
+    },
+    "morrow-dental": {
+      "id": "morrow-dental",
+      "name": "Morrow Dental",
+      "version": "1.0.0",
+      "description": "Warm editorial dental boutique showcase celebrating natural individuality with horizontal treatment notebooks, philosophy pillars, studio detail gallery, and consultation booking.",
+      "categories": [
+        "dentists",
+        "dental",
+        "cosmetic_dentistry",
+        "veneers",
+        "orthodontics",
+        "healthcare",
+        "local_service"
+      ],
+      "industries": [
+        "dentists"
+      ],
+      "style_keywords": [
+        "warm_editorial",
+        "calm_luxury",
+        "minimalist"
+      ],
+      "layout_patterns": [
+        "editorial_showcase",
+        "horizontal_notebook",
+        "gallery_strip"
+      ],
+      "supported_features": [
+        "treatment_notebook",
+        "philosophy_pillars",
+        "detail_gallery",
+        "team_showcase",
+        "booking_modal"
+      ],
+      "supported_slots": [],
+      "preview_image": "preview/thumbnail.png",
+      "entrypoint": "src/app/page.tsx",
+      "template_dir": "E:\\Code\\Nayom\\templates\\dentists\\morrow-dental",
+      "is_valid": true,
+      "is_runnable": true,
+      "validation_errors": [],
+      "validation_warnings": [],
+      "industry": null,
+      "supported_industries": [],
+      "capabilities": {},
+      "default_theme": null,
+      "supported_variants": [],
+      "available_sections": []
+    },
+    "fieldstone": {
+      "id": "fieldstone",
+      "name": "Fieldstone Independent School",
+      "version": "1.0.0",
+      "description": "Warm, editorial, and inquisitive website template designed for schools, academies, learning centers, and educational programs with interactive campus map, day arc, and inquiry-driven layouts.",
+      "categories": [
+        "education"
+      ],
+      "industries": [
+        "education"
+      ],
+      "style_keywords": [],
+      "layout_patterns": [],
+      "supported_features": [],
+      "supported_slots": [
+        "business_name",
+        "tagline",
+        "phone",
+        "email",
+        "address",
+        "hours"
+      ],
+      "preview_image": "preview/thumbnail.png",
+      "entrypoint": "src/app/page.tsx",
+      "template_dir": "E:\\Code\\Nayom\\templates\\education\\fieldstone",
+      "is_valid": true,
+      "is_runnable": true,
+      "validation_errors": [],
+      "validation_warnings": [
+        "Template manifest has no 'style_keywords' specified"
+      ],
+      "industry": null,
+      "supported_industries": [],
+      "capabilities": {},
+      "default_theme": null,
+      "supported_variants": [],
+      "available_sections": []
+    },
+    "brightline-electric": {
+      "id": "brightline-electric",
+      "name": "Brightline Residential Electric",
+      "version": "1.0.0",
+      "description": "Architectural residential electrician showcase with interactive diagnostic scene, room electrical zone cards, craftsmanship gallery, and service dispatch booking.",
+      "categories": [
+        "electricians",
+        "electrical",
+        "contractor",
+        "home_services",
+        "local_service"
+      ],
+      "industries": [
+        "electricians"
+      ],
+      "style_keywords": [
+        "warm_editorial",
+        "architectural",
+        "ambient_glow"
+      ],
+      "layout_patterns": [
+        "editorial_showcase",
+        "zone_inspection",
+        "craftsmanship_gallery"
+      ],
+      "supported_features": [
+        "troubleshooting_diagnostics",
+        "room_electrical_zones",
+        "project_showcase",
+        "service_booking"
+      ],
+      "supported_slots": [],
+      "preview_image": "preview/thumbnail.png",
+      "entrypoint": "src/app/page.tsx",
+      "template_dir": "E:\\Code\\Nayom\\templates\\electricians\\brightline-electric",
+      "is_valid": true,
+      "is_runnable": true,
+      "validation_errors": [],
+      "validation_warnings": [],
+      "industry": null,
+      "supported_industries": [],
+      "capabilities": {},
+      "default_theme": null,
+      "supported_variants": [],
+      "available_sections": []
+    },
+    "up-and-over": {
+      "id": "up-and-over",
+      "name": "Up & Over Garage Doors",
+      "version": "1.0.0",
+      "description": "Architectural residential garage door showcase with interactive open/close states, door style selector, repair diagnostics, and quote modal.",
+      "categories": [
+        "garage_doors",
+        "garage_door_services",
+        "home_services",
+        "contractor",
+        "local_service"
+      ],
+      "industries": [
+        "garage_doors"
+      ],
+      "style_keywords": [
+        "warm_editorial",
+        "architectural",
+        "industrial"
+      ],
+      "layout_patterns": [
+        "editorial_showcase",
+        "interactive_story"
+      ],
+      "supported_features": [
+        "quote_modal",
+        "style_selector",
+        "repair_diagnostics",
+        "open_close_interactive"
+      ],
+      "supported_slots": [],
+      "preview_image": "preview/thumbnail.png",
+      "entrypoint": "src/app/page.tsx",
+      "template_dir": "E:\\Code\\Nayom\\templates\\garage_doors\\up-and-over",
+      "is_valid": true,
+      "is_runnable": true,
+      "validation_errors": [],
+      "validation_warnings": [],
+      "industry": null,
+      "supported_industries": [],
+      "capabilities": {},
+      "default_theme": null,
+      "supported_variants": [],
+      "available_sections": []
     },
     "generic-modern": {
       "id": "generic-modern",
@@ -302,45 +556,10 @@
       "validation_warnings": [],
       "industry": null,
       "supported_industries": [],
-      "capabilities": {
-        "supportsBooking": true,
-        "supportsGallery": true,
-        "supportsPricing": true,
-        "supportsMultiLocation": true,
-        "supportsTestimonials": true,
-        "supportsFaq": true,
-        "supportsBeforeAfter": true
-      },
-      "default_theme": {
-        "palette": [
-          "#2563eb",
-          "#16a34a",
-          "#f8fafc",
-          "#0f172a"
-        ],
-        "typography": "Inter, sans-serif",
-        "iconStyle": "lucide-standard",
-        "borderRadius": "8px",
-        "buttonStyle": "rounded-standard",
-        "animationStyle": "fade-subtle"
-      },
-      "supported_variants": [
-        "light",
-        "dark",
-        "glassmorphism",
-        "industrial"
-      ],
-      "available_sections": [
-        "hero",
-        "services",
-        "about",
-        "testimonials",
-        "pricing",
-        "faqs",
-        "gallery",
-        "contact",
-        "booking"
-      ]
+      "capabilities": {},
+      "default_theme": null,
+      "supported_variants": [],
+      "available_sections": []
     },
     "gym-power": {
       "id": "gym-power",
@@ -405,50 +624,109 @@
       "is_runnable": false,
       "validation_errors": [
         "Missing required file: package.json (Next.js project descriptor)",
-        "Missing Next.js application directory (expected 'app/' or 'pages/')",
+        "Missing Next.js application directory (expected 'src/app/', 'app/', 'src/pages/', or 'pages/')",
         "Entrypoint file not found: app/page.tsx"
       ],
       "validation_warnings": [
-        "No 'components/' directory found (recommended for modular React structure)"
+        "No 'components/' or 'src/components/' directory found"
       ],
       "industry": null,
       "supported_industries": [],
-      "capabilities": {
-        "supportsBooking": true,
-        "supportsGallery": true,
-        "supportsPricing": true,
-        "supportsMultiLocation": true,
-        "supportsTestimonials": true,
-        "supportsFaq": true,
-        "supportsBeforeAfter": true
-      },
-      "default_theme": {
-        "palette": [
-          "#ff3e3e",
-          "#111111",
-          "#1a1a1a",
-          "#ffffff"
-        ],
-        "typography": "Montserrat, sans-serif",
-        "iconStyle": "lucide-sharp",
-        "borderRadius": "4px",
-        "buttonStyle": "high-contrast-slant",
-        "animationStyle": "slide-heavy"
-      },
-      "supported_variants": [
-        "dark",
-        "industrial"
+      "capabilities": {},
+      "default_theme": null,
+      "supported_variants": [],
+      "available_sections": []
+    },
+    "north-air": {
+      "id": "north-air",
+      "name": "North Air Heating & Cooling",
+      "version": "1.0.0",
+      "description": "Atmospheric residential HVAC showcase with interactive temperature comfort visualizer, home diagnostic symptoms, seasonal atmosphere states, and technician booking modal.",
+      "categories": [
+        "hvac",
+        "heating",
+        "air_conditioning",
+        "cooling",
+        "contractor",
+        "home_services",
+        "local_service"
       ],
-      "available_sections": [
-        "hero",
-        "classes",
-        "trainers",
-        "pricing",
-        "transformations",
-        "testimonials",
-        "schedule",
-        "contact"
-      ]
+      "industries": [
+        "hvac"
+      ],
+      "style_keywords": [
+        "warm_editorial",
+        "atmospheric",
+        "minimalist"
+      ],
+      "layout_patterns": [
+        "editorial_showcase",
+        "interactive_temperature",
+        "atmosphere_cards"
+      ],
+      "supported_features": [
+        "temperature_visualizer",
+        "hvac_symptoms_intake",
+        "atmosphere_states",
+        "booking_modal"
+      ],
+      "supported_slots": [],
+      "preview_image": "preview/thumbnail.png",
+      "entrypoint": "src/app/page.tsx",
+      "template_dir": "E:\\Code\\Nayom\\templates\\hvac\\north-air",
+      "is_valid": true,
+      "is_runnable": true,
+      "validation_errors": [],
+      "validation_warnings": [],
+      "industry": null,
+      "supported_industries": [],
+      "capabilities": {},
+      "default_theme": null,
+      "supported_variants": [],
+      "available_sections": []
+    },
+    "temper-hvac": {
+      "id": "temper-hvac",
+      "name": "Temper Heating & Air",
+      "version": "1.0.0",
+      "description": "",
+      "categories": [
+        "hvac",
+        "heating",
+        "air_conditioning",
+        "cooling",
+        "contractor",
+        "home_services",
+        "local_service"
+      ],
+      "industries": [
+        "hvac"
+      ],
+      "style_keywords": [
+        "desert_modern",
+        "editorial",
+        "warm_minimalist"
+      ],
+      "layout_patterns": [
+        "editorial_story",
+        "sensory_exploration",
+        "room_chapters"
+      ],
+      "supported_features": [],
+      "supported_slots": [],
+      "preview_image": "preview/thumbnail.png",
+      "entrypoint": "src/app/page.tsx",
+      "template_dir": "E:\\Code\\Nayom\\templates\\hvac\\temper-hvac",
+      "is_valid": true,
+      "is_runnable": true,
+      "validation_errors": [],
+      "validation_warnings": [],
+      "industry": null,
+      "supported_industries": [],
+      "capabilities": {},
+      "default_theme": null,
+      "supported_variants": [],
+      "available_sections": []
     },
     "lawyer-authority": {
       "id": "lawyer-authority",
@@ -513,50 +791,60 @@
       "is_runnable": false,
       "validation_errors": [
         "Missing required file: package.json (Next.js project descriptor)",
-        "Missing Next.js application directory (expected 'app/' or 'pages/')",
+        "Missing Next.js application directory (expected 'src/app/', 'app/', 'src/pages/', or 'pages/')",
         "Entrypoint file not found: app/page.tsx"
       ],
       "validation_warnings": [
-        "No 'components/' directory found (recommended for modular React structure)"
+        "No 'components/' or 'src/components/' directory found"
       ],
       "industry": null,
       "supported_industries": [],
-      "capabilities": {
-        "supportsBooking": true,
-        "supportsGallery": false,
-        "supportsPricing": false,
-        "supportsMultiLocation": true,
-        "supportsTestimonials": true,
-        "supportsFaq": true,
-        "supportsBeforeAfter": false
-      },
-      "default_theme": {
-        "palette": [
-          "#1b2a4a",
-          "#c5a059",
-          "#f8f9fa",
-          "#0b1325"
-        ],
-        "typography": "Cinzel, Playfair Display, serif",
-        "iconStyle": "lucide-classic",
-        "borderRadius": "4px",
-        "buttonStyle": "sharp-gold",
-        "animationStyle": "fade-subtle"
-      },
-      "supported_variants": [
-        "light",
-        "dark"
+      "capabilities": {},
+      "default_theme": null,
+      "supported_variants": [],
+      "available_sections": []
+    },
+    "hale-mercer": {
+      "id": "hale-mercer",
+      "name": "Hale & Mercer Attorneys at Law",
+      "version": "1.0.0",
+      "description": "",
+      "categories": [
+        "legal",
+        "law_firm",
+        "attorney",
+        "lawyer",
+        "professional_services",
+        "corporate_law"
       ],
-      "available_sections": [
-        "hero",
-        "practice-areas",
-        "attorneys",
-        "results",
-        "testimonials",
-        "faqs",
-        "free-consultation",
-        "contact"
-      ]
+      "industries": [
+        "legal"
+      ],
+      "style_keywords": [
+        "editorial",
+        "chambers_classic",
+        "sophisticated_monochrome"
+      ],
+      "layout_patterns": [
+        "document_matter",
+        "practice_index",
+        "partner_profile"
+      ],
+      "supported_features": [],
+      "supported_slots": [],
+      "preview_image": "preview/thumbnail.png",
+      "entrypoint": "src/app/page.tsx",
+      "template_dir": "E:\\Code\\Nayom\\templates\\legal\\hale-mercer",
+      "is_valid": true,
+      "is_runnable": true,
+      "validation_errors": [],
+      "validation_warnings": [],
+      "industry": null,
+      "supported_industries": [],
+      "capabilities": {},
+      "default_theme": null,
+      "supported_variants": [],
+      "available_sections": []
     },
     "medical-modern": {
       "id": "medical-modern",
@@ -621,106 +909,246 @@
       "is_runnable": false,
       "validation_errors": [
         "Missing required file: package.json (Next.js project descriptor)",
-        "Missing Next.js application directory (expected 'app/' or 'pages/')",
+        "Missing Next.js application directory (expected 'src/app/', 'app/', 'src/pages/', or 'pages/')",
         "Entrypoint file not found: app/page.tsx"
       ],
       "validation_warnings": [
-        "No 'components/' directory found (recommended for modular React structure)"
+        "No 'components/' or 'src/components/' directory found"
       ],
       "industry": null,
       "supported_industries": [],
-      "capabilities": {
-        "supportsBooking": true,
-        "supportsGallery": false,
-        "supportsPricing": false,
-        "supportsMultiLocation": false,
-        "supportsTestimonials": true,
-        "supportsFaq": true,
-        "supportsBeforeAfter": false
-      },
-      "default_theme": {
-        "palette": [
-          "#0052cc",
-          "#00875a",
-          "#f4f5f7",
-          "#172b4d"
-        ],
-        "typography": "Inter, sans-serif",
-        "iconStyle": "lucide-clean",
-        "borderRadius": "8px",
-        "buttonStyle": "rounded-solid",
-        "animationStyle": "fade-subtle"
-      },
-      "supported_variants": [
-        "light",
-        "glassmorphism"
+      "capabilities": {},
+      "default_theme": null,
+      "supported_variants": [],
+      "available_sections": []
+    },
+    "current-plumbing": {
+      "id": "current-plumbing",
+      "name": "Current Plumbing",
+      "version": "1.0.0",
+      "description": "",
+      "categories": [
+        "plumbing",
+        "plumber",
+        "contractor",
+        "home_services",
+        "leak_detection",
+        "water_heaters",
+        "drain_cleaning"
       ],
-      "available_sections": [
-        "hero",
-        "services",
-        "about",
-        "testimonials",
-        "faqs",
-        "contact",
-        "booking"
-      ]
+      "industries": [
+        "plumbing"
+      ],
+      "style_keywords": [
+        "minimalist",
+        "hydraulic_flow",
+        "cyan_industrial"
+      ],
+      "layout_patterns": [
+        "interactive_flow",
+        "fluid_path",
+        "common_calls"
+      ],
+      "supported_features": [],
+      "supported_slots": [],
+      "preview_image": "preview/thumbnail.png",
+      "entrypoint": "src/app/page.tsx",
+      "template_dir": "E:\\Code\\Nayom\\templates\\plumbing\\current-plumbing",
+      "is_valid": true,
+      "is_runnable": true,
+      "validation_errors": [],
+      "validation_warnings": [],
+      "industry": null,
+      "supported_industries": [],
+      "capabilities": {},
+      "default_theme": null,
+      "supported_variants": [],
+      "available_sections": []
+    },
+    "goodflow-plumbing": {
+      "id": "goodflow-plumbing",
+      "name": "Goodflow Plumbing",
+      "version": "1.0.0",
+      "description": "",
+      "categories": [
+        "plumbing",
+        "plumber",
+        "contractor",
+        "home_services",
+        "drain_cleaning",
+        "water_heaters",
+        "leak_detection"
+      ],
+      "industries": [
+        "plumbing"
+      ],
+      "style_keywords": [
+        "clean_editorial",
+        "natural_warm",
+        "residential"
+      ],
+      "layout_patterns": [
+        "interactive_house",
+        "everyday_diagnostics",
+        "dialogue_process"
+      ],
+      "supported_features": [],
+      "supported_slots": [],
+      "preview_image": "preview/thumbnail.png",
+      "entrypoint": "src/app/page.tsx",
+      "template_dir": "E:\\Code\\Nayom\\templates\\plumbing\\goodflow-plumbing",
+      "is_valid": true,
+      "is_runnable": true,
+      "validation_errors": [],
+      "validation_warnings": [],
+      "industry": null,
+      "supported_industries": [],
+      "capabilities": {},
+      "default_theme": null,
+      "supported_variants": [],
+      "available_sections": []
+    },
+    "hearth-and-pipe": {
+      "id": "hearth-and-pipe",
+      "name": "Hearth & Pipe",
+      "version": "1.0.0",
+      "description": "",
+      "categories": [
+        "plumbing",
+        "plumber",
+        "contractor",
+        "home_services",
+        "water_heaters",
+        "drain_cleaning",
+        "repairs"
+      ],
+      "industries": [
+        "plumbing"
+      ],
+      "style_keywords": [
+        "warm_editorial",
+        "craftsman",
+        "pacific_northwest"
+      ],
+      "layout_patterns": [
+        "observation_moments",
+        "residential_spaces",
+        "transparent_approach"
+      ],
+      "supported_features": [],
+      "supported_slots": [],
+      "preview_image": "preview/thumbnail.png",
+      "entrypoint": "src/app/page.tsx",
+      "template_dir": "E:\\Code\\Nayom\\templates\\plumbing\\hearth-and-pipe",
+      "is_valid": true,
+      "is_runnable": true,
+      "validation_errors": [],
+      "validation_warnings": [],
+      "industry": null,
+      "supported_industries": [],
+      "capabilities": {},
+      "default_theme": null,
+      "supported_variants": [],
+      "available_sections": []
     },
     "cyber-brutalist": {
       "id": "cyber-brutalist",
       "name": "Cyber Industrial Brutalist Portfolio",
       "version": "1.0.0",
       "description": "High-velocity cyber-industrial brutalist portfolio template featuring ultra-condensed typography, 3D wireframe hero telemetry, alternating project case studies, and tactical yellow-on-black aesthetic.",
-      "categories": [],
-      "industries": [],
-      "style_keywords": [],
-      "layout_patterns": [],
-      "supported_features": [
-        "supportsGallery",
-        "supportsTestimonials",
-        "supportsFaq",
-        "supportsAudioFx",
-        "supportsCustomCursor"
+      "categories": [
+        "portfolio",
+        "brutalist",
+        "cyber",
+        "developer",
+        "agency",
+        "dark_tech",
+        "creative"
       ],
-      "supported_slots": [],
-      "preview_image": null,
+      "industries": [
+        "portfolio",
+        "developer",
+        "systems_architect",
+        "software_engineer",
+        "creative_developer",
+        "design_engineer",
+        "agency",
+        "tech_studio",
+        "freelancer"
+      ],
+      "style_keywords": [
+        "cyber_brutalist",
+        "industrial",
+        "tactical",
+        "dark",
+        "high_contrast",
+        "maximalist_type"
+      ],
+      "layout_patterns": [
+        "split_asymmetric",
+        "full_bleed",
+        "bento_grid",
+        "stacked_case_studies",
+        "single_page_anchor_flow"
+      ],
+      "supported_features": [
+        "interactive_3d_wireframe",
+        "custom_cyber_cursor",
+        "synthesized_audio_fx",
+        "telemetry_terminal",
+        "hazard_marquee_ribbons",
+        "alternating_canvas_case_studies",
+        "yellow_bento_expertise",
+        "technical_faq_accordion",
+        "contact_modal_drawer"
+      ],
+      "supported_slots": [
+        "site.name",
+        "site.tagline",
+        "site.niche",
+        "site.status",
+        "hero.badge",
+        "hero.titleLine1",
+        "hero.titleLine2",
+        "hero.subtitle",
+        "hero.ctaPrimary",
+        "hero.ctaPrimaryLink",
+        "hero.ctaSecondary",
+        "hero.ctaSecondaryLink",
+        "hero.coordinates",
+        "hero.metrics",
+        "about.eyebrow",
+        "about.headline",
+        "about.bio",
+        "about.stats",
+        "about.terminalLogs",
+        "services",
+        "projects",
+        "partners",
+        "testimonials",
+        "faq",
+        "contact.headline",
+        "contact.subtext",
+        "contact.email",
+        "contact.phone",
+        "contact.location",
+        "contact.timezone",
+        "contact.availability",
+        "socialLinks",
+        "seo.title",
+        "seo.description"
+      ],
+      "preview_image": "preview/thumbnail.png",
       "entrypoint": "app/page.tsx",
       "template_dir": "E:\\Code\\Nayom\\templates\\portfolio\\cyber-brutalist",
       "is_valid": true,
       "is_runnable": true,
       "validation_errors": [],
-      "validation_warnings": [
-        "metadata.json has no 'categories' or 'industries' specified",
-        "metadata.json has no 'style_keywords' specified",
-        "metadata.json has no 'layout_patterns' specified"
-      ],
+      "validation_warnings": [],
       "industry": null,
       "supported_industries": [],
-      "capabilities": {
-        "supportsBooking": false,
-        "supportsGallery": true,
-        "supportsPricing": false,
-        "supportsMultiLocation": false,
-        "supportsTestimonials": true,
-        "supportsFaq": true,
-        "supportsBeforeAfter": false,
-        "supportsAudioFx": true,
-        "supportsCustomCursor": true
-      },
-      "default_theme": {
-        "palette": [
-          "#FFE600",
-          "#050505",
-          "#FFFFFF",
-          "#061A1E",
-          "#022417"
-        ],
-        "typography": "Barlow Condensed, JetBrains Mono, Inter, sans-serif",
-        "iconStyle": "lucide-bold",
-        "borderRadius": "0px",
-        "mediaRadius": "32px",
-        "buttonStyle": "pill-cyber",
-        "animationStyle": "tactical-kinetic"
-      },
+      "capabilities": {},
+      "default_theme": null,
       "supported_variants": [],
       "available_sections": []
     },
@@ -796,40 +1224,52 @@
       "validation_warnings": [],
       "industry": null,
       "supported_industries": [],
-      "capabilities": {
-        "supportsProjects": true,
-        "supportsTechStack": true,
-        "supportsExperience": true,
-        "supportsTestimonials": true,
-        "supportsContactForm": true,
-        "supportsResumeDownload": true
-      },
-      "default_theme": {
-        "palette": [
-          "#0f172a",
-          "#0284c7",
-          "#10b981",
-          "#f8fafc"
-        ],
-        "typography": "Inter, JetBrains Mono, sans-serif",
-        "iconStyle": "lucide-dark",
-        "borderRadius": "12px",
-        "buttonStyle": "rounded-pill",
-        "animationStyle": "fade-smooth"
-      },
-      "supported_variants": [
-        "dark",
-        "dark-tech",
-        "minimal-slate"
+      "capabilities": {},
+      "default_theme": null,
+      "supported_variants": [],
+      "available_sections": []
+    },
+    "portfolio": {
+      "id": "portfolio",
+      "name": "Personal / Creative Portfolio",
+      "version": "1.0.0",
+      "description": "",
+      "categories": [
+        "portfolio",
+        "personal",
+        "developer",
+        "creator",
+        "designer",
+        "engineer"
       ],
-      "available_sections": [
-        "hero",
-        "tech_stack",
-        "projects",
-        "experience",
-        "testimonials",
-        "contact"
-      ]
+      "industries": [
+        "portfolio"
+      ],
+      "style_keywords": [
+        "dark_monochrome",
+        "editorial_thought",
+        "sparse_brutalist"
+      ],
+      "layout_patterns": [
+        "curiosity_archive",
+        "selected_builds",
+        "process_journey"
+      ],
+      "supported_features": [],
+      "supported_slots": [],
+      "preview_image": "preview/thumbnail.png",
+      "entrypoint": "src/app/page.tsx",
+      "template_dir": "E:\\Code\\Nayom\\templates\\portfolio\\portfolio",
+      "is_valid": true,
+      "is_runnable": true,
+      "validation_errors": [],
+      "validation_warnings": [],
+      "industry": null,
+      "supported_industries": [],
+      "capabilities": {},
+      "default_theme": null,
+      "supported_variants": [],
+      "available_sections": []
     },
     "realestate-prime": {
       "id": "realestate-prime",
@@ -894,50 +1334,186 @@
       "is_runnable": false,
       "validation_errors": [
         "Missing required file: package.json (Next.js project descriptor)",
-        "Missing Next.js application directory (expected 'app/' or 'pages/')",
+        "Missing Next.js application directory (expected 'src/app/', 'app/', 'src/pages/', or 'pages/')",
         "Entrypoint file not found: app/page.tsx"
       ],
       "validation_warnings": [
-        "No 'components/' directory found (recommended for modular React structure)"
+        "No 'components/' or 'src/components/' directory found"
       ],
       "industry": null,
       "supported_industries": [],
-      "capabilities": {
-        "supportsBooking": true,
-        "supportsGallery": true,
-        "supportsPricing": true,
-        "supportsMultiLocation": true,
-        "supportsTestimonials": true,
-        "supportsFaq": true,
-        "supportsBeforeAfter": false
-      },
-      "default_theme": {
-        "palette": [
-          "#0f4c81",
-          "#d4af37",
-          "#f4f7f6",
-          "#1a1a1a"
-        ],
-        "typography": "Bodoni Moda, sans-serif",
-        "iconStyle": "lucide-clean",
-        "borderRadius": "8px",
-        "buttonStyle": "luxury-gold",
-        "animationStyle": "fade-smooth"
-      },
-      "supported_variants": [
-        "light",
-        "glassmorphism"
+      "capabilities": {},
+      "default_theme": null,
+      "supported_variants": [],
+      "available_sections": []
+    },
+    "fieldhouse": {
+      "id": "fieldhouse",
+      "name": "Fieldhouse Remodeling",
+      "version": "1.0.0",
+      "description": "",
+      "categories": [
+        "remodeling",
+        "home_renovation",
+        "contractor",
+        "home_services",
+        "interior_design",
+        "architecture"
       ],
-      "available_sections": [
-        "hero",
-        "featured-listings",
-        "services",
-        "agents",
-        "testimonials",
-        "faqs",
-        "valuation-request",
-        "contact"
-      ]
+      "industries": [
+        "remodeling"
+      ],
+      "style_keywords": [
+        "craftsman_preservation",
+        "warm_editorial",
+        "architectural"
+      ],
+      "layout_patterns": [
+        "preservation_showcase",
+        "before_after_transformations",
+        "interactive_floorplan"
+      ],
+      "supported_features": [],
+      "supported_slots": [],
+      "preview_image": "preview/thumbnail.png",
+      "entrypoint": "src/app/page.tsx",
+      "template_dir": "E:\\Code\\Nayom\\templates\\remodeling\\fieldhouse",
+      "is_valid": true,
+      "is_runnable": true,
+      "validation_errors": [],
+      "validation_warnings": [],
+      "industry": null,
+      "supported_industries": [],
+      "capabilities": {},
+      "default_theme": null,
+      "supported_variants": [],
+      "available_sections": []
+    },
+    "second-story": {
+      "id": "second-story",
+      "name": "Second Story Remodeling",
+      "version": "1.0.0",
+      "description": "",
+      "categories": [
+        "remodeling",
+        "home_renovation",
+        "contractor",
+        "home_services",
+        "victorian_renovation",
+        "interior_design"
+      ],
+      "industries": [
+        "remodeling"
+      ],
+      "style_keywords": [
+        "sophisticated_editorial",
+        "minimal_luxury",
+        "tactile"
+      ],
+      "layout_patterns": [
+        "continuous_transformation",
+        "interactive_peek",
+        "room_explorer"
+      ],
+      "supported_features": [],
+      "supported_slots": [],
+      "preview_image": "preview/thumbnail.png",
+      "entrypoint": "src/app/page.tsx",
+      "template_dir": "E:\\Code\\Nayom\\templates\\remodeling\\second-story",
+      "is_valid": true,
+      "is_runnable": true,
+      "validation_errors": [],
+      "validation_warnings": [],
+      "industry": null,
+      "supported_industries": [],
+      "capabilities": {},
+      "default_theme": null,
+      "supported_variants": [],
+      "available_sections": []
+    },
+    "afterglow-restaurant": {
+      "id": "afterglow-restaurant",
+      "name": "Afterglow Restaurant & Wine Bar",
+      "version": "1.0.0",
+      "description": "",
+      "categories": [
+        "restaurant",
+        "wine_bar",
+        "dining",
+        "bistro",
+        "hospitality",
+        "cocktail_bar"
+      ],
+      "industries": [
+        "restaurant"
+      ],
+      "style_keywords": [
+        "cinematic_night",
+        "warm_editorial",
+        "candlelit"
+      ],
+      "layout_patterns": [
+        "tonight_menu",
+        "night_progression",
+        "ambient_reservation"
+      ],
+      "supported_features": [],
+      "supported_slots": [],
+      "preview_image": "preview/thumbnail.png",
+      "entrypoint": "src/app/page.tsx",
+      "template_dir": "E:\\Code\\Nayom\\templates\\restaurant\\afterglow-restaurant",
+      "is_valid": true,
+      "is_runnable": true,
+      "validation_errors": [],
+      "validation_warnings": [],
+      "industry": null,
+      "supported_industries": [],
+      "capabilities": {},
+      "default_theme": null,
+      "supported_variants": [],
+      "available_sections": []
+    },
+    "mara-restaurant": {
+      "id": "mara-restaurant",
+      "name": "Mara Seasonal Mediterranean",
+      "version": "1.0.0",
+      "description": "",
+      "categories": [
+        "restaurant",
+        "mediterranean",
+        "dining",
+        "wood_fired",
+        "hospitality",
+        "brooklyn_dining"
+      ],
+      "industries": [
+        "restaurant"
+      ],
+      "style_keywords": [
+        "warm_editorial",
+        "rustic_mediterranean",
+        "hearth_fire"
+      ],
+      "layout_patterns": [
+        "featured_menu",
+        "food_in_motion",
+        "dining_postcard"
+      ],
+      "supported_features": [],
+      "supported_slots": [],
+      "preview_image": "preview/thumbnail.png",
+      "entrypoint": "src/app/page.tsx",
+      "template_dir": "E:\\Code\\Nayom\\templates\\restaurant\\mara-restaurant",
+      "is_valid": true,
+      "is_runnable": true,
+      "validation_errors": [],
+      "validation_warnings": [],
+      "industry": null,
+      "supported_industries": [],
+      "capabilities": {},
+      "default_theme": null,
+      "supported_variants": [],
+      "available_sections": []
     },
     "restaurant-flavor": {
       "id": "restaurant-flavor",
@@ -1003,50 +1579,18 @@
       "is_runnable": false,
       "validation_errors": [
         "Missing required file: package.json (Next.js project descriptor)",
-        "Missing Next.js application directory (expected 'app/' or 'pages/')",
+        "Missing Next.js application directory (expected 'src/app/', 'app/', 'src/pages/', or 'pages/')",
         "Entrypoint file not found: app/page.tsx"
       ],
       "validation_warnings": [
-        "No 'components/' directory found (recommended for modular React structure)"
+        "No 'components/' or 'src/components/' directory found"
       ],
       "industry": null,
       "supported_industries": [],
-      "capabilities": {
-        "supportsBooking": true,
-        "supportsGallery": true,
-        "supportsPricing": true,
-        "supportsMultiLocation": true,
-        "supportsTestimonials": true,
-        "supportsFaq": false,
-        "supportsBeforeAfter": false
-      },
-      "default_theme": {
-        "palette": [
-          "#d32f2f",
-          "#ff9800",
-          "#121212",
-          "#ffffff"
-        ],
-        "typography": "DM Serif Display, sans-serif",
-        "iconStyle": "lucide-bold",
-        "borderRadius": "12px",
-        "buttonStyle": "warm-rounded",
-        "animationStyle": "zoom-subtle"
-      },
-      "supported_variants": [
-        "light",
-        "dark"
-      ],
-      "available_sections": [
-        "hero",
-        "menu",
-        "story",
-        "gallery",
-        "reservations",
-        "testimonials",
-        "location",
-        "contact"
-      ]
+      "capabilities": {},
+      "default_theme": null,
+      "supported_variants": [],
+      "available_sections": []
     },
     "salon-glow": {
       "id": "salon-glow",
@@ -1112,50 +1656,18 @@
       "is_runnable": false,
       "validation_errors": [
         "Missing required file: package.json (Next.js project descriptor)",
-        "Missing Next.js application directory (expected 'app/' or 'pages/')",
+        "Missing Next.js application directory (expected 'src/app/', 'app/', 'src/pages/', or 'pages/')",
         "Entrypoint file not found: app/page.tsx"
       ],
       "validation_warnings": [
-        "No 'components/' directory found (recommended for modular React structure)"
+        "No 'components/' or 'src/components/' directory found"
       ],
       "industry": null,
       "supported_industries": [],
-      "capabilities": {
-        "supportsBooking": true,
-        "supportsGallery": true,
-        "supportsPricing": true,
-        "supportsMultiLocation": false,
-        "supportsTestimonials": true,
-        "supportsFaq": true,
-        "supportsBeforeAfter": true
-      },
-      "default_theme": {
-        "palette": [
-          "#e0a96d",
-          "#201e20",
-          "#ddc3a5",
-          "#ffffff"
-        ],
-        "typography": "Cormorant Garamond, sans-serif",
-        "iconStyle": "lucide-soft",
-        "borderRadius": "20px",
-        "buttonStyle": "pastel-pill",
-        "animationStyle": "fade-soft"
-      },
-      "supported_variants": [
-        "light",
-        "glassmorphism"
-      ],
-      "available_sections": [
-        "hero",
-        "services",
-        "menu-pricing",
-        "portfolio",
-        "team",
-        "testimonials",
-        "booking",
-        "contact"
-      ]
+      "capabilities": {},
+      "default_theme": null,
+      "supported_variants": [],
+      "available_sections": []
     }
   }
 }

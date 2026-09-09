@@ -1,0 +1,42 @@
+{
+  "id": "portfolio",
+  "name": "Personal / Creative Portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "categories": [
+    "portfolio",
+    "personal",
+    "developer",
+    "creator",
+    "designer",
+    "engineer"
+  ],
+  "industries": [
+    "portfolio"
+  ],
+  "style_keywords": [
+    "dark_monochrome",
+    "editorial_thought",
+    "sparse_brutalist"
+  ],
+  "layout_patterns": [
+    "curiosity_archive",
+    "selected_builds",
+    "process_journey"
+  ],
+  "supported_features": [],
+  "supported_slots": [],
+  "preview_image": "preview/thumbnail.png",
+  "entrypoint": "app/page.tsx",
+  "template_dir": "E:\\Code\\Nayom\\templates\\portfolio\\portfolio",
+  "is_valid": true,
+  "is_runnable": true,
+  "validation_errors": [],
+  "validation_warnings": [],
+  "industry": null,
+  "supported_industries": [],
+  "capabilities": {},
+  "default_theme": null,
+  "supported_variants": [],
+  "available_sections": []
+}
