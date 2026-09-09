@@ -1,0 +1,17 @@
+{
+  "recipient": null,
+  "subject": "Quick thought on the Forest Family Dentistry site",
+  "body": "Hi Forest Family Team, I've always admired your presence across your six Austin and Round Rock offices, especially your status as an Invisalign Diamond Plus provider and the care you put into your FFD Membership Plan for uninsured patients. While browsing your Anderson location's current site, I noticed that the long scroll pages and deep content nesting can sometimes make it a bit tricky for patients on mobile to quickly find direct booking options or emergency availability. Because of that, I put together a modern, single-page preview for you that streamlines the navigation, adds prominent click-to-call buttons, and highlights your key services like Zoom whitening and new patient exams in a clean bento grid. You can check out the live prototype here: https://nayom-biz-0x8644cba5af6dfaab-0xc66ea7ebbf4a093-csluu250a.vercel.app. If you like the cleaner flow or want me to send over the project files, just let me know. No worries at all if you're happy with your current setup!",
+  "business_id": "biz_0x8644cba5af6dfaab_0xc66ea7ebbf4a093a",
+  "preview_url": "https://nayom-biz-0x8644cba5af6dfaab-0xc66ea7ebbf4a093-csluu250a.vercel.app",
+  "generated_at": "2026-08-26T16:03:20.647204+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "business_name": "Forest Family Dentistry - Anderson",
+  "key_improvements": [
+    "Added direct click-to-call phone numbers prominently in the global navigation bar",
+    "Streamlined deep content nesting into a clean single-page anchor flow with a services bento grid"
+  ],
+  "provider": "gemini",
+  "prompt_version": "1.0.0",
+  "warnings": []
+}

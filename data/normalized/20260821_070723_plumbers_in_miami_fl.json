@@ -1,0 +1,159 @@
+{
+  "query": "plumbers in Miami FL",
+  "total_found": 5,
+  "usable_count": 5,
+  "executed_at": "2026-08-21T07:07:28.404181+00:00",
+  "duration_seconds": 4.67,
+  "businesses": [
+    {
+      "id": "biz_0x88d9b7a150cb5adb_0x5de8c73deaad4ebc",
+      "name": "Ez Plumbing Repair Services",
+      "category": "Plumber",
+      "categories": [
+        "Plumber",
+        "Drainage service",
+        "Heating contractor",
+        "Water damage restoration service"
+      ],
+      "address": "27 NW 10th Ave Apt 101, Miami, FL 33128, United States",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "postal_code": "33128",
+      "latitude": 25.774205199999997,
+      "longitude": -80.2112247,
+      "phone": "+1786-239-6529",
+      "email": null,
+      "website": "https://www.miamifloridaplumbing.com/",
+      "rating": 4.9,
+      "review_count": 0,
+      "google_place_id": "0x88d9b7a150cb5adb:0x5de8c73deaad4ebc",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ez%20Plumbing%20Repair%20Services%2027%20NW%2010th%20Ave%20Apt%20101%2C%20Miami%2C%20FL%2033128%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-21T07:07:28.403676+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260821_070723_plumbers_in_miami_fl_raw.json"
+    },
+    {
+      "id": "biz_0x88d9b77a4cd97937_0x12bdb84c3f4ea11f",
+      "name": "AKO Plumbing Corp.",
+      "category": "Plumber",
+      "categories": [
+        "Plumber",
+        "Contractor"
+      ],
+      "address": "300 NW 22nd Ave, Miami, FL 33125, United States",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "postal_code": "33125",
+      "latitude": 25.775955,
+      "longitude": -80.231325,
+      "phone": "+1305-269-8033",
+      "email": null,
+      "website": "http://akoplumbing.com/",
+      "rating": 4.8,
+      "review_count": 0,
+      "google_place_id": "0x88d9b77a4cd97937:0x12bdb84c3f4ea11f",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=AKO%20Plumbing%20Corp.%20300%20NW%2022nd%20Ave%2C%20Miami%2C%20FL%2033125%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-21T07:07:28.403800+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260821_070723_plumbers_in_miami_fl_raw.json"
+    },
+    {
+      "id": "biz_0x88d9b7027ae3a455_0xadce7e27423add8",
+      "name": "Miami 24/7 Plumbing - Miami Emergency Plumbers",
+      "category": "Plumber",
+      "categories": [
+        "Plumber"
+      ],
+      "address": "1331 SW 32nd Ave #4, Miami, FL 33145, United States",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "postal_code": "33145",
+      "latitude": 25.759981099999997,
+      "longitude": -80.24667629999999,
+      "phone": "+1305-440-0878",
+      "email": null,
+      "website": "https://www.miami247plumbing.com/",
+      "rating": 4.8,
+      "review_count": 0,
+      "google_place_id": "0x88d9b7027ae3a455:0xadce7e27423add8",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Miami%2024/7%20Plumbing%20-%20Miami%20Emergency%20Plumbers%201331%20SW%2032nd%20Ave%20%234%2C%20Miami%2C%20FL%2033145%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-21T07:07:28.403852+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260821_070723_plumbers_in_miami_fl_raw.json"
+    },
+    {
+      "id": "biz_0x88d9b58c9158b8b5_0xfdaa270786630589",
+      "name": "AAAPLUMBINGSERVICES COM",
+      "category": "Plumber",
+      "categories": [
+        "Plumber"
+      ],
+      "address": "1000 5th St #200, Miami Beach, FL 33139, United States",
+      "city": "Miami Beach",
+      "state": "FL",
+      "country": "United States",
+      "postal_code": "33139",
+      "latitude": 25.7741163,
+      "longitude": -80.13862259999999,
+      "phone": "+1305-504-3504",
+      "email": null,
+      "website": "http://www.aaaplumbingservices.com/",
+      "rating": 4.9,
+      "review_count": 0,
+      "google_place_id": "0x88d9b58c9158b8b5:0xfdaa270786630589",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=AAAPLUMBINGSERVICES%20COM%201000%205th%20St%20%23200%2C%20Miami%20Beach%2C%20FL%2033139%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-21T07:07:28.403894+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260821_070723_plumbers_in_miami_fl_raw.json"
+    },
+    {
+      "id": "biz_0x88d9b47d9484adb3_0xec88e384e692ba57",
+      "name": "Empire Plumbing",
+      "category": "Plumber",
+      "categories": [
+        "Plumber",
+        "Drainage service"
+      ],
+      "address": "1754 Bay Rd, Miami Beach, FL 33139, United States",
+      "city": "Miami Beach",
+      "state": "FL",
+      "country": "United States",
+      "postal_code": "33139",
+      "latitude": 25.793121,
+      "longitude": -80.143934,
+      "phone": "+1305-531-7017",
+      "email": null,
+      "website": "http://www.empireplumbing.com/?utm_source=gbp",
+      "rating": 4.6,
+      "review_count": 0,
+      "google_place_id": "0x88d9b47d9484adb3:0xec88e384e692ba57",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Empire%20Plumbing%201754%20Bay%20Rd%2C%20Miami%20Beach%2C%20FL%2033139%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-21T07:07:28.403954+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260821_070723_plumbers_in_miami_fl_raw.json"
+    }
+  ]
+}

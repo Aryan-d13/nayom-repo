@@ -1,0 +1,132 @@
+[
+  {
+    "longitude": -97.728205,
+    "input_id": "SLKKauihI--2hvcPtpPfwQM",
+    "link": "",
+    "cid": "",
+    "title": "Aqua Dental",
+    "categories": [
+      "Dentist",
+      "Cosmetic dentist",
+      "Dental implants provider",
+      "Orthodontist",
+      "Periodontist"
+    ],
+    "category": "",
+    "address": "811 E 32nd St, Austin, TX 78705, United States",
+    "open_hours": {
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://aquadentalaustin.com/",
+    "phone": "+1512-643-6571",
+    "plus_code": "862477RC+GP",
+    "review_count": 0,
+    "review_rating": 4.8,
+    "reviews_per_rating": null,
+    "latitude": 30.291294999999998,
+    "longtitude": -97.728205,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b58f01adff99:0x3931510ce67e8abf",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.7355807,
+    "input_id": "SLKKauihI--2hvcPtpPfwQM",
+    "link": "",
+    "cid": "",
+    "title": "Austin Dental Works",
+    "categories": [
+      "Dentist",
+      "Cosmetic dentist",
+      "Dental clinic",
+      "Dental hygienist",
+      "Dental implants provider",
+      "Denture care center",
+      "Teeth whitening service"
+    ],
+    "category": "",
+    "address": "4601 N Lamar Blvd #503, Austin, TX 78751, United States",
+    "open_hours": {
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.austindentalworks.com/",
+    "phone": "+1512-877-9822",
+    "plus_code": "86248787+2Q",
+    "review_count": 0,
+    "review_rating": 4.9,
+    "reviews_per_rating": null,
+    "latitude": 30.3150192,
+    "longtitude": -97.7355807,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644ca638c284765:0x76576315d12cc3cd",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  }
+]

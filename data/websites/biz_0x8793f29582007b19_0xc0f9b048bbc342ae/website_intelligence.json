@@ -1,0 +1,193 @@
+{
+  "site_id": "biz_0x8793f29582007b19_0xc0f9b048bbc342ae",
+  "base_url": "https://emergencydentalofomaha.com/",
+  "domain": "emergencydentalofomaha.com",
+  "source_website_json": "E:\\Code\\Nayom\\data\\websites\\biz_0x8793f29582007b19_0xc0f9b048bbc342ae\\website.json",
+  "business_profile": {
+    "business_name": "Emergency Dental of Omaha",
+    "tagline": "Emergency Dental Care When You Need It Most",
+    "description": "Emergency Dental of Omaha is a specialized dental clinic and blog resource led by Dr. Roberto Monteagudo, offering urgent dental care, same-day appointments, general family dentistry, and extensive educational content on oral health.",
+    "industry_category": "Healthcare / Dental Clinic",
+    "value_proposition": "Fast, compassionate same-day emergency dental care and expert insights from experienced practitioners to alleviate pain and restore oral health when patients need it most.",
+    "target_audience": "Residents of Omaha, Nebraska, and surrounding areas experiencing dental emergencies, toothaches, or seeking reliable family and general dental care.",
+    "key_differentiators": [
+      "Same-day appointments and extended hours for urgent needs",
+      "Led by expert Dr. Roberto Monteagudo (Marquette University School of Dentistry graduate)",
+      "Comprehensive educational blog covering preventive care, emergency tips, and health correlations"
+    ]
+  },
+  "services_and_products": [
+    {
+      "name": "Emergency Dental Services",
+      "description": "Urgent dental evaluations and treatments including extractions, broken tooth repair, and severe pain management.",
+      "category": "Core",
+      "target_audience": "Patients experiencing acute dental pain, trauma, or emergencies",
+      "features": [
+        "Same-day appointments",
+        "Walk-ins welcome",
+        "Pain management guidance"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "General & Family Dentistry",
+      "description": "Routine check-ups, comprehensive exams, cleanings, and preventive care.",
+      "category": "Core",
+      "target_audience": "Individuals and families looking for routine oral health maintenance",
+      "features": [
+        "Comprehensive exams",
+        "Dental fillings",
+        "Preventive hygiene education"
+      ],
+      "pricing_hint": null
+    }
+  ],
+  "contact_intelligence": {
+    "emails": [],
+    "phones": [],
+    "addresses": [
+      "Omaha, Nebraska"
+    ],
+    "city": "Omaha",
+    "state_or_region": "Nebraska",
+    "country": "United States",
+    "social_links": [
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/emergencydentalofomaha/"
+      },
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/emergencydentalofomaha/"
+      }
+    ],
+    "contact_forms_found": true,
+    "business_hours": "Extended hours and same-day availability offered",
+    "has_contact_method": true
+  },
+  "brand_and_content": {
+    "tone_and_voice": [
+      "authoritative",
+      "educational",
+      "caring",
+      "accessible"
+    ],
+    "brand_positioning": "Trusted, compassionate emergency and family dental care provider in Omaha focusing on patient education and swift intervention.",
+    "hero_headlines": [
+      "Emergency Dental of Omaha",
+      "Emergency Dental Care When You Need It Most",
+      "3 Reasons to Remove Your Wisdom Teeth",
+      "5 Common Dental Emergencies and How to Avoid Them"
+    ],
+    "important_copy_snippets": [
+      "Dr. Roberto Monteagudo lives in Omaha and makes family time with his wife, Gina, and their seven children a top priority.",
+      "At Emergency Dental of Omaha, we see many dental issues that could have been prevented with proactive care."
+    ],
+    "content_quality_score": 8
+  },
+  "calls_to_action": [
+    {
+      "text": "Book Online",
+      "destination": "https://schedule.jarvisanalytics.com/sameday/emergency-dental-of-america?location_id=9556",
+      "intent": "booking",
+      "prominence": "primary",
+      "location": "Header / Article Metadata"
+    },
+    {
+      "text": "Schedule Today!",
+      "destination": null,
+      "intent": "booking",
+      "prominence": "primary",
+      "location": "Sidebar / Modal Module"
+    },
+    {
+      "text": "Call Us",
+      "destination": null,
+      "intent": "contact",
+      "prominence": "secondary",
+      "location": "Navigation / Footer"
+    }
+  ],
+  "design_and_ux": {
+    "visual_aesthetic": "Clean corporate healthcare layout with content-heavy blog publishing structure",
+    "typography_assessment": "Clear font hierarchy utilizing strong headings and readable body text, optimized for readability across articles.",
+    "color_palette_assessment": "Standard medical professional palette featuring clean white backgrounds, dark text, and contrasting call-to-action buttons.",
+    "layout_and_spacing": "Standard multi-column blog and practice layout with clear table-of-contents jump links and sidebar widgets.",
+    "ux_navigation_flow": "Straightforward navigation enabling quick access to booking, emergency info, and educational blog posts.",
+    "visual_inputs_analyzed": false,
+    "screenshot_observations": [],
+    "strengths": [
+      "Extensive, high-value educational content and blog articles",
+      "Prominent and easily accessible online booking links",
+      "Clear author attribution and professional medical credentials"
+    ],
+    "weaknesses": [
+      "Heavy reliance on text-dense blog posts without enough visual breakout cards",
+      "Contact telephone numbers not prominently displayed directly in text snippets"
+    ]
+  },
+  "technical_and_seo": {
+    "inferred_tech_stack": [
+      "WordPress",
+      "Jarvis Analytics Scheduling",
+      "Hustle Lead Generation"
+    ],
+    "seo_health": "Strong SEO implementation with relevant keyword targeting, meta descriptions, and JSON-LD schemas across blog posts.",
+    "seo_strengths": [
+      "Rich keyword-optimized blog titles and meta descriptions",
+      "Structured data schemas present on pages",
+      "Internal linking between related dental health topics"
+    ],
+    "seo_weaknesses": [
+      "Potential for duplicate snippet structures across similar seasonal blog posts"
+    ],
+    "accessibility_observations": "Semantic heading structures are generally well maintained, though image alt text could be more robust across older blog posts.",
+    "performance_and_structure_notes": "Standard WordPress performance profile; can benefit from static generation or headless Next.js architecture for improved speed."
+  },
+  "redesign_recommendations": {
+    "overall_redesign_verdict": "A modern architectural overhaul using a high-performance Next.js/Tailwind stack will drastically improve load times, booking conversions, and mobile UX.",
+    "strategic_recommendations": [
+      "Elevate emergency booking CTAs to sticky floating banners for immediate mobile access",
+      "Organize the extensive blog library into an interactive, categorized dental knowledge base",
+      "Integrate direct chat/SMS triage options for patients experiencing active dental pain"
+    ],
+    "ui_ux_improvements": [
+      "Adopt a bento-grid layout for services and urgent care options on the homepage",
+      "Streamline the appointment booking handoff to minimize friction points"
+    ],
+    "rebuild_opportunities": [
+      "Rebuild on Next.js and Tailwind CSS with headless WordPress or Sanity CMS",
+      "Implement automated conversational lead-capture funnels for after-hours dental inquiries"
+    ],
+    "quick_wins": [
+      "Add a sticky 'Call Now / Book Same-Day' bar to mobile viewports",
+      "Enhance meta titles with immediate local geo-intent ('Emergency Dentist in Omaha')"
+    ]
+  },
+  "template_recommendation": {
+    "recommended_template": "local-service-leadgen",
+    "template_category": "local_service",
+    "style_direction": "clean_corporate",
+    "layout_pattern": "split_hero_feature_stack",
+    "template_confidence": 0.95,
+    "key_sections": [
+      "hero_emergency_cta",
+      "services_bento_grid",
+      "doctor_bio_trust",
+      "educational_blog_feed",
+      "patient_faqs",
+      "location_hours_footer"
+    ],
+    "reasoning": "A local service lead-generation archetype balances immediate conversion paths (same-day booking/calling) with authoritative educational content, perfectly suited for an urgent dental care clinic."
+  },
+  "metadata": {
+    "provider": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "prompt_version": "1.0.0",
+    "analyzed_at": "2026-08-24T10:01:43.718791+00:00",
+    "screenshots_processed": 0,
+    "duration_seconds": 11.34,
+    "token_usage": null
+  },
+  "warnings": []
+}

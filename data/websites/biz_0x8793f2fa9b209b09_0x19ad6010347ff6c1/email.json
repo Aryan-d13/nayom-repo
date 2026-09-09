@@ -1,0 +1,18 @@
+{
+  "recipient": null,
+  "subject": "Quick thought on Pacific Hills Dental's site and booking flow",
+  "body": "Hi Dr. St. Germain and the Pacific Hills Dental team, I came across your practice while looking at cosmetic and family dental providers in Omaha, and I really appreciate your focus on customized care, especially your advanced CEREC same-day restorations and smile makeovers. While reviewing your current website, I noticed a couple of missed opportunities: the main phone number isn't easily clickable on mobile for instant calling, and the layout lacks a direct online booking widget or prominent AGD Fellow trust badges in the hero section. Because of this, I went ahead and built a modern, high-performance prototype for Pacific Hills Dental featuring a streamlined mobile layout, prominent trust markers, and an interactive services grid. Feel free to check out the live preview here: https://nayom-biz-0x8793f2fa9b209b09-0x19ad6010347ff6c.vercel.app. If you'd like to use this design or have me tweak anything, I'd be happy to send over the project files or chat for 5 minutes. No worries at all if you're happy with your current setup!",
+  "business_id": "biz_0x8793f2fa9b209b09_0x19ad6010347ff6c1",
+  "preview_url": "https://nayom-biz-0x8793f2fa9b209b09-0x19ad6010347ff6c.vercel.app",
+  "generated_at": "2026-08-24T10:02:16.602494+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "business_name": "Pacific Hills Dental",
+  "key_improvements": [
+    "Made the phone number a clickable tel: link across all viewports for easier mobile calling",
+    "Added trust badges and association logos highlighting Dr. St. Germain's AGD Fellowship in the hero section",
+    "Streamlined the service grid layout for better user experience"
+  ],
+  "provider": "gemini",
+  "prompt_version": "1.0.0",
+  "warnings": []
+}

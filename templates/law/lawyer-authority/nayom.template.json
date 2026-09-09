@@ -1,0 +1,59 @@
+{
+  "id": "lawyer-authority",
+  "name": "Lawyer Authority & Legal Practice",
+  "version": "v1",
+  "description": "Prestigious, high-trust law firm template designed for consultation bookings, practice area breakdowns, and attorney bios.",
+  "industry": [
+    "lawyer",
+    "attorney",
+    "legal",
+    "law firm",
+    "counsel",
+    "litigation"
+  ],
+  "categories": [
+    "law",
+    "legal",
+    "professional_services"
+  ],
+  "styles": [
+    "authoritative",
+    "formal",
+    "minimalist",
+    "dark-tech"
+  ],
+  "layouts": [
+    "split_hero_feature_stack",
+    "single_page_anchor_flow"
+  ],
+  "features": [
+    "booking",
+    "pricing",
+    "testimonials",
+    "faqs",
+    "contact_form"
+  ],
+  "entrypoint": "app/page.tsx",
+  "slots": {
+    "site.name": "string",
+    "site.tagline": "string",
+    "site.niche": "string",
+    "hero.title": "string",
+    "hero.subtitle": "string",
+    "hero.cta": "string",
+    "hero.ctaLink": "string",
+    "about.summary": "string",
+    "about.differentiators": "string",
+    "contact.phone": "string",
+    "contact.email": "string",
+    "contact.address": "string",
+    "contact.location": "string",
+    "services": "string",
+    "testimonials": "string",
+    "faqs": "string",
+    "socialLinks": "string",
+    "locations": "string",
+    "seo": "string"
+  },
+  "preview_image": "preview/thumbnail.png"
+}

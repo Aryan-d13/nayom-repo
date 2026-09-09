@@ -1,0 +1,77 @@
+{
+  "query": "dentists in Miami",
+  "total_found": 2,
+  "usable_count": 2,
+  "grid_tiles_searched": 4,
+  "executed_at": "2026-08-21T08:03:52.752402+00:00",
+  "duration_seconds": 7.8,
+  "businesses": [
+    {
+      "id": "biz_0x88d9b9db4cb08d91_0x525edfee1038b72f",
+      "name": "Amaya Dental",
+      "category": "Dentist",
+      "categories": [
+        "Dentist",
+        "Cosmetic dentist",
+        "Oral surgeon",
+        "Periodontist"
+      ],
+      "address": "815 NW 57th Ave #344, Miami, FL 33126, United States",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "postal_code": "33126",
+      "latitude": 25.779753,
+      "longitude": -80.2877412,
+      "phone": "+1305-264-2711",
+      "email": null,
+      "website": "https://www.amayadental.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing",
+      "rating": 4.9,
+      "review_count": 0,
+      "google_place_id": "0x88d9b9db4cb08d91:0x525edfee1038b72f",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Amaya%20Dental%20815%20NW%2057th%20Ave%20%23344%2C%20Miami%2C%20FL%2033126%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-21T08:03:51.213572+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260821_080344_dentists_in_miami_raw.json"
+    },
+    {
+      "id": "biz_0x88d9b72aacb12457_0xc87dfd962babc907",
+      "name": "Dental Team of Miami",
+      "category": "Dentist",
+      "categories": [
+        "Dentist",
+        "Cosmetic dentist",
+        "Dental clinic",
+        "Dental implants periodontist",
+        "Dental implants provider",
+        "Periodontist",
+        "Teeth whitening service"
+      ],
+      "address": "801 NW 37th Ave Ste 204, Miami, FL 33125, United States",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "postal_code": "33125",
+      "latitude": 25.780043199999998,
+      "longitude": -80.2550291,
+      "phone": "+1305-680-3939",
+      "email": null,
+      "website": "https://dentalteamfl.com/locations/miami/?utm_campaign=gmb&utm_medium=gmb&utm_source=google",
+      "rating": 4.8,
+      "review_count": 0,
+      "google_place_id": "0x88d9b72aacb12457:0xc87dfd962babc907",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Dental%20Team%20of%20Miami%20801%20NW%2037th%20Ave%20Ste%20204%2C%20Miami%2C%20FL%2033125%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-21T08:03:51.213666+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260821_080344_dentists_in_miami_raw.json"
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "site_id": "biz_0x88d9b9032b16942f_0x5698f6ec9e507ff0",
+  "base_url": "https://www.mariavaldesgarcia.com/?utm_source=GMB&utm_medium=organic&utm_campaign=DevOptimization&utm_content=Website",
+  "domain": "www.mariavaldesgarcia.com",
+  "source_website_json": "E:\\Code\\Nayom\\data\\websites\\biz_0x88d9b9032b16942f_0x5698f6ec9e507ff0\\website.json",
+  "business_profile": {
+    "business_name": "South Florida Dentistry",
+    "tagline": "Your Partner in Dental Wellness",
+    "description": "South Florida Dentistry, led by Dr. Maria Valdes Garcia with over 30 years of experience, is a top-rated dental practice in Miami, FL offering general dentistry, cosmetic dentistry, implants, and restorative treatments since 1996.",
+    "industry_category": "Healthcare / Dental Practice",
+    "value_proposition": "Conservative, patient-focused dentistry backed by cutting-edge technology, upfront pricing, flexible payment options, and over 30 years of expert care.",
+    "target_audience": "Families, adults, and seniors in Miami, FL and surrounding South Florida areas seeking general, cosmetic, or restorative dental care.",
+    "key_differentiators": [
+      "Over 30 years of professional experience by Dr. Maria Valdes Garcia",
+      "Conservative dentistry philosophy focused on preserving natural teeth",
+      "Comprehensive in-house payment and membership plans",
+      "State-of-the-art diagnostic tools including AI detection and digital scanning"
+    ]
+  },
+  "services_and_products": [
+    {
+      "name": "Dental Exams",
+      "description": "Regular dental exams acting as the foundation of a healthy smile, catching issues early.",
+      "category": "General Dentistry",
+      "target_audience": "All patients",
+      "features": [
+        "Early issue detection",
+        "Gum and teeth health checks"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Teeth Cleanings",
+      "description": "Professional cleanings to remove stubborn plaque and tartar.",
+      "category": "General Dentistry",
+      "target_audience": "All patients",
+      "features": [
+        "Plaque and tartar removal",
+        "Polishing",
+        "Fluoride treatment"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Teeth Whitening",
+      "description": "Simple and effective treatments to brighten smiles and remove stains.",
+      "category": "Cosmetic Dentistry",
+      "target_audience": "Patients seeking aesthetic improvements",
+      "features": [
+        "In-office and at-home options",
+        "Stain removal"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "General Dentistry",
+      "description": "Comprehensive care maintaining oral health from routine check-ups to restorative treatments.",
+      "category": "Core",
+      "target_audience": "All patients",
+      "features": [
+        "Check-ups",
+        "Fillings",
+        "Preventive care"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Cosmetic Dentistry",
+      "description": "Personalized cosmetic solutions to enhance confidence and natural beauty.",
+      "category": "Specialized",
+      "target_audience": "Patients seeking smile makeovers",
+      "features": [
+        "Veneers",
+        "Smile makeovers",
+        "Bonding"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Emergency Dentistry",
+      "description": "Prompt and compassionate care for unexpected dental emergencies and pain.",
+      "category": "Urgent Care",
+      "target_audience": "Patients experiencing acute dental pain or trauma",
+      "features": [
+        "Pain relief",
+        "Urgent evaluations"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "CandidPro - Clear Aligner",
+      "description": "Discreet clear aligners for straightening teeth with remote monitoring.",
+      "category": "Orthodontics",
+      "target_audience": "Teens and adults",
+      "features": [
+        "Nearly invisible trays",
+        "ProMonitoring app tracking",
+        "Precision digital planning"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Dental Implants",
+      "description": "Permanent titanium post replacements for missing tooth roots.",
+      "category": "Restorative",
+      "target_audience": "Patients with missing teeth",
+      "features": [
+        "Single and multi-tooth options",
+        "Full arch support",
+        "Bone integration"
+      ],
+      "pricing_hint": null
+    }
+  ],
+  "contact_intelligence": {
+    "emails": [],
+    "phones": [
+      "(305) 227-5888"
+    ],
+    "addresses": [
+      "8390 W Flagler St STE 211, Miami, FL 33144"
+    ],
+    "city": "Miami",
+    "state_or_region": "FL",
+    "country": "USA",
+    "social_links": [],
+    "contact_forms_found": true,
+    "business_hours": "Monday: 8:00am - 4:30pm, Tuesday: 9:00am - 7:00pm, Wednesday: 8:00am - 5:00pm, Thursday: 9:00am - 7:00pm, Friday: 8:00am - 4:30pm, Saturday: 9:00am - 2:00pm, Sunday: Closed",
+    "has_contact_method": true
+  },
+  "brand_and_content": {
+    "tone_and_voice": [
+      "authoritative",
+      "compassionate",
+      "professional",
+      "reassuring"
+    ],
+    "brand_positioning": "A trusted, patient-first neighborhood dental practice combining 30+ years of clinical experience with modern AI-assisted technology.",
+    "hero_headlines": [
+      "Dentist Miami FL",
+      "Your Partner in Dental Wellness",
+      "Begin Your Journey To A Better Smile"
+    ],
+    "important_copy_snippets": [
+      "The medical and administrative staff headed by Dr. Maria Valdéz provide excellent service.",
+      "Dr. Valdes prides herself on providing conservative dentistry; she wants to keep your teeth in your mouth."
+    ],
+    "content_quality_score": 8
+  },
+  "calls_to_action": [
+    {
+      "text": "Book Online",
+      "destination": "https://book.modento.io/southfloridadentistry/patient-details",
+      "intent": "booking",
+      "prominence": "primary",
+      "location": "Hero"
+    },
+    {
+      "text": "Contact Us",
+      "destination": "/contact-us",
+      "intent": "contact",
+      "prominence": "secondary",
+      "location": "Hero"
+    },
+    {
+      "text": "Book An Appointment",
+      "destination": "https://book.modento.io/southfloridadentistry/patient-details",
+      "intent": "booking",
+      "prominence": "primary",
+      "location": "Mid-Page"
+    }
+  ],
+  "design_and_ux": {
+    "visual_aesthetic": "clean_corporate",
+    "typography_assessment": "Clear font hierarchy utilizing strong sans-serif headings and legible body copy, optimized for readability across devices.",
+    "color_palette_assessment": "Professional healthcare color scheme featuring trustworthy blues, clean whites, and warm accent tones.",
+    "layout_and_spacing": "Standard service-business layout with structured grid sections, clear service cards, and prominent booking entry points.",
+    "ux_navigation_flow": "Straightforward user journey with clear conversion funnels directed toward Modento online booking and phone inquiries.",
+    "visual_inputs_analyzed": false,
+    "screenshot_observations": [],
+    "strengths": [
+      "Comprehensive service coverage with dedicated landing pages",
+      "Clear patient financing and insurance provider disclosures",
+      "Prominent and accessible booking links"
+    ],
+    "weaknesses": [
+      "High text density on certain service subpages",
+      "Heavy reliance on third-party scheduling widgets (Modento) that could be integrated more natively"
+    ]
+  },
+  "technical_and_seo": {
+    "inferred_tech_stack": [
+      "Modento",
+      "WordPress"
+    ],
+    "seo_health": "Strong localized SEO implementation with optimized title tags, meta descriptions, and structured JSON-LD schema entities.",
+    "seo_strengths": [
+      "Targeted local keyword targeting (Dentist Miami FL)",
+      "Multiple schema markup entities embedded across pages",
+      "Clear descriptive URLs for individual treatments"
+    ],
+    "seo_weaknesses": [
+      "Some secondary service pages lack deeper localized semantic terms",
+      "Potential duplicate content across insurance and financing sub-sections"
+    ],
+    "accessibility_observations": "Features UserWay accessibility widget and dedicated accessibility policy page complying with ADA and WCAG guidelines.",
+    "performance_and_structure_notes": "Well-structured content hierarchy with semantic heading tags across all crawled pages."
+  },
+  "redesign_recommendations": {
+    "overall_redesign_verdict": "The website is functional and conversion-oriented for a local practice, but a modern headless Next.js/Tailwind rebuild would drastically improve speed, mobile UX, and local search rankings.",
+    "strategic_recommendations": [
+      "Embed inline appointment scheduling directly onto key conversion pages rather than relying solely on external redirects.",
+      "Enhance trust signals by featuring video testimonials and practitioner video introductions prominently on the homepage."
+    ],
+    "ui_ux_improvements": [
+      "Adopt a bento-grid layout for services to reduce vertical scrolling and improve visual engagement.",
+      "Optimize mobile touch targets for phone calls and online booking buttons."
+    ],
+    "rebuild_opportunities": [
+      "Rebuild using Next.js and Tailwind CSS with a headless CMS for lightning-fast Core Web Vitals.",
+      "Implement automated lead capture and SMS appointment reminder integrations."
+    ],
+    "quick_wins": [
+      "Add sticky mobile action bar with 'Call Now' and 'Book Online' buttons.",
+      "Highlight the $99 New Patient Special offer directly in the hero banner."
+    ]
+  },
+  "template_recommendation": {
+    "recommended_template": "local-service-leadgen",
+    "template_category": "local_service",
+    "style_direction": "clean_corporate",
+    "layout_pattern": "split_hero_feature_stack",
+    "template_confidence": 0.95,
+    "key_sections": [
+      "hero",
+      "trust_badges",
+      "service_bento_grid",
+      "doctor_bio",
+      "insurance_financing_logos",
+      "patient_testimonials",
+      "lead_booking_cta"
+    ],
+    "reasoning": "A local dental practice requires high trust, transparent insurance/financing details, and frictionless booking paths, making a local-service lead generation archetype ideal."
+  },
+  "metadata": {
+    "provider": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "prompt_version": "1.0.0",
+    "analyzed_at": "2026-08-26T09:00:20.601920+00:00",
+    "screenshots_processed": 0,
+    "duration_seconds": 13.87,
+    "token_usage": null
+  },
+  "warnings": []
+}

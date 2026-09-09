@@ -1,0 +1,92 @@
+{
+  "id": "generic-modern",
+  "name": "Generic Modern Universal",
+  "version": "1.0.0",
+  "description": "Universal fallback template adaptable to any commercial business or service provider.",
+  "categories": [
+    "generic",
+    "business",
+    "services",
+    "corporate",
+    "agency",
+    "local_service",
+    "saas_landing"
+  ],
+  "industries": [
+    "generic",
+    "all",
+    "business",
+    "services",
+    "corporate",
+    "consulting",
+    "agency",
+    "saas"
+  ],
+  "style_keywords": [
+    "modern",
+    "clean",
+    "minimalist",
+    "corporate",
+    "light",
+    "glassmorphism",
+    "industrial"
+  ],
+  "layout_patterns": [
+    "single_page_anchor_flow",
+    "split_hero_feature_stack",
+    "bento_grid"
+  ],
+  "supported_features": [
+    "booking",
+    "gallery",
+    "pricing",
+    "testimonials",
+    "faqs",
+    "contact_form",
+    "multi_location"
+  ],
+  "supported_slots": [
+    "site.name",
+    "site.tagline",
+    "site.niche",
+    "hero.title",
+    "hero.subtitle",
+    "hero.cta",
+    "hero.ctaLink",
+    "about.summary",
+    "about.differentiators",
+    "contact.phone",
+    "contact.email",
+    "contact.address",
+    "contact.location",
+    "contact.businessHours",
+    "services",
+    "testimonials",
+    "faqs",
+    "socialLinks",
+    "locations",
+    "seo",
+    "seo.keywords"
+  ],
+  "preview_image": "preview/thumbnail.png",
+  "entrypoint": "app/page.tsx",
+  "capabilities": {
+    "supportsBooking": true,
+    "supportsGallery": true,
+    "supportsPricing": true,
+    "supportsMultiLocation": true,
+    "supportsTestimonials": true,
+    "supportsFaq": true,
+    "supportsBeforeAfter": true
+  },
+  "defaultTheme": {
+    "palette": ["#2563eb", "#16a34a", "#f8fafc", "#0f172a"],
+    "typography": "Inter, sans-serif",
+    "iconStyle": "lucide-standard",
+    "borderRadius": "8px",
+    "buttonStyle": "rounded-standard",
+    "animationStyle": "fade-subtle"
+  },
+  "supportedVariants": ["light", "dark", "glassmorphism", "industrial"],
+  "availableSections": ["hero", "services", "about", "testimonials", "pricing", "faqs", "gallery", "contact", "booking"]
+}

@@ -1,0 +1,18 @@
+{
+  "site.name": "business_identity.business_name",
+  "site.tagline": "business_identity.tagline",
+  "site.niche": "business_identity.industry_category",
+  "hero.title": "brand_and_content.hero_headlines[0]",
+  "hero.subtitle": "business_identity.description",
+  "hero.cta": "calls_to_action[0].text",
+  "hero.ctaLink": "calls_to_action[0].destination",
+  "about.summary": "business_identity.value_proposition",
+  "about.differentiators": "business_identity.key_differentiators",
+  "contact.phone": "contact_intelligence.phones[0]",
+  "contact.email": "contact_intelligence.emails[0]",
+  "contact.address": "contact_intelligence.addresses[0]",
+  "contact.location": "contact_intelligence.city",
+  "services": "services_and_products",
+  "testimonials": "brand_and_content.important_copy_snippets",
+  "socialLinks": "contact_intelligence.social_links"
+}

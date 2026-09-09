@@ -1,0 +1,18 @@
+{
+  "recipient": null,
+  "subject": "Quick thought on Gotmefit's digital presence and platform",
+  "body": "Hi Gotmefit Team, I came across Gotmefit while looking into fitness platforms in Raipur and really appreciate your focus on empowering individuals through personalized wellness routines and comprehensive tracking. While browsing your current site, I noticed a couple of missed opportunities, such as limited prominent contact options and missing meta descriptions that could help with local search visibility. To see how these could be streamlined, I went ahead and put together a modern, live prototype for you featuring a clean bento grid layout, a more direct hero call-to-action, and clear booking paths. Feel free to check out the live preview here: https://nayom-biz-0x3a28dd14c41e6695-0xb2bce0e892d9848-tzhkc2sgt.vercel.app. If you would like to use this design or have me tweak anything, I would be happy to send over the project files or chat for 5 minutes. No worries at all if you are happy with your current setup!",
+  "business_id": "biz_0x3a28dd14c41e6695_0xb2bce0e892d98481",
+  "preview_url": "https://nayom-biz-0x3a28dd14c41e6695-0xb2bce0e892d9848-tzhkc2sgt.vercel.app",
+  "generated_at": "2026-08-23T08:59:13.064235+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "business_name": "Gotmefit",
+  "key_improvements": [
+    "Added prominent contact options and support pathways",
+    "Refined primary hero CTA messaging for higher conversion",
+    "Improved local search visibility with structured markup and descriptions"
+  ],
+  "provider": "gemini",
+  "prompt_version": "1.0.0",
+  "warnings": []
+}

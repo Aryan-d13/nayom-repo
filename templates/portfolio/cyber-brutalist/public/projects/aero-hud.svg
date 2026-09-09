@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGradTeal" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#041217"/>
+      <stop offset="100%" stop-color="#08252f"/>
+    </linearGradient>
+    <pattern id="gridTeal" width="50" height="50" patternUnits="userSpaceOnUse">
+      <path d="M 50 0 L 0 0 0 50" fill="none" stroke="rgba(0,240,255,0.08)" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="800" fill="url(#bgGradTeal)"/>
+  <rect width="1200" height="800" fill="url(#gridTeal)"/>
+
+  <!-- Tactical Border Frame -->
+  <rect x="30" y="30" width="1140" height="740" fill="none" stroke="rgba(0,240,255,0.3)" stroke-width="1.5"/>
+  <path d="M 30 70 L 30 30 L 70 30" fill="none" stroke="#00F0FF" stroke-width="3"/>
+  <path d="M 1130 30 L 1170 30 L 1170 70" fill="none" stroke="#00F0FF" stroke-width="3"/>
+  <path d="M 30 730 L 30 770 L 70 770" fill="none" stroke="#00F0FF" stroke-width="3"/>
+  <path d="M 1130 770 L 1170 770 L 1170 730" fill="none" stroke="#00F0FF" stroke-width="3"/>
+
+  <!-- Header -->
+  <text x="60" y="70" font-family="monospace" font-size="14" fill="#00F0FF" letter-spacing="3">SYS.HUD // AERO-TACTICAL-V4 [ONLINE]</text>
+  <text x="960" y="70" font-family="monospace" font-size="14" fill="#FFE600" letter-spacing="2">60K VECTORS // 120 FPS</text>
+  <line x1="60" y1="85" x2="1140" y2="85" stroke="rgba(0,240,255,0.2)" stroke-width="1"/>
+
+  <!-- Flight HUD / Radar Reticle -->
+  <g transform="translate(600, 400)">
+    <circle r="260" fill="none" stroke="rgba(0,240,255,0.15)" stroke-width="1.5"/>
+    <circle r="200" fill="none" stroke="rgba(0,240,255,0.3)" stroke-width="2" stroke-dasharray="10 15"/>
+    <circle r="120" fill="none" stroke="#00F0FF" stroke-width="1.5"/>
+    <circle r="40" fill="none" stroke="#FFE600" stroke-width="2"/>
+
+    <!-- Pitch Ladder bars -->
+    <line x1="-100" y1="-80" x2="-40" y2="-80" stroke="#00F0FF" stroke-width="2"/>
+    <line x1="40" y1="-80" x2="100" y2="-80" stroke="#00F0FF" stroke-width="2"/>
+    <line x1="-120" y1="0" x2="-30" y2="0" stroke="#00F0FF" stroke-width="2.5"/>
+    <line x1="30" y1="0" x2="120" y2="0" stroke="#00F0FF" stroke-width="2.5"/>
+    <line x1="-100" y1="80" x2="-40" y2="80" stroke="#00F0FF" stroke-width="2"/>
+    <line x1="40" y1="80" x2="100" y2="80" stroke="#00F0FF" stroke-width="2"/>
+
+    <!-- Compass ticks -->
+    <path d="M 0 -260 L 0 -240 M 0 260 L 0 240 M -260 0 L -240 0 M 260 0 L 240 0" stroke="#00F0FF" stroke-width="3"/>
+    <polygon points="0,-275 -10,-290 10,-290" fill="#00F0FF"/>
+
+    <!-- Vector point clouds -->
+    <circle cx="80" cy="-60" r="4" fill="#FFE600"/>
+    <circle cx="-120" cy="-90" r="4" fill="#00F0FF"/>
+    <circle cx="150" cy="110" r="4" fill="#00F0FF"/>
+    <circle cx="-90" cy="140" r="4" fill="#FFE600"/>
+    <line x1="80" y1="-60" x2="150" y2="110" stroke="rgba(255,230,0,0.3)" stroke-width="1" stroke-dasharray="4 4"/>
+  </g>
+
+  <!-- Side Altitude & Velocity Telemetry -->
+  <g transform="translate(80, 200)">
+    <rect width="160" height="260" fill="rgba(0,10,15,0.8)" stroke="rgba(0,240,255,0.3)" stroke-width="1"/>
+    <text x="20" y="30" font-family="monospace" font-size="12" fill="#00F0FF">ALTITUDE (FT)</text>
+    <text x="20" y="70" font-family="monospace" font-weight="bold" font-size="28" fill="#FFFFFF">38,400</text>
+    <line x1="20" y1="90" x2="140" y2="90" stroke="rgba(0,240,255,0.2)" stroke-width="1"/>
+    <text x="20" y="120" font-family="monospace" font-size="12" fill="#00F0FF">AIRSPEED (KTS)</text>
+    <text x="20" y="160" font-family="monospace" font-weight="bold" font-size="28" fill="#FFE600">M 2.45</text>
+    <line x1="20" y1="180" x2="140" y2="180" stroke="rgba(0,240,255,0.2)" stroke-width="1"/>
+    <text x="20" y="210" font-family="monospace" font-size="12" fill="#00F0FF">HEADING</text>
+    <text x="20" y="240" font-family="monospace" font-weight="bold" font-size="20" fill="#FFFFFF">284° NW</text>
+  </g>
+
+  <!-- Right Sensor Matrix -->
+  <g transform="translate(940, 200)">
+    <rect width="180" height="260" fill="rgba(0,10,15,0.8)" stroke="rgba(0,240,255,0.3)" stroke-width="1"/>
+    <text x="20" y="30" font-family="monospace" font-size="12" fill="#00F0FF">SENSOR MATRIX</text>
+    <text x="20" y="65" font-family="monospace" font-size="11" fill="rgba(255,255,255,0.7)">RADAR: ACQUIRED</text>
+    <text x="20" y="95" font-family="monospace" font-size="11" fill="rgba(255,255,255,0.7)">LiDAR: 60 FPS</text>
+    <text x="20" y="125" font-family="monospace" font-size="11" fill="rgba(255,255,255,0.7)">IFF: SECURE</text>
+    <text x="20" y="155" font-family="monospace" font-size="11" fill="#FFE600">GLSL: COMPILED</text>
+    <polyline points="20,230 40,210 60,225 80,195 100,215 120,185 140,220 160,200" fill="none" stroke="#00F0FF" stroke-width="2"/>
+  </g>
+
+  <text x="60" y="740" font-family="monospace" font-size="12" fill="rgba(0,240,255,0.6)" letter-spacing="2">[ CORE 02 // WEBGL GPU CHOREOGRAPHY ]</text>
+  <text x="980" y="740" font-family="monospace" font-size="12" fill="#00F0FF" letter-spacing="2">STATUS: LOCK-ON</text>
+</svg>

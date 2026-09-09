@@ -1,0 +1,291 @@
+{
+  "site_id": "biz_0x88d926404b6004c1_0xbad59584dd3d0c8",
+  "base_url": "https://fgddental.com/",
+  "domain": "fgddental.com",
+  "source_website_json": "E:\\Code\\Nayom\\data\\websites\\biz_0x88d926404b6004c1_0xbad59584dd3d0c8\\website.json",
+  "business_profile": {
+    "business_name": "Florida Gardens Dental Center",
+    "tagline": "Building Healthy & Beautiful Smiles in Lake Worth",
+    "description": "Florida Gardens Dental Center is an established family and cosmetic dental practice in Lake Worth, Florida, providing comprehensive general, cosmetic, restorative, and emergency dental services.",
+    "industry_category": "Dental Practice",
+    "value_proposition": "Comprehensive, compassionate family and cosmetic dental care backed by decades of experience, flexible financing options, and same-day emergency appointments in Lake Worth.",
+    "target_audience": "Families, adults, and individuals seeking routine, cosmetic, restorative, or emergency dental care in Lake Worth, FL and surrounding areas (33467).",
+    "key_differentiators": [
+      "Decades of serving the Lake Worth community",
+      "Same-day emergency appointments available",
+      "In-house dental savings plan for uninsured patients",
+      "Partnerships with flexible financing providers like Sunbit, CareCredit, and Cherry",
+      "Proprietary mobile app and convenient patient portal"
+    ]
+  },
+  "services_and_products": [
+    {
+      "name": "Ceramic Dental Crowns",
+      "description": "All-ceramic, metal-free restorations designed to restore the integrity, function, and natural appearance of damaged or decayed teeth.",
+      "category": "Core Restorative",
+      "target_audience": null,
+      "features": [
+        "Metal-free",
+        "Durable",
+        "Natural aesthetic",
+        "Biocompatible"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Clear Aligners",
+      "description": "Custom, removable transparent trays providing a discreet and convenient alternative to traditional metal braces for adults and teens.",
+      "category": "Orthodontics",
+      "target_audience": null,
+      "features": [
+        "Removable",
+        "Discreet",
+        "Custom-tailored",
+        "Improves bite and hygiene"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Dental Implants",
+      "description": "Advanced tooth replacement solution mimicking natural tooth roots to support single crowns, fixed bridges, or full arches.",
+      "category": "Restorative / Implantology",
+      "target_audience": null,
+      "features": [
+        "Permanent stability",
+        "Prevents bone loss",
+        "Lifelike appearance"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Emergency Dental Treatment",
+      "description": "Urgent dental care for severe toothaches, knocked-out teeth, abscesses, broken crowns, and soft tissue injuries.",
+      "category": "Emergency Care",
+      "target_audience": null,
+      "features": [
+        "Same-day appointments",
+        "Pain management",
+        "Trauma intervention"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Teeth Whitening",
+      "description": "Professional-strength in-office and take-home whitening systems to safely remove stains and brighten smiles.",
+      "category": "Cosmetic",
+      "target_audience": null,
+      "features": [
+        "Professional grade",
+        "Safe formulation",
+        "Dramatic brightening"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Porcelain Veneers",
+      "description": "Ultra-thin custom porcelain facings bonded to front teeth to correct chips, gaps, discoloration, or minor misalignment.",
+      "category": "Cosmetic",
+      "target_audience": null,
+      "features": [
+        "Minimally invasive",
+        "Long-lasting",
+        "Natural aesthetics"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Periodontal Treatment",
+      "description": "Non-surgical and surgical treatments to combat gingivitis, periodontitis, and restore gum health.",
+      "category": "Core Preventive",
+      "target_audience": null,
+      "features": [
+        "Scaling and root planing",
+        "Gum disease prevention",
+        "Systemic health linkage"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Night Guards & Sports Mouthguards",
+      "description": "Custom-fabricated oral appliances to protect teeth from bruxism (clenching/grinding) and sports-related trauma.",
+      "category": "Preventive",
+      "target_audience": null,
+      "features": [
+        "Custom fit",
+        "TMJ protection",
+        "Durable materials"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Digital Radiography",
+      "description": "Low-radiation, computer-based digital imaging for instant, accurate diagnostic evaluation.",
+      "category": "Diagnostic",
+      "target_audience": null,
+      "features": [
+        "Reduced radiation",
+        "Instant imaging",
+        "Eco-friendly (chemical-free)"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Oral Cancer Screening",
+      "description": "Comprehensive visual and tactile examinations for early detection of oral abnormalities and precancerous conditions.",
+      "category": "Diagnostic / Preventive",
+      "target_audience": null,
+      "features": [
+        "Early detection",
+        "Head and neck inspection",
+        "Risk factor review"
+      ],
+      "pricing_hint": null
+    }
+  ],
+  "contact_intelligence": {
+    "emails": [
+      "FloridaGardensDentalCenter@comcast.net"
+    ],
+    "phones": [
+      "(561) 968-7050"
+    ],
+    "addresses": [
+      "7479 Lake Worth Road, Suite B, Lake Worth, FL 33467"
+    ],
+    "city": "Lake Worth",
+    "state_or_region": "FL",
+    "country": "US",
+    "social_links": [],
+    "contact_forms_found": true,
+    "business_hours": null,
+    "has_contact_method": true
+  },
+  "brand_and_content": {
+    "tone_and_voice": [
+      "professional",
+      "compassionate",
+      "educational",
+      "reassuring"
+    ],
+    "brand_positioning": "A trusted, long-standing neighborhood dental practice combining advanced technology with patient-centered, stress-free family and cosmetic care.",
+    "hero_headlines": [
+      "Welcome to Florida Gardens Dental Center",
+      "Building Healthy & Beautiful Smiles",
+      "Emergency Dentistry in Lake Worth Beach"
+    ],
+    "important_copy_snippets": [
+      "Serving the Lake Worth community for nearly four decades, emphasizes preventative measures like regular check-ups, cleanings, brushing, flossing.",
+      "If you don't have insurance we offer a very affordable 'In House Dental Plan' that is available for individuals and families."
+    ],
+    "content_quality_score": 8
+  },
+  "calls_to_action": [
+    {
+      "text": "Request an Appointment",
+      "destination": "https://patient.modento.io/florida-gardens-dental/consult",
+      "intent": "booking",
+      "prominence": "primary",
+      "location": "Header / Navigation / Hero"
+    },
+    {
+      "text": "(561) 968-7050",
+      "destination": "tel:+15619687050",
+      "intent": "contact",
+      "prominence": "primary",
+      "location": "Header / Top bar"
+    },
+    {
+      "text": "Patient Portal",
+      "destination": "https://app.modento.io/florida-gardens-dental/",
+      "intent": "navigation",
+      "prominence": "secondary",
+      "location": "Footer / Office Page"
+    }
+  ],
+  "design_and_ux": {
+    "visual_aesthetic": "Clean corporate dental practice website featuring traditional layout structures, clear service silos, and prominent booking triggers.",
+    "typography_assessment": "Clear typographic hierarchy with readable sans-serif body fonts and distinct heading scales for readability across devices.",
+    "color_palette_assessment": "Trust-building healthcare palette utilizing medical blues, crisp whites, and approachable accent tones.",
+    "layout_and_spacing": "Structured multi-page layout with comprehensive service pages, clear contact footers, and accessible appointment modals/links via Modento.",
+    "ux_navigation_flow": "Logical navigation flow with easy access to new patient info, services library, and direct phone/online booking integration.",
+    "visual_inputs_analyzed": false,
+    "screenshot_observations": [],
+    "strengths": [
+      "Comprehensive dental library and service information",
+      "Multiple patient touchpoints including custom mobile app and patient portal",
+      "Clear emergency and financing options highlighted prominently"
+    ],
+    "weaknesses": [
+      "Heavy blocks of text on service pages could benefit from more visual bento-grid layouts",
+      "Limited direct patient video testimonials or real clinic photography integration in text snippets"
+    ]
+  },
+  "technical_and_seo": {
+    "inferred_tech_stack": [
+      "Modento Integration",
+      "WordPress / Custom CMS",
+      "HTML5",
+      "CSS3",
+      "JavaScript"
+    ],
+    "seo_health": "Strong local SEO implementation with highly targeted location keywords (Lake Worth, 33467, Palm Beach County) and detailed schema/meta descriptions across service sub-pages.",
+    "seo_strengths": [
+      "Extensive keyword optimization for specific dental procedures in Lake Worth FL",
+      "Clear XML sitemap and hierarchical page structure",
+      "Local service keywords integrated into H1 and meta tags"
+    ],
+    "seo_weaknesses": [
+      "Some meta descriptions and content blocks can appear slightly dense or repetitive across similar service categories"
+    ],
+    "accessibility_observations": "Dedicated accessibility statement referencing WCAG 2.0 Level AA compliance targets and user feedback mechanisms.",
+    "performance_and_structure_notes": "Well-structured semantic markup with clean heading hierarchies and fast-loading text content."
+  },
+  "redesign_recommendations": {
+    "overall_redesign_verdict": "The current website is functionally robust and SEO-optimized, but could be modernized with a sleek Next.js/Tailwind architecture, interactive smile simulator, and streamlined mobile conversion funnels.",
+    "strategic_recommendations": [
+      "Highlight same-day emergency availability higher up on the mobile viewport",
+      "Feature before-and-after smile gallery prominently on the homepage to boost cosmetic conversion",
+      "Integrate patient reviews and star ratings directly into the hero section"
+    ],
+    "ui_ux_improvements": [
+      "Adopt modern card-based bento grids for services rather than lengthy text pages",
+      "Ensure appointment booking buttons remain sticky on mobile screens",
+      "Add interactive FAQ accordions to reduce cognitive load on service pages"
+    ],
+    "rebuild_opportunities": [
+      "Rebuild using Next.js and Tailwind CSS for superior Core Web Vitals and lightning-fast page transitions",
+      "Integrate headless scheduling widgets for seamless zero-friction patient onboarding"
+    ],
+    "quick_wins": [
+      "Add click-to-call phone buttons in the mobile sticky header",
+      "Prominently display accepted insurance logos and financing partners (Sunbit, CareCredit, Cherry) on the homepage"
+    ]
+  },
+  "template_recommendation": {
+    "recommended_template": "local-service-leadgen",
+    "template_category": "local_service",
+    "style_direction": "clean_corporate",
+    "layout_pattern": "split_hero_feature_stack",
+    "template_confidence": 0.95,
+    "key_sections": [
+      "hero",
+      "emergency_banner",
+      "services_bento",
+      "doctor_bios",
+      "financing_partners",
+      "patient_testimonials",
+      "lead_booking_cta"
+    ],
+    "reasoning": "A local service lead generation template optimized for medical and dental practices ensures high-converting appointment booking calls to action, prominent phone numbers, trust badges, and clear service categorization."
+  },
+  "metadata": {
+    "provider": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "prompt_version": "1.0.0",
+    "analyzed_at": "2026-08-26T09:00:02.770813+00:00",
+    "screenshots_processed": 0,
+    "duration_seconds": 13.85,
+    "token_usage": null
+  },
+  "warnings": []
+}

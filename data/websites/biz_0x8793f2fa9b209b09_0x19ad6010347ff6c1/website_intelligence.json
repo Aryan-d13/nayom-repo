@@ -1,0 +1,231 @@
+{
+  "site_id": "biz_0x8793f2fa9b209b09_0x19ad6010347ff6c1",
+  "base_url": "https://www.pacifichillsdental.com/",
+  "domain": "www.pacifichillsdental.com",
+  "source_website_json": "E:\\Code\\Nayom\\data\\websites\\biz_0x8793f2fa9b209b09_0x19ad6010347ff6c1\\website.json",
+  "business_profile": {
+    "business_name": "Pacific Hills Dental",
+    "tagline": "Your Home for Customized Care",
+    "description": "Pacific Hills Dental is a family dental office located in Omaha, NE, led by Dr. Tom St. Germain. They offer customized care ranging from routine checkups and cleanings to advanced cosmetic and restorative dental treatments.",
+    "industry_category": "Dental & Healthcare",
+    "value_proposition": "Customized family and cosmetic dental care tailored to each patient's specific needs and preferences through advanced dental technology and gentle treatment approaches.",
+    "target_audience": "Families and individuals in the Omaha, NE area seeking routine dental care, cosmetic enhancements, or restorative treatments.",
+    "key_differentiators": [
+      "Extensive experience in custom dental treatments",
+      "Led by Dr. Tom St. Germain, Fellow of the Academy of General Dentistry",
+      "Specializes in family-wide care from children to adults",
+      "Advanced dental technology for customized procedures"
+    ]
+  },
+  "services_and_products": [
+    {
+      "name": "Smile Makeover",
+      "description": "Comprehensive cosmetic treatments designed to improve the overall appearance of your smile.",
+      "category": "Cosmetic",
+      "target_audience": null,
+      "features": [
+        "Porcelain veneers",
+        "Teeth alignment and reshaping"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Dental Implants",
+      "description": "Permanent replacement solutions for missing teeth.",
+      "category": "Restorative",
+      "target_audience": null,
+      "features": [
+        "Lifelike appearance",
+        "Functional bite restoration"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "CEREC Restorations",
+      "description": "Same-day dental restorations using advanced technology.",
+      "category": "Restorative",
+      "target_audience": null,
+      "features": [
+        "Single-visit crowns or inlays"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Teeth Whitening",
+      "description": "Professional stain removal treatments to brighten smiles.",
+      "category": "Cosmetic",
+      "target_audience": null,
+      "features": [
+        "In-office whitening treatments",
+        "At-home whitening kits"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Bruxism & TMJs",
+      "description": "Specialized treatments for teeth grinding and jaw joint disorders.",
+      "category": "Therapeutic",
+      "target_audience": null,
+      "features": [
+        "Bite analysis",
+        "Custom bite guards"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Dental Emergencies",
+      "description": "Urgent dental care and tips to minimize immediate trauma.",
+      "category": "Emergency",
+      "target_audience": null,
+      "features": [
+        "Immediate scheduling",
+        "Emergency pain management advice"
+      ],
+      "pricing_hint": null
+    }
+  ],
+  "contact_intelligence": {
+    "emails": [],
+    "phones": [
+      "(402)330-2243"
+    ],
+    "addresses": [
+      "Omaha, NE"
+    ],
+    "city": "Omaha",
+    "state_or_region": "NE",
+    "country": "US",
+    "social_links": [],
+    "contact_forms_found": true,
+    "business_hours": null,
+    "has_contact_method": true
+  },
+  "brand_and_content": {
+    "tone_and_voice": [
+      "welcoming",
+      "professional",
+      "reassuring",
+      "community-focused"
+    ],
+    "brand_positioning": "A trusted, community-centered family dental practice emphasizing personalized care and clinical precision.",
+    "hero_headlines": [
+      "Your Home for Customized Care"
+    ],
+    "important_copy_snippets": [
+      "You deserve dental care designed just for you. That’s why we take time to get to know you before we ever examine your smile.",
+      "From routine checkups and cleanings to bite analysis and treatment options designed specifically for children..."
+    ],
+    "content_quality_score": 7
+  },
+  "calls_to_action": [
+    {
+      "text": "Call Us Today(402) 330-2243",
+      "destination": "tel:4023302243",
+      "intent": "booking",
+      "prominence": "primary",
+      "location": "Header / Hero"
+    },
+    {
+      "text": "Send",
+      "destination": null,
+      "intent": "lead_capture",
+      "prominence": "primary",
+      "location": "Contact Form"
+    },
+    {
+      "text": "Contact Us",
+      "destination": null,
+      "intent": "contact",
+      "prominence": "secondary",
+      "location": "Navigation / Section"
+    },
+    {
+      "text": "Read More",
+      "destination": null,
+      "intent": "navigation",
+      "prominence": "subtle",
+      "location": "Blog Section"
+    }
+  ],
+  "design_and_ux": {
+    "visual_aesthetic": "Traditional local medical practice layout with standard WordPress block structures.",
+    "typography_assessment": "Clear heading scale using standard web fonts, but lacks distinct typographic personality.",
+    "color_palette_assessment": "Standard medical blues and neutral tones emphasizing cleanliness and clinical trust.",
+    "layout_and_spacing": "Standard vertical stack layout with adequate spacing between content blocks, but could benefit from a more modern grid or bento arrangement.",
+    "ux_navigation_flow": "Straightforward linear flow down the single crawled homepage with prominent click-to-call buttons.",
+    "visual_inputs_analyzed": false,
+    "screenshot_observations": [],
+    "strengths": [
+      "Clear phone number visibility",
+      "Strong focus on family and patient comfort",
+      "Structured service offerings"
+    ],
+    "weaknesses": [
+      "Heavy reliance on standard WordPress form styling",
+      "Lacks interactive booking widgets or online scheduling integration",
+      "Visual design feels a bit generic and dated"
+    ]
+  },
+  "technical_and_seo": {
+    "inferred_tech_stack": [
+      "WordPress",
+      "Contact Form 7"
+    ],
+    "seo_health": "Good local SEO meta description targeting Omaha, NE, but lacks deeper schema markup integration beyond basic JSON-LD.",
+    "seo_strengths": [
+      "Clear geo-targeted meta descriptions and titles",
+      "Service-oriented keyword targeting"
+    ],
+    "seo_weaknesses": [
+      "Limited internal linking structures on the single-page view",
+      "Opportunity to expand local schema properties (e.g. LocalBusiness, Dentist)"
+    ],
+    "accessibility_observations": "Standard semantic HTML headings used, but needs thorough review of alt tags and contrast ratios.",
+    "performance_and_structure_notes": "WordPress asset bloat can be minimized by migrating to a headless or static Next.js frontend."
+  },
+  "redesign_recommendations": {
+    "overall_redesign_verdict": "A modern redesign is recommended to transition from a dated WordPress template to a high-converting, lightning-fast local service experience with embedded online booking.",
+    "strategic_recommendations": [
+      "Incorporate direct online appointment scheduling to capture high-intent mobile traffic.",
+      "Highlight patient testimonials and before/after smile galleries near the top of the page."
+    ],
+    "ui_ux_improvements": [
+      "Adopt a modern clean corporate medical aesthetic with friendly imagery and soft pastel accents.",
+      "Implement sticky mobile navigation with a persistent 'Call Now' button."
+    ],
+    "rebuild_opportunities": [
+      "Rebuild using Next.js and Tailwind CSS for superior Core Web Vitals and SEO performance."
+    ],
+    "quick_wins": [
+      "Make the phone number a clickable tel: link across all viewports.",
+      "Add trust badges and association logos (AGD Fellow) to the hero section."
+    ]
+  },
+  "template_recommendation": {
+    "recommended_template": "local-service-leadgen",
+    "template_category": "local_service",
+    "style_direction": "clean_corporate",
+    "layout_pattern": "single_page_anchor_flow",
+    "template_confidence": 0.95,
+    "key_sections": [
+      "hero",
+      "services_grid",
+      "doctor_profile",
+      "before_after_gallery",
+      "testimonials",
+      "lead_booking_cta",
+      "contact_footer"
+    ],
+    "reasoning": "A local dental practice requires an approachable, high-trust layout optimized for local phone calls and appointment bookings."
+  },
+  "metadata": {
+    "provider": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "prompt_version": "1.0.0",
+    "analyzed_at": "2026-08-24T10:00:56.883965+00:00",
+    "screenshots_processed": 0,
+    "duration_seconds": 9.04,
+    "token_usage": null
+  },
+  "warnings": []
+}

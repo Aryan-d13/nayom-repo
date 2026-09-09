@@ -1,0 +1,286 @@
+{
+  "site_id": "biz_0x87938de21d137e6d_0x11c6d0c698d075ba",
+  "base_url": "https://andingfamilydental.com/?utm_source=GMB&utm_medium=Organic&utm_campaign=GMBListing",
+  "domain": "andingfamilydental.com",
+  "source_website_json": "E:\\Code\\Nayom\\data\\websites\\biz_0x87938de21d137e6d_0x11c6d0c698d075ba\\website.json",
+  "business_profile": {
+    "business_name": "Anding Family Dental",
+    "tagline": "Dentist in Omaha, NE 68124 | Dentist Near You",
+    "description": "Anding Family Dental is a neighborhood dental practice located in Omaha, NE (68124), founded by Dr. Michelle Chang and her husband Galen in 2003. The practice offers comprehensive dental care including general, preventive, cosmetic, restorative, and emergency dentistry for patients of all ages.",
+    "industry_category": "Healthcare / Dental Practice",
+    "value_proposition": "Comprehensive, patient-centered family and emergency dental care with over 20 years of experience, flexible hours including late evenings, and membership plans for accessible pricing.",
+    "target_audience": "Families, individuals, children, and adults living in Omaha, NE and surrounding neighborhoods such as Westbrook, Westside, and Aksarben/Elmwood Park looking for routine checkups, cosmetic treatments, or emergency dental services.",
+    "key_differentiators": [
+      "Over 20 years of experience in Omaha",
+      "Flexible office hours open late on Tuesdays and Wednesdays until 7 PM",
+      "Comprehensive one-stop shop for general, cosmetic, and emergency care",
+      "Affordable membership plans via Kleer",
+      "Specialized VIP teeth whitening and free implant consultations"
+    ]
+  },
+  "services_and_products": [
+    {
+      "name": "Dental Cleanings & Exams",
+      "description": "Routine professional cleanings and examinations to remove plaque, prevent decay, and monitor oral health twice a year.",
+      "category": "Core / Preventive",
+      "target_audience": "Families and individuals of all ages",
+      "features": [
+        "Plaque and tartar removal",
+        "Teeth polishing and flossing",
+        "Comprehensive oral exam by Dr. Chang",
+        "Digital X-rays"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Root Canal Treatment",
+      "description": "Endodontic therapy to remove infected pulp, relieve severe tooth pain, and preserve the natural tooth structure.",
+      "category": "Core / Restorative",
+      "target_audience": "Patients experiencing severe decay or tooth infection",
+      "features": [
+        "Painless local anesthesia",
+        "Infected pulp removal and cleaning",
+        "Temporary and permanent sealing",
+        "Crown placement for strength"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Dental Implants & Restoration",
+      "description": "Permanent tooth replacement solutions coordinating with local periodontists and oral surgeons.",
+      "category": "Core / Restorative",
+      "target_audience": "Patients missing one, multiple, or all teeth",
+      "features": [
+        "Single crowns",
+        "Fixed bridges",
+        "All-on-Four implants",
+        "Implant-supported dentures"
+      ],
+      "pricing_hint": "Free Consultation for Implants promotion available"
+    },
+    {
+      "name": "Dental Veneers & Laminates",
+      "description": "Custom porcelain shells bonded to the front of teeth to correct discoloration, chips, gaps, and misalignment.",
+      "category": "Cosmetic",
+      "target_audience": "Patients wanting a smile makeover",
+      "features": [
+        "Stain-resistant porcelain material",
+        "Natural tooth appearance",
+        "Durability lasting for decades",
+        "Versatile correction of imperfections"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Emergency Dental Care",
+      "description": "Urgent dental services for knocked-out teeth, severe toothaches, abscesses, and broken dental work.",
+      "category": "Core / Emergency",
+      "target_audience": "Patients experiencing sudden oral trauma or severe pain",
+      "features": [
+        "Prompt evaluation and treatment",
+        "Abscess management",
+        "Tooth preservation support",
+        "Emergency pain relief"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Teeth Whitening",
+      "description": "Professional in-office and take-home whitening options to dramatically brighten smiles safely.",
+      "category": "Cosmetic",
+      "target_audience": "Patients with stained or discolored teeth",
+      "features": [
+        "In-office whitening in about an hour",
+        "Custom take-home whitening trays",
+        "Gum protection during procedure",
+        "Long-lasting results"
+      ],
+      "pricing_hint": "$99 VIP Teeth Whitening promotion"
+    },
+    {
+      "name": "Family Dentistry",
+      "description": "Kid-friendly dental care focusing on preventive education, fluoride treatments, and dental sealants.",
+      "category": "Core / Preventive",
+      "target_audience": "Children, teens, and families",
+      "features": [
+        "Early dental visits starting at age one",
+        "Fluoride treatments",
+        "Dental sealants",
+        "Orthodontic guidance for teens"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Periodontal Disease Treatment",
+      "description": "Management and treatment of gingivitis and advanced gum disease to restore gum health.",
+      "category": "Core / Restorative",
+      "target_audience": "Patients suffering from bleeding gums, bad breath, or receding gums",
+      "features": [
+        "Deep cleaning and plaque removal",
+        "Bacterial infection control",
+        "Periodontal surgery referral if needed"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Restorative Dentistry",
+      "description": "Tooth-colored fillings and dental bonding to repair decayed, damaged, or broken teeth.",
+      "category": "Core / Restorative",
+      "target_audience": "Patients with cavities or minor tooth damage",
+      "features": [
+        "Tooth-colored composite fillings",
+        "Versatile dental bonding",
+        "Natural aesthetic blending"
+      ],
+      "pricing_hint": null
+    }
+  ],
+  "contact_intelligence": {
+    "emails": [],
+    "phones": [
+      "402-933-4632"
+    ],
+    "addresses": [
+      "Omaha, NE 68124"
+    ],
+    "city": "Omaha",
+    "state_or_region": "NE",
+    "country": "US",
+    "social_links": [],
+    "contact_forms_found": true,
+    "business_hours": "Open late on Tuesdays and Wednesdays until 7 PM",
+    "has_contact_method": true
+  },
+  "brand_and_content": {
+    "tone_and_voice": [
+      "welcoming",
+      "professional",
+      "reassuring",
+      "family-oriented",
+      "informative"
+    ],
+    "brand_positioning": "Trusted neighborhood dental practice in Omaha emphasizing gentle patient care, modern technology, and comprehensive family and cosmetic services.",
+    "hero_headlines": [
+      "Dentist in Omaha, NE, 68124 | Dentist Near You",
+      "Welcome To Anding Family Dental",
+      "Anding Family Dental-Your neighborhood dentist in Omaha, NE",
+      "3 Common Questions about Root Canals",
+      "Can Dental Implants in Omaha, NE, Help Prevent Bone Loss After Tooth Loss?"
+    ],
+    "important_copy_snippets": [
+      "Dr. Michelle Chang is a native of Honolulu, Hawaii! Graduating from Creighton School of Dentistry in 1997, she has found her home in Omaha, Nebraska. Dr. Chang and husband Galen combined their talents in 2003 to open their practice, Anding Family Dental.",
+      "At Anding Family Dental, we value the input of our patients! We look to promote an honest, comfortable environment for you and your family.",
+      "We measure our success by the satisfaction of our patients. We know we did a good job when a patient trusts us and develops a long term relationship with our office."
+    ],
+    "content_quality_score": 8
+  },
+  "calls_to_action": [
+    {
+      "text": "Book Now",
+      "destination": "https://andingfamilydental.com/book-an-appointment/",
+      "intent": "booking",
+      "prominence": "primary",
+      "location": "Hero / Homepage Banners"
+    },
+    {
+      "text": "Learn More",
+      "destination": "https://member.kleer.com/?slug=OQ4U...",
+      "intent": "lead_capture",
+      "prominence": "secondary",
+      "location": "Membership Plan Card"
+    },
+    {
+      "text": "Book an Appointment",
+      "destination": "https://andingfamilydental.com/book-an-appointment/",
+      "intent": "booking",
+      "prominence": "primary",
+      "location": "Header / Footer / Page Sections"
+    }
+  ],
+  "design_and_ux": {
+    "visual_aesthetic": "Traditional local medical/dental practice website with standard corporate layout and accessibility widget tools.",
+    "typography_assessment": "Clear standard sans-serif body typography with distinct heading scales, supported by frontend font size adjustments (A-, A+).",
+    "color_palette_assessment": "Clean medical blue and white primary palette conveying cleanliness and trust, accented with promotional callout highlights.",
+    "layout_and_spacing": "Standard vertical stack layout with content cards, service grids, and consistent header/footer navigation.",
+    "ux_navigation_flow": "Clear navigation menu with dedicated service pages, blog articles for local SEO, and prominent online booking call-to-actions.",
+    "visual_inputs_analyzed": false,
+    "screenshot_observations": [],
+    "strengths": [
+      "Extensive educational blog content supporting local SEO",
+      "Clear accessibility controls (font sizing, contrast, reading aids)",
+      "Prominent online booking pathways and transparent membership options"
+    ],
+    "weaknesses": [
+      "Slightly cluttered homepage banner structure with multiple promotional cards",
+      "Reliance on generic stock layouts common in template-based dental websites"
+    ]
+  },
+  "technical_and_seo": {
+    "inferred_tech_stack": [
+      "WordPress",
+      "PHP",
+      "Schema.org JSON-LD"
+    ],
+    "seo_health": "Strong local SEO implementation with geo-targeted keywords (Omaha, NE 68124), rich schema entities, and an active blog answering patient questions.",
+    "seo_strengths": [
+      "Optimized local title tags and meta descriptions",
+      "Multiple schema markup entities per page",
+      "Targeted neighborhood keyword integration (W Center Rd, 72nd St, Westbrook)"
+    ],
+    "seo_weaknesses": [
+      "Some blog posts contain truncated or placeholder text elements",
+      "Opportunity to further optimize Google Business Profile deep links"
+    ],
+    "accessibility_observations": "Includes an explicit accessibility toolbar supporting font resizing, readable fonts, underline links, and keyboard navigation.",
+    "performance_and_structure_notes": "Standard WordPress CMS structure with 20 crawled pages containing rich service and blog content."
+  },
+  "redesign_recommendations": {
+    "overall_redesign_verdict": "Moderate modernization recommended. Transitioning to a high-performance Next.js/Tailwind architecture with streamlined booking funnels would improve conversion rates and mobile page speed.",
+    "strategic_recommendations": [
+      "Consolidate promotional offers (Membership plan, VIP Whitening, Free Implants) into a unified high-impact hero banner.",
+      "Enhance patient testimonial social proof with embedded Google Reviews widgets.",
+      "Streamline the online appointment booking user journey to reduce friction."
+    ],
+    "ui_ux_improvements": [
+      "Adopt a clean bento-grid layout for services to modernize the visual aesthetic.",
+      "Improve mobile responsiveness for booking forms and contact buttons.",
+      "Add real doctor and staff photography to build immediate patient trust."
+    ],
+    "rebuild_opportunities": [
+      "Rebuild on Next.js with Tailwind CSS for lightning-fast Core Web Vitals.",
+      "Integrate an automated patient scheduling and SMS reminder system."
+    ],
+    "quick_wins": [
+      "Fix truncated text snippets on blog pages.",
+      "Add direct click-to-call phone numbers in the sticky mobile header."
+    ]
+  },
+  "template_recommendation": {
+    "recommended_template": "local-service-leadgen",
+    "template_category": "local_service",
+    "style_direction": "clean_corporate",
+    "layout_pattern": "split_hero_feature_stack",
+    "template_confidence": 0.95,
+    "key_sections": [
+      "hero",
+      "trust_badges",
+      "services_bento_grid",
+      "membership_and_specials",
+      "doctor_bio",
+      "patient_testimonials",
+      "interactive_map_and_hours",
+      "lead_booking_cta"
+    ],
+    "reasoning": "A local dental practice requires an instant sense of trust, clear service categorization, easy online booking, and prominent local address/phone details to convert neighborhood visitors into booked patients."
+  },
+  "metadata": {
+    "provider": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "prompt_version": "1.0.0",
+    "analyzed_at": "2026-08-24T10:01:05.238806+00:00",
+    "screenshots_processed": 0,
+    "duration_seconds": 14.22,
+    "token_usage": null
+  },
+  "warnings": []
+}

@@ -1,0 +1,17 @@
+{
+  "recipient": null,
+  "subject": "Quick thought on Kris Gethin Gyms Raipur and a quick preview",
+  "body": "Hi team, I’ve been following Kris Gethin Gyms in Raipur and love how you connect local fitness seekers with vetted training facilities and transparent membership options. While browsing your current site, I noticed a couple of missed opportunities, specifically the lack of a quick interactive booking element and sparse direct contact options for users wanting to sign up on mobile. Because I enjoy working with fitness brands, I put together a clean, bento-grid style prototype for your Raipur location that features a streamlined search filter bar and prominent action buttons. Feel free to check out the live preview here: https://nayom-biz-0x3a28dd8243604649-0x4fd7c0c276461cb-drrgpno66.vercel.app. If you'd like to use this design or have me tweak anything, I'd be happy to send over the project files or chat for 5 minutes. No worries at all if you're happy with your current setup!",
+  "business_id": "biz_0x3a28dd8243604649_0x4fd7c0c276461cb5",
+  "preview_url": "https://nayom-biz-0x3a28dd8243604649-0x4fd7c0c276461cb-drrgpno66.vercel.app",
+  "generated_at": "2026-08-23T08:59:46.103341+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "business_name": "KRIS GETHIN GYMS - RAIPUR",
+  "key_improvements": [
+    "Added interactive search and filter bar for local gym discovery",
+    "Integrated prominent direct action buttons for mobile bookings"
+  ],
+  "provider": "gemini",
+  "prompt_version": "1.0.0",
+  "warnings": []
+}

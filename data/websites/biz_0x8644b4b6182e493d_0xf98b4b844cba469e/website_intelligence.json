@@ -1,0 +1,222 @@
+{
+  "site_id": "biz_0x8644b4b6182e493d_0xf98b4b844cba469e",
+  "base_url": "https://www.sunsethillsdentist.com/",
+  "domain": "www.sunsethillsdentist.com",
+  "source_website_json": "E:\\Code\\Nayom\\data\\websites\\biz_0x8644b4b6182e493d_0xf98b4b844cba469e\\website.json",
+  "business_profile": {
+    "business_name": "Sunset Hills Dentistry",
+    "tagline": "Where Austin comes to smile.",
+    "description": "Sunset Hills Dentistry is a modern dental practice located in South Austin, offering general, restorative, cosmetic, and emergency dental care with an emphasis on judgment-free and unhurried patient experiences.",
+    "industry_category": "Healthcare / Dental Practice",
+    "value_proposition": "Modern, judgment-free dental care without the rush, combining comprehensive treatments with convenient online booking in South Austin.",
+    "target_audience": "Residents of South Austin and surrounding areas seeking general, cosmetic, or emergency dental services.",
+    "key_differentiators": [
+      "Judgment-free dental care",
+      "Unhurried patient appointments",
+      "Same-day emergency visits",
+      "Seamless online patient portal booking"
+    ]
+  },
+  "services_and_products": [
+    {
+      "name": "Cleanings & exams",
+      "description": "Routine dental examinations and professional cleanings to maintain optimal oral health.",
+      "category": "Core",
+      "target_audience": "All patients",
+      "features": [
+        "Preventive care",
+        "Plaque removal",
+        "Dental health check"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Cosmetic dentistry",
+      "description": "Aesthetic dental treatments to improve the appearance of your smile.",
+      "category": "Core",
+      "target_audience": "Patients seeking smile makeovers",
+      "features": [
+        "Smile enhancement",
+        "Aesthetic improvements"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Invisalign",
+      "description": "Clear aligner therapy for straightening teeth discreetly.",
+      "category": "Specialty",
+      "target_audience": "Teens and adults",
+      "features": [
+        "Removable clear aligners",
+        "Discreet orthodontic treatment"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Same-day emergency visits",
+      "description": "Urgent dental care services for unexpected dental pain or trauma.",
+      "category": "Emergency",
+      "target_audience": "Patients with acute dental issues",
+      "features": [
+        "Immediate scheduling",
+        "Pain relief",
+        "Urgent diagnostics"
+      ],
+      "pricing_hint": null
+    }
+  ],
+  "contact_intelligence": {
+    "emails": [
+      "hello@sunsethillsdentist.com"
+    ],
+    "phones": [
+      "5124417777",
+      "512-441-7777",
+      "737-338-3544"
+    ],
+    "addresses": [],
+    "city": "Austin",
+    "state_or_region": "TX",
+    "country": "US",
+    "social_links": [],
+    "contact_forms_found": true,
+    "business_hours": null,
+    "has_contact_method": true
+  },
+  "brand_and_content": {
+    "tone_and_voice": [
+      "welcoming",
+      "modern",
+      "caring",
+      "reassuring"
+    ],
+    "brand_positioning": "A trusted, contemporary local dental practice in South Austin prioritizing patient comfort and unhurried clinical attention.",
+    "hero_headlines": [
+      "Where Austin comes to smile.",
+      "Dentistry without judgment. Care without rush."
+    ],
+    "important_copy_snippets": [
+      "Explore Sunset Hills Dentistry for general, restorative, cosmetic, and emergency dentistry.",
+      "Book your appointment today for a modern, caring dental experience in South Austin."
+    ],
+    "content_quality_score": 8
+  },
+  "calls_to_action": [
+    {
+      "text": "Book now",
+      "destination": "https://patient.portal.archy.com/p/dc9e7549-7cf8-4b27-b78b-baafd711488e/self-booking?rwg_token=AE37R_gfJaCrcw020zGJ7A4eG4IRGnqhHN-gKs19ABPQ6ac_ZxpraFTAmForJnZ5nl5tkaYVPcCzuQDmqQlkyKwhar9CYf5xxg%3D%3D",
+      "intent": "booking",
+      "prominence": "primary",
+      "location": "Hero"
+    },
+    {
+      "text": "Call us",
+      "destination": "tel:512-441-7777",
+      "intent": "contact",
+      "prominence": "secondary",
+      "location": "Header"
+    },
+    {
+      "text": "New PatientsWhat to expect and how to get started.",
+      "destination": null,
+      "intent": "navigation",
+      "prominence": "secondary",
+      "location": "Navigation"
+    },
+    {
+      "text": "Contact & LocationFind our office and get in touch.",
+      "destination": null,
+      "intent": "contact",
+      "prominence": "secondary",
+      "location": "Navigation"
+    },
+    {
+      "text": "Submit",
+      "destination": null,
+      "intent": "lead_capture",
+      "prominence": "primary",
+      "location": "Contact Form"
+    }
+  ],
+  "design_and_ux": {
+    "visual_aesthetic": "Clean modern local healthcare design with friendly typography and accessible booking links.",
+    "typography_assessment": "Clear heading scale with strong emotional impact headings and legible body copy optimized for local healthcare conversion.",
+    "color_palette_assessment": "Professional healthcare color harmony featuring approachable medical tones and high-contrast call-to-action buttons.",
+    "layout_and_spacing": "Clean spacing utilizing clear section dividers, card layouts for services, and prominent contact methods.",
+    "ux_navigation_flow": "Frictionless conversion path featuring direct phone links, text line support, and direct online booking portal integration.",
+    "visual_inputs_analyzed": false,
+    "screenshot_observations": [],
+    "strengths": [
+      "Clear value proposition focused on patient comfort",
+      "Multiple convenient communication channels (phone, text, online portal)",
+      "Prominent emergency and general care service breakdown"
+    ],
+    "weaknesses": [
+      "Limited address details directly visible in crawl text",
+      "Absence of embedded social proof or patient reviews on the main snippet"
+    ]
+  },
+  "technical_and_seo": {
+    "inferred_tech_stack": [
+      "Archy Patient Portal",
+      "Next.js/React (Inferred modern framework)"
+    ],
+    "seo_health": "Strong localized SEO setup with keyword-rich meta descriptions targeting South Austin dental services.",
+    "seo_strengths": [
+      "Targeted local keywords in title and meta description ('South Austin', 'trusted dentist')",
+      "Clear H1 and H2 semantic hierarchy"
+    ],
+    "seo_weaknesses": [
+      "Could benefit from expanded localized landing pages for specific neighborhoods in South Austin",
+      "Schema markup for LocalBusiness should be explicitly verified"
+    ],
+    "accessibility_observations": "Interactive buttons and contact triggers are present, though full aria-label verification requires live DOM inspection.",
+    "performance_and_structure_notes": "Lightweight page structure with fast integration to third-party scheduling widgets."
+  },
+  "redesign_recommendations": {
+    "overall_redesign_verdict": "The current site is clean and effective for local lead generation, but can be elevated with richer social proof, doctor bios, and a modern component-driven rebuild.",
+    "strategic_recommendations": [
+      "Incorporate video introductions of the dental team to build instant trust.",
+      "Display patient testimonials and Google reviews prominently near booking CTAs.",
+      "Add interactive service cost calculators or insurance acceptance checkers."
+    ],
+    "ui_ux_improvements": [
+      "Use a sticky header with a persistent 'Book Online' and 'Call Now' button.",
+      "Enhance service cards with interactive hover states and clear iconographic anchors."
+    ],
+    "rebuild_opportunities": [
+      "Rebuild using Next.js and Tailwind CSS for blistering performance and top-tier Core Web Vitals.",
+      "Integrate an automated CRM lead capture funnel connected to the Archy booking system."
+    ],
+    "quick_wins": [
+      "Make the phone and text numbers sticky on mobile viewports.",
+      "Add explicit operating hours to the footer."
+    ]
+  },
+  "template_recommendation": {
+    "recommended_template": "local-service-leadgen",
+    "template_category": "local_service",
+    "style_direction": "clean_corporate",
+    "layout_pattern": "single_page_anchor_flow",
+    "template_confidence": 0.95,
+    "key_sections": [
+      "hero",
+      "services_grid",
+      "why_choose_us",
+      "testimonials",
+      "location_and_hours",
+      "lead_booking_cta"
+    ],
+    "reasoning": "A local service lead generation template optimized for dental practices provides immediate access to phone numbers, online booking portals, and service breakdowns, driving higher conversion rates."
+  },
+  "metadata": {
+    "provider": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "prompt_version": "1.0.0",
+    "analyzed_at": "2026-08-26T16:02:29.495378+00:00",
+    "screenshots_processed": 0,
+    "duration_seconds": 9.82,
+    "token_usage": null
+  },
+  "warnings": []
+}

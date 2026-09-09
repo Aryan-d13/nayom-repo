@@ -1,0 +1,20 @@
+{
+  "recipient": "Contact@TheCosmeticDentistsofAustin.com",
+  "subject": "Quick thought on The Cosmetic Dentists of Austin's site + a live preview",
+  "body": "Hi there, I came across The Cosmetic Dentists of Austin while researching top practices in Texas and was genuinely impressed by your LVI Fellow credentials and your four-day Express Smile Makeover concierge service for out-of-town guests. While browsing your current site, I noticed that dense text blocks and inconsistent button styling can sometimes slow down mobile visitors who are ready to request a consultation. To see how these areas could be smoothed out, I went ahead and built a modern, high-performance prototype for your practice. It features a cleaner split-hero layout, prominent placement for your 500+ five-star reviews right above the fold, and standardized conversion buttons. You can explore the live preview here: https://nayom-preview.pages.dev/biz_0x865b4a0023331e97_0x1d39d347423e3b00. If you like the cleaner direction or want me to adjust anything, I'd be glad to send over the code or chat for a few minutes. No worries at all if you are completely happy with your current setup!",
+  "business_id": "biz_0x865b4a0023331e97_0x1d39d347423e3b00",
+  "preview_url": "https://nayom-preview.pages.dev/biz_0x865b4a0023331e97_0x1d39d347423e3b00",
+  "generated_at": "2026-08-26T16:03:37.029752+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "business_name": "The Cosmetic Dentists of Austin",
+  "key_improvements": [
+    "Streamlined dense text blocks into clean, scannable layouts",
+    "Prominently featured 500+ five-star reviews above the fold",
+    "Standardized button styling and label clarity for better conversion"
+  ],
+  "provider": "gemini",
+  "prompt_version": "1.0.0",
+  "warnings": [
+    "No deployment.json found. Using preview URL fallback: https://nayom-preview.pages.dev/biz_0x865b4a0023331e97_0x1d39d347423e3b00"
+  ]
+}

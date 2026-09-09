@@ -1,0 +1,66 @@
+{
+  "id": "dark-portfolio",
+  "name": "Dark Mode Systems & Developer Portfolio",
+  "version": "1.0.0",
+  "description": "High-impact dark-mode portfolio engineered for systems developers, software engineers, and technical consultants featuring bento grid case studies, stack badges, and fast conversion CTAs.",
+  "industry": [
+    "portfolio",
+    "developer",
+    "engineer",
+    "software",
+    "systems",
+    "tech",
+    "consultant",
+    "freelancer"
+  ],
+  "categories": [
+    "portfolio",
+    "developer",
+    "software",
+    "systems",
+    "tech",
+    "creator",
+    "dark_tech"
+  ],
+  "styles": [
+    "dark",
+    "dark_tech",
+    "dark-tech",
+    "minimal-slate",
+    "bento",
+    "modern"
+  ],
+  "layouts": [
+    "bento_grid",
+    "single_page_anchor_flow"
+  ],
+  "features": [
+    "projects",
+    "tech_stack",
+    "experience",
+    "testimonials",
+    "contact_form",
+    "resume_download"
+  ],
+  "entrypoint": "app/page.tsx",
+  "slots": {
+    "site.name": "string",
+    "site.tagline": "string",
+    "site.niche": "string",
+    "hero.title": "string",
+    "hero.subtitle": "string",
+    "hero.cta": "string",
+    "hero.ctaLink": "string",
+    "about.summary": "string",
+    "about.differentiators": "string",
+    "contact.phone": "string",
+    "contact.email": "string",
+    "contact.address": "string",
+    "contact.location": "string",
+    "services": "string",
+    "testimonials": "string",
+    "socialLinks": "string",
+    "techStack": "string"
+  },
+  "preview_image": "preview/thumbnail.png"
+}

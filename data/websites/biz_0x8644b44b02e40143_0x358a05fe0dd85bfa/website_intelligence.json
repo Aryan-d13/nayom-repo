@@ -1,0 +1,447 @@
+{
+  "site_id": "biz_0x8644b44b02e40143_0x358a05fe0dd85bfa",
+  "base_url": "https://launderetteaustin.com/",
+  "domain": "launderetteaustin.com",
+  "source_website_json": "E:\\Code\\Nayom\\data\\websites\\biz_0x8644b44b02e40143_0x358a05fe0dd85bfa\\website.json",
+  "business_profile": {
+    "business_name": "Launderette",
+    "tagline": "Chef-owner Rene Ortiz crafts globally inspired Southern dishes for lunch, dinner, and weekend brunch.",
+    "description": "Launderette is an East Austin café tucked away in the Holly neighborhood, offering globally inspired Southern dishes for lunch, dinner, and weekend brunch by Chef-owner Rene Ortiz.",
+    "industry_category": "Restaurant & Hospitality",
+    "value_proposition": "Globally inspired Southern dishes in a vibrant, neighborhood café atmosphere with exceptional hospitality and private event capabilities.",
+    "target_audience": "Local Austin food enthusiasts, neighborhood residents in Holly, weekend brunch-goers, and corporate or private event hosts.",
+    "key_differentiators": [
+      "Globally inspired Southern cuisine by Chef-owner Rene Ortiz",
+      "Located in the vibrant East Austin Holly neighborhood",
+      "Covers lunch, dinner, happy hour, and weekend brunch",
+      "Full buyout and private catering options available"
+    ]
+  },
+  "services_and_products": [
+    {
+      "name": "Lunch",
+      "description": "Midday dining service featuring vibrant global and Southern flavors.",
+      "category": "Core Service",
+      "target_audience": "Local professionals and daytime diners",
+      "features": [
+        "Monday through Friday service",
+        "Seasonal menu"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Dinner",
+      "description": "Nightly evening dining service featuring wood-grill items, specialties, and shareable plates.",
+      "category": "Core Service",
+      "target_audience": "Evening diners and groups",
+      "features": [
+        "Nightly service",
+        "Wood-grill items",
+        "Craft cocktails"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Weekend Brunch",
+      "description": "Weekend brunch service featuring specialty breakfast items, pastries, and daytime drinks.",
+      "category": "Core Service",
+      "target_audience": "Weekend brunch crowd",
+      "features": [
+        "Saturday & Sunday service"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Happy Hour",
+      "description": "Weekday happy hour featuring discounted drinks and snacks.",
+      "category": "Add-on",
+      "target_audience": "Local community",
+      "features": [
+        "Monday-Friday 5:00pm to 6:00pm",
+        "1/2 Price Beers, Cocktails & Wines",
+        "$5 Off Snacky Bits & Plancha Burgers"
+      ],
+      "pricing_hint": "Half price drinks, $5 off select menu items"
+    },
+    {
+      "name": "Catering & Private Events",
+      "description": "Full restaurant brunch, lunch & dinner buyouts for groups of up to 100.",
+      "category": "Enterprise",
+      "target_audience": "Event planners and large party hosts",
+      "features": [
+        "Buyouts for up to 100 guests",
+        "Group seating for 17-30"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Striped Bass Crudo",
+      "description": "dashi, lemon, oregano, avocado",
+      "category": "Snacky Bits",
+      "target_audience": null,
+      "features": [],
+      "pricing_hint": "$20"
+    },
+    {
+      "name": "Fried Shrimp",
+      "description": "ginger scallion hot oil, pickled jicama, fermented fresno hot sauce",
+      "category": "Snacky Bits",
+      "target_audience": null,
+      "features": [],
+      "pricing_hint": "$22"
+    },
+    {
+      "name": "Burrata",
+      "description": "honey brown butter, candied pistachio, coriander, preserved lemon, poppy seed",
+      "category": "Snacky Bits",
+      "target_audience": null,
+      "features": [],
+      "pricing_hint": "$22"
+    },
+    {
+      "name": "LABNEH",
+      "description": "beet hummus, millet crunch, everything cracker",
+      "category": "Snacky Bits",
+      "target_audience": null,
+      "features": [],
+      "pricing_hint": "$19"
+    },
+    {
+      "name": "Potato Chips",
+      "description": "pimento cheese",
+      "category": "Snacky Bits",
+      "target_audience": null,
+      "features": [],
+      "pricing_hint": "$10"
+    },
+    {
+      "name": "CHICKEN THIGHS",
+      "description": "cacciatore, scotch bonnet-onion aioli",
+      "category": "Wood-Grill",
+      "target_audience": null,
+      "features": [],
+      "pricing_hint": "$28"
+    },
+    {
+      "name": "BISTRO FILET",
+      "description": "coulotte, preserved lemon yogurt, red chimichurri, quinoa fries",
+      "category": "Wood-Grill",
+      "target_audience": null,
+      "features": [],
+      "pricing_hint": "$44"
+    },
+    {
+      "name": "STICKY PORK RIBS",
+      "description": "sweet chili sambal, herbs, lemon nam jim, pickled persian cucumbers",
+      "category": "Wood-Grill",
+      "target_audience": null,
+      "features": [],
+      "pricing_hint": "$34"
+    },
+    {
+      "name": "Whole Branzino",
+      "description": "sliced almond, preserved lemon, herbs",
+      "category": "Wood-Grill",
+      "target_audience": null,
+      "features": [],
+      "pricing_hint": "$44"
+    },
+    {
+      "name": "SWEET POTATO",
+      "description": "spiced labneh, muhammara, almond, mint, pomegranate molasses",
+      "category": "Vegetables",
+      "target_audience": null,
+      "features": [],
+      "pricing_hint": "$14"
+    },
+    {
+      "name": "Zucchini Salad",
+      "description": "feta, pine nuts, cilantro, mint, carrot dressing",
+      "category": "Vegetables",
+      "target_audience": null,
+      "features": [],
+      "pricing_hint": "$14"
+    },
+    {
+      "name": "GRILLED BROCCOLINI",
+      "description": "romesco, fresno, almonds",
+      "category": "Vegetables",
+      "target_audience": null,
+      "features": [],
+      "pricing_hint": "$14"
+    },
+    {
+      "name": "Sticky Brussels Sprouts",
+      "description": "apple bacon marmalade, pecorino, almond, pickled apple",
+      "category": "Vegetables",
+      "target_audience": null,
+      "features": [],
+      "pricing_hint": "$13"
+    },
+    {
+      "name": "SHAWARMA CAULIFLOWER",
+      "description": "pickled golden raisin, hummus, cabbage escabeche, arugula, herb tahini dressing",
+      "category": "Vegetables",
+      "target_audience": null,
+      "features": [],
+      "pricing_hint": "$14"
+    },
+    {
+      "name": "LETTUCES",
+      "description": "anchovy, barricato al pepe, crispy shallot, caesar dressing",
+      "category": "Vegetables",
+      "target_audience": null,
+      "features": [],
+      "pricing_hint": "$12"
+    },
+    {
+      "name": "Frites",
+      "description": "manzano sauce, garlic aioli",
+      "category": "Vegetables",
+      "target_audience": null,
+      "features": [],
+      "pricing_hint": "$10"
+    },
+    {
+      "name": "PASTA SFOGLIA",
+      "description": "kale, ricotta, mornay, frisée, pecorino, crispy edges",
+      "category": "Specialties",
+      "target_audience": null,
+      "features": [],
+      "pricing_hint": "$28"
+    },
+    {
+      "name": "REDFISH",
+      "description": "pickled chestnut mushroom, Brussels sprout leaves, farro, gremolata, herb oil",
+      "category": "Specialties",
+      "target_audience": null,
+      "features": [],
+      "pricing_hint": "$38"
+    },
+    {
+      "name": "Plancha Burger",
+      "description": "American cheese, special sauce, pickles, challah",
+      "category": "Specialties",
+      "target_audience": null,
+      "features": [],
+      "pricing_hint": "$18"
+    },
+    {
+      "name": "Brick Chicken",
+      "description": "aligot, braised greens",
+      "category": "Specialties",
+      "target_audience": null,
+      "features": [],
+      "pricing_hint": "$32"
+    },
+    {
+      "name": "RICOTTA FRITTERS",
+      "description": "honey, lemon, thyme",
+      "category": "Dessert",
+      "target_audience": null,
+      "features": [],
+      "pricing_hint": "$14"
+    },
+    {
+      "name": "Deviled Eggs",
+      "description": "black truffle, crispy pancetta",
+      "category": "Snacky Bits",
+      "target_audience": null,
+      "features": [],
+      "pricing_hint": "$14"
+    },
+    {
+      "name": "TURKISH EGGS",
+      "description": "labneh, charred eggplant purée, urfa chili oil, focaccia",
+      "category": "Specialties",
+      "target_audience": null,
+      "features": [],
+      "pricing_hint": "$18"
+    },
+    {
+      "name": "FRIED EGG BLT",
+      "description": "avocado, pimento cheese, toast",
+      "category": "Specialties",
+      "target_audience": null,
+      "features": [],
+      "pricing_hint": "$16"
+    },
+    {
+      "name": "CHICKEN PAILLARD",
+      "description": "little gem lettuce, anchovy, barricato al pepe, crispy shallot, caesar dressing",
+      "category": "Specialties",
+      "target_audience": null,
+      "features": [],
+      "pricing_hint": "$24"
+    },
+    {
+      "name": "Fried Chicken Sammie",
+      "description": "coriander poblano slaw, piparra peppers, challah",
+      "category": "Specialties",
+      "target_audience": null,
+      "features": [],
+      "pricing_hint": "$18"
+    },
+    {
+      "name": "STEAK SAMMIE",
+      "description": "smoked tri-tip, espelette, tapenade, arugula, horseradish aioli, ciabatta",
+      "category": "Specialties",
+      "target_audience": null,
+      "features": [],
+      "pricing_hint": "$20"
+    },
+    {
+      "name": "FARRO BOWL",
+      "description": "pan-seared rainbow trout, pickled chestnut mushrooms, brussels sprout leaves, gremolata, herb oil",
+      "category": "Specialties",
+      "target_audience": null,
+      "features": [],
+      "pricing_hint": "$25"
+    },
+    {
+      "name": "SHAWARMA CAULIFLOWER BOWL",
+      "description": "pickled golden raisins, hummus, sweet potato, cabbage escabeche, arugula, herb tahini dressing",
+      "category": "Specialties",
+      "target_audience": null,
+      "features": [],
+      "pricing_hint": "$19"
+    }
+  ],
+  "contact_intelligence": {
+    "emails": [],
+    "phones": [
+      "+15123821599"
+    ],
+    "addresses": [
+      "2115 Holly Street, Austin, TX"
+    ],
+    "city": "Austin",
+    "state_or_region": "TX",
+    "country": "US",
+    "social_links": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/296730677118237"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/launderetteatx/"
+      }
+    ],
+    "contact_forms_found": false,
+    "business_hours": "Happy Hour: Mon-Fri 5:00pm-6:00pm | Dinner: Nightly 5:00pm-10:00pm | Lunch: Mon-Fri 11:00am-2:15pm | Weekend Brunch: Sat-Sun 11:00am-2:15pm",
+    "has_contact_method": true
+  },
+  "brand_and_content": {
+    "tone_and_voice": [
+      "welcoming",
+      "vibrant",
+      "culinary-focused",
+      "inviting"
+    ],
+    "brand_positioning": "A premier neighborhood café in East Austin combining upscale global cuisine with a relaxed, neighborhood feel.",
+    "hero_headlines": [
+      "JOIN US",
+      "Reservations",
+      "Events",
+      "Location & Hours"
+    ],
+    "important_copy_snippets": [
+      "Chef-owner Rene Ortiz crafts globally inspired Southern dishes for lunch, dinner, and weekend brunch."
+    ],
+    "content_quality_score": 8
+  },
+  "calls_to_action": [
+    {
+      "text": "BOOK NOW",
+      "destination": "https://resy.com/cities/austin-tx/venues/launderette?seats=2&date=2025-04-10&callback_url=http://launderetteaustin.com/",
+      "intent": "booking",
+      "prominence": "primary",
+      "location": "Hero"
+    },
+    {
+      "text": "More Info about Catering",
+      "destination": "/austin-launderette-catering-and-event",
+      "intent": "navigation",
+      "prominence": "secondary",
+      "location": "Events Section"
+    }
+  ],
+  "design_and_ux": {
+    "visual_aesthetic": "Warm editorial hospitality",
+    "typography_assessment": "Clean typographic hierarchy with clear section headings and legible menu descriptions.",
+    "color_palette_assessment": "Warm, inviting natural photography contrasted with clean white backgrounds and legible dark text.",
+    "layout_and_spacing": "Modular card and list layouts optimized for menu items, imagery galleries, and operating hours visibility.",
+    "ux_navigation_flow": "Straightforward single-page layout with anchor links and dedicated subpages for catering and menus.",
+    "visual_inputs_analyzed": false,
+    "screenshot_observations": [],
+    "strengths": [
+      "Direct Resy reservation integration",
+      "Clear menus categorized logically",
+      "Prominent operating hours and location details"
+    ],
+    "weaknesses": [
+      "Some content spans multiple pages with minimal depth on standalone subpages",
+      "Contact relies on direct email display susceptible to scraping rather than an interactive form"
+    ]
+  },
+  "technical_and_seo": {
+    "inferred_tech_stack": [
+      "SpotApps",
+      "Resy Integration"
+    ],
+    "seo_health": "Good meta descriptions and structured page headers, though internal subpages could benefit from unique meta tags.",
+    "seo_strengths": [
+      "Clear local business schema context",
+      "Descriptive alt tags and image references"
+    ],
+    "seo_weaknesses": [
+      "Missing unique metadata on secondary pages like catering and menus"
+    ],
+    "accessibility_observations": "Reasonable contrast and semantic landmarks; direct phone and reservation links are clearly accessible.",
+    "performance_and_structure_notes": "Fast loading static structure with embedded third-party booking tools."
+  },
+  "redesign_recommendations": {
+    "overall_redesign_verdict": "The website is functional and gets the job done via Resy, but could be modernized with an immersive Next.js/Tailwind stack featuring dynamic food photography grids and a seamless private event inquiry workflow.",
+    "strategic_recommendations": [
+      "Enhance visual storytelling with an integrated interactive gallery of dishes and ambiance",
+      "Replace mailto links with a dedicated catering and private event inquiry form to capture higher-value leads"
+    ],
+    "ui_ux_improvements": [
+      "Implement a sticky reservation bar for mobile users",
+      "Improve menu section tab switching with smoother client-side rendering"
+    ],
+    "rebuild_opportunities": [
+      "Migrate to a modern headless or static Next.js setup with Tailwind CSS for lightning-fast speeds and superior mobile responsiveness"
+    ],
+    "quick_wins": [
+      "Add a direct inquiry form for private events",
+      "Highlight happy hour specials prominently at the top of the homepage"
+    ]
+  },
+  "template_recommendation": {
+    "recommended_template": "warm-editorial-hospitality",
+    "template_category": "local_service",
+    "style_direction": "warm_editorial",
+    "layout_pattern": "single_page_anchor_flow",
+    "template_confidence": 0.95,
+    "key_sections": [
+      "hero",
+      "reservation_cta",
+      "menu_tabs",
+      "gallery_grid",
+      "hours_and_location"
+    ],
+    "reasoning": "A warm editorial style matches the artisanal and globally inspired nature of an upscale neighborhood restaurant and café."
+  },
+  "metadata": {
+    "provider": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "prompt_version": "1.0.0",
+    "analyzed_at": "2026-08-24T14:28:18.324696+00:00",
+    "screenshots_processed": 0,
+    "duration_seconds": 17.98,
+    "token_usage": null
+  },
+  "warnings": []
+}

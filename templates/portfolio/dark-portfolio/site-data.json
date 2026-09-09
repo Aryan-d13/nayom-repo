@@ -1,0 +1,60 @@
+{
+  "site": {
+    "name": "Aryan Sharma",
+    "tagline": "Full-Stack Systems Engineer",
+    "niche": "Systems Architecture & Automation"
+  },
+  "theme": {
+    "palette": ["#0f172a", "#0284c7", "#10b981", "#f8fafc"],
+    "typography": "Inter, JetBrains Mono, sans-serif",
+    "styleDirection": "dark_tech"
+  },
+  "hero": {
+    "title": "ENGINEERING SCALABLE SYSTEMS",
+    "subtitle": "Designing high-performance backend pipelines, automated workers, and clean interfaces.",
+    "cta": "View Projects",
+    "ctaLink": "#work"
+  },
+  "about": {
+    "summary": "Architects reliable, high-performance data layers, automated workers, and clean interfaces that solve complex operational problems.",
+    "differentiators": [
+      "Extensive production experience in industrial-scale processing DAGs",
+      "Proven track record of collapsing runtimes from 30m to <5m",
+      "Full-stack delivery from Python microservices to Next.js interfaces"
+    ]
+  },
+  "contact": {
+    "email": "contact@example.com",
+    "phone": "",
+    "address": "",
+    "location": "Indore, India",
+    "businessHours": ""
+  },
+  "services": [
+    {
+      "name": "Julius Media Processing",
+      "description": "Automated media processing pipeline with parallel rendering and Redis workers.",
+      "category": "Core Production",
+      "features": ["Parallelized rendering", "Redis queue workers", "Sub-5m runtime"],
+      "priceRange": ""
+    }
+  ],
+  "techStack": [
+    "Python", "Next.js", "Tailwind CSS", "TypeScript", "Redis", "Docker", "FFmpeg", "Vercel", "PostgreSQL"
+  ],
+  "testimonials": [
+    {
+      "quote": "Great systems aren't loud. They compound quietly: reliable data layers and automated workers that solve problems without creating new ones.",
+      "author": "Engineering Philosophy",
+      "rating": 5
+    }
+  ],
+  "socialLinks": {
+    "linkedin": "https://linkedin.com",
+    "github": "https://github.com"
+  },
+  "seo": {
+    "title": "Systems Engineer & Automation Architect",
+    "description": "Production-grade Python infrastructures, Next.js dashboards, and event-driven automation architectures."
+  }
+}

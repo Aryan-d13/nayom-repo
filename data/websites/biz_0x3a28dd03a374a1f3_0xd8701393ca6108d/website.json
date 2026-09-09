@@ -1,0 +1,36 @@
+{
+  "request": {
+    "url": "https://www.facebook.com/Sparkfitnessraipur/",
+    "site_id": "biz_0x3a28dd03a374a1f3_0xd8701393ca6108d",
+    "max_pages": 20,
+    "render_js": false,
+    "screenshot": false,
+    "concurrency": 5,
+    "timeout": 20,
+    "delay": 0.25,
+    "use_sitemap": true,
+    "include_subdomains": false,
+    "min_words": 5,
+    "download_images": false,
+    "user_agent": null
+  },
+  "site_id": "biz_0x3a28dd03a374a1f3_0xd8701393ca6108d",
+  "base_url": "https://www.facebook.com/Sparkfitnessraipur/",
+  "domain": "www.facebook.com",
+  "total_pages_crawled": 0,
+  "successful_pages": 0,
+  "failed_pages": 0,
+  "pages": [],
+  "sitemap_urls_found": 0,
+  "site_title": null,
+  "site_description": null,
+  "started_at": "2026-08-23T08:55:42.074831+00:00",
+  "completed_at": "2026-08-23T08:56:46.609413+00:00",
+  "duration_seconds": 64.53,
+  "raw_output_dir": "E:\\Code\\Nayom\\data\\websites\\biz_0x3a28dd03a374a1f3_0xd8701393ca6108d\\raw",
+  "website_json_path": "E:\\Code\\Nayom\\data\\websites\\biz_0x3a28dd03a374a1f3_0xd8701393ca6108d\\website.json",
+  "errors": [
+    "MarkCrawl execution failed: signal only works in main thread of the main interpreter"
+  ],
+  "warnings": []
+}

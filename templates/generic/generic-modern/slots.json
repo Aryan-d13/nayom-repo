@@ -1,0 +1,18 @@
+{
+  "site.name": "facts.name.value",
+  "site.niche": "facts.niche.value",
+  "hero.title": "content.heroHeadline",
+  "hero.subtitle": "content.heroSubheadline",
+  "hero.cta": "content.primaryCta",
+  "about.summary": "content.aboutSummary",
+  "contact.phone": "facts.contact.phone.value",
+  "contact.email": "facts.contact.email.value",
+  "contact.address": "facts.contact.address.value",
+  "contact.businessHours": "facts.contact.businessHours.value",
+  "services": "facts.services.list",
+  "testimonials": "facts.testimonials",
+  "faqs": "facts.faqs",
+  "socialLinks": "facts.socialLinks",
+  "locations": "facts.locations",
+  "seo.keywords": "seo.targetKeywords"
+}

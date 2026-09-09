@@ -1,0 +1,19 @@
+{
+  "recipient": "hello@sunsethillsdentist.com",
+  "subject": "Quick thought on the Sunset Hills Dentistry site (plus a quick prototype)",
+  "body": "Hi team at Sunset Hills Dentistry, I live in the Austin area and recently came across your practice while looking into local providers. I really appreciate your focus on unhurried, judgment-free care and your clear same-day emergency offerings for South Austin residents. While browsing your current site at sunsethillsdentist.com, I noticed a couple of small opportunities to make the user experience even smoother, such as making the phone number sticky on mobile viewports for quick emergency access and ensuring explicit operating hours are immediately visible in the footer. Because I build modern web prototypes for local businesses, I put together a live preview of how your site could look with a cleaner mobile layout and faster loading times. Feel free to check out the live preview here: https://nayom-preview.pages.dev/biz_0x8644b4b6182e493d_0xf98b4b844cba469e. If you'd like to use this design or have me tweak anything, I'd be happy to send over the project files or chat for 5 minutes. No worries at all if you're happy with your current setup!",
+  "business_id": "biz_0x8644b4b6182e493d_0xf98b4b844cba469e",
+  "preview_url": "https://nayom-preview.pages.dev/biz_0x8644b4b6182e493d_0xf98b4b844cba469e",
+  "generated_at": "2026-08-26T16:03:07.163748+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "business_name": "Sunset Hills Dentistry",
+  "key_improvements": [
+    "Made the phone and text numbers sticky on mobile viewports for easier patient access.",
+    "Added explicit operating hours to the footer."
+  ],
+  "provider": "gemini",
+  "prompt_version": "1.0.0",
+  "warnings": [
+    "No deployment.json found. Using preview URL fallback: https://nayom-preview.pages.dev/biz_0x8644b4b6182e493d_0xf98b4b844cba469e"
+  ]
+}

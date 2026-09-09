@@ -1,0 +1,17 @@
+{
+  "recipient": "marketing@jackallenskitchen.com",
+  "subject": "Quick thought on Jack Allen's Kitchen Oak Hill's site navigation",
+  "body": "Hi Jack Allen's Kitchen team, I've always admired how your Oak Hill location champions local Texas farmers and serves up such fantastic weekend brunches and happy hours. While browsing your site recently, I noticed the reservation and online ordering flows can sometimes require a bit of extra clicking across location pages, and some of the food imagery could use quicker optimization for mobile users. Because I enjoy eating here, I spent a little time putting together a modern, live prototype for your brand. It features streamlined location selection, direct routing to your ToastTab ordering, and a warmer editorial layout to highlight your southern comfort dishes. Feel free to check out the live preview here: https://nayom-biz-0x865b497819550c5b-0x51f5579d6f2e3af-gpinw2oi1.vercel.app. If you'd like to use this design or have me tweak anything, I'd be happy to send over the project files or chat for 5 minutes. No worries at all if you're happy with your current setup!",
+  "business_id": "biz_0x865b497819550c5b_0x51f5579d6f2e3af4",
+  "preview_url": "https://nayom-biz-0x865b497819550c5b-0x51f5579d6f2e3af-gpinw2oi1.vercel.app",
+  "generated_at": "2026-08-24T14:29:16.484477+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "business_name": "Jack Allen's Kitchen Oak Hill",
+  "key_improvements": [
+    "Streamlined location selection and direct routing to ToastTab ordering endpoints",
+    "Optimized food photography assets and mobile loading performance"
+  ],
+  "provider": "gemini",
+  "prompt_version": "1.0.0",
+  "warnings": []
+}

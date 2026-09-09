@@ -1,0 +1,220 @@
+{
+  "site_id": "biz_0x8644b59369be58eb_0x6f73c991a0600c2a",
+  "base_url": "http://www.saltysow.com/",
+  "domain": "www.saltysow.com",
+  "source_website_json": "E:\\Code\\Nayom\\data\\websites\\biz_0x8644b59369be58eb_0x6f73c991a0600c2a\\website.json",
+  "business_profile": {
+    "business_name": "Salty Sow",
+    "tagline": "Eat Well, Drink Deep, Stay Awhile.",
+    "description": "Salty Sow is a popular restaurant in East Austin, Texas, serving slow-cooked Southern tradition with bold, fresh flavors mindfully sourced from local farms and purveyors, curated by Chef Harold Marmulstein.",
+    "industry_category": "Hospitality & Restaurant",
+    "value_proposition": "Unforgettable meals and farm-to-table Southern comfort food in a warm, welcoming atmosphere with Austin's best happy hour.",
+    "target_audience": "Local food enthusiasts, neighborhood residents, diners seeking farm-to-table cuisine, and visitors looking for authentic Austin dining experiences.",
+    "key_differentiators": [
+      "Chef-driven slow-cooked Southern comfort food",
+      "Locally sourced ingredients from regional farms",
+      "Daily happy hour from 4pm to 6pm",
+      "Unique weekly specials like the 2012 Throwback Menu and Sunday Prime Rib"
+    ]
+  },
+  "services_and_products": [
+    {
+      "name": "Dinner Menu",
+      "description": "Farm-to-table Southern comfort dishes, shareable starters, salads, handhelds, and chef-driven mains.",
+      "category": "Core Offering",
+      "target_audience": "Diners",
+      "features": [
+        "Thoughtfully sourced ingredients",
+        "Chef-driven recipes",
+        "Diverse options including starters, vegetables, and mains"
+      ],
+      "pricing_hint": "Entrees range from $19 to $24+"
+    },
+    {
+      "name": "Daily Happy Hour",
+      "description": "Special pricing on select signature dishes and drinks available daily from 4pm to 6pm.",
+      "category": "Promotion",
+      "target_audience": "Early evening guests",
+      "features": [
+        "Daily 4pm - 6pm availability",
+        "Special drink and food pricing"
+      ],
+      "pricing_hint": "$5 Frozen Margaritas"
+    },
+    {
+      "name": "Private Dining",
+      "description": "Indoor and outdoor spaces tailored for intimate gatherings, elegant events, or casual cocktail parties.",
+      "category": "Events",
+      "target_audience": "Groups and event planners",
+      "features": [
+        "Indoor and outdoor spaces",
+        "Custom menus available",
+        "Authentic Austin charm"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Salty Sow Rewards",
+      "description": "Free loyalty program allowing guests to earn points per dollar spent and redeem them for food and drink credits.",
+      "category": "Loyalty Program",
+      "target_audience": "Frequent diners",
+      "features": [
+        "Earn 1 point per dollar spent",
+        "Redeem 50 points for $5 reward credit",
+        "Special birthday bonus and exclusive promos"
+      ],
+      "pricing_hint": "Free membership"
+    }
+  ],
+  "contact_intelligence": {
+    "emails": [
+      "saltysowaustin@saltysow.com",
+      "marketing@guyandlarryrestaurants.com"
+    ],
+    "phones": [
+      "(512) 391-2337"
+    ],
+    "addresses": [
+      "1917 Manor Rd., Austin, TX 78722"
+    ],
+    "city": "Austin",
+    "state_or_region": "TX",
+    "country": "US",
+    "social_links": [],
+    "contact_forms_found": true,
+    "business_hours": "Sun-Thu: 4:00pm - 9:00pm, Fri-Sat: 4:00pm - 10:00pm, Happy Hour: Daily 4:00pm - 6:00pm",
+    "has_contact_method": true
+  },
+  "brand_and_content": {
+    "tone_and_voice": [
+      "welcoming",
+      "casual",
+      "authentic",
+      "warm",
+      "hospitable"
+    ],
+    "brand_positioning": "A beloved neighborhood restaurant staple blending upscale culinary execution with laid-back, rustic Texas charm.",
+    "hero_headlines": [
+      "Eat Well, Drink Deep, Stay Awhile.",
+      "PRIVATE DINING",
+      "Rewards Program"
+    ],
+    "important_copy_snippets": [
+      "At Salty Sow, we’re serving more than just great food–we’re dishing out gatherings, good times, and unforgettable meals.",
+      "We’re all about fresh local flavors, laid-back vibes, and sharing the best moments with your favorite people."
+    ],
+    "content_quality_score": 8
+  },
+  "calls_to_action": [
+    {
+      "text": "BOOK NOW",
+      "destination": "https://www.opentable.com/the-salty-sow-reservations-austin?restref=86803&lang=en-US&ot_source=Restaurant%20website",
+      "intent": "booking",
+      "prominence": "primary",
+      "location": "Hero"
+    },
+    {
+      "text": "VIEW MENU",
+      "destination": "/menu",
+      "intent": "navigation",
+      "prominence": "primary",
+      "location": "Hero"
+    },
+    {
+      "text": "ORDER ONLINE",
+      "destination": "https://ordering.chownow.com/order/40644/locations/",
+      "intent": "checkout",
+      "prominence": "secondary",
+      "location": "Homepage"
+    },
+    {
+      "text": "JOIN THE CLUB",
+      "destination": "https://enroll.clutch.com/saltysow",
+      "intent": "lead_capture",
+      "prominence": "secondary",
+      "location": "Rewards Section"
+    }
+  ],
+  "design_and_ux": {
+    "visual_aesthetic": "Warm editorial, rustic modern, clean local-restaurant styling with illustrated brand touches.",
+    "typography_assessment": "Clean hierarchy featuring bold sans-serif headers paired with readable body text, optimized for mobile and desktop screens.",
+    "color_palette_assessment": "Earthy, warm tones reflecting a comfortable dining atmosphere, high contrast black text on neutral white/cream backgrounds.",
+    "layout_and_spacing": "Generous spacing with card layouts for daily specials, prominent imagery, and clear sticky/top navigation flows.",
+    "ux_navigation_flow": "Clear user journey guiding visitors quickly toward reservations (OpenTable), online ordering, menus, and rewards registration.",
+    "visual_inputs_analyzed": false,
+    "screenshot_observations": [],
+    "strengths": [
+      "Prominent and frictionless OpenTable booking integration",
+      "Clear presentation of daily specials and happy hour details",
+      "Direct calls to action for online ordering and loyalty enrollment"
+    ],
+    "weaknesses": [
+      "Heavy reliance on external PDF links for standard menus rather than web-native text formatting",
+      "Limited direct integration of social proof or customer reviews on the primary landing page"
+    ]
+  },
+  "technical_and_seo": {
+    "inferred_tech_stack": [
+      "OpenTable Integration",
+      "ChowNow Ordering",
+      "Clutch Loyalty",
+      "CardFoundry"
+    ],
+    "seo_health": "Good baseline SEO with proper title tags, localized address schema, and structured content sections.",
+    "seo_strengths": [
+      "Clear location and hours information optimized for local search",
+      "Structured schema markup entities implemented on pages",
+      "Keyword-rich headings highlighting local specials and happy hour"
+    ],
+    "seo_weaknesses": [
+      "PDF-based menus limit deep text crawlability for specific menu item keywords",
+      "Metadata descriptions could be expanded for richer SERP snippets"
+    ],
+    "accessibility_observations": "Reasonable semantic structuring, though some links rely on icon representations and PDF files require careful screen reader navigation.",
+    "performance_and_structure_notes": "Clean document object model structure with modular sections for happenings, contact, and rewards."
+  },
+  "redesign_recommendations": {
+    "overall_redesign_verdict": "A full redesign is not strictly required, but a modern frontend rebuild using Next.js/Tailwind with a headless CMS for menu management would vastly improve performance, mobile usability, and local SEO.",
+    "strategic_recommendations": [
+      "Convert PDF menu links into live, searchable web components to boost local culinary SEO.",
+      "Incorporate live customer reviews and Instagram feeds directly into the homepage layout to amplify social proof."
+    ],
+    "ui_ux_improvements": [
+      "Add sticky quick-actions on mobile for instant calling, directions, and OpenTable booking.",
+      "Enhance visual hierarchy on the happenings and specials page to drive higher engagement."
+    ],
+    "rebuild_opportunities": [
+      "Migrate to a modern Jamstack architecture (Next.js & Tailwind CSS) for lightning-fast page loads and flawless mobile responsiveness."
+    ],
+    "quick_wins": [
+      "Prominently display parking guidelines and happy hour times in the top announcement bar.",
+      "Streamline reward program signup links into an embedded modal instead of external redirects."
+    ]
+  },
+  "template_recommendation": {
+    "recommended_template": "local-service-leadgen",
+    "template_category": "local_service",
+    "style_direction": "warm_editorial",
+    "layout_pattern": "single_page_anchor_flow",
+    "template_confidence": 0.95,
+    "key_sections": [
+      "hero",
+      "daily_specials_bento",
+      "hours_and_location",
+      "interactive_menu",
+      "rewards_cta",
+      "footer"
+    ],
+    "reasoning": "A local restaurant layout focusing heavily on immediate reservations, local address accessibility, happy hour specials, and loyalty club signups."
+  },
+  "metadata": {
+    "provider": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "prompt_version": "1.0.0",
+    "analyzed_at": "2026-08-24T14:30:29.414682+00:00",
+    "screenshots_processed": 0,
+    "duration_seconds": 9.63,
+    "token_usage": null
+  },
+  "warnings": []
+}

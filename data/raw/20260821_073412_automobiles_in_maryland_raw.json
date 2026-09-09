@@ -1,0 +1,3172 @@
+[
+  {
+    "longitude": -75.5940681,
+    "input_id": "dP-HaqHzBOHe4-EP8JngUQ",
+    "link": "",
+    "cid": "",
+    "title": "Peninsula Total Car Care",
+    "categories": [
+      "Auto repair shop",
+      "Tire shop",
+      "Vehicle inspection service"
+    ],
+    "category": "",
+    "address": "309 E Carroll St, Salisbury, MD 21804, United States",
+    "open_hours": {
+      "Friday": [
+        "8 am–5:30 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://www.peninsulatotalcarcare.com/?utm_campaign=gmb",
+    "phone": "+1410-219-7712",
+    "plus_code": "87C69C74+79",
+    "review_count": 0,
+    "review_rating": 4.8,
+    "reviews_per_rating": null,
+    "latitude": 38.3631588,
+    "longtitude": -75.5940681,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89b903959678c833:0xf2ba8bd98807a778",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -75.4727279,
+    "input_id": "dP-HaqHzBOHe4-EP8JngUQ",
+    "link": "",
+    "cid": "",
+    "title": "Automotive Services of Delmarva",
+    "categories": [
+      "Auto repair shop"
+    ],
+    "category": "",
+    "address": "7066 Forest Grove Rd, Parsonsburg, MD 21849, United States",
+    "open_hours": {
+      "Friday": [
+        "Open 24 hours"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.automotiveservicesofdelmarva.com/",
+    "phone": "+1667-853-6033",
+    "plus_code": "87C69GPG+4W",
+    "review_count": 0,
+    "review_rating": 5,
+    "reviews_per_rating": null,
+    "latitude": 38.3853735,
+    "longtitude": -75.4727279,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89b91d7f90f23a8d:0x15388dce39e7314a",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -75.2119195,
+    "input_id": "dP-HaqHzBOHe4-EP8JngUQ",
+    "link": "",
+    "cid": "",
+    "title": "Racetrack Auto Sales",
+    "categories": [
+      "Used car dealer",
+      "Auto tag agency",
+      "Car detailing service",
+      "Trailer dealer"
+    ],
+    "category": "",
+    "address": "11740 Worcester Hwy, Showell, MD 21862, United States",
+    "open_hours": {
+      "Friday": [
+        "9 am–6 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.racetrackoc.com/",
+    "phone": "+1410-352-5070",
+    "plus_code": "87C6CQ3Q+96",
+    "review_count": 0,
+    "review_rating": 4.5,
+    "reviews_per_rating": null,
+    "latitude": 38.4034492,
+    "longtitude": -75.2119195,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89b927b9be5be4fd:0x7f83b6feabdb5453",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -76.7697281,
+    "input_id": "dP-HarOpHdie4-EP5OuQmAs",
+    "link": "",
+    "cid": "",
+    "title": "Hill's Auto Repair",
+    "categories": [
+      "Auto repair shop"
+    ],
+    "category": "",
+    "address": "22829 Colton Point Rd, Bushwood, MD 20618, United States",
+    "open_hours": {
+      "Friday": [
+        "8 am–5 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.hillsautorepair.com/",
+    "phone": "+1301-769-2400",
+    "plus_code": "87C576QJ+Q4",
+    "review_count": 0,
+    "review_rating": 4.9,
+    "reviews_per_rating": null,
+    "latitude": 38.2894322,
+    "longtitude": -76.7697281,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89b76ba51628ff01:0x654c01f50ee3217a",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -76.7650994,
+    "input_id": "dP-HarOpHdie4-EP5OuQmAs",
+    "link": "",
+    "cid": "",
+    "title": "Speed Lane Automotive",
+    "categories": [
+      "Car dealer"
+    ],
+    "category": "",
+    "address": "28916 Three Notch Rd Unit 1, Mechanicsville, MD 20659, United States",
+    "open_hours": {
+      "Friday": [
+        "10 am–7 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.speedlaneauto.com/",
+    "phone": "+1703-868-9376",
+    "plus_code": "87C5F67M+6X",
+    "review_count": 0,
+    "review_rating": 4.8,
+    "reviews_per_rating": null,
+    "latitude": 38.4630189,
+    "longtitude": -76.7650994,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89b773ab3f75510f:0xb57a1ae0fa0b9a6a",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -77.01683609999999,
+    "input_id": "dP-HarOpHdie4-EP5OuQmAs",
+    "link": "",
+    "cid": "",
+    "title": "Southern Maryland Auto Repair",
+    "categories": [
+      "Auto repair shop"
+    ],
+    "category": "",
+    "address": "6530 Bensville Rd, Pomfret, MD 20675, United States",
+    "open_hours": {
+      "Friday": [
+        "8 am–4:30 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "",
+    "phone": "+1301-645-9639",
+    "plus_code": "87C4HXQM+37",
+    "review_count": 0,
+    "review_rating": 4.8,
+    "reviews_per_rating": null,
+    "latitude": 38.5877433,
+    "longtitude": -77.01683609999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89b707fb85e24301:0x48c5a05a2f07afb",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -76.9086767,
+    "input_id": "dP-HarOpHdie4-EP5OuQmAs",
+    "link": "",
+    "cid": "",
+    "title": "MOD AUTOMOTIVE LLC",
+    "categories": [
+      "Vehicle wrapping service",
+      "Auto repair shop"
+    ],
+    "category": "",
+    "address": "28 Industrial Park Dr Unit H, Waldorf, MD 20602, United States",
+    "open_hours": {
+      "Friday": [
+        "9 am–5 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://www.modautomotivellc.com/",
+    "phone": "+1240-410-7333",
+    "plus_code": "87C5J38R+WG",
+    "review_count": 0,
+    "review_rating": 5,
+    "reviews_per_rating": null,
+    "latitude": 38.6173632,
+    "longtitude": -76.9086767,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x28f2f747bcef003b:0x7fa22c2c0a851130",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -77.1480217,
+    "input_id": "dP-HarOpHdie4-EP5OuQmAs",
+    "link": "",
+    "cid": "",
+    "title": "Ben Nielsen's Charles County Automotive",
+    "categories": [
+      "Auto repair shop",
+      "Auto air conditioning service",
+      "Auto tune up service",
+      "Brake shop",
+      "Car repair and maintenance service",
+      "Mechanic",
+      "Muffler shop",
+      "Oil change service",
+      "Tire shop",
+      "Wheel alignment service"
+    ],
+    "category": "",
+    "address": "4615 MD-210, Indian Head, MD 20640, United States",
+    "open_hours": {
+      "Friday": [
+        "7 am–6 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://www.charlescountyautomotive.com/?utm_campaign=gmb",
+    "phone": "+1301-743-5000",
+    "plus_code": "87C4JV22+9Q",
+    "review_count": 0,
+    "review_rating": 4.6,
+    "reviews_per_rating": null,
+    "latitude": 38.600926099999995,
+    "longtitude": -77.1480217,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89b700878d62897b:0xe97283fa0188462c",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -76.92106869999999,
+    "input_id": "dP-HarOpHdie4-EP5OuQmAs",
+    "link": "",
+    "cid": "",
+    "title": "Arlington Motors of Maryland",
+    "categories": [
+      "Motor vehicle dealer"
+    ],
+    "category": "",
+    "address": "4711 Auth Pl, Camp Springs, MD 20746, United States",
+    "open_hours": {
+      "Friday": [
+        "10 am–7 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.arlingtonmotormd.com/",
+    "phone": "+1301-888-6733",
+    "plus_code": "87C5R3GH+6H",
+    "review_count": 0,
+    "review_rating": 4.9,
+    "reviews_per_rating": null,
+    "latitude": 38.8256217,
+    "longtitude": -76.92106869999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89b7bbaf041caa0f:0xa64f2d545ebadc10",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -76.92106869999999,
+    "input_id": "dP-HarOpHdie4-EP5OuQmAs",
+    "link": "",
+    "cid": "",
+    "title": "Auto hispano - Arlington Motors of Maryland",
+    "categories": [
+      "Car dealer"
+    ],
+    "category": "",
+    "address": "4711 Auth Pl, Camp Springs, MD 20746, United States",
+    "open_hours": {
+      "Friday": [
+        "10 am–7 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.arlingtonmotormd.com/cars-for-sale",
+    "phone": "+1240-463-6564",
+    "plus_code": "87C5R3GH+6H",
+    "review_count": 0,
+    "review_rating": 4.8,
+    "reviews_per_rating": null,
+    "latitude": 38.8256217,
+    "longtitude": -76.92106869999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89b7bb00415de22b:0xa2a84099e62c3b96",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -76.94431279999999,
+    "input_id": "dP-HarOpHdie4-EP5OuQmAs",
+    "link": "",
+    "cid": "",
+    "title": "District Auto Group",
+    "categories": [
+      "Used car dealer",
+      "Car dealer",
+      "Motor vehicle dealer",
+      "Truck dealer"
+    ],
+    "category": "",
+    "address": "4514 St Barnabas Rd, Marlow Heights, MD 20748, United States",
+    "open_hours": {
+      "Friday": [
+        "10 am–8 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.districtautogroup.com/?utm_source=google&utm_medium=organic&utm_campaign=google_business_profile",
+    "phone": "+1240-719-7888",
+    "plus_code": "87C5R3G4+Q7",
+    "review_count": 0,
+    "review_rating": 4.8,
+    "reviews_per_rating": null,
+    "latitude": 38.8269486,
+    "longtitude": -76.94431279999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89b7bbddaad6c561:0x277b563881018916",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -76.952745,
+    "input_id": "dP-HarOpHdie4-EP5OuQmAs",
+    "link": "",
+    "cid": "",
+    "title": "Mr Car of Brentwood",
+    "categories": [
+      "Used car dealer"
+    ],
+    "category": "",
+    "address": "3600 Bladensburg Rd NE, Cottage City, MD 20722, United States",
+    "open_hours": {
+      "Friday": [
+        "9 am–7 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.mymrcar.com/",
+    "phone": "+1240-972-2222",
+    "plus_code": "87C5W2MW+QW",
+    "review_count": 0,
+    "review_rating": 4.7,
+    "reviews_per_rating": null,
+    "latitude": 38.93448,
+    "longtitude": -76.952745,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89b7c76d8af8e8df:0x760eb5859d9f6c85",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -76.96547149999999,
+    "input_id": "dP-HarOpHdie4-EP5OuQmAs",
+    "link": "",
+    "cid": "",
+    "title": "Royal Motors",
+    "categories": [
+      "Used car dealer"
+    ],
+    "category": "",
+    "address": "2901 Hamilton St, Hyattsville, MD 20782, United States",
+    "open_hours": {
+      "Friday": [
+        "10 am–7 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.royalmotor.us/",
+    "phone": "+1301-559-7705",
+    "plus_code": "87C5X24M+5R",
+    "review_count": 0,
+    "review_rating": 4.3,
+    "reviews_per_rating": null,
+    "latitude": 38.9554246,
+    "longtitude": -76.96547149999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89b7c7aa1771f0e3:0xe74837046bd7c016",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -76.8830399,
+    "input_id": "dP-HarOpHdie4-EP5OuQmAs",
+    "link": "",
+    "cid": "",
+    "title": "Easterns Automotive Group",
+    "categories": [
+      "Used car dealer"
+    ],
+    "category": "",
+    "address": "7598 Annapolis Rd, Hyattsville, MD 20784, United States",
+    "open_hours": {
+      "Friday": [
+        "10 am–8 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://easterns.com/locations/hyattsville-maryland/?utm_campaign=GMB&utm_id=Google%20My%20Business&utm_medium=Website&utm_source=Google",
+    "phone": "+1571-464-7375",
+    "plus_code": "87C5X438+6Q",
+    "review_count": 0,
+    "review_rating": 4.9,
+    "reviews_per_rating": null,
+    "latitude": 38.9530543,
+    "longtitude": -76.8830399,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89b7c102dbc4579b:0x7c863ab79454d692",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -75.7979088,
+    "input_id": "d_-HatfsEoyq4-EPgqawiA4",
+    "link": "",
+    "cid": "",
+    "title": "JP Automotive, LLC",
+    "categories": [
+      "Auto repair shop",
+      "Auto electrical service",
+      "Auto sunroof shop",
+      "Car inspection station",
+      "Oil change service",
+      "Wheel alignment service"
+    ],
+    "category": "",
+    "address": "13281 Greensboro Rd, Greensboro, MD 21639, United States",
+    "open_hours": {
+      "Friday": [
+        "8 am–5 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.jpautomotivellc.com/",
+    "phone": "+1410-482-2238",
+    "plus_code": "87C6X6C2+WR",
+    "review_count": 0,
+    "review_rating": 4.6,
+    "reviews_per_rating": null,
+    "latitude": 38.9722508,
+    "longtitude": -75.7979088,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89b87d9ca5045837:0xcfd87f7eb8872f04",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -76.2052545,
+    "input_id": "d_-HatfsEoyq4-EPgqawiA4",
+    "link": "",
+    "cid": "",
+    "title": "AMJ Auto Repair - Grasonville",
+    "categories": [
+      "Auto repair shop",
+      "Air conditioning repair service",
+      "Auto electrical service",
+      "Auto tune up service",
+      "Brake shop",
+      "Car inspection station",
+      "Car repair and maintenance service",
+      "Oil change service",
+      "Transmission shop",
+      "Wheel alignment service"
+    ],
+    "category": "",
+    "address": "4601 Main St, Grasonville, MD 21638, United States",
+    "open_hours": {
+      "Friday": [
+        "8 am–5 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://amjauto.com/",
+    "phone": "+1410-449-2820",
+    "plus_code": "87C5XQ5V+MV",
+    "review_count": 0,
+    "review_rating": 4.9,
+    "reviews_per_rating": null,
+    "latitude": 38.9591996,
+    "longtitude": -76.2052545,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89b811a3c5accdd5:0xd1e53eb0b3e5e9ce",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -76.2125817,
+    "input_id": "d_-HatfsEoyq4-EPgqawiA4",
+    "link": "",
+    "cid": "",
+    "title": "Chester River Automotive",
+    "categories": [
+      "Auto repair shop",
+      "Auto tune up service",
+      "Brake shop",
+      "Mechanic"
+    ],
+    "category": "",
+    "address": "510 Saddler Rd, Grasonville, MD 21638, United States",
+    "open_hours": {
+      "Friday": [
+        "8 am–5 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://chesterriverautomotive.com/",
+    "phone": "+1410-827-9700",
+    "plus_code": "87C5XQ7P+HX",
+    "review_count": 0,
+    "review_rating": 5,
+    "reviews_per_rating": null,
+    "latitude": 38.9639606,
+    "longtitude": -76.2125817,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89b811a52ad8b67b:0x6eb1cdb726f14a81",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -76.3184983,
+    "input_id": "d_-HatfsEoyq4-EPgqawiA4",
+    "link": "",
+    "cid": "",
+    "title": "Island Imports Automotive",
+    "categories": [
+      "Auto repair shop",
+      "Car repair and maintenance service"
+    ],
+    "category": "",
+    "address": "107 St Claire Pl, Stevensville, MD 21666, United States",
+    "open_hours": {
+      "Friday": [
+        "8 am–4:30 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://www.islandimports.biz/",
+    "phone": "+1410-604-3242",
+    "plus_code": "87C5XMJJ+9J",
+    "review_count": 0,
+    "review_rating": 4.9,
+    "reviews_per_rating": null,
+    "latitude": 38.9809422,
+    "longtitude": -76.3184983,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89b81b1deaa66de5:0xd393aee35f4def8c",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -76.2118345,
+    "input_id": "d_-HatfsEoyq4-EPgqawiA4",
+    "link": "",
+    "cid": "",
+    "title": "Bay Hundred Auto",
+    "categories": [
+      "Auto repair shop",
+      "Auto electrical service",
+      "Brake shop",
+      "Car inspection station",
+      "Mechanic",
+      "Oil change service",
+      "Tire shop",
+      "Transmission shop",
+      "Wheel alignment service"
+    ],
+    "category": "",
+    "address": "1110 S Talbot St Ste 10, St Michaels, MD 21663, United States",
+    "open_hours": {
+      "Friday": [
+        "8 am–5 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://bayhundredauto.com/",
+    "phone": "+1410-745-0071",
+    "plus_code": "87C5QQCQ+R7",
+    "review_count": 0,
+    "review_rating": 4.8,
+    "reviews_per_rating": null,
+    "latitude": 38.7720607,
+    "longtitude": -76.2118345,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89b83c4318c17b61:0x44d2ac9143942c27",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -76.44358059999999,
+    "input_id": "d_-HatfsEoyq4-EPgqawiA4",
+    "link": "",
+    "cid": "",
+    "title": "Cape Auto",
+    "categories": [
+      "Auto repair shop"
+    ],
+    "category": "",
+    "address": "804 E College Pkwy, Annapolis, MD 21409, United States",
+    "open_hours": {
+      "Friday": [
+        "8 am–5 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://capeauto.com/",
+    "phone": "+1410-757-2700",
+    "plus_code": "87F52HG4+RH",
+    "review_count": 0,
+    "review_rating": 4.9,
+    "reviews_per_rating": null,
+    "latitude": 39.0270843,
+    "longtitude": -76.44358059999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89b802b21c869e4d:0x1869426a2ab5ab7b",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -76.5212602,
+    "input_id": "d_-HatfsEoyq4-EPgqawiA4",
+    "link": "",
+    "cid": "",
+    "title": "Maryland Auto Care",
+    "categories": [
+      "Auto repair shop"
+    ],
+    "category": "",
+    "address": "1814 George Ave, Annapolis, MD 21401, United States",
+    "open_hours": {},
+    "popular_times": null,
+    "web_site": "",
+    "phone": "+1410-280-0098",
+    "plus_code": "87C5XFGH+7F",
+    "review_count": 0,
+    "review_rating": 4.9,
+    "reviews_per_rating": null,
+    "latitude": 38.9756612,
+    "longtitude": -76.5212602,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89b7f6e95e4212a3:0xb795b27aae3f3ae5",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -76.3303985,
+    "input_id": "d_-HatfsEoyq4-EPgqawiA4",
+    "link": "",
+    "cid": "",
+    "title": "Bridges Automotive",
+    "categories": [
+      "Auto repair shop",
+      "Brake shop",
+      "Car battery store",
+      "Car inspection station",
+      "Diesel engine repair service",
+      "Oil change service",
+      "Tire shop",
+      "Transmission shop",
+      "Wheel alignment service",
+      "Wheel store"
+    ],
+    "category": "",
+    "address": "6211 Tilghman Island Rd, Tilghman, MD 21671, United States",
+    "open_hours": {
+      "Friday": [
+        "8 am–5 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://www.bridgesautomotive.com/",
+    "phone": "+1410-886-9833",
+    "plus_code": "87C5PMC9+JR",
+    "review_count": 0,
+    "review_rating": 4.9,
+    "reviews_per_rating": null,
+    "latitude": 38.721612199999996,
+    "longtitude": -76.3303985,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89b825c7ef56adcd:0x18ab7825bd6be045",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -76.467719,
+    "input_id": "d_-HatfsEoyq4-EPgqawiA4",
+    "link": "",
+    "cid": "",
+    "title": "East Coast Automotive Inc",
+    "categories": [
+      "Used car dealer"
+    ],
+    "category": "",
+    "address": "803 Eastern Blvd, Essex, MD 21221, United States",
+    "open_hours": {
+      "Friday": [
+        "9 am–8 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://www.mydealereastcoast.com/",
+    "phone": "+1410-686-1000",
+    "plus_code": "87F58G6J+HW",
+    "review_count": 0,
+    "review_rating": 4.5,
+    "reviews_per_rating": null,
+    "latitude": 39.3113806,
+    "longtitude": -76.467719,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89c80777f92ecccd:0xa68f415d6dbff7eb",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -76.5023978,
+    "input_id": "d_-HatfsEoyq4-EPgqawiA4",
+    "link": "",
+    "cid": "",
+    "title": "Auto Point Pre Owned",
+    "categories": [
+      "Used car dealer"
+    ],
+    "category": "",
+    "address": "8302 Pulaski Hwy, Baltimore, MD 21237, United States",
+    "open_hours": {
+      "Friday": [
+        "9 am–7 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.autopointpreowned.com/",
+    "phone": "+1410-918-1171",
+    "plus_code": "87F58FFX+G2",
+    "review_count": 0,
+    "review_rating": 4.9,
+    "reviews_per_rating": null,
+    "latitude": 39.323847199999996,
+    "longtitude": -76.5023978,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89c807ad319582a7:0xa8dc7a97c060332c",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -76.6034224,
+    "input_id": "d_-HatfsEoyq4-EPgqawiA4",
+    "link": "",
+    "cid": "",
+    "title": "Harbor Auto Center",
+    "categories": [
+      "Auto repair shop"
+    ],
+    "category": "",
+    "address": "1229a Generals Hwy, Crownsville, MD 21032, United States",
+    "open_hours": {
+      "Friday": [
+        "8:30 am–6 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.harborautocenteronline.com/",
+    "phone": "+1410-923-2482",
+    "plus_code": "87F529QW+CJ",
+    "review_count": 0,
+    "review_rating": 4.7,
+    "reviews_per_rating": null,
+    "latitude": 39.0385152,
+    "longtitude": -76.6034224,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89b7f079022cce9d:0x7cc4bc57dad8b908",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -76.6110343,
+    "input_id": "d_-HatfsEoyq4-EPgqawiA4",
+    "link": "",
+    "cid": "",
+    "title": "Mr. Car of Glen Burnie",
+    "categories": [
+      "Car dealer"
+    ],
+    "category": "",
+    "address": "7603 Baltimore Annapolis Blvd, Glen Burnie, MD 21060, United States",
+    "open_hours": {
+      "Friday": [
+        "10 am–8 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://mymrcar.com/",
+    "phone": "+1443-333-0128",
+    "plus_code": "87F5595Q+JH",
+    "review_count": 0,
+    "review_rating": 4.8,
+    "reviews_per_rating": null,
+    "latitude": 39.159007599999995,
+    "longtitude": -76.6110343,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89b7fd6a6e12302b:0x63ce9e02abda80db",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -76.5514874,
+    "input_id": "d_-HatfsEoyq4-EPgqawiA4",
+    "link": "",
+    "cid": "",
+    "title": "BALTIMORE AUTOMOTIVE GROUPS",
+    "categories": [
+      "Car dealer"
+    ],
+    "category": "",
+    "address": "5501 Pulaski Hwy Ste c, Baltimore, MD 21205, United States",
+    "open_hours": {
+      "Friday": [
+        "10 am–7 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://www.baltimoreautogroup.com/?utm_source=gmb&utm_medium=organic&utm_campaign=autosweet-MainListing&utm_term=WebsiteClicks",
+    "phone": "+1410-325-7900",
+    "plus_code": "87F57CXX+XC",
+    "review_count": 0,
+    "review_rating": 4.6,
+    "reviews_per_rating": null,
+    "latitude": 39.2998772,
+    "longtitude": -76.5514874,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89c8051684dd76d7:0x6ac24099b5170aa2",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -76.6191132,
+    "input_id": "d_-HatfsEoyq4-EPgqawiA4",
+    "link": "",
+    "cid": "",
+    "title": "National Automotive",
+    "categories": [
+      "Used car dealer"
+    ],
+    "category": "",
+    "address": "7228 Ritchie Hwy, Glen Burnie, MD 21061, United States",
+    "open_hours": {
+      "Friday": [
+        "10 am–6 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.nationalautomotivemd.com/",
+    "phone": "+1410-896-6458",
+    "plus_code": "87F559FJ+C9",
+    "review_count": 0,
+    "review_rating": 4.5,
+    "reviews_per_rating": null,
+    "latitude": 39.1735623,
+    "longtitude": -76.6191132,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89b7fd8658897287:0x167cd7f7dbe4113f",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -76.6152675,
+    "input_id": "d_-HatfsEoyq4-EPgqawiA4",
+    "link": "",
+    "cid": "",
+    "title": "M&M Auto Inc.",
+    "categories": [
+      "Used car dealer",
+      "Car dealer"
+    ],
+    "category": "",
+    "address": "6000 B Ritchie Hwy, Baltimore, MD 21225, United States",
+    "open_hours": {
+      "Friday": [
+        "10 am–7 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://usedcarsmaryland.com/",
+    "phone": "+1410-636-8000",
+    "plus_code": "87F5696M+FV",
+    "review_count": 0,
+    "review_rating": 4.6,
+    "reviews_per_rating": null,
+    "latitude": 39.2111702,
+    "longtitude": -76.6152675,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89c8029f2f5b1353:0x899549f49585b33d",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -76.69736619999999,
+    "input_id": "d_-HatfsEoyq4-EPgqawiA4",
+    "link": "",
+    "cid": "",
+    "title": "US Auto Sales and Service",
+    "categories": [
+      "Used car dealer",
+      "Auto repair shop"
+    ],
+    "category": "",
+    "address": "6101 Reisterstown Rd, Baltimore, MD 21215, United States",
+    "open_hours": {
+      "Friday": [
+        "10 am–7 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://usautotoday.com/",
+    "phone": "+1410-585-0800",
+    "plus_code": "87F59833+63",
+    "review_count": 0,
+    "review_rating": 4.7,
+    "reviews_per_rating": null,
+    "latitude": 39.353065199999996,
+    "longtitude": -76.69736619999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89c81b88ffda46e1:0x9ca64d324f026fa6",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -76.9681866,
+    "input_id": "d_-Har2VC-i94-EP3o2qqAQ",
+    "link": "",
+    "cid": "",
+    "title": "Precision Power Group",
+    "categories": [
+      "Auto repair shop",
+      "Auto tune up service",
+      "Car detailing service",
+      "Diesel engine repair service",
+      "Dynamometer supplier",
+      "Engine Rebuilding Service Station",
+      "Transmission shop",
+      "Vehicle wrapping service",
+      "Wheel alignment service",
+      "Window tinting service"
+    ],
+    "category": "",
+    "address": "12132 Tech Rd, Silver Spring, MD 20904, United States",
+    "open_hours": {
+      "Friday": [
+        "7 am–12 am"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://precisionpowerdc.com/",
+    "phone": "+1301-276-7800",
+    "plus_code": "87F5323J+XP",
+    "review_count": 0,
+    "review_rating": 5,
+    "reviews_per_rating": null,
+    "latitude": 39.054924,
+    "longtitude": -76.9681866,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89b7c586b8a0ee11:0x32de493dcdeb81aa",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -76.9588088,
+    "input_id": "d_-Har2VC-i94-EP3o2qqAQ",
+    "link": "",
+    "cid": "",
+    "title": "DARCARS Automotive Group",
+    "categories": [
+      "Car dealer"
+    ],
+    "category": "",
+    "address": "12511 Prosperity Dr, Silver Spring, MD 20904, United States",
+    "open_hours": {
+      "Friday": [
+        "9 am–9 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.darcars.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+    "phone": "+1800-327-2277",
+    "plus_code": "87F5326R+8F",
+    "review_count": 0,
+    "review_rating": 3.9,
+    "reviews_per_rating": null,
+    "latitude": 39.0607833,
+    "longtitude": -76.9588088,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89b7c4e76bf3b2c1:0x8ee3d7a8abd9de64",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -76.9481023,
+    "input_id": "d_-Har2VC-i94-EP3o2qqAQ",
+    "link": "",
+    "cid": "",
+    "title": "Sport Chevrolet",
+    "categories": [
+      "Chevrolet dealer",
+      "Car dealer",
+      "Car finance and loan company",
+      "Car leasing service",
+      "Truck dealer",
+      "Used car dealer",
+      "Used truck dealer"
+    ],
+    "category": "",
+    "address": "3101 Automobile Blvd, Silver Spring, MD 20904, United States",
+    "open_hours": {
+      "Friday": [
+        "9 am–7:30 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.sportchevrolet.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp_sales",
+    "phone": "+1240-293-0442",
+    "plus_code": "87F533J2+GQ",
+    "review_count": 0,
+    "review_rating": 4.4,
+    "reviews_per_rating": null,
+    "latitude": 39.0813032,
+    "longtitude": -76.9481023,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89b7db334d33d93b:0x4aa8063ed9636a1a",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -76.9048688,
+    "input_id": "d_-Har2VC-i94-EP3o2qqAQ",
+    "link": "",
+    "cid": "",
+    "title": "IAD Auto Beltsville",
+    "categories": [
+      "Used car dealer"
+    ],
+    "category": "",
+    "address": "11454 Baltimore Ave, Beltsville, MD 20705, United States",
+    "open_hours": {
+      "Friday": [
+        "9 am–8 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.iadauto.com/IAD-Beltsville/car-dealership-and-service-center-beltsville-md.htm",
+    "phone": "+1301-595-9515",
+    "plus_code": "87F523RW+Q3",
+    "review_count": 0,
+    "review_rating": 4.6,
+    "reviews_per_rating": null,
+    "latitude": 39.0419313,
+    "longtitude": -76.9048688,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89b7c370e140e897:0x820a3132a5d17aa6",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -76.90947469999999,
+    "input_id": "d_-Har2VC-i94-EP3o2qqAQ",
+    "link": "",
+    "cid": "",
+    "title": "GLOBAL MOTORS GARAGE",
+    "categories": [
+      "Car repair and maintenance service",
+      "Auto body shop",
+      "Auto repair shop"
+    ],
+    "category": "",
+    "address": "10731 Hanna St, Beltsville, MD 20705, United States",
+    "open_hours": {
+      "Friday": [
+        "8 am–5 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://globalmotorsgarage.com/",
+    "phone": "+1301-474-2325",
+    "plus_code": "87F523HR+76",
+    "review_count": 0,
+    "review_rating": 4.9,
+    "reviews_per_rating": null,
+    "latitude": 39.0281654,
+    "longtitude": -76.90947469999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89b7c376a94b7e39:0x4ac8f777545e76f9",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -76.9250082,
+    "input_id": "d_-Har2VC-i94-EP3o2qqAQ",
+    "link": "",
+    "cid": "",
+    "title": "Rising Sun Motors",
+    "categories": [
+      "Auto repair shop",
+      "Brake shop",
+      "Car repair and maintenance service",
+      "Mechanic",
+      "Muffler shop",
+      "Oil change service",
+      "Small engine repair service",
+      "Transmission shop",
+      "Vehicle inspection service",
+      "Wheel alignment service"
+    ],
+    "category": "",
+    "address": "9001 Rhode Island Ave, College Park, MD 20740, United States",
+    "open_hours": {
+      "Friday": [
+        "8 am–6 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.risingsunmotorsmd.com/location/auto-repair-college-park-md/",
+    "phone": "+1301-345-2600",
+    "plus_code": "87C5X3XF+PX",
+    "review_count": 0,
+    "review_rating": 4.7,
+    "reviews_per_rating": null,
+    "latitude": 38.999293699999996,
+    "longtitude": -76.9250082,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89b7c406737c57ab:0xebc5ce4a2bc77f3f",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -77.0518347,
+    "input_id": "d_-Har2VC-i94-EP3o2qqAQ",
+    "link": "",
+    "cid": "",
+    "title": "Allen Automotive",
+    "categories": [
+      "Auto repair shop"
+    ],
+    "category": "",
+    "address": "2424 Linden Ln, Silver Spring, MD 20910, United States",
+    "open_hours": {
+      "Friday": [
+        "7 am–6 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://allensautomotive.com/",
+    "phone": "+1301-587-6755",
+    "plus_code": "87F42W5X+P7",
+    "review_count": 0,
+    "review_rating": 4.5,
+    "reviews_per_rating": null,
+    "latitude": 39.0093007,
+    "longtitude": -77.0518347,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89b7c8d4bde82a2b:0xce9356422efbda84",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -77.04950219999999,
+    "input_id": "d_-Har2VC-i94-EP3o2qqAQ",
+    "link": "",
+    "cid": "",
+    "title": "Universal Auto Group",
+    "categories": [
+      "Used car dealer"
+    ],
+    "category": "",
+    "address": "2221 Distribution Cir, Silver Spring, MD 20910, United States",
+    "open_hours": {
+      "Friday": [
+        "9 am–6 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://www.universalautogroup.net/",
+    "phone": "+1301-495-3400",
+    "plus_code": "87F42X42+M5",
+    "review_count": 0,
+    "review_rating": 5,
+    "reviews_per_rating": null,
+    "latitude": 39.006640499999996,
+    "longtitude": -77.04950219999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89b7c8d394f13f49:0xa5921ee0dc853174",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -77.025966,
+    "input_id": "d_-Har2VC-i94-EP3o2qqAQ",
+    "link": "",
+    "cid": "",
+    "title": "Far East Motors Auto Repair",
+    "categories": [
+      "Auto repair shop",
+      "Auto air conditioning service",
+      "Auto radiator repair service",
+      "Auto tune up service",
+      "Brake shop",
+      "Car repair and maintenance service",
+      "Oil change service",
+      "Tire shop",
+      "Transmission shop",
+      "Wheel alignment service"
+    ],
+    "category": "",
+    "address": "963 Selim Rd, Silver Spring, MD 20910, United States",
+    "open_hours": {
+      "Friday": [
+        "8 am–6 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.fareastmotors.com/",
+    "phone": "+1301-945-7158",
+    "plus_code": "87C4XXQF+JJ",
+    "review_count": 0,
+    "review_rating": 4.8,
+    "reviews_per_rating": null,
+    "latitude": 38.989052,
+    "longtitude": -77.025966,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89b7c8bdb9a723af:0x8884fcda413fcf44",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -77.0525227,
+    "input_id": "d_-Har2VC-i94-EP3o2qqAQ",
+    "link": "",
+    "cid": "",
+    "title": "Maryland Auto Spa",
+    "categories": [
+      "Car detailing service",
+      "Auto restoration service"
+    ],
+    "category": "",
+    "address": "8931 Brookville Rd, Silver Spring, MD 20910, United States",
+    "open_hours": {
+      "Friday": [
+        "7:30 am–4:30 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://www.mdautospa.com/?utm_campaign=gmb&utm_source=local&utm_medium=organic",
+    "phone": "+1301-704-6503",
+    "plus_code": "87F42W3W+3X",
+    "review_count": 0,
+    "review_rating": 4.9,
+    "reviews_per_rating": null,
+    "latitude": 39.0027405,
+    "longtitude": -77.0525227,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89b7c8d6e18c2ad9:0x9e77ca3dd2dc31db",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -77.1048215,
+    "input_id": "d_-Har2VC-i94-EP3o2qqAQ",
+    "link": "",
+    "cid": "",
+    "title": "MB Automotive Services",
+    "categories": [
+      "Auto repair shop",
+      "Auto air conditioning service",
+      "Auto electrical service",
+      "Auto radiator repair service",
+      "Brake shop",
+      "Diesel engine repair service",
+      "Oil change service",
+      "Tire shop",
+      "Transmission shop",
+      "Wheel alignment service"
+    ],
+    "category": "",
+    "address": "11874 Coakley Cir, North Bethesda, MD 20852, United States",
+    "open_hours": {
+      "Friday": [
+        "8 am–6:30 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.mbautoinc.com/",
+    "phone": "+1301-881-8990",
+    "plus_code": "87F42VXW+Q3",
+    "review_count": 0,
+    "review_rating": 4.9,
+    "reviews_per_rating": null,
+    "latitude": 39.0494355,
+    "longtitude": -77.1048215,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89b7cc29b49827cf:0x82199a4ecf4fd7e7",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -76.96547149999999,
+    "input_id": "d_-Har2VC-i94-EP3o2qqAQ",
+    "link": "",
+    "cid": "",
+    "title": "Royal Motors",
+    "categories": [
+      "Used car dealer"
+    ],
+    "category": "",
+    "address": "2901 Hamilton St, Hyattsville, MD 20782, United States",
+    "open_hours": {
+      "Friday": [
+        "10 am–7 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.royalmotor.us/",
+    "phone": "+1301-559-7705",
+    "plus_code": "87C5X24M+5R",
+    "review_count": 0,
+    "review_rating": 4.3,
+    "reviews_per_rating": null,
+    "latitude": 38.9554246,
+    "longtitude": -76.96547149999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89b7c7aa1771f0e3:0xe74837046bd7c016",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -76.8221911,
+    "input_id": "d_-Har2VC-i94-EP3o2qqAQ",
+    "link": "",
+    "cid": "",
+    "title": "Easterns Automotive Group",
+    "categories": [
+      "Used car dealer",
+      "Car dealer",
+      "Motor vehicle dealer",
+      "Truck dealer"
+    ],
+    "category": "",
+    "address": "3510 Laurel Fort Meade Rd, Laurel, MD 20724, United States",
+    "open_hours": {
+      "Friday": [
+        "10 am–8 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://easterns.com/locations/laurel-maryland?utm_campaign=GMB&utm_id=Google%20My%20Business&utm_medium=GMB&utm_source=Google",
+    "phone": "+1571-464-7375",
+    "plus_code": "87F5452H+G4",
+    "review_count": 0,
+    "review_rating": 4.8,
+    "reviews_per_rating": null,
+    "latitude": 39.101345099999996,
+    "longtitude": -76.8221911,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89b7dd831f300b8b:0x9abd683a9acebf1d",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -76.8830399,
+    "input_id": "d_-Har2VC-i94-EP3o2qqAQ",
+    "link": "",
+    "cid": "",
+    "title": "Easterns Automotive Group",
+    "categories": [
+      "Used car dealer"
+    ],
+    "category": "",
+    "address": "7598 Annapolis Rd, Hyattsville, MD 20784, United States",
+    "open_hours": {
+      "Friday": [
+        "10 am–8 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://easterns.com/locations/hyattsville-maryland/?utm_campaign=GMB&utm_id=Google%20My%20Business&utm_medium=Website&utm_source=Google",
+    "phone": "+1571-464-7375",
+    "plus_code": "87C5X438+6Q",
+    "review_count": 0,
+    "review_rating": 4.9,
+    "reviews_per_rating": null,
+    "latitude": 38.9530543,
+    "longtitude": -76.8830399,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89b7c102dbc4579b:0x7c863ab79454d692",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -76.8922128,
+    "input_id": "d_-Har2VC-i94-EP3o2qqAQ",
+    "link": "",
+    "cid": "",
+    "title": "Auto Shop Service LLC",
+    "categories": [
+      "Auto repair shop",
+      "Auto electrical service",
+      "Auto radiator repair service",
+      "Auto tune up service",
+      "Car repair and maintenance service",
+      "Mechanic",
+      "Transmission shop",
+      "Vehicle inspection service"
+    ],
+    "category": "",
+    "address": "6615 Central Ave, Capitol Heights, MD 20743, United States",
+    "open_hours": {
+      "Friday": [
+        "8:30 am–5 am"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "",
+    "phone": "+1301-336-5623",
+    "plus_code": "87C5V4P5+R4",
+    "review_count": 0,
+    "review_rating": 5,
+    "reviews_per_rating": null,
+    "latitude": 38.8870722,
+    "longtitude": -76.8922128,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89b7c717e34f0f77:0x2882d6a8f917cc37",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -76.92106869999999,
+    "input_id": "d_-Har2VC-i94-EP3o2qqAQ",
+    "link": "",
+    "cid": "",
+    "title": "Arlington Motors of Maryland",
+    "categories": [
+      "Motor vehicle dealer"
+    ],
+    "category": "",
+    "address": "4711 Auth Pl, Camp Springs, MD 20746, United States",
+    "open_hours": {
+      "Friday": [
+        "10 am–7 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.arlingtonmotormd.com/",
+    "phone": "+1301-888-6733",
+    "plus_code": "87C5R3GH+6H",
+    "review_count": 0,
+    "review_rating": 4.9,
+    "reviews_per_rating": null,
+    "latitude": 38.8256217,
+    "longtitude": -76.92106869999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89b7bbaf041caa0f:0xa64f2d545ebadc10",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -76.6152675,
+    "input_id": "d_-Har2VC-i94-EP3o2qqAQ",
+    "link": "",
+    "cid": "",
+    "title": "M&M Auto Inc.",
+    "categories": [
+      "Used car dealer",
+      "Car dealer"
+    ],
+    "category": "",
+    "address": "6000 B Ritchie Hwy, Baltimore, MD 21225, United States",
+    "open_hours": {
+      "Friday": [
+        "10 am–7 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://usedcarsmaryland.com/",
+    "phone": "+1410-636-8000",
+    "plus_code": "87F5696M+FV",
+    "review_count": 0,
+    "review_rating": 4.6,
+    "reviews_per_rating": null,
+    "latitude": 39.2111702,
+    "longtitude": -76.6152675,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89c8029f2f5b1353:0x899549f49585b33d",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -76.5514874,
+    "input_id": "d_-Har2VC-i94-EP3o2qqAQ",
+    "link": "",
+    "cid": "",
+    "title": "BALTIMORE AUTOMOTIVE GROUPS",
+    "categories": [
+      "Car dealer"
+    ],
+    "category": "",
+    "address": "5501 Pulaski Hwy Ste c, Baltimore, MD 21205, United States",
+    "open_hours": {
+      "Friday": [
+        "10 am–7 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://www.baltimoreautogroup.com/?utm_source=gmb&utm_medium=organic&utm_campaign=autosweet-MainListing&utm_term=WebsiteClicks",
+    "phone": "+1410-325-7900",
+    "plus_code": "87F57CXX+XC",
+    "review_count": 0,
+    "review_rating": 4.6,
+    "reviews_per_rating": null,
+    "latitude": 39.2998772,
+    "longtitude": -76.5514874,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89c8051684dd76d7:0x6ac24099b5170aa2",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -76.5023978,
+    "input_id": "d_-Har2VC-i94-EP3o2qqAQ",
+    "link": "",
+    "cid": "",
+    "title": "Auto Point Pre Owned",
+    "categories": [
+      "Used car dealer"
+    ],
+    "category": "",
+    "address": "8302 Pulaski Hwy, Baltimore, MD 21237, United States",
+    "open_hours": {
+      "Friday": [
+        "9 am–7 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.autopointpreowned.com/",
+    "phone": "+1410-918-1171",
+    "plus_code": "87F58FFX+G2",
+    "review_count": 0,
+    "review_rating": 4.9,
+    "reviews_per_rating": null,
+    "latitude": 39.323847199999996,
+    "longtitude": -76.5023978,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89c807ad319582a7:0xa8dc7a97c060332c",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -76.467719,
+    "input_id": "d_-Har2VC-i94-EP3o2qqAQ",
+    "link": "",
+    "cid": "",
+    "title": "East Coast Automotive Inc",
+    "categories": [
+      "Used car dealer"
+    ],
+    "category": "",
+    "address": "803 Eastern Blvd, Essex, MD 21221, United States",
+    "open_hours": {
+      "Friday": [
+        "9 am–8 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://www.mydealereastcoast.com/",
+    "phone": "+1410-686-1000",
+    "plus_code": "87F58G6J+HW",
+    "review_count": 0,
+    "review_rating": 4.5,
+    "reviews_per_rating": null,
+    "latitude": 39.3113806,
+    "longtitude": -76.467719,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89c80777f92ecccd:0xa68f415d6dbff7eb",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -77.14825789999999,
+    "input_id": "dv-HapXvK_iM4-EPr5WJgQo",
+    "link": "",
+    "cid": "",
+    "title": "Peter's Car Parts - Car Parts Online Shop Maryland",
+    "categories": [
+      "Auto parts store",
+      "Auto body parts supplier",
+      "Auto Accessories Store",
+      "Truck parts supplier"
+    ],
+    "category": "",
+    "address": "7300-3 Westmore Rd, Rockville, MD 20850, United States",
+    "open_hours": {
+      "Friday": [
+        "1–8 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://peterscarparts.com/",
+    "phone": "+1301-783-2888",
+    "plus_code": "87F43VX2+QM",
+    "review_count": 0,
+    "review_rating": 5,
+    "reviews_per_rating": null,
+    "latitude": 39.0993978,
+    "longtitude": -77.14825789999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x89b65bdd1a0471f7:0xf29b93f86d056ee6",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  }
+]

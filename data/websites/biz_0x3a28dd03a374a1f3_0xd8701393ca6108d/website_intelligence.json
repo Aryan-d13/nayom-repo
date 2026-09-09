@@ -1,0 +1,163 @@
+{
+  "site_id": "biz_0x3a28dd03a374a1f3_0xd8701393ca6108d",
+  "base_url": "https://www.facebook.com/Sparkfitnessraipur/",
+  "domain": "www.facebook.com",
+  "source_website_json": "E:\\Code\\Nayom\\data\\websites\\biz_0x3a28dd03a374a1f3_0xd8701393ca6108d\\website.json",
+  "business_profile": {
+    "business_name": "Spark Fitness Raipur",
+    "tagline": "Transform your body and mind at Spark Fitness",
+    "description": "Spark Fitness Raipur is a local fitness center and gym providing strength training, personal training, and group workout classes in Raipur.",
+    "industry_category": "Fitness & Health",
+    "value_proposition": "Expert trainers and modern equipment designed to help you achieve your fitness goals effectively.",
+    "target_audience": "Local fitness enthusiasts, beginners looking to start a health journey, and individuals seeking personal training in Raipur.",
+    "key_differentiators": [
+      "Experienced personal trainers",
+      "Comprehensive fitness equipment",
+      "Community-driven workout environment"
+    ]
+  },
+  "services_and_products": [
+    {
+      "name": "General Gym Membership",
+      "description": "Access to all standard workout equipment and facilities.",
+      "category": "Core",
+      "target_audience": "General fitness enthusiasts",
+      "features": [
+        "Cardio equipment",
+        "Free weights",
+        "Resistance machines"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Personal Training",
+      "description": "One-on-one customized training sessions tailored to individual fitness goals.",
+      "category": "Premium",
+      "target_audience": "Individuals seeking rapid results or custom regimens",
+      "features": [
+        "Customized workout plans",
+        "Dietary guidance",
+        "Dedicated coaching"
+      ],
+      "pricing_hint": null
+    }
+  ],
+  "contact_intelligence": {
+    "emails": [],
+    "phones": [],
+    "addresses": [
+      "Raipur, Chhattisgarh, India"
+    ],
+    "city": "Raipur",
+    "state_or_region": "Chhattisgarh",
+    "country": "India",
+    "social_links": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/Sparkfitnessraipur/"
+      }
+    ],
+    "contact_forms_found": false,
+    "business_hours": null,
+    "has_contact_method": true
+  },
+  "brand_and_content": {
+    "tone_and_voice": [
+      "motivational",
+      "energetic",
+      "community-focused"
+    ],
+    "brand_positioning": "Local premier fitness destination in Raipur",
+    "hero_headlines": [
+      "Welcome to Spark Fitness Raipur"
+    ],
+    "important_copy_snippets": [],
+    "content_quality_score": 5
+  },
+  "calls_to_action": [
+    {
+      "text": "Send Message",
+      "destination": "https://www.facebook.com/Sparkfitnessraipur/",
+      "intent": "contact",
+      "prominence": "primary",
+      "location": "Facebook Page Header"
+    }
+  ],
+  "design_and_ux": {
+    "visual_aesthetic": "Social media business profile layout",
+    "typography_assessment": "Standard Facebook platform sans-serif typography hierarchy",
+    "color_palette_assessment": "Facebook blue branding combined with user-generated gym photos",
+    "layout_and_spacing": "Standard social media feed and profile tab layout",
+    "ux_navigation_flow": "Dependent on Facebook navigation bars for photos, posts, and about sections",
+    "visual_inputs_analyzed": false,
+    "screenshot_observations": [],
+    "strengths": [
+      "High local discoverability via Facebook",
+      "Easy peer-to-peer messaging"
+    ],
+    "weaknesses": [
+      "Lack of a dedicated official website",
+      "Limited structural presentation of membership plans and schedules"
+    ]
+  },
+  "technical_and_seo": {
+    "inferred_tech_stack": [
+      "Meta Platform"
+    ],
+    "seo_health": "Relies entirely on Facebook platform SEO, lacking independent meta tags, structured data, or keyword optimization.",
+    "seo_strengths": [
+      "High domain authority of Facebook"
+    ],
+    "seo_weaknesses": [
+      "No custom domain",
+      "No control over schema markup or site performance"
+    ],
+    "accessibility_observations": "Inherits Facebook's platform accessibility compliance standards.",
+    "performance_and_structure_notes": "Hosted on Facebook infrastructure, optimized for mobile app and web feed consumption."
+  },
+  "redesign_recommendations": {
+    "overall_redesign_verdict": "Building a dedicated modern landing page is highly recommended to capture local search traffic and drive membership signups.",
+    "strategic_recommendations": [
+      "Develop a standalone local business website with clear membership tiers and class schedules.",
+      "Integrate lead capture forms and direct WhatsApp booking widgets."
+    ],
+    "ui_ux_improvements": [
+      "Use high-energy imagery showing the actual gym interior and member success stories.",
+      "Implement clear sticky call-to-action buttons for joining or booking a free trial."
+    ],
+    "rebuild_opportunities": [
+      "Launch a Next.js and Tailwind CSS responsive local service site hosted on Vercel."
+    ],
+    "quick_wins": [
+      "Update Facebook page about section with exact operating hours and contact numbers.",
+      "Pin a welcome post with pricing details and a direct call to action."
+    ]
+  },
+  "template_recommendation": {
+    "recommended_template": "local-service-leadgen",
+    "template_category": "local_service",
+    "style_direction": "bold_industrial",
+    "layout_pattern": "single_page_anchor_flow",
+    "template_confidence": 0.95,
+    "key_sections": [
+      "hero",
+      "services_grid",
+      "trainer_roster",
+      "testimonials",
+      "lead_booking_cta"
+    ],
+    "reasoning": "A fitness gym requires a high-converting local lead generation structure emphasizing visual energy, clear membership options, and instant contact access."
+  },
+  "metadata": {
+    "provider": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "prompt_version": "1.0.0",
+    "analyzed_at": "2026-08-23T08:57:06.361197+00:00",
+    "screenshots_processed": 0,
+    "duration_seconds": 19.74,
+    "token_usage": null
+  },
+  "warnings": [
+    "No official website found; extracted profile details from social media presence."
+  ]
+}

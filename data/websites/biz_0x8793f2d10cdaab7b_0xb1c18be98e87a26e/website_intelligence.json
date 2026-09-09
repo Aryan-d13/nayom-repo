@@ -1,0 +1,393 @@
+{
+  "site_id": "biz_0x8793f2d10cdaab7b_0xb1c18be98e87a26e",
+  "base_url": "http://dentistryforhealthomaha.com/?utm_source=gbp&utm_medium=organic&utm_campaign=yext_listing",
+  "domain": "dentistryforhealthomaha.com",
+  "source_website_json": "E:\\Code\\Nayom\\data\\websites\\biz_0x8793f2d10cdaab7b_0xb1c18be98e87a26e\\website.json",
+  "business_profile": {
+    "business_name": "Dentistry for Health",
+    "tagline": "Elevate your experience today. We believe in a smile that gets you compliments.",
+    "description": "Dentistry for Health is a comprehensive dental practice located in Omaha, Nebraska, offering general, cosmetic, restorative, and specialized dental services including bone grafting, implants, Invisalign, sleep apnea treatment, and TMJ/TMD therapy.",
+    "industry_category": "Healthcare / Dental Services",
+    "value_proposition": "Comprehensive, gentle, and technologically advanced dental care focused on holistic well-being, aesthetics, and long-term oral health.",
+    "target_audience": "Families, adults, and seniors in the Omaha, Nebraska area seeking routine preventative care, cosmetic enhancements, or specialized dental treatments.",
+    "key_differentiators": [
+      "Wide range of advanced services from cosmetic makeovers to sleep apnea and TMJ treatment",
+      "Focus on modern digital technology and patient comfort",
+      "Convenient location in Omaha, NE with emergency care options"
+    ]
+  },
+  "services_and_products": [
+    {
+      "name": "Bone Grafting",
+      "description": "Restores jawbone functionality and aesthetics to prepare for dental implants and prevent further bone loss.",
+      "category": "Restorative",
+      "target_audience": "Patients with bone loss or preparing for dental implants",
+      "features": [
+        "Rebuilds bone structure",
+        "Stable foundation for implants",
+        "Preserves facial structure"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Cosmetic Dentistry",
+      "description": "Procedures to improve the appearance of teeth, gums, and bite, boosting overall confidence.",
+      "category": "Cosmetic",
+      "target_audience": "Adults looking to improve their smile aesthetics",
+      "features": [
+        "Teeth whitening",
+        "Veneers and bonding",
+        "Crowns and Invisalign"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Cracked & Broken Tooth Repair",
+      "description": "Early diagnosis and restorative treatment to save cracked teeth and restore function.",
+      "category": "Restorative",
+      "target_audience": "Patients experiencing dental trauma or tooth cracks",
+      "features": [
+        "Root canals and crowns",
+        "Bonding and contouring",
+        "Pain prevention"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Dental Cleanings & Checkups",
+      "description": "Preventative cleanings, examinations, and oral cancer screenings to maintain optimal oral health.",
+      "category": "Preventative",
+      "target_audience": "All patients, recommended twice a year",
+      "features": [
+        "Plaque and tartar removal",
+        "Oral cancer screening",
+        "Fluoride treatments"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Dental Imaging & X-Rays",
+      "description": "Advanced digital radiography utilizing 90% less radiation for precise diagnostics.",
+      "category": "Diagnostic",
+      "target_audience": "Patients requiring detailed dental evaluations",
+      "features": [
+        "Low radiation digital X-rays",
+        "Comprehensive oral structure imaging"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Tooth Extractions",
+      "description": "Comfortable and pain-free extractions when teeth cannot be saved, followed by restorative options.",
+      "category": "Surgical",
+      "target_audience": "Patients with severe decay, impacted teeth, or advanced gum disease",
+      "features": [
+        "Local anesthesia and sedation options",
+        "Post-extraction implant and bridge planning"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Implant-Supported Dentures",
+      "description": "Permanent, secure full and partial dentures anchored by titanium implants.",
+      "category": "Restorative",
+      "target_audience": "Patients missing multiple or all teeth seeking superior stability",
+      "features": [
+        "Partial and full sets",
+        "Permanent fit without slipping",
+        "Reduces bone loss"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Invisalign® Clear Aligners",
+      "description": "Custom-made clear aligners to gently straighten teeth without traditional metal wires.",
+      "category": "Orthodontics",
+      "target_audience": "Teens and adults wanting a discreet orthodontic solution",
+      "features": [
+        "Digital 3D smile preview",
+        "Faster results",
+        "Removable aligner trays"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Custom Night Guards",
+      "description": "Custom-fitted oral appliances to protect teeth from clenching and grinding during sleep.",
+      "category": "Preventative",
+      "target_audience": "Patients suffering from bruxism, jaw pain, or headaches",
+      "features": [
+        "Protects enamel",
+        "Reduces jaw pain",
+        "Improves sleep quality"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Oral Cancer Screenings",
+      "description": "Routine examinations of the mouth, lips, and throat to detect early signs of oral cancer.",
+      "category": "Preventative",
+      "target_audience": "Adults, especially those over 40 or with tobacco/alcohol use history",
+      "features": [
+        "Early tissue abnormality detection",
+        "Quick and painless procedure"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Oral Trauma Care",
+      "description": "Emergency dental services for chipped, knocked-out, or fractured teeth.",
+      "category": "Emergency",
+      "target_audience": "Patients experiencing unexpected dental injuries",
+      "features": [
+        "Immediate pain management",
+        "Tooth preservation and repair"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Tooth Pain Relief",
+      "description": "Prompt evaluation and treatment for toothaches, sensitivity, and gum pain.",
+      "category": "Therapeutic",
+      "target_audience": "Patients experiencing acute oral pain",
+      "features": [
+        "Root cause diagnosis",
+        "Customized pain relief treatment plans"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Preventative Dental Care",
+      "description": "Comprehensive routine care forming the foundation of long-term dental wellness.",
+      "category": "Preventative",
+      "target_audience": "All patients",
+      "features": [
+        "Cleanings and comprehensive exams",
+        "Routine digital X-rays",
+        "At-home hygiene education"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Dental Sealants",
+      "description": "Protective plastic coating applied to back molars to prevent decay.",
+      "category": "Preventative",
+      "target_audience": "Children, teenagers, and cavity-prone adults",
+      "features": [
+        "Bacterial barrier for deep grooves",
+        "Quick and painless application"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Sleep Apnea Treatment",
+      "description": "Oral appliance therapy to manage obstructive sleep apnea and reduce dangerous nighttime breathing interruptions.",
+      "category": "Specialized",
+      "target_audience": "Patients suffering from snoring, fatigue, and sleep apnea",
+      "features": [
+        "Custom oral appliances",
+        "Airway analysis and screening",
+        "Improved sleep quality"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Smile Makeovers",
+      "description": "Comprehensive cosmetic treatment plans combining multiple procedures to transform your smile.",
+      "category": "Cosmetic",
+      "target_audience": "Patients looking for a complete aesthetic dental transformation",
+      "features": [
+        "Color matching and whitening",
+        "Realignment and replacement of missing teeth"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Snoring Treatment",
+      "description": "Customized dental solutions to address the root causes of snoring for quieter, restful nights.",
+      "category": "Specialized",
+      "target_audience": "Habitual snorers and sleep partners",
+      "features": [
+        "Airway obstruction assessment",
+        "Custom anti-snoring appliances"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "TMJ/TMD Treatment",
+      "description": "Specialized care to alleviate jaw pain, clicking, and tension associated with temporomandibular joint disorders.",
+      "category": "Specialized",
+      "target_audience": "Patients experiencing jaw pain, headaches, or locking joints",
+      "features": [
+        "Joint function evaluation",
+        "Bite balancing and custom therapy"
+      ],
+      "pricing_hint": null
+    }
+  ],
+  "contact_intelligence": {
+    "emails": [],
+    "phones": [
+      "(402) 932-0282"
+    ],
+    "addresses": [
+      "10365 Pacific St, Omaha, NE 68114"
+    ],
+    "city": "Omaha",
+    "state_or_region": "NE",
+    "country": "US",
+    "social_links": [],
+    "contact_forms_found": true,
+    "business_hours": null,
+    "has_contact_method": true
+  },
+  "brand_and_content": {
+    "tone_and_voice": [
+      "professional",
+      "compassionate",
+      "authoritative",
+      "welcoming"
+    ],
+    "brand_positioning": "A trusted neighborhood dental practice combining modern digital technology with compassionate, patient-first comprehensive care.",
+    "hero_headlines": [
+      "Bone Grafting",
+      "Cosmetic Dentistry",
+      "Cracked Teeth",
+      "Dental Cleanings & Checkups",
+      "Dental Imaging & X-rays",
+      "Extractions",
+      "Implant-Supported Dentures",
+      "Invisalign® Treatment",
+      "Night Guards",
+      "Oral Cancer Screening",
+      "Oral Trauma",
+      "Pain and Dental Issues",
+      "Preventative & Oral Health",
+      "Sealants",
+      "Sleep Apnea Treatment",
+      "Smile Makeovers",
+      "Snoring",
+      "TMJ/TMD Treatment"
+    ],
+    "important_copy_snippets": [
+      "Elevate your experience today. We believe in a smile that gets you compliments.",
+      "When detected and treated early, oral cancer is 83% curable.",
+      "Digital X-rays not only use 90% less radiation than traditional film X-rays..."
+    ],
+    "content_quality_score": 8
+  },
+  "calls_to_action": [
+    {
+      "text": "Schedule with Us",
+      "destination": "../make-appointment",
+      "intent": "booking",
+      "prominence": "primary",
+      "location": "Hero"
+    },
+    {
+      "text": "Call Us: (402) 932-0282",
+      "destination": "tel:(402) 932-0282",
+      "intent": "contact",
+      "prominence": "primary",
+      "location": "Header/Footer/Sidebar"
+    },
+    {
+      "text": "Get Directions",
+      "destination": "https://maps.google.com/maps?cid=12808672650453295726",
+      "intent": "navigation",
+      "prominence": "secondary",
+      "location": "Footer"
+    },
+    {
+      "text": "Book Now",
+      "destination": "../make-appointment",
+      "intent": "booking",
+      "prominence": "primary",
+      "location": "Page body"
+    }
+  ],
+  "design_and_ux": {
+    "visual_aesthetic": "Clean corporate dental practice website with patient-centered imagery and structured service breakdowns.",
+    "typography_assessment": "Clear typographic hierarchy utilizing standard sans-serif fonts optimized for readability and quick scanning of medical details.",
+    "color_palette_assessment": "Professional healthcare color palette dominated by clean whites, soft blues, and dark neutral text for readability and trust.",
+    "layout_and_spacing": "Consistent multi-page layout featuring clear H1/H3 headers, prominent booking CTAs, FAQ accordions, and dedicated location blocks.",
+    "ux_navigation_flow": "Straightforward user journey with sticky booking options, direct phone links, and structured service sub-pages.",
+    "visual_inputs_analyzed": false,
+    "screenshot_observations": [],
+    "strengths": [
+      "Comprehensive service coverage with clear FAQs on every page",
+      "Prominent click-to-call and scheduling CTAs",
+      "Strong local SEO optimization with embedded address and map links"
+    ],
+    "weaknesses": [
+      "Heavy reliance on repetitive footer and sidebar contact blocks across service pages",
+      "Some page content sections appear templated or truncated"
+    ]
+  },
+  "technical_and_seo": {
+    "inferred_tech_stack": [
+      "WordPress",
+      "PHP",
+      "Schema.org JSON-LD"
+    ],
+    "seo_health": "Strong local SEO implementation with geo-targeted meta descriptions, H1 headings, and structured schema markup across service pages.",
+    "seo_strengths": [
+      "Unique meta descriptions targeting Omaha, Nebraska keywords for every service",
+      "JSON-LD schema present on all crawled pages",
+      "Clear heading structures (H1, H3)"
+    ],
+    "seo_weaknesses": [
+      "Duplicate NAP and footer text blocks across numerous subpages could benefit from modular templating"
+    ],
+    "accessibility_observations": "Standard semantic HTML landmarks used, with clear phone anchor tags and high contrast ratios.",
+    "performance_and_structure_notes": "Standard multi-page architecture with moderate content density per service page."
+  },
+  "redesign_recommendations": {
+    "overall_redesign_verdict": "A modern overhaul is not urgently required due to solid local SEO, but migrating to a headless Next.js/Tailwind architecture would significantly boost page speeds, mobile conversion rates, and visual polish.",
+    "strategic_recommendations": [
+      "Streamline the appointment booking funnel into an interactive multi-step widget directly on the homepage.",
+      "Incorporate real patient video testimonials and before/after gallery showcases prominently.",
+      "Consolidate overlapping sleep apnea and snoring pages into a unified, high-converting sleep wellness hub."
+    ],
+    "ui_ux_improvements": [
+      "Implement a sticky mobile booking bar for instant tap-to-call and scheduling.",
+      "Use modern bento-grid layouts for showcasing dental technology and services.",
+      "Add interactive smile assessment quizzes to drive patient engagement."
+    ],
+    "rebuild_opportunities": [
+      "Rebuild on Next.js and Tailwind CSS hosted on Vercel for lightning-fast Core Web Vitals.",
+      "Integrate an automated booking and patient intake form API."
+    ],
+    "quick_wins": [
+      "Add direct click-to-call buttons inside the mobile sticky header.",
+      "Ensure business hours are explicitly displayed in the footer across all pages.",
+      "Optimize local schema markup with explicit doctor profiles."
+    ]
+  },
+  "template_recommendation": {
+    "recommended_template": "local-service-leadgen",
+    "template_category": "local_service",
+    "style_direction": "clean_corporate",
+    "layout_pattern": "single_page_anchor_flow",
+    "template_confidence": 0.95,
+    "key_sections": [
+      "hero",
+      "service_bento_grid",
+      "patient_testimonials",
+      "before_after_gallery",
+      "location_and_hours",
+      "lead_booking_cta"
+    ],
+    "reasoning": "A local service lead generation archetype with clean corporate styling perfectly matches a dental practice needing rapid appointment bookings, clear service categorization, and prominent local contact details."
+  },
+  "metadata": {
+    "provider": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "prompt_version": "1.0.0",
+    "analyzed_at": "2026-08-24T10:01:18.788269+00:00",
+    "screenshots_processed": 0,
+    "duration_seconds": 16.22,
+    "token_usage": null
+  },
+  "warnings": []
+}

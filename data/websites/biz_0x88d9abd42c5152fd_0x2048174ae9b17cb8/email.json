@@ -1,0 +1,18 @@
+{
+  "recipient": "contact@myaffordabledentistry.com",
+  "subject": "Quick thought on Affordable Dentistry of South Florida's site & a live concept",
+  "body": "Hi there,\n\nI came across Affordable Dentistry of South Florida while looking at practices in Hollywood, and I really appreciate your focus on combining boutique, concierge-level care with transparent pricing and 0% down financing options.\n\nWhile browsing your current site, I noticed a couple of minor details that might be worth streamlining for patients, specifically the dual phone numbers shown across different sections and resolving the brand naming overlap with Concierge Dentistry of South Florida to strengthen your local search authority.\n\nTo show how these quick fixes look in practice, I went ahead and built a clean, modern prototype for you. It standardizes your primary contact info in the header and adds direct navigation to your financing partners like Sunbit and CareCredit.\n\nYou can check out the live preview here: https://nayom-biz-0x88d9abd42c5152fd-0x2048174ae9b17cb-fczoa290p.vercel.app\n\nIf you like how this layout feels or want me to send over the code files, just let me know. No worries at all if you are completely happy with your current setup!",
+  "business_id": "biz_0x88d9abd42c5152fd_0x2048174ae9b17cb8",
+  "preview_url": "https://nayom-biz-0x88d9abd42c5152fd-0x2048174ae9b17cb-fczoa290p.vercel.app",
+  "generated_at": "2026-08-26T08:59:13.226696+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "business_name": "Affordable Dentistry of South Florida",
+  "key_improvements": [
+    "Standardized the primary phone number in the header banner to remove customer confusion",
+    "Unified brand naming references to strengthen local search authority",
+    "Added direct navigation links to financing partners"
+  ],
+  "provider": "gemini",
+  "prompt_version": "1.0.0",
+  "warnings": []
+}

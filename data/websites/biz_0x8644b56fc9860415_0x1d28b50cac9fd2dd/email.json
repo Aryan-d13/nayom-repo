@@ -1,0 +1,17 @@
+{
+  "recipient": "info@vicandals.com",
+  "subject": "Quick thought on the Vic and Al's website",
+  "body": "Hi Vic and Al's team, I love the incredible multi-generational history you bring to Austin with your scratch-made Cajun comfort food, from the gumbo down to your in-house seasonings. While browsing your current site, I noticed a couple of quick opportunities to help turn more visitors into diners, such as streamlining the gift card purchasing flow and making the menu ordering buttons more direct. Because I really appreciate what you do, I went ahead and built a modern, faster prototype for you. You can check out the live preview here: https://nayom-biz-0x8644b56fc9860415-0x1d28b50cac9fd2d-4sanwo0se.vercel.app. If you like the updated layout and want to use it, just let me know and I'll gladly send over the files. No pressure at all if you are happy with your current setup!",
+  "business_id": "biz_0x8644b56fc9860415_0x1d28b50cac9fd2dd",
+  "preview_url": "https://nayom-biz-0x8644b56fc9860415-0x1d28b50cac9fd2d-4sanwo0se.vercel.app",
+  "generated_at": "2026-08-24T14:29:17.899195+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "business_name": "Vic and Al's",
+  "key_improvements": [
+    "Streamlined gift card purchasing flow",
+    "Action-oriented ordering buttons"
+  ],
+  "provider": "gemini",
+  "prompt_version": "1.0.0",
+  "warnings": []
+}

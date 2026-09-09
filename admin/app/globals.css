@@ -1,0 +1,103 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 240 10% 3.9%;
+    --foreground: 0 0% 98%;
+  }
+
+  body {
+    background-color: #09090b;
+    color: #f4f4f5;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+/* Precision console scrollbars */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+::-webkit-scrollbar-track {
+  background: #0d0e12;
+}
+::-webkit-scrollbar-thumb {
+  background: #262836;
+  border-radius: 2px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #3b3e54;
+}
+
+/* Operations Console Surfaces */
+.console-panel {
+  background-color: #12131a;
+  border: 1px solid #262836;
+}
+
+.console-panel-subtle {
+  background-color: #0e0f15;
+  border: 1px solid #1f202c;
+}
+
+.console-panel-raised {
+  background-color: #171822;
+  border: 1px solid #2d2f40;
+}
+
+.console-header-bar {
+  background-color: rgba(9, 9, 11, 0.95);
+  border-bottom: 1px solid #262836;
+  backdrop-filter: blur(8px);
+}
+
+/* Status Indicator Dots */
+.status-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 9999px;
+  display: inline-block;
+  flex-shrink: 0;
+}
+
+.status-dot-running {
+  background-color: #06b6d4;
+  box-shadow: 0 0 8px rgba(6, 182, 212, 0.6);
+  animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+.status-dot-success {
+  background-color: #10b981;
+}
+
+.status-dot-failed {
+  background-color: #f43f5e;
+}
+
+.status-dot-warning {
+  background-color: #f59e0b;
+}
+
+.status-dot-idle {
+  background-color: #71717a;
+}
+
+/* Monospace telemetry numbers */
+.num-metric {
+  font-family: ui-monospace, SFMono-Regular, "JetBrains Mono", Menlo, Monaco, Consolas, monospace;
+  font-variant-numeric: tabular-nums;
+}
+
+/* Dense table row styles */
+.console-table-row {
+  border-bottom: 1px solid #1f202c;
+  transition: background-color 0.15s ease;
+}
+
+.console-table-row:hover {
+  background-color: rgba(30, 31, 44, 0.6);
+}

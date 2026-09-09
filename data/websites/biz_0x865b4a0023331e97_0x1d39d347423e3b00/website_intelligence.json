@@ -1,0 +1,233 @@
+{
+  "site_id": "biz_0x865b4a0023331e97_0x1d39d347423e3b00",
+  "base_url": "https://thecosmeticdentistsofaustin.com/?utm_source=gbp",
+  "domain": "thecosmeticdentistsofaustin.com",
+  "source_website_json": "E:\\Code\\Nayom\\data\\websites\\biz_0x865b4a0023331e97_0x1d39d347423e3b00\\website.json",
+  "business_profile": {
+    "business_name": "The Cosmetic Dentists of Austin",
+    "tagline": "EXPERIENCE MATTERS",
+    "description": "A premier cosmetic dentistry practice located in Austin, TX, specializing in smile makeovers, porcelain veneers, full-mouth restorations, and advanced neuromuscular and restorative dental treatments.",
+    "industry_category": "Healthcare / Dentistry",
+    "value_proposition": "Achieve the smile you've always wanted through personalized, world-class cosmetic dental treatments delivered by internationally recognized experts in as few as two visits.",
+    "target_audience": "Adults seeking smile makeovers, porcelain veneers, dental implants, or full-mouth restorations, including out-of-town guests looking for accelerated concierge dental care.",
+    "key_differentiators": [
+      "Over 500 five-star reviews and thousands of completed smile makeovers",
+      "Led by LVI Fellows (Las Vegas Institute for Advanced Dental Studies)",
+      "Four-day Express Smile Makeovers for out-of-town guests",
+      "Last Time You Pay Policy and comprehensive transparent financing options"
+    ]
+  },
+  "services_and_products": [
+    {
+      "name": "Porcelain Veneers",
+      "description": "Custom-crafted porcelain veneers designed to repair chipped, cracked, or stained teeth and create a balanced, symmetrical smile in two visits.",
+      "category": "Core",
+      "target_audience": "Patients seeking aesthetic smile corrections",
+      "features": [
+        "Custom porcelain in two visits",
+        "Closes gaps and covers deep stains",
+        "Natural, aesthetically balanced smiles"
+      ],
+      "pricing_hint": "Financing as low as $250/month"
+    },
+    {
+      "name": "Smile Makeover",
+      "description": "Personalized multi-faceted cosmetic treatments combining veneers, crowns, bridges, and whitening for a complete transformation.",
+      "category": "Core",
+      "target_audience": "Patients wanting a dramatic appearance upgrade",
+      "features": [
+        "Results in as few as two visits",
+        "Straightens crooked teeth and closes gaps",
+        "Custom tailored to facial aesthetics"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Full Mouth Restoration",
+      "description": "Comprehensive reconstruction combining dental implants, crowns, and precise jaw alignment for missing or severely damaged teeth.",
+      "category": "Core",
+      "target_audience": "Patients with complex restorative needs",
+      "features": [
+        "Replaces missing teeth with dental implants",
+        "Restores bite, chewing, and speech",
+        "Precise jaw alignment with BioPak technology"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Out-Of-Town Concierge Service",
+      "description": "Accelerated four-day Express Smile Makeover for traveling patients, complete with lodging and travel assistance.",
+      "category": "Specialty",
+      "target_audience": "International and national traveling guests",
+      "features": [
+        "Four-day Express Smile Makeover in one trip",
+        "Assistance with travel plans and lodging",
+        "Minutes from Barton Creek Resort & Spa"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Sedation Dentistry",
+      "description": "Safe, carefully monitored sedation options including nitrous oxide, oral conscious, and IV sedation to ease dental anxiety.",
+      "category": "Add-on",
+      "target_audience": "Anxious patients or those undergoing lengthy procedures",
+      "features": [
+        "Nitrous oxide, oral conscious, and IV sedation",
+        "Vital sign monitoring throughout treatment",
+        "Stress-free and comfortable environment"
+      ],
+      "pricing_hint": null
+    }
+  ],
+  "contact_intelligence": {
+    "emails": [
+      "Contact@TheCosmeticDentistsofAustin.com"
+    ],
+    "phones": [
+      "512.333.7777"
+    ],
+    "addresses": [
+      "2700 Barton Creek Blvd., Suite 130, Austin TX 78735"
+    ],
+    "city": "Austin",
+    "state_or_region": "TX",
+    "country": "United States",
+    "social_links": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/"
+      }
+    ],
+    "contact_forms_found": true,
+    "business_hours": "Standard business hours apply; Saturday appointments available",
+    "has_contact_method": true
+  },
+  "brand_and_content": {
+    "tone_and_voice": [
+      "authoritative",
+      "professional",
+      "welcoming",
+      "luxurious"
+    ],
+    "brand_positioning": "Boutique, high-end cosmetic dental practice for discerning local and international clientele seeking master-level artistry.",
+    "hero_headlines": [
+      "EXPERIENCE MATTERS",
+      "Dental Bridges In Austin, TX",
+      "Out-Of-Town Guests in Austin, TX",
+      "Porcelain Veneers In Austin, TX"
+    ],
+    "important_copy_snippets": [
+      "Guests Travel From Around The World To Austin, TX To Take Advantage Of Our Four Day Express Smile Makeover",
+      "Our practicing dentists are 2 of the less than 300 LVI Fellows in the entire US."
+    ],
+    "content_quality_score": 8
+  },
+  "calls_to_action": [
+    {
+      "text": "CONTACT US",
+      "destination": "/contact",
+      "intent": "contact",
+      "prominence": "primary",
+      "location": "Hero"
+    },
+    {
+      "text": "FREE CONSULTATION",
+      "destination": "/contact",
+      "intent": "booking",
+      "prominence": "primary",
+      "location": "Sticky Header / Page Body"
+    },
+    {
+      "text": "Apply Now",
+      "destination": "https://pay.withcherry.com/the-cosmetic-dentists-of-austin-tx",
+      "intent": "lead_capture",
+      "prominence": "secondary",
+      "location": "Financing Page"
+    }
+  ],
+  "design_and_ux": {
+    "visual_aesthetic": "clean_corporate",
+    "typography_assessment": "Traditional medical/dental typographic hierarchy with clear section headings and legible body text blocks, though slightly cluttered with multi-tier navigation elements.",
+    "color_palette_assessment": "Professional healthcare color palette dominated by clean whites, soft grays, and professional blue accents, projecting trust and clinical cleanliness.",
+    "layout_and_spacing": "Standard multi-page layout with extensive informational depth, image galleries, and structured service breakdowns. Some pages suffer from dense copy blocks and truncated content.",
+    "ux_navigation_flow": "Comprehensive sitemap and sticky contact triggers, but deep nested menus can occasionally overwhelm users looking for direct appointment scheduling.",
+    "visual_inputs_analyzed": false,
+    "screenshot_observations": [],
+    "strengths": [
+      "Abundant social proof (500+ five-star reviews)",
+      "Clear positioning of elite clinical credentials (LVI Fellows)",
+      "Dedicated paths for out-of-town guests and flexible financing"
+    ],
+    "weaknesses": [
+      "Slightly outdated visual component styling on secondary subpages",
+      "Dense blocks of text requiring scrolling effort",
+      "Inconsistent button sizing and label styling across sections"
+    ]
+  },
+  "technical_and_seo": {
+    "inferred_tech_stack": [
+      "WordPress",
+      "PHP",
+      "MySQL",
+      "Cloudflare"
+    ],
+    "seo_health": "Strong local SEO foundation with specific geo-targeted landing pages for Austin and surrounding areas (Bee Cave, Cedar Park, Lakeway), robust schema markup, and descriptive meta tags.",
+    "seo_strengths": [
+      "Rich geo-targeted landing pages for surrounding suburbs",
+      "Structured JSON-LD schema implementation",
+      "Keyword-rich H1 and H2 headline tags"
+    ],
+    "seo_weaknesses": [
+      "Some draft or placeholder URL structures found in sitemap",
+      "Occasional content truncation issues on deep subpages"
+    ],
+    "accessibility_observations": "Features a dedicated accessibility toolbar widget providing font scaling, high contrast mode, and keyboard navigation support.",
+    "performance_and_structure_notes": "Standard CMS asset weight; benefits from caching and CDN delivery but could be optimized for faster mobile rendering."
+  },
+  "redesign_recommendations": {
+    "overall_redesign_verdict": "A modern front-end modernization using Next.js and Tailwind CSS while retaining the robust local SEO structure is recommended to elevate the brand to a luxury cosmetic tier.",
+    "strategic_recommendations": [
+      "Position the practice as a premier luxury dental destination for both local executives and international travelers.",
+      "Streamline the consultation booking funnel into an interactive 3-step appointment widget."
+    ],
+    "ui_ux_improvements": [
+      "Implement a sleek bento-grid layout for the smile gallery and specialties.",
+      "Replace dense paragraphs with scorable bulleted feature lists and high-impact imagery."
+    ],
+    "rebuild_opportunities": [
+      "Migrate to a headless Next.js architecture with Tailwind CSS for lightning-fast performance and superior mobile responsiveness.",
+      "Integrate automated CRM booking and patient inquiry funnels."
+    ],
+    "quick_wins": [
+      "Prominently feature Google review badges and video testimonials above the fold on the homepage.",
+      "Standardize all CTA button labels and styling for instant visual conversion clarity."
+    ]
+  },
+  "template_recommendation": {
+    "recommended_template": "local-service-leadgen",
+    "template_category": "local_service",
+    "style_direction": "clean_corporate",
+    "layout_pattern": "split_hero_feature_stack",
+    "template_confidence": 0.95,
+    "key_sections": [
+      "hero",
+      "specialties_bento",
+      "doctor_credentials",
+      "smile_gallery_grid",
+      "patient_testimonials",
+      "financing_options",
+      "lead_booking_cta"
+    ],
+    "reasoning": "A local service lead generation template tailored with luxury design elements emphasizes elite professional credentials, visual proof (smile gallery), and frictionless consultation booking."
+  },
+  "metadata": {
+    "provider": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "prompt_version": "1.0.0",
+    "analyzed_at": "2026-08-26T16:03:22.595007+00:00",
+    "screenshots_processed": 0,
+    "duration_seconds": 11.33,
+    "token_usage": null
+  },
+  "warnings": []
+}

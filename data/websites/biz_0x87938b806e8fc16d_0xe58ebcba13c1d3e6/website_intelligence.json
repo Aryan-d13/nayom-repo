@@ -1,0 +1,249 @@
+{
+  "site_id": "biz_0x87938b806e8fc16d_0xe58ebcba13c1d3e6",
+  "base_url": "https://www.thedentistsomaha.com/",
+  "domain": "www.thedentistsomaha.com",
+  "source_website_json": "E:\\Code\\Nayom\\data\\websites\\biz_0x87938b806e8fc16d_0xe58ebcba13c1d3e6\\website.json",
+  "business_profile": {
+    "business_name": "The Dentists of Omaha",
+    "tagline": "Exceptional dental care across four convenient locations in Omaha",
+    "description": "The Dentists of Omaha is a premier multi-location dental practice founded by Dr. Jay Samuelson. Offering general, cosmetic, family, and restorative dentistry across four locations in Omaha (Hillsborough, Village Pointe, Ralston Square, and Dundee), the practice has been recognized as Omaha Magazine's 'Best Family Dentist' for multiple consecutive years.",
+    "industry_category": "Healthcare / Dentistry",
+    "value_proposition": "Patients receive expert care from board-certified providers across four neighborhood offices in Omaha, combining advanced cosmetic and restorative techniques with a welcoming family-dentistry environment.",
+    "target_audience": "Families, adults, and individuals in Omaha, Nebraska seeking routine preventive care, cosmetic enhancements, dental implants, or emergency dental treatments.",
+    "key_differentiators": [
+      "Voted Omaha Magazine's 'Best Family Dentist' for 18 consecutive years",
+      "Four convenient neighborhood locations in Omaha (Hillsborough, Village Pointe, Ralston Square, Dundee)",
+      "Led by Dr. Jay Samuelson, a graduate of Creighton University School of Dentistry and the Las Vegas Institute for Advanced Dental Studies",
+      "Comprehensive care ranging from preventive cleanings to complex dental implants and root canals"
+    ]
+  },
+  "services_and_products": [
+    {
+      "name": "Dental Implants",
+      "description": "Titanium posts surgically placed in the jawbone and topped with custom crowns to permanently replace missing teeth and preserve bone health.",
+      "category": "Restorative & Cosmetic",
+      "target_audience": "Patients missing one or more teeth looking for permanent tooth replacement",
+      "features": [
+        "Replaces missing teeth from the root up",
+        "Prevents jawbone deterioration",
+        "Looks and functions like a natural tooth"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Tooth-Colored Fillings",
+      "description": "Composite resin and ceramic fillings designed to blend seamlessly with natural teeth while effectively stopping tooth decay.",
+      "category": "General Dentistry",
+      "target_audience": "Patients with cavities or minor tooth damage",
+      "features": [
+        "Mercury-free and biocompatible",
+        "Matches natural tooth color",
+        "Bonds directly to tooth structure"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Preventive Dentistry & Cleanings",
+      "description": "Routine dental exams, professional cleanings, fluoride treatments, and oral hygiene education to prevent tooth loss and gum disease.",
+      "category": "General & Preventive",
+      "target_audience": "Families and individuals of all ages",
+      "features": [
+        "Removes hardened plaque and tartar",
+        "Detects early signs of decay or oral cancer",
+        "Strengthens enamel with professional fluoride application"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Emergency Dental Care",
+      "description": "Prompt evaluation and urgent treatment for broken teeth, severe toothaches, knocked-out teeth, or acute oral trauma.",
+      "category": "Urgent Care",
+      "target_audience": "Patients experiencing sudden dental pain or trauma",
+      "features": [
+        "Same-day emergency appointments",
+        "Pain relief and infection control",
+        "Restorative solutions for chipped or fractured teeth"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Root Canal Therapy",
+      "description": "Modern endodontic treatment designed to remove infected pulp from inside the tooth, relieve pain, and save the natural tooth.",
+      "category": "Restorative Dentistry",
+      "target_audience": "Patients with deep decay or nerve infections",
+      "features": [
+        "Gentle, pain-free techniques using modern anesthesia",
+        "Preserves natural tooth structure",
+        "Eliminates painful abscesses and infections"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Dental Inlays and Onlays",
+      "description": "Custom-crafted porcelain or composite restorations that provide a stronger, conservative alternative to full crowns for moderately damaged teeth.",
+      "category": "Restorative Dentistry",
+      "target_audience": "Patients with damage too extensive for a standard filling but not requiring a full crown",
+      "features": [
+        "Custom-fabricated for a precise fit",
+        "Preserves more natural tooth structure than crowns",
+        "Exceptional durability under chewing pressure"
+      ],
+      "pricing_hint": null
+    }
+  ],
+  "contact_intelligence": {
+    "emails": [],
+    "phones": [
+      "402-445-4647",
+      "402-307-6227",
+      "402-307-6215",
+      "402-307-6223",
+      "402-307-6244"
+    ],
+    "addresses": [
+      "Hillsborough Office, Omaha, NE",
+      "Ralston Office, Omaha, NE",
+      "Village Point Office, Omaha, NE",
+      "Dundee Office, Omaha, NE"
+    ],
+    "city": "Omaha",
+    "state_or_region": "NE",
+    "country": "USA",
+    "social_links": [],
+    "contact_forms_found": true,
+    "business_hours": null,
+    "has_contact_method": true
+  },
+  "brand_and_content": {
+    "tone_and_voice": [
+      "authoritative",
+      "compassionate",
+      "professional",
+      "educational",
+      "welcoming"
+    ],
+    "brand_positioning": "Omaha's most trusted, award-winning family and cosmetic dental practice with multi-location convenience and expert clinical care.",
+    "hero_headlines": [
+      "Blog - The Dentists of Omaha",
+      "Common Causes of Tooth Sensitivity And How to Treat It",
+      "Debunking Common Myths About Tooth-colored Fillings",
+      "Dental Bridges vs. Implants: Which Is Better for Missing Teeth?",
+      "Dental Implants: When And Why You Might Need One"
+    ],
+    "important_copy_snippets": [
+      "Recognized by Omaha Magazine as the 'Best Family Dentist' for 18 consecutive years.",
+      "Preserving a natural tooth through preventative dentistry offers lasting benefits that restorations cannot fully replicate.",
+      "Modern root canals are far less painful and stressful than their old reputation suggests."
+    ],
+    "content_quality_score": 9
+  },
+  "calls_to_action": [
+    {
+      "text": "BOOK AN APPOINTMENT",
+      "destination": null,
+      "intent": "booking",
+      "prominence": "primary",
+      "location": "Header Navigation / Global"
+    },
+    {
+      "text": "Search",
+      "destination": null,
+      "intent": "navigation",
+      "prominence": "secondary",
+      "location": "Blog Header"
+    },
+    {
+      "text": "schedule a consultation",
+      "destination": null,
+      "intent": "booking",
+      "prominence": "secondary",
+      "location": "In-content Body"
+    }
+  ],
+  "design_and_ux": {
+    "visual_aesthetic": "clean_corporate",
+    "typography_assessment": "Clear sans-serif font hierarchy with solid legibility across headings and body copy. Good contrast between dark text and light backgrounds.",
+    "color_palette_assessment": "Professional healthcare color scheme utilizing trustworthy blues, clean whites, and subtle accent tones suited for dental practices.",
+    "layout_and_spacing": "Structured multi-column blog and resource layouts with clear content categorization, readable line lengths, and accessible footer information across multiple office branches.",
+    "ux_navigation_flow": "Straightforward menu items providing clear paths to treatment categories, blog resources, and booking actions.",
+    "visual_inputs_analyzed": false,
+    "screenshot_observations": [],
+    "strengths": [
+      "Extensive, high-value educational blog content addressing patient anxiety and common dental procedures",
+      "Prominent display of awards ('Best Family Dentist' for 18 years)",
+      "Clear multi-location contact and phone numbers available across pages"
+    ],
+    "weaknesses": [
+      "Blog listing page can feel text-heavy and lacks visual grid card distinction",
+      "Primary call-to-action buttons blend into navigation without high-contrast conversion styling"
+    ]
+  },
+  "technical_and_seo": {
+    "inferred_tech_stack": [
+      "WordPress",
+      "Yoast SEO / Schema Plugin",
+      "PHP"
+    ],
+    "seo_health": "Strong keyword optimization with targeted local intent for Omaha, NE. JSON-LD schema markup present on pages. Meta descriptions and title tags are descriptive and well-optimized.",
+    "seo_strengths": [
+      "Excellent localized long-tail keyword targeting (e.g., 'Tooth Sensitivity Treatment in Omaha, NE')",
+      "Structured JSON-LD schema entities implemented",
+      "Robust internal linking structure between blog posts and core service pages"
+    ],
+    "seo_weaknesses": [
+      "Some categories marked as 'Uncategorized'",
+      "Potential duplicate content risks across heavily overlapping blog post topics"
+    ],
+    "accessibility_observations": "Reasonable semantic landmarking with clear H1-H6 heading hierarchy, though image alt tags could be optimized further across older blog imagery.",
+    "performance_and_structure_notes": "Standard WordPress asset loading; can benefit from headless or static caching optimizations to improve mobile load speeds."
+  },
+  "redesign_recommendations": {
+    "overall_redesign_verdict": "A modern front-end rebuild using Next.js and Tailwind CSS would dramatically enhance speed, mobile responsiveness, and appointment conversion rates while preserving their strong SEO equity.",
+    "strategic_recommendations": [
+      "Implement a centralized online appointment booking widget that allows patients to select their preferred Omaha location instantly.",
+      "Elevate social proof and awards ('Best Family Dentist 18 Years Running') directly into the above-the-fold hero section.",
+      "Group educational blog articles into an intuitive 'Dental Health Resource Center' with interactive symptom checkers."
+    ],
+    "ui_ux_improvements": [
+      "Upgrade the blog layout to a modern bento card grid with featured imagery and estimated read times.",
+      "Add sticky mobile call and booking buttons for frictionless mobile conversion.",
+      "Incorporate before-and-after smile galleries directly within educational service pages."
+    ],
+    "rebuild_opportunities": [
+      "Migrate to a Headless WordPress or Next.js static architecture connected with an automated patient scheduling API.",
+      "Implement an AI-powered dental symptom triage chatbot to qualify emergency patients and route them to the correct office."
+    ],
+    "quick_wins": [
+      "Add high-contrast styling to the 'BOOK AN APPOINTMENT' header button to boost click-through rates.",
+      "Ensure all office phone numbers are click-to-call mobile links.",
+      "Clean up uncategorized blog tags into structured topical hubs."
+    ]
+  },
+  "template_recommendation": {
+    "recommended_template": "local-service-leadgen",
+    "template_category": "local_service",
+    "style_direction": "clean_corporate",
+    "layout_pattern": "multi_page_funnel",
+    "template_confidence": 0.95,
+    "key_sections": [
+      "hero",
+      "location_selector",
+      "trust_badges_awards",
+      "services_grid",
+      "patient_testimonials",
+      "lead_booking_cta",
+      "footer_multi_office"
+    ],
+    "reasoning": "A local service lead-generation template optimized for multi-location dental practices allows seamless switching between office branches (Hillsborough, Village Pointe, Ralston Square, Dundee) while prioritizing appointment booking and patient trust."
+  },
+  "metadata": {
+    "provider": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "prompt_version": "1.0.0",
+    "analyzed_at": "2026-08-24T10:02:16.871610+00:00",
+    "screenshots_processed": 0,
+    "duration_seconds": 12.22,
+    "token_usage": null
+  },
+  "warnings": []
+}

@@ -1,0 +1,213 @@
+{
+  "site_id": "biz_0x8644cc72561ee0d5_0xe12eff88147950fd",
+  "base_url": "https://www.culinarydropout.com/locations/austin-tx/?utm_source=Google&utm_medium=Organic&utm_campaign=Maps",
+  "domain": "www.culinarydropout.com",
+  "source_website_json": "E:\\Code\\Nayom\\data\\websites\\biz_0x8644cc72561ee0d5_0xe12eff88147950fd\\website.json",
+  "business_profile": {
+    "business_name": "Culinary Dropout Austin",
+    "tagline": "An American restaurant in Austin, TX with scratch kitchens, cold beer, live music, and the place to watch sports—only at Culinary Dropout.",
+    "description": "Culinary Dropout is an American restaurant located at Domain Northside in Austin, TX, featuring a scratch kitchen, cold beer, live music, sports viewing, and extensive dining menus ranging from antipasti and starters to entrees, craft cocktails, and weekend brunch.",
+    "industry_category": "Hospitality & Restaurant",
+    "value_proposition": "Enjoy scratch-made American comfort food, craft drinks, live music, and sports entertainment in a lively, vibrant neighborhood setting.",
+    "target_audience": "Local food enthusiasts, sports fans, families, weekend brunchgoers, and groups looking for lively dining and social gatherings in Austin.",
+    "key_differentiators": [
+      "Scratch kitchens",
+      "Live music events",
+      "Dedicated sports viewing atmosphere",
+      "Extensive craft cocktail and draught beer selection",
+      "Private group dining and catering offerings"
+    ]
+  },
+  "services_and_products": [
+    {
+      "name": "Antipasti & Boards",
+      "description": "Selection of cured meats, cheeses, and small artisan snacks.",
+      "category": "Starters",
+      "target_audience": "Diners looking for shareable plates",
+      "features": [
+        "Grilled Asparagus",
+        "House Smoked Salmon Dip",
+        "Chef Board selection"
+      ],
+      "pricing_hint": "$5 to $30"
+    },
+    {
+      "name": "Starters",
+      "description": "Popular appetizers and shareable snacks.",
+      "category": "Appetizers",
+      "target_audience": "All guests",
+      "features": [
+        "Soft Pretzels & Provolone Fondue",
+        "Spicy Tuna Crispy Rice",
+        "BBQ Pork Nachos"
+      ],
+      "pricing_hint": "$10 to $19"
+    },
+    {
+      "name": "Entrées",
+      "description": "Hearty American scratch-made main dishes.",
+      "category": "Main",
+      "target_audience": "Lunch and dinner diners",
+      "features": [
+        "36-Hour Pork Ribs",
+        "Fried Chicken",
+        "Ma...The Meatloaf!?!",
+        "Steak Frites"
+      ],
+      "pricing_hint": "$21 to $42"
+    },
+    {
+      "name": "Cocktails & Drinks",
+      "description": "Handcrafted cocktails, beers, and non-alcoholic refreshments.",
+      "category": "Beverages",
+      "target_audience": "Bar patrons and adult diners",
+      "features": [
+        "Giddy Up Espresso Martini",
+        "Endless Summer Margarita",
+        "Extensive wine and draught beer lists"
+      ],
+      "pricing_hint": "$9 to $17"
+    }
+  ],
+  "contact_intelligence": {
+    "emails": [],
+    "phones": [
+      "(512) 777-3394"
+    ],
+    "addresses": [
+      "11721 Rock Rose, Ste. #100, Austin, TX 78758"
+    ],
+    "city": "Austin",
+    "state_or_region": "TX",
+    "country": "US",
+    "social_links": [],
+    "contact_forms_found": true,
+    "business_hours": "Mon - Thu: 11AM - 11PM, Fri: 11AM - 12AM, Sat: 9AM - 12AM, Sun: 9AM - 10PM",
+    "has_contact_method": true
+  },
+  "brand_and_content": {
+    "tone_and_voice": [
+      "energetic",
+      "casual",
+      "inviting",
+      "vibrant"
+    ],
+    "brand_positioning": "A high-energy, neighborhood American restaurant and gathering place combining scratch-made food, craft drinks, and live entertainment.",
+    "hero_headlines": [
+      "Culinary Dropout Austin"
+    ],
+    "important_copy_snippets": [
+      "An American restaurant in Austin, TX with scratch kitchens, cold beer, live music, and the place to watch sports—only at Culinary Dropout."
+    ],
+    "content_quality_score": 8
+  },
+  "calls_to_action": [
+    {
+      "text": "Find A Table",
+      "destination": null,
+      "intent": "booking",
+      "prominence": "primary",
+      "location": "Header"
+    },
+    {
+      "text": "Order Online",
+      "destination": "https://order.foxrc.com/menu/culinary-dropout-austin-domain",
+      "intent": "checkout",
+      "prominence": "primary",
+      "location": "Hero"
+    },
+    {
+      "text": "Reservations",
+      "destination": "https://www.openTable.com/restaurant/profile/334660/reserve?restref=334660",
+      "intent": "booking",
+      "prominence": "primary",
+      "location": "Hero"
+    },
+    {
+      "text": "JOIN THE CLUB",
+      "destination": "/ebites/",
+      "intent": "lead_capture",
+      "prominence": "secondary",
+      "location": "Hero"
+    }
+  ],
+  "design_and_ux": {
+    "visual_aesthetic": "Vibrant and modern hospitality brand design featuring rich food photography, clear typography hierarchy, and a lively diner-centric atmosphere.",
+    "typography_assessment": "Clean serif and sans-serif headings paired with highly legible body copy for easy menu scanning.",
+    "color_palette_assessment": "Warm, inviting color tones with high contrast for readability across menus and operational details.",
+    "layout_and_spacing": "Structured card layouts and distinct section dividers that separate hours, menu categories, and location details effectively.",
+    "ux_navigation_flow": "Clear, direct conversion paths for ordering online, booking tables via OpenTable, and accessing menu PDFs.",
+    "visual_inputs_analyzed": false,
+    "screenshot_observations": [],
+    "strengths": [
+      "Clear call-to-action buttons for reservations and online orders",
+      "Comprehensive menu listing directly accessible",
+      "Prominent operating hours and location details"
+    ],
+    "weaknesses": [
+      "Heavy reliance on external PDF links for menu items which can hinder mobile UX speed and responsiveness"
+    ]
+  },
+  "technical_and_seo": {
+    "inferred_tech_stack": [
+      "WordPress",
+      "Gravity Forms",
+      "OpenTable Integration",
+      "Schema.org JSON-LD"
+    ],
+    "seo_health": "Strong local SEO optimization with clear schema metadata, descriptive page titles, and location-specific keywords.",
+    "seo_strengths": [
+      "Optimized meta descriptions",
+      "JSON-LD structured data present",
+      "Local intent keyword targeting (Austin, TX)"
+    ],
+    "seo_weaknesses": [
+      "PDF menu links rather than HTML-rendered structured text for all menu sub-pages can limit indexable search content depth."
+    ],
+    "accessibility_observations": "Semantic heading structures are generally well organized, though interactive touch targets and aria labels on mobile menu widgets could be enhanced.",
+    "performance_and_structure_notes": "Page contains multiple external document dependencies (PDFs) which should be optimized for mobile web performance."
+  },
+  "redesign_recommendations": {
+    "overall_redesign_verdict": "The website performs well as a local landing page, but could be elevated by replacing external PDF menus with fully interactive, responsive HTML menu components.",
+    "strategic_recommendations": [
+      "Embed interactive HTML menus directly on the page to improve mobile readability and search engine indexing.",
+      "Enhance visual storytelling with integrated video loops or high-res photo galleries highlighting live music events and sports nights."
+    ],
+    "ui_ux_improvements": [
+      "Implement sticky mobile navigation for quick table booking and online ordering.",
+      "Refine spacing around operating hours and location quick-links for better thumb-zone accessibility."
+    ],
+    "rebuild_opportunities": [
+      "Migrate to a headless CMS architecture (e.g., Next.js with Tailwind CSS and Sanity/Strapi) for blistering page speeds and seamless multi-location management."
+    ],
+    "quick_wins": [
+      "Add direct anchor links for faster in-page menu category switching.",
+      "Optimize promotional popup or banner for the e-bites club to drive newsletter signups."
+    ]
+  },
+  "template_recommendation": {
+    "recommended_template": "local-service-leadgen",
+    "template_category": "local_service",
+    "style_direction": "warm_editorial",
+    "layout_pattern": "single_page_anchor_flow",
+    "template_confidence": 0.95,
+    "key_sections": [
+      "hero",
+      "location_hours_bento",
+      "interactive_menu_tabs",
+      "events_and_music_feed",
+      "lead_booking_cta"
+    ],
+    "reasoning": "A local hospitality venue requires a high-converting landing page optimized for immediate table bookings, online orders, and quick access to operating hours and menus."
+  },
+  "metadata": {
+    "provider": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "prompt_version": "1.0.0",
+    "analyzed_at": "2026-08-24T14:29:38.309756+00:00",
+    "screenshots_processed": 0,
+    "duration_seconds": 8.38,
+    "token_usage": null
+  },
+  "warnings": []
+}

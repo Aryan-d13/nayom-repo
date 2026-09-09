@@ -1,0 +1,1636 @@
+{
+  "request": {
+    "url": "http://www.vicandals.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=16065829198384685157",
+    "site_id": "biz_0x8644b56fc9860415_0x1d28b50cac9fd2dd",
+    "max_pages": 20,
+    "render_js": false,
+    "screenshot": false,
+    "concurrency": 5,
+    "timeout": 20,
+    "delay": 0.25,
+    "use_sitemap": true,
+    "include_subdomains": false,
+    "min_words": 5,
+    "download_images": false,
+    "user_agent": null
+  },
+  "site_id": "biz_0x8644b56fc9860415_0x1d28b50cac9fd2dd",
+  "base_url": "http://www.vicandals.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=16065829198384685157",
+  "domain": "www.vicandals.com",
+  "total_pages_crawled": 8,
+  "successful_pages": 8,
+  "failed_pages": 0,
+  "pages": [
+    {
+      "url": "https://www.vicandals.com/",
+      "path": "/",
+      "title": "Vic & Al's | Cajun restaurant | 2406 Manor Road, Suite D, Austin, TX, USA",
+      "status_code": 200,
+      "crawled_at": "2026-08-24T14:28:02.649566+00:00",
+      "duration_ms": 1093.37,
+      "content": {
+        "markdown": "*Vic & Al’s is a family-style Cajun restaurant Located in Austin ,Texas. Our kitchen is scratch-made, meaning we make as much as we can in-house, from our sauces and seasonings to the dishes that bring people together around the table. Whether you’re stopping in for a casual meal, grabbing a drink with friends, celebrating something special, or just craving a bowl of gumbo and a plate of something delicious, we want you to feel right at home.Come hungry, stay awhile, and let us feed you.*\n\n\n[CLICK FOR TODAYS MENU](https://vicandals.square.site/s/order)\n\n[Image: Vic & Al's in Beaumont, Texas 1970's]\n\n###### Vic & Al’s is a family-style Cajun restaurant Located in Austin texas. We are rooted in good food, good people, and good vibes. Our kitchen is scratch-made, meaning we make as much as we can in-house, from our sauces and seasonings to the dishes that bring people together around the table. We prioritize local sourcing whenever possible and believe that great food starts with quality ingredients and a lot of care.At Vic & Al’s, we’re all about creating a place where people can come as they are, relax, have a good time, and eat really damn good food. Our menu is inspired by the bold, comforting flavors of Cajun and Louisiana cooking, with dishes meant to be shared, enjoyed, and talked about.Whether you’re stopping in for a casual meal, grabbing a drink with friends, celebrating something special, or just craving a bowl of gumbo and a plate of something delicious, we want you to feel right at home.Come hungry, stay awhile, and let us feed you.\n\n## HOURS 11am-11pm\n\n## HAPPY HOUR\n\n## *available for dine in only* MONDAY-FRIDAY 3:00pm-6:00pm",
+        "plain_text": "top of page Log In VIC & AL'S Home Catering & Reservations Gift Cards Contact Press Parking History More Use tab to navigate through the menu items. CLICK FOR TODAYS MENU Vic & Al’s is a family-style Cajun restaurant Located in Austin texas. We are rooted in good food, good people, and good vibes. Our kitchen is scratch-made, meaning we make as much as we can in-house, from our sauces and seasonings to the dishes that bring people together around the table. We prioritize local sourcing whenever possible and believe that great food starts with quality ingredients and a lot of care.At Vic & Al’s, we’re all about creating a place where people can come as they are, relax, have a good time, and eat really damn good food. Our menu is inspired by the bold, comforting flavors of Cajun and Louisiana cooking, with dishes meant to be shared, enjoyed, and talked about.Whether you’re stopping in for a casual meal, grabbing a drink with friends, celebrating something special, or just craving a bowl of gumbo and a plate of something delicious, we want you to feel right at home.Come hungry, stay awhile, and let us feed you. HOURS 11am-11pm HAPPY HOUR *available for dine in only* MONDAY-FRIDAY 3:00pm-6:00pm bottom of page",
+        "word_count": 211,
+        "character_count": 1224,
+        "excerpt": "top of page Log In VIC & AL'S Home Catering & Reservations Gift Cards Contact Press Parking History More Use tab to navigate through the menu items. CLICK FOR TODAYS MENU Vic & Al’s is a family-style Cajun restaurant Located in Austin texas. We are r..."
+      },
+      "headings": [
+        {
+          "level": 2,
+          "text": "VIC & AL'S",
+          "id": null
+        },
+        {
+          "level": 6,
+          "text": "Vic & Al’s is a family-style Cajun restaurant Located in Austin texas. We are rooted in good food, good people, and good vibes. Our kitchen is scratch-made, meaning we make as much as we can in-house, from our sauces and seasonings to the dishes that bring people together around the table. We prioritize local sourcing whenever possible and believe that great food starts with quality ingredients and a lot of care.At Vic & Al’s, we’re all about creating a place where people can come as they are, relax, have a good time, and eat really damn good food. Our menu is inspired by the bold, comforting flavors of Cajun and Louisiana cooking, with dishes meant to be shared, enjoyed, and talked about.Whether you’re stopping in for a casual meal, grabbing a drink with friends, celebrating something special, or just craving a bowl of gumbo and a plate of something delicious, we want you to feel right at home.Come hungry, stay awhile, and let us feed you.",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "HOURS 11am-11pm",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "HAPPY HOUR",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "*available for dine in only* MONDAY-FRIDAY 3:00pm-6:00pm",
+          "id": null
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.vicandals.com",
+          "text": "Home",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.vicandals.com/catering-reservations",
+          "text": "Catering & Reservations",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.vicandals.com/gift-cards",
+          "text": "Gift Cards",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.vicandals.com/faq",
+          "text": "Contact",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.vicandals.com/press",
+          "text": "Press",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.vicandals.com/parking",
+          "text": "Parking",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.vicandals.com/history",
+          "text": "History",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://vicandals.square.site/s/order",
+          "text": "CLICK FOR TODAYS MENU",
+          "title": null,
+          "is_external": true,
+          "rel": "noreferrer noopener"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://static.wixstatic.com/media/1d53bf_0141d2df5a7b4dc1bee2a22a38266168~mv2.jpg/v1/fill/w_288,h_192,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/1d53bf_0141d2df5a7b4dc1bee2a22a38266168~mv2.jpg",
+          "alt": null,
+          "title": null,
+          "width": 1920,
+          "height": 1920,
+          "loading": null,
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/1d53bf_a8dabdbfdeb443b4a515bf33a3d3ecaf~mv2.jpg/v1/fill/w_499,h_375,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/1d53bf_a8dabdbfdeb443b4a515bf33a3d3ecaf~mv2.jpg",
+          "alt": "Vic & Al's in Beaumont, Texas 1970's",
+          "title": null,
+          "width": 499,
+          "height": 375,
+          "loading": null,
+          "local_path": null
+        }
+      ],
+      "metadata": {
+        "title": "Vic & Al's | Cajun restaurant | 2406 Manor Road, Suite D, Austin, TX, USA",
+        "description": "Vic & Al’s is a family-style Cajun restaurant Located in Austin ,Texas. Our kitchen is scratch-made, meaning we make as much as we can in-house, from our sauces and seasonings to the dishes that bring people together around the table. Whether you’re stopping in for a casual meal, grabbing a drink with friends, celebrating something special, or just craving a bowl of gumbo and a plate of something delicious, we want you to feel right at home.Come hungry, stay awhile, and let us feed you.",
+        "keywords": [],
+        "canonical": "https://www.vicandals.com",
+        "language": "en",
+        "charset": "utf-8",
+        "viewport": "width=device-width, initial-scale=1",
+        "author": null,
+        "robots": null,
+        "og_tags": {
+          "og:title": "Vic & Al's | Cajun restaurant | 2406 Manor Road, Suite D, Austin, TX, USA",
+          "og:description": "Vic & Al’s is a family-style Cajun restaurant Located in Austin ,Texas. Our kitchen is scratch-made, meaning we make as much as we can in-house, from our sauces and seasonings to the dishes that bring people together around the table. Whether you’re stopping in for a casual meal, grabbing a drink with friends, celebrating something special, or just craving a bowl of gumbo and a plate of something delicious, we want you to feel right at home.Come hungry, stay awhile, and let us feed you.",
+          "og:url": "https://www.vicandals.com",
+          "og:site_name": "Vic & Al's",
+          "og:type": "website"
+        },
+        "twitter_tags": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Vic & Al's | Cajun restaurant | 2406 Manor Road, Suite D, Austin, TX, USA",
+          "twitter:description": "Vic & Al’s is a family-style Cajun restaurant Located in Austin ,Texas. Our kitchen is scratch-made, meaning we make as much as we can in-house, from our sauces and seasonings to the dishes that bring people together around the table. Whether you’re stopping in for a casual meal, grabbing a drink with friends, celebrating something special, or just craving a bowl of gumbo and a plate of something delicious, we want you to feel right at home.Come hungry, stay awhile, and let us feed you."
+        },
+        "favicon": "https://static.parastorage.com/client/pfavico.ico",
+        "other_meta": {
+          "generator": "Wix.com Website Builder",
+          "format-detection": "telephone=no",
+          "skype_toolbar": "skype_toolbar_parser_compatible",
+          "fb_admins_meta_tag": "vicandals",
+          "google-site-verification": "qnJ0AXyQJKJGymE4bzQ8LCKo263WFpJCZTsAf4dFMRA"
+        }
+      },
+      "forms": [],
+      "buttons": [
+        {
+          "text": "Log In",
+          "type": "button",
+          "href": null,
+          "onclick": null,
+          "id": null,
+          "class_name": "O4eQsz",
+          "is_cta": false
+        },
+        {
+          "text": "CLICK FOR TODAYS MENU",
+          "type": "link_cta",
+          "href": "https://vicandals.square.site/s/order",
+          "onclick": null,
+          "id": null,
+          "class_name": "ioi68h wixui-button ZhVEJq",
+          "is_cta": true
+        }
+      ],
+      "structured_data": {
+        "json_ld": [
+          {
+            "@context": "https://schema.org/",
+            "@type": "LocalBusiness",
+            "name": "Vic &amp; Al's ",
+            "url": "https://www.vicandals.com",
+            "image": "https://static.wixstatic.com/media/1d53bf_1ad79a54ab904725a2f5828c0352583c~mv2.png",
+            "address": {
+              "@type": "PostalAddress",
+              "addressCountry": "US",
+              "addressLocality": "Austin",
+              "addressRegion": "TX",
+              "postalCode": "78722",
+              "streetAddress": "2406 Manor Road"
+            }
+          },
+          {
+            "@context": "https://schema.org/",
+            "@type": "WebSite",
+            "name": "Vic &amp; Al's ",
+            "url": "https://www.vicandals.com"
+          }
+        ],
+        "opengraph": {},
+        "microdata": []
+      },
+      "screenshot_path": null,
+      "raw_markdown_path": null,
+      "is_success": true,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "url": "https://www.vicandals.com/catering-reservations",
+      "path": "/catering-reservations",
+      "title": "Catering & Reservations | Vic & Al's",
+      "status_code": 200,
+      "crawled_at": "2026-08-24T14:28:03.085491+00:00",
+      "duration_ms": 434.7,
+      "content": {
+        "markdown": "*Feeding a crowd? We offer family style catering portions for pick up for parties of 20 or more!*\n\n\n# RESERVATIONs\n\n###### we are a first come first serve establishment. we do not offer reservations for small parties. walk-ins are always accommodated\n\n###### We ONLY offer reservations for parties of 12+ private event reservations available for parties of 30-90 To request a reservation [send us an email](mailto:info@vicandals.com?subject=Reservation%20Request%20-%20Vic%20%26%20Al's)\n\n# Catering\n\n# Feeding a crowd? We offer family style catering portions for pick up FOR PARTIES OF 20+!\n\n# ​​\n\n# For more information about catering\n\n# [send us an email](mailto:info@vicandals.com?subject=Catering%20Request%20-%20Vic%20%26%20Al's)",
+        "plain_text": "top of page Log In VIC & AL'S Home Catering & Reservations Gift Cards Contact Press Parking History More Use tab to navigate through the menu items. RESERVATIONs we are a first come first serve establishment. we do not offer reservations for small parties. walk-ins are always accommodated We ONLY offer reservations for parties of 12+ private event reservations available for parties of 30-90 To request a reservation send us an email Catering Feeding a crowd? We offer family style catering portions for pick up FOR PARTIES OF 20+! ​​ For more information about catering send us an email bottom of page",
+        "word_count": 102,
+        "character_count": 604,
+        "excerpt": "top of page Log In VIC & AL'S Home Catering & Reservations Gift Cards Contact Press Parking History More Use tab to navigate through the menu items. RESERVATIONs we are a first come first serve establishment. we do not offer reservations for small pa..."
+      },
+      "headings": [
+        {
+          "level": 2,
+          "text": "VIC & AL'S",
+          "id": null
+        },
+        {
+          "level": 1,
+          "text": "RESERVATIONs",
+          "id": null
+        },
+        {
+          "level": 6,
+          "text": "we are a first come first serve establishment. we do not offer reservations for small parties. walk-ins are always accommodated",
+          "id": null
+        },
+        {
+          "level": 6,
+          "text": "We ONLY offer reservations for parties of 12+ private event reservations available for parties of 30-90 To request a reservation send us an email",
+          "id": null
+        },
+        {
+          "level": 1,
+          "text": "Catering",
+          "id": null
+        },
+        {
+          "level": 1,
+          "text": "Feeding a crowd? We offer family style catering portions for pick up FOR PARTIES OF 20+!",
+          "id": null
+        },
+        {
+          "level": 1,
+          "text": "​​",
+          "id": null
+        },
+        {
+          "level": 1,
+          "text": "For more information about catering",
+          "id": null
+        },
+        {
+          "level": 1,
+          "text": "send us an email",
+          "id": null
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.vicandals.com",
+          "text": "Home",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.vicandals.com/catering-reservations",
+          "text": "Catering & Reservations",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.vicandals.com/gift-cards",
+          "text": "Gift Cards",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.vicandals.com/faq",
+          "text": "Contact",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.vicandals.com/press",
+          "text": "Press",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.vicandals.com/parking",
+          "text": "Parking",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.vicandals.com/history",
+          "text": "History",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "mailto:info@vicandals.com",
+          "text": "send us an email",
+          "title": "Email: info@vicandals.com",
+          "is_external": false,
+          "rel": null
+        }
+      ],
+      "images": [
+        {
+          "url": "https://static.wixstatic.com/media/1d53bf_0141d2df5a7b4dc1bee2a22a38266168~mv2.jpg/v1/fill/w_288,h_192,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/1d53bf_0141d2df5a7b4dc1bee2a22a38266168~mv2.jpg",
+          "alt": null,
+          "title": null,
+          "width": 1920,
+          "height": 1920,
+          "loading": null,
+          "local_path": null
+        }
+      ],
+      "metadata": {
+        "title": "Catering & Reservations | Vic & Al's",
+        "description": "Feeding a crowd? We offer family style catering portions for pick up for parties of 20 or more!",
+        "keywords": [],
+        "canonical": "https://www.vicandals.com/catering-reservations",
+        "language": "en",
+        "charset": "utf-8",
+        "viewport": "width=device-width, initial-scale=1",
+        "author": null,
+        "robots": null,
+        "og_tags": {
+          "og:title": "Catering & Reservations | Vic & Al's",
+          "og:description": "Feeding a crowd? We offer family style catering portions for pick up for parties of 20 or more!",
+          "og:url": "https://www.vicandals.com/catering-reservations",
+          "og:site_name": "Vic & Al's",
+          "og:type": "website"
+        },
+        "twitter_tags": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Catering & Reservations | Vic & Al's",
+          "twitter:description": "Feeding a crowd? We offer family style catering portions for pick up for parties of 20 or more!"
+        },
+        "favicon": "https://static.parastorage.com/client/pfavico.ico",
+        "other_meta": {
+          "generator": "Wix.com Website Builder",
+          "format-detection": "telephone=no",
+          "skype_toolbar": "skype_toolbar_parser_compatible",
+          "fb_admins_meta_tag": "vicandals",
+          "google-site-verification": "qnJ0AXyQJKJGymE4bzQ8LCKo263WFpJCZTsAf4dFMRA"
+        }
+      },
+      "forms": [],
+      "buttons": [
+        {
+          "text": "Log In",
+          "type": "button",
+          "href": null,
+          "onclick": null,
+          "id": null,
+          "class_name": "O4eQsz",
+          "is_cta": false
+        }
+      ],
+      "structured_data": {
+        "json_ld": [],
+        "opengraph": {},
+        "microdata": []
+      },
+      "screenshot_path": null,
+      "raw_markdown_path": null,
+      "is_success": true,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "url": "https://www.vicandals.com/parking",
+      "path": "/parking",
+      "title": "Parking | Vic & Al's",
+      "status_code": 200,
+      "crawled_at": "2026-08-24T14:28:03.484686+00:00",
+      "duration_ms": 397.51,
+      "content": {
+        "markdown": "*We have a limited shared parking lot in front and behind our restaurant. If you are unable to find parking please utilize street parking!*\n\n\n## Parking\n\nParking is available in the free lot behind uS.  If the lot is full, Free street parking is also available on Cherrywood Rd, Chestnut Ave, Walnut Ave, Stafford St, and Maple Ave.  If you're having trouble, just give us a call at 346-658-5809\n\n[Image: Parking Map.png]",
+        "plain_text": "top of page Log In VIC & AL'S Home Catering & Reservations Gift Cards Contact Press Parking History More Use tab to navigate through the menu items. Parking Parking is available in the free lot behind uS. If the lot is full, Free street parking is also available on Cherrywood Rd, Chestnut Ave, Walnut Ave, Stafford St, and Maple Ave. If you're having trouble, just give us a call at 346-658-5809 bottom of page",
+        "word_count": 74,
+        "character_count": 411,
+        "excerpt": "top of page Log In VIC & AL'S Home Catering & Reservations Gift Cards Contact Press Parking History More Use tab to navigate through the menu items. Parking Parking is available in the free lot behind uS. If the lot is full, Free street parking is al..."
+      },
+      "headings": [
+        {
+          "level": 2,
+          "text": "VIC & AL'S",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Parking",
+          "id": null
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.vicandals.com",
+          "text": "Home",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.vicandals.com/catering-reservations",
+          "text": "Catering & Reservations",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.vicandals.com/gift-cards",
+          "text": "Gift Cards",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.vicandals.com/faq",
+          "text": "Contact",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.vicandals.com/press",
+          "text": "Press",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.vicandals.com/parking",
+          "text": "Parking",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.vicandals.com/history",
+          "text": "History",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        }
+      ],
+      "images": [
+        {
+          "url": "https://static.wixstatic.com/media/1d53bf_0141d2df5a7b4dc1bee2a22a38266168~mv2.jpg/v1/fill/w_288,h_192,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/1d53bf_0141d2df5a7b4dc1bee2a22a38266168~mv2.jpg",
+          "alt": null,
+          "title": null,
+          "width": 1920,
+          "height": 1920,
+          "loading": null,
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/1d53bf_239ee09f2ea74b4f8101063b9cb06168~mv2.png/v1/fill/w_600,h_400,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Parking%20Map.png",
+          "alt": "Parking Map.png",
+          "title": null,
+          "width": 600,
+          "height": 400,
+          "loading": null,
+          "local_path": null
+        }
+      ],
+      "metadata": {
+        "title": "Parking | Vic & Al's",
+        "description": "We have a limited shared parking lot in front and behind our restaurant. If you are unable to find parking please utilize street parking!",
+        "keywords": [],
+        "canonical": "https://www.vicandals.com/parking",
+        "language": "en",
+        "charset": "utf-8",
+        "viewport": "width=device-width, initial-scale=1",
+        "author": null,
+        "robots": null,
+        "og_tags": {
+          "og:title": "Parking | Vic & Al's",
+          "og:description": "We have a limited shared parking lot in front and behind our restaurant. If you are unable to find parking please utilize street parking!",
+          "og:url": "https://www.vicandals.com/parking",
+          "og:site_name": "Vic & Al's",
+          "og:type": "website"
+        },
+        "twitter_tags": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Parking | Vic & Al's",
+          "twitter:description": "We have a limited shared parking lot in front and behind our restaurant. If you are unable to find parking please utilize street parking!"
+        },
+        "favicon": "https://static.parastorage.com/client/pfavico.ico",
+        "other_meta": {
+          "generator": "Wix.com Website Builder",
+          "format-detection": "telephone=no",
+          "skype_toolbar": "skype_toolbar_parser_compatible",
+          "fb_admins_meta_tag": "vicandals",
+          "google-site-verification": "qnJ0AXyQJKJGymE4bzQ8LCKo263WFpJCZTsAf4dFMRA"
+        }
+      },
+      "forms": [],
+      "buttons": [
+        {
+          "text": "Log In",
+          "type": "button",
+          "href": null,
+          "onclick": null,
+          "id": null,
+          "class_name": "O4eQsz",
+          "is_cta": false
+        }
+      ],
+      "structured_data": {
+        "json_ld": [],
+        "opengraph": {},
+        "microdata": []
+      },
+      "screenshot_path": null,
+      "raw_markdown_path": null,
+      "is_success": true,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "url": "https://www.vicandals.com/history",
+      "path": "/history",
+      "title": "History | Vic & Al's",
+      "status_code": 200,
+      "crawled_at": "2026-08-24T14:28:03.702192+00:00",
+      "duration_ms": 215.73,
+      "content": {
+        "markdown": "*a brief history of Vic & Al's and Patrizi's and how both restaurants got started in Beaumont, Texas in 1948, how they got re-opened in Austin, Texas in 2014 and the legacy that they have created.*\n\n\n## Our History\n\n[[Image: Vic & Al's Kitchen in Beaumont, Texas 1970's]](http://www.vicandals.com)\n\nIn 1948 my great grandfather, Vic, left Chicago with his wife, Irma, and 3 year old son, Dan, for Beaumont, TX and opened a Zesto frozen custard stand. In the 1950’s his brother, Al, joined him and they opened Vic & Al's restaurant and subsequently in the 1960’s another brother, Ralph, joined them and they changed the name to Patrizi's Restaurant. For 50 years, Patrizi's was an establishment in Beaumont TX, serving up some of the best food in the state.  Vic & Al's wasn't just a restaurant that served great food, it was a real family establishment. Everyone in the Patrizi family had some role to play in the old restaurant.  From Grandma Mildred and Irma making meatballs by hand, to Gayle working line, a small army of cousins bartending and busing.  It was a focal part of our family.  It was a catalyst that brought us together, it was a connection to our Italian heritage, it was an extension of the family with its own quirks and personality traits.\n\n          You can't choose the family you're born into, but some of us get lucky. For me, my luck meant getting thrown into a world of handmade pasta, homemade gumbo and scratch-made sauces, all so good it could make you cry. And believe me, we cried, and laughed, and talked a lot. Loudly. Between happy shouts and big hand gestures we ate, and loved one another as much as we loved the food.  Food is an expression of cultural and personal history. It's instinctual and symbolic, where both biological and spiritual needs can come together. So, do you feed more than just your belly when you eat? We wanted to bring back a sense of the family-centered dining I grew up with, the kind that sticks with you long after the meal is gone, and can't think of a better place than the dynamic Austin culinary scene.\n\n          Vic & Al's reopening was always a long term goal for us.  It was way to pay homage to the old family restaurant and restore the pride of our family's heritage.  We are excited to continue our tradition of creating a warm and inviting environment while making some of the best food in town.\n\n##### * * *\n\n## [SOME OLD PHOTOS](https://www.vicandals.com)",
+        "plain_text": "top of page Log In VIC & AL'S Home Catering & Reservations Gift Cards Contact Press Parking History More Use tab to navigate through the menu items. Our History In 1948 my great grandfather, Vic, left Chicago with his wife, Irma, and 3 year old son, Dan, for Beaumont, TX and opened a Zesto frozen custard stand. In the 1950’s his brother, Al, joined him and they opened Vic & Al's restaurant and subsequently in the 1960’s another brother, Ralph, joined them and they changed the name to Patrizi's Restaurant. For 50 years, Patrizi's was an establishment in Beaumont TX, serving up some of the best food in the state. Vic & Al's wasn't just a restaurant that served great food, it was a real family establishment. Everyone in the Patrizi family had some role to play in the old restaurant. From Grandma Mildred and Irma making meatballs by hand, to Gayle working line, a small army of cousins bartending and busing. It was a focal part of our family. It was a catalyst that brought us together, it was a connection to our Italian heritage, it was an extension of the family with its own quirks and personality traits. You can't choose the family you're born into, but some of us get lucky. For me, my luck meant getting thrown into a world of handmade pasta, homemade gumbo and scratch-made sauces, all so good it could make you cry. And believe me, we cried, and laughed, and talked a lot. Loudly. Between happy shouts and big hand gestures we ate, and loved one another as much as we loved the food. Food is an expression of cultural and personal history. It's instinctual and symbolic, where both biological and spiritual needs can come together. So, do you feed more than just your belly when you eat? We wanted to bring back a sense of the family-centered dining I grew up with, the kind that sticks with you long after the meal is gone, and can't think of a better place than the dynamic Austin culinary scene. Vic & Al's reopening was always a long term goal for us. It was way to pay homage to the old family restaurant and restore the pride of our family's heritage. We are excited to continue our tradition of creating a warm and inviting environment while making some of the best food in town. * * * SOME OLD PHOTOS bottom of page",
+        "word_count": 409,
+        "character_count": 2242,
+        "excerpt": "top of page Log In VIC & AL'S Home Catering & Reservations Gift Cards Contact Press Parking History More Use tab to navigate through the menu items. Our History In 1948 my great grandfather, Vic, left Chicago with his wife, Irma, and 3 year old son,..."
+      },
+      "headings": [
+        {
+          "level": 2,
+          "text": "VIC & AL'S",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Our History",
+          "id": null
+        },
+        {
+          "level": 5,
+          "text": "* * *",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "SOME OLD PHOTOS",
+          "id": null
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.vicandals.com",
+          "text": "Home",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.vicandals.com/catering-reservations",
+          "text": "Catering & Reservations",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.vicandals.com/gift-cards",
+          "text": "Gift Cards",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.vicandals.com/faq",
+          "text": "Contact",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.vicandals.com/press",
+          "text": "Press",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.vicandals.com/parking",
+          "text": "Parking",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.vicandals.com/history",
+          "text": "History",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "http://www.vicandals.com",
+          "text": "Vic & Al's Kitchen in Beaumont, Texas 1970's",
+          "title": null,
+          "is_external": false,
+          "rel": "noreferrer noopener"
+        },
+        {
+          "url": "https://www.vicandals.com",
+          "text": "SOME OLD PHOTOS",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        }
+      ],
+      "images": [
+        {
+          "url": "https://static.wixstatic.com/media/1d53bf_0141d2df5a7b4dc1bee2a22a38266168~mv2.jpg/v1/fill/w_288,h_192,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/1d53bf_0141d2df5a7b4dc1bee2a22a38266168~mv2.jpg",
+          "alt": null,
+          "title": null,
+          "width": 1920,
+          "height": 1920,
+          "loading": null,
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/1d53bf_52a3da4c5ea64631a2279fa9bb84651f~mv2.jpg/v1/fill/w_980,h_280,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_9419_edited_edited.jpg",
+          "alt": "Vic & Al's Kitchen in Beaumont, Texas 1970's",
+          "title": null,
+          "width": 980,
+          "height": 280,
+          "loading": null,
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/1d53bf_2377b345d12e4065ae7c0ef7b51323c4~mv2.jpg/v1/fill/w_428,h_286,q_90,enc_avif,quality_auto/1d53bf_2377b345d12e4065ae7c0ef7b51323c4~mv2.jpg",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": "eager",
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/1d53bf_5009232cefe943808ceedf1108e7cc21~mv2.jpg/v1/fill/w_428,h_321,q_90,enc_avif,quality_auto/1d53bf_5009232cefe943808ceedf1108e7cc21~mv2.jpg",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": "eager",
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/1d53bf_242d46cb1b704cffbc14a8a3188fb2cf~mv2.jpg/v1/fill/w_172,h_225,q_90,enc_avif,quality_auto/1d53bf_242d46cb1b704cffbc14a8a3188fb2cf~mv2.jpg",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": "eager",
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/1d53bf_4078f29ff45a49c8a1f82e55c8eeb5ab~mv2.jpg/v1/fill/w_300,h_225,q_90,enc_avif,quality_auto/1d53bf_4078f29ff45a49c8a1f82e55c8eeb5ab~mv2.jpg",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": "eager",
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/1d53bf_02a880ba80194aaf8c07dd5add6bf837~mv2.jpg/v1/fill/w_512,h_382,q_90,enc_avif,quality_auto/1d53bf_02a880ba80194aaf8c07dd5add6bf837~mv2.jpg",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": "eager",
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/1d53bf_f75154f7789a49c6ad688348550775e8~mv2.jpg/v1/fill/w_980,h_735,q_90,enc_avif,quality_auto/1d53bf_f75154f7789a49c6ad688348550775e8~mv2.jpg",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": "eager",
+          "local_path": null
+        }
+      ],
+      "metadata": {
+        "title": "History | Vic & Al's",
+        "description": "a brief history of Vic & Al's and Patrizi's and how both restaurants got started in Beaumont, Texas in 1948, how they got re-opened in Austin, Texas in 2014 and the legacy that they have created.",
+        "keywords": [],
+        "canonical": "https://www.vicandals.com/history",
+        "language": "en",
+        "charset": "utf-8",
+        "viewport": "width=device-width, initial-scale=1",
+        "author": null,
+        "robots": null,
+        "og_tags": {
+          "og:title": "History | Vic & Al's",
+          "og:description": "a brief history of Vic & Al's and Patrizi's and how both restaurants got started in Beaumont, Texas in 1948, how they got re-opened in Austin, Texas in 2014 and the legacy that they have created.",
+          "og:url": "https://www.vicandals.com/history",
+          "og:site_name": "Vic & Al's",
+          "og:type": "website"
+        },
+        "twitter_tags": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "History | Vic & Al's",
+          "twitter:description": "a brief history of Vic & Al's and Patrizi's and how both restaurants got started in Beaumont, Texas in 1948, how they got re-opened in Austin, Texas in 2014 and the legacy that they have created."
+        },
+        "favicon": "https://static.parastorage.com/client/pfavico.ico",
+        "other_meta": {
+          "generator": "Wix.com Website Builder",
+          "format-detection": "telephone=no",
+          "skype_toolbar": "skype_toolbar_parser_compatible",
+          "fb_admins_meta_tag": "vicandals",
+          "google-site-verification": "qnJ0AXyQJKJGymE4bzQ8LCKo263WFpJCZTsAf4dFMRA"
+        }
+      },
+      "forms": [],
+      "buttons": [
+        {
+          "text": "Log In",
+          "type": "button",
+          "href": null,
+          "onclick": null,
+          "id": null,
+          "class_name": "O4eQsz",
+          "is_cta": false
+        }
+      ],
+      "structured_data": {
+        "json_ld": [],
+        "opengraph": {},
+        "microdata": []
+      },
+      "screenshot_path": null,
+      "raw_markdown_path": null,
+      "is_success": true,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "url": "https://www.vicandals.com/updates",
+      "path": "/updates",
+      "title": "Updates | Vic & Al's",
+      "status_code": 200,
+      "crawled_at": "2026-08-24T14:28:03.956014+00:00",
+      "duration_ms": 252.98,
+      "content": {
+        "markdown": "*Keep up with our events & weekly specials on Social Media!*\n\n\n## Updates\n\nIf you would like to stay up to date with our menu, special events, and holidays please check us out below or on our Facebook, Instagram and tiktok.\n\n* [[Image: Instagram]](https://www.instagram.com/vicandals)\n* [[Image: Facebook]](https://www.facebook.com/vicandals)\n* [[Image: TikTok]](https://www.tiktok.com/@vicandals)",
+        "plain_text": "top of page Log In VIC & AL'S Home Catering & Reservations Gift Cards Contact Press Parking History More Use tab to navigate through the menu items. Updates If you would like to stay up to date with our menu, special events, and holidays please check us out below or on our Facebook, Instagram and tiktok. bottom of page",
+        "word_count": 59,
+        "character_count": 320,
+        "excerpt": "top of page Log In VIC & AL'S Home Catering & Reservations Gift Cards Contact Press Parking History More Use tab to navigate through the menu items. Updates If you would like to stay up to date with our menu, special events, and holidays please check..."
+      },
+      "headings": [
+        {
+          "level": 2,
+          "text": "VIC & AL'S",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Updates",
+          "id": null
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.vicandals.com",
+          "text": "Home",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.vicandals.com/catering-reservations",
+          "text": "Catering & Reservations",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.vicandals.com/gift-cards",
+          "text": "Gift Cards",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.vicandals.com/faq",
+          "text": "Contact",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.vicandals.com/press",
+          "text": "Press",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.vicandals.com/parking",
+          "text": "Parking",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.vicandals.com/history",
+          "text": "History",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.instagram.com/vicandals",
+          "text": "Instagram",
+          "title": null,
+          "is_external": true,
+          "rel": "noreferrer noopener"
+        },
+        {
+          "url": "https://www.facebook.com/vicandals",
+          "text": "Facebook",
+          "title": null,
+          "is_external": true,
+          "rel": "noreferrer noopener"
+        },
+        {
+          "url": "https://www.tiktok.com/@vicandals",
+          "text": "TikTok",
+          "title": null,
+          "is_external": true,
+          "rel": "noreferrer noopener"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://static.wixstatic.com/media/1d53bf_0141d2df5a7b4dc1bee2a22a38266168~mv2.jpg/v1/fill/w_288,h_192,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/1d53bf_0141d2df5a7b4dc1bee2a22a38266168~mv2.jpg",
+          "alt": null,
+          "title": null,
+          "width": 1920,
+          "height": 1920,
+          "loading": null,
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/8d6893330740455c96d218258a458aa4.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8d6893330740455c96d218258a458aa4.png",
+          "alt": "Instagram",
+          "title": null,
+          "width": 39,
+          "height": 39,
+          "loading": null,
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/e316f544f9094143b9eac01f1f19e697.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e316f544f9094143b9eac01f1f19e697.png",
+          "alt": "Facebook",
+          "title": null,
+          "width": 39,
+          "height": 39,
+          "loading": null,
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/11062b_7a80704b0d4547c4a6a39347d587411d~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_7a80704b0d4547c4a6a39347d587411d~mv2.png",
+          "alt": "TikTok",
+          "title": null,
+          "width": 39,
+          "height": 39,
+          "loading": null,
+          "local_path": null
+        }
+      ],
+      "metadata": {
+        "title": "Updates | Vic & Al's",
+        "description": "Keep up with our events & weekly specials on Social Media!",
+        "keywords": [],
+        "canonical": "https://www.vicandals.com/updates",
+        "language": "en",
+        "charset": "utf-8",
+        "viewport": "width=device-width, initial-scale=1",
+        "author": null,
+        "robots": null,
+        "og_tags": {
+          "og:title": "Updates | Vic & Al's",
+          "og:description": "Keep up with our events & weekly specials on Social Media!",
+          "og:url": "https://www.vicandals.com/updates",
+          "og:site_name": "Vic & Al's",
+          "og:type": "website"
+        },
+        "twitter_tags": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Updates | Vic & Al's",
+          "twitter:description": "Keep up with our events & weekly specials on Social Media!"
+        },
+        "favicon": "https://static.parastorage.com/client/pfavico.ico",
+        "other_meta": {
+          "generator": "Wix.com Website Builder",
+          "format-detection": "telephone=no",
+          "skype_toolbar": "skype_toolbar_parser_compatible",
+          "fb_admins_meta_tag": "vicandals",
+          "google-site-verification": "qnJ0AXyQJKJGymE4bzQ8LCKo263WFpJCZTsAf4dFMRA"
+        }
+      },
+      "forms": [],
+      "buttons": [
+        {
+          "text": "Log In",
+          "type": "button",
+          "href": null,
+          "onclick": null,
+          "id": null,
+          "class_name": "O4eQsz",
+          "is_cta": false
+        }
+      ],
+      "structured_data": {
+        "json_ld": [],
+        "opengraph": {},
+        "microdata": []
+      },
+      "screenshot_path": null,
+      "raw_markdown_path": null,
+      "is_success": true,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "url": "https://www.vicandals.com/gift-cards",
+      "path": "/gift-cards",
+      "title": "Gift Cards | Vic & Al's",
+      "status_code": 200,
+      "crawled_at": "2026-08-24T14:28:04.189606+00:00",
+      "duration_ms": 232.2,
+      "content": {
+        "markdown": "*Want to buy a gift card for a loved one? Click here!*\n\n\ntop of page\n\nbottom of page",
+        "plain_text": "top of page Log In VIC & AL'S Home Catering & Reservations Gift Cards Contact Press Parking History More Use tab to navigate through the menu items. CLICK HERE FOR GIFT CARDS bottom of page",
+        "word_count": 35,
+        "character_count": 189,
+        "excerpt": "top of page Log In VIC & AL'S Home Catering & Reservations Gift Cards Contact Press Parking History More Use tab to navigate through the menu items. CLICK HERE FOR GIFT CARDS bottom of page"
+      },
+      "headings": [
+        {
+          "level": 2,
+          "text": "VIC & AL'S",
+          "id": null
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.vicandals.com",
+          "text": "Home",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.vicandals.com/catering-reservations",
+          "text": "Catering & Reservations",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.vicandals.com/gift-cards",
+          "text": "Gift Cards",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.vicandals.com/faq",
+          "text": "Contact",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.vicandals.com/press",
+          "text": "Press",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.vicandals.com/parking",
+          "text": "Parking",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.vicandals.com/history",
+          "text": "History",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://app.squareup.com/gift/S917WKK1YD9FD/order",
+          "text": "CLICK HERE FOR GIFT CARDS",
+          "title": null,
+          "is_external": true,
+          "rel": "noreferrer noopener"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://static.wixstatic.com/media/1d53bf_0141d2df5a7b4dc1bee2a22a38266168~mv2.jpg/v1/fill/w_288,h_192,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/1d53bf_0141d2df5a7b4dc1bee2a22a38266168~mv2.jpg",
+          "alt": null,
+          "title": null,
+          "width": 1920,
+          "height": 1920,
+          "loading": null,
+          "local_path": null
+        }
+      ],
+      "metadata": {
+        "title": "Gift Cards | Vic & Al's",
+        "description": "Want to buy a gift card for a loved one? Click here!",
+        "keywords": [],
+        "canonical": "https://www.vicandals.com/gift-cards",
+        "language": "en",
+        "charset": "utf-8",
+        "viewport": "width=device-width, initial-scale=1",
+        "author": null,
+        "robots": null,
+        "og_tags": {
+          "og:title": "Gift Cards | Vic & Al's",
+          "og:description": "Want to buy a gift card for a loved one? Click here!",
+          "og:url": "https://www.vicandals.com/gift-cards",
+          "og:site_name": "Vic & Al's",
+          "og:type": "website"
+        },
+        "twitter_tags": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Gift Cards | Vic & Al's",
+          "twitter:description": "Want to buy a gift card for a loved one? Click here!"
+        },
+        "favicon": "https://static.parastorage.com/client/pfavico.ico",
+        "other_meta": {
+          "generator": "Wix.com Website Builder",
+          "format-detection": "telephone=no",
+          "skype_toolbar": "skype_toolbar_parser_compatible",
+          "fb_admins_meta_tag": "vicandals",
+          "google-site-verification": "qnJ0AXyQJKJGymE4bzQ8LCKo263WFpJCZTsAf4dFMRA"
+        }
+      },
+      "forms": [],
+      "buttons": [
+        {
+          "text": "Log In",
+          "type": "button",
+          "href": null,
+          "onclick": null,
+          "id": null,
+          "class_name": "O4eQsz",
+          "is_cta": false
+        },
+        {
+          "text": "CLICK HERE FOR GIFT CARDS",
+          "type": "link_cta",
+          "href": "https://app.squareup.com/gift/S917WKK1YD9FD/order",
+          "onclick": null,
+          "id": null,
+          "class_name": "ioi68h wixui-button ZhVEJq",
+          "is_cta": true
+        }
+      ],
+      "structured_data": {
+        "json_ld": [],
+        "opengraph": {},
+        "microdata": []
+      },
+      "screenshot_path": null,
+      "raw_markdown_path": null,
+      "is_success": true,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "url": "https://www.vicandals.com/press",
+      "path": "/press",
+      "title": "Press | Vic & Al's",
+      "status_code": 200,
+      "crawled_at": "2026-08-24T14:28:04.484577+00:00",
+      "duration_ms": 292.85,
+      "content": {
+        "markdown": "*Check out these articles written about us! Click here to find out about all of our press.*\n\n\n## Press",
+        "plain_text": "top of page Log In VIC & AL'S Home Catering & Reservations Gift Cards Contact Press Parking History More Use tab to navigate through the menu items. Press bottom of page",
+        "word_count": 31,
+        "character_count": 169,
+        "excerpt": "top of page Log In VIC & AL'S Home Catering & Reservations Gift Cards Contact Press Parking History More Use tab to navigate through the menu items. Press bottom of page"
+      },
+      "headings": [
+        {
+          "level": 2,
+          "text": "VIC & AL'S",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Press",
+          "id": null
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.vicandals.com",
+          "text": "Home",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.vicandals.com/catering-reservations",
+          "text": "Catering & Reservations",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.vicandals.com/gift-cards",
+          "text": "Gift Cards",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.vicandals.com/faq",
+          "text": "Contact",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.vicandals.com/press",
+          "text": "Press",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.vicandals.com/parking",
+          "text": "Parking",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.vicandals.com/history",
+          "text": "History",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        }
+      ],
+      "images": [
+        {
+          "url": "https://static.wixstatic.com/media/1d53bf_0141d2df5a7b4dc1bee2a22a38266168~mv2.jpg/v1/fill/w_288,h_192,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/1d53bf_0141d2df5a7b4dc1bee2a22a38266168~mv2.jpg",
+          "alt": null,
+          "title": null,
+          "width": 1920,
+          "height": 1920,
+          "loading": null,
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/1d53bf_328444d5a6bd43ad8fe0833014e6a9d3~mv2.png/v1/fill/w_217,h_179,q_90,enc_avif,quality_auto/1d53bf_328444d5a6bd43ad8fe0833014e6a9d3~mv2.png",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": "eager",
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/1d53bf_6a60e6f123bc488391d588381de4204d~mv2.png/v1/fill/w_266,h_179,q_90,enc_avif,quality_auto/1d53bf_6a60e6f123bc488391d588381de4204d~mv2.png",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": "eager",
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/1d53bf_5ee4979f051a43979fb6abfb24ee2a76~mv2.png/v1/fill/w_288,h_182,q_90,enc_avif,quality_auto/1d53bf_5ee4979f051a43979fb6abfb24ee2a76~mv2.png",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": "eager",
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/1d53bf_2e847b54fd8442d5a0d380badb0ec30d~mv2.png/v1/fill/w_194,h_182,q_90,enc_avif,quality_auto/1d53bf_2e847b54fd8442d5a0d380badb0ec30d~mv2.png",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": "eager",
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/1d53bf_f6c041d5876744fcba98f5fca01300f4~mv2.png/v1/fill/w_217,h_192,q_90,enc_avif,quality_auto/1d53bf_f6c041d5876744fcba98f5fca01300f4~mv2.png",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": "eager",
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/1d53bf_04002ef736264721b22f3ce2e4a5f9b4~mv2.png/v1/fill/w_266,h_192,q_90,enc_avif,quality_auto/1d53bf_04002ef736264721b22f3ce2e4a5f9b4~mv2.png",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": "eager",
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/1d53bf_a404316bdaf64a0b8894d08869667f4d~mv2.png/v1/fill/w_201,h_173,q_90,enc_avif,quality_auto/1d53bf_a404316bdaf64a0b8894d08869667f4d~mv2.png",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": "eager",
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/1d53bf_b6463af65cea49949cef6a0b1e16ad28~mv2.png/v1/fill/w_281,h_173,q_90,enc_avif,quality_auto/1d53bf_b6463af65cea49949cef6a0b1e16ad28~mv2.png",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": "eager",
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/1d53bf_6d2c99be82dc4a0ba0c7de2fddb86688~mv2.png/v1/fill/w_211,h_168,q_90,enc_avif,quality_auto/1d53bf_6d2c99be82dc4a0ba0c7de2fddb86688~mv2.png",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": "eager",
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/1d53bf_ee33b0a8c68c4858bfb3ad0d5afb7f45~mv2.png/v1/fill/w_271,h_168,q_90,enc_avif,quality_auto/1d53bf_ee33b0a8c68c4858bfb3ad0d5afb7f45~mv2.png",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": "eager",
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/1d53bf_b9bb615ea1b84a3c9d4d879553082e22~mv2.png/v1/fill/w_310,h_125,q_90,enc_avif,quality_auto/1d53bf_b9bb615ea1b84a3c9d4d879553082e22~mv2.png",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": "eager",
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/1d53bf_68d26ab98398422ea3f359c61220af73~mv2.png/v1/fill/w_173,h_125,q_90,enc_avif,quality_auto/1d53bf_68d26ab98398422ea3f359c61220af73~mv2.png",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": "eager",
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/1d53bf_7312d6ecdfe14b5eb7daf52a50160bf4~mv2.png/v1/fill/w_210,h_200,q_90,enc_avif,quality_auto/1d53bf_7312d6ecdfe14b5eb7daf52a50160bf4~mv2.png",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": "eager",
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/1d53bf_e5932ca177b84f9bbc73277f602f365d~mv2.png/v1/fill/w_273,h_200,q_90,enc_avif,quality_auto/1d53bf_e5932ca177b84f9bbc73277f602f365d~mv2.png",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": "eager",
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/1d53bf_6a8e6d0343ef45adb0f4d0173cd2aa83~mv2.png/v1/fill/w_216,h_156,q_90,enc_avif,quality_auto/1d53bf_6a8e6d0343ef45adb0f4d0173cd2aa83~mv2.png",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": "eager",
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/1d53bf_25bbcd153d9c4858ad4e29d262843fc0~mv2.png/v1/fill/w_266,h_156,q_90,enc_avif,quality_auto/1d53bf_25bbcd153d9c4858ad4e29d262843fc0~mv2.png",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": "eager",
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/1d53bf_b58221cdf2224939a63e149640e27031~mv2.png/v1/fill/w_187,h_148,q_90,enc_avif,quality_auto/1d53bf_b58221cdf2224939a63e149640e27031~mv2.png",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": "eager",
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/1d53bf_9a9a8507319f4121a9bc769a4ae34165~mv2.png/v1/fill/w_295,h_148,q_90,enc_avif,quality_auto/1d53bf_9a9a8507319f4121a9bc769a4ae34165~mv2.png",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": "eager",
+          "local_path": null
+        }
+      ],
+      "metadata": {
+        "title": "Press | Vic & Al's",
+        "description": "Check out these articles written about us! Click here to find out about all of our press.",
+        "keywords": [],
+        "canonical": "https://www.vicandals.com/press",
+        "language": "en",
+        "charset": "utf-8",
+        "viewport": "width=device-width, initial-scale=1",
+        "author": null,
+        "robots": null,
+        "og_tags": {
+          "og:title": "Press | Vic & Al's",
+          "og:description": "Check out these articles written about us! Click here to find out about all of our press.",
+          "og:url": "https://www.vicandals.com/press",
+          "og:site_name": "Vic & Al's",
+          "og:type": "website"
+        },
+        "twitter_tags": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Press | Vic & Al's",
+          "twitter:description": "Check out these articles written about us! Click here to find out about all of our press."
+        },
+        "favicon": "https://static.parastorage.com/client/pfavico.ico",
+        "other_meta": {
+          "generator": "Wix.com Website Builder",
+          "format-detection": "telephone=no",
+          "skype_toolbar": "skype_toolbar_parser_compatible",
+          "fb_admins_meta_tag": "vicandals",
+          "google-site-verification": "qnJ0AXyQJKJGymE4bzQ8LCKo263WFpJCZTsAf4dFMRA"
+        }
+      },
+      "forms": [],
+      "buttons": [
+        {
+          "text": "Log In",
+          "type": "button",
+          "href": null,
+          "onclick": null,
+          "id": null,
+          "class_name": "O4eQsz",
+          "is_cta": false
+        }
+      ],
+      "structured_data": {
+        "json_ld": [],
+        "opengraph": {},
+        "microdata": []
+      },
+      "screenshot_path": null,
+      "raw_markdown_path": null,
+      "is_success": true,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "url": "https://www.vicandals.com/faq",
+      "path": "/faq",
+      "title": "Contact | Vic & Al's",
+      "status_code": 200,
+      "crawled_at": "2026-08-24T14:28:04.720910+00:00",
+      "duration_ms": 235.49,
+      "content": {
+        "markdown": "*We are located at 2406 Manor Road, Austin, Texas. You can reach us at 346-658-5809 or email us at info@vicandals.com*\n\n\n## Contact US\n\n#### Find Us\n\n2406 Manor Road, Ste D\n\nAustin, Texas 78722\n\n* * *\n\n#### Talk To Us\n\n​\n\n[info@vicandals.com](mailto:info@vicandals.com?subject=Email from Website)\n\n346-658-5809\n\n* * *\n\nAs we open our doors to the public, one thing that we have learned from our Community Kitchen and that will remain constant is we will always be here for anyone struggling with food insecurity. Please email US at ([info@vicandals.com](mailto:info@vicandals.com)) if you are in need or know someone in need of a free meal.\n\n[Image: Ralph, Al, Vic and Jerry]\n\n[Image: Ralph Patrizi]\n\n[Image: Ralph Patrizi, Vic Patrizi & Al Patrizi]",
+        "plain_text": "top of page Log In VIC & AL'S Home Catering & Reservations Gift Cards Contact Press Parking History More Use tab to navigate through the menu items. Contact US Find Us 2406 Manor Road, Ste D Austin, Texas 78722 * * * Talk To Us ​ info@vicandals.com 346-658-5809 * * * As we open our doors to the public, one thing that we have learned from our Community Kitchen and that will remain constant is we will always be here for anyone struggling with food insecurity. Please email US at ( info@vicandals.com ) if you are in need or know someone in need of a free meal. bottom of page",
+        "word_count": 110,
+        "character_count": 577,
+        "excerpt": "top of page Log In VIC & AL'S Home Catering & Reservations Gift Cards Contact Press Parking History More Use tab to navigate through the menu items. Contact US Find Us 2406 Manor Road, Ste D Austin, Texas 78722 * * * Talk To Us ​ info@vicandals.com 3..."
+      },
+      "headings": [
+        {
+          "level": 2,
+          "text": "VIC & AL'S",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Contact US",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Find Us",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Talk To Us",
+          "id": null
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.vicandals.com",
+          "text": "Home",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.vicandals.com/catering-reservations",
+          "text": "Catering & Reservations",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.vicandals.com/gift-cards",
+          "text": "Gift Cards",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.vicandals.com/faq",
+          "text": "Contact",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.vicandals.com/press",
+          "text": "Press",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.vicandals.com/parking",
+          "text": "Parking",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.vicandals.com/history",
+          "text": "History",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "mailto:info@vicandals.com",
+          "text": "info@vicandals.com",
+          "title": "Email: info@vicandals.com",
+          "is_external": false,
+          "rel": null
+        }
+      ],
+      "images": [
+        {
+          "url": "https://static.wixstatic.com/media/1d53bf_0141d2df5a7b4dc1bee2a22a38266168~mv2.jpg/v1/fill/w_288,h_192,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/1d53bf_0141d2df5a7b4dc1bee2a22a38266168~mv2.jpg",
+          "alt": null,
+          "title": null,
+          "width": 1920,
+          "height": 1920,
+          "loading": null,
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/1d53bf_4078f29ff45a49c8a1f82e55c8eeb5ab~mv2.jpg/v1/crop/x_0,y_0,w_3000,h_1731/fill/w_481,h_276,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_9421_edited_edited.jpg",
+          "alt": "Ralph, Al, Vic and Jerry",
+          "title": null,
+          "width": 481,
+          "height": 276,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/1d53bf_2377b345d12e4065ae7c0ef7b51323c4~mv2.jpg/v1/fill/w_488,h_280,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_9429_edited.jpg",
+          "alt": "Ralph Patrizi",
+          "title": null,
+          "width": 488,
+          "height": 280,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/84770f_4d6cd8adb326460e9fd5a61aa5bfd79e~mv2.png/v1/fill/w_750,h_20,al_c,q_85,enc_avif,quality_auto/84770f_4d6cd8adb326460e9fd5a61aa5bfd79e~mv2.png",
+          "alt": "Ralph Patrizi, Vic Patrizi & Al Patrizi",
+          "title": null,
+          "width": 750,
+          "height": 20,
+          "loading": "lazy",
+          "local_path": null
+        }
+      ],
+      "metadata": {
+        "title": "Contact | Vic & Al's",
+        "description": "We are located at 2406 Manor Road, Austin, Texas. You can reach us at 346-658-5809 or email us at info@vicandals.com",
+        "keywords": [],
+        "canonical": "https://www.vicandals.com/faq",
+        "language": "en",
+        "charset": "utf-8",
+        "viewport": "width=device-width, initial-scale=1",
+        "author": null,
+        "robots": null,
+        "og_tags": {
+          "og:title": "Contact | Vic & Al's",
+          "og:description": "We are located at 2406 Manor Road, Austin, Texas. You can reach us at 346-658-5809 or email us at info@vicandals.com",
+          "og:url": "https://www.vicandals.com/faq",
+          "og:site_name": "Vic & Al's",
+          "og:type": "website"
+        },
+        "twitter_tags": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Contact | Vic & Al's",
+          "twitter:description": "We are located at 2406 Manor Road, Austin, Texas. You can reach us at 346-658-5809 or email us at info@vicandals.com"
+        },
+        "favicon": "https://static.parastorage.com/client/pfavico.ico",
+        "other_meta": {
+          "generator": "Wix.com Website Builder",
+          "format-detection": "telephone=no",
+          "skype_toolbar": "skype_toolbar_parser_compatible",
+          "fb_admins_meta_tag": "vicandals",
+          "google-site-verification": "qnJ0AXyQJKJGymE4bzQ8LCKo263WFpJCZTsAf4dFMRA"
+        }
+      },
+      "forms": [],
+      "buttons": [
+        {
+          "text": "Log In",
+          "type": "button",
+          "href": null,
+          "onclick": null,
+          "id": null,
+          "class_name": "O4eQsz",
+          "is_cta": false
+        }
+      ],
+      "structured_data": {
+        "json_ld": [],
+        "opengraph": {},
+        "microdata": []
+      },
+      "screenshot_path": null,
+      "raw_markdown_path": null,
+      "is_success": true,
+      "errors": [],
+      "warnings": []
+    }
+  ],
+  "sitemap_urls_found": 0,
+  "site_title": "Vic & Al's | Cajun restaurant | 2406 Manor Road, Suite D, Austin, TX, USA",
+  "site_description": "Vic & Al’s is a family-style Cajun restaurant Located in Austin ,Texas. Our kitchen is scratch-made, meaning we make as much as we can in-house, from our sauces and seasonings to the dishes that bring people together around the table. Whether you’re stopping in for a casual meal, grabbing a drink with friends, celebrating something special, or just craving a bowl of gumbo and a plate of something delicious, we want you to feel right at home.Come hungry, stay awhile, and let us feed you.",
+  "started_at": "2026-08-24T14:27:51.081703+00:00",
+  "completed_at": "2026-08-24T14:28:07.357049+00:00",
+  "duration_seconds": 16.28,
+  "raw_output_dir": "E:\\Code\\Nayom\\data\\websites\\biz_0x8644b56fc9860415_0x1d28b50cac9fd2dd\\raw",
+  "website_json_path": "E:\\Code\\Nayom\\data\\websites\\biz_0x8644b56fc9860415_0x1d28b50cac9fd2dd\\website.json",
+  "errors": [],
+  "warnings": []
+}

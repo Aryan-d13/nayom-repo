@@ -1,0 +1,467 @@
+# MENU — Elia
+
+> URL: https://www.eliaontheriver.com/menu-hotel
+> Crawled: August 21, 2026
+> Citation: MENU — Elia. www.eliaontheriver.com. Available at: https://www.eliaontheriver.com/menu-hotel [Accessed August 21, 2026].
+
+*Explore the menu at Elia on the River, featuring Southern Italian cuisine with a coastal flair. Enjoy fresh seafood, handmade pasta, and signature dishes at Miami’s premier waterfront dining spot.*
+
+
+# Welcome to Elia on the River!
+
+### Southern Italian cuisine with coastal flair, waterfront views, handcrafted cocktails, live music, and vibrant Miami energy. All along the Miami River.
+
+[Reservations](https://www.opentable.com/r/elia-miami?ot_source=Instagram)
+
+### Experience Miami by the River
+
+Just minutes from Downtown Miami, Brickell, Wynwood, and the Design District.
+
+**Weekly at Elia:**
+
+* Viva Salsa Mondays with live salsa band;
+* Bella Notte Thursdays with live band;
+* Live DJs on Wednesday through & Sunday evenings;
+* Live Latin Jazz during weekend Brunch.
+
+An ideal destination for sunset cocktails, waterfront dinners, and late-night Miami evenings by the river.
+
+**FAQ**
+
+* Reservations highly recommended;
+* Resort chic/upscale casual attire encouraged;
+* Located inside River Landing Shops & Residences, Miami;
+* Parking available in River Landing garage (please check the on-site signage) ;
+* Boat docking available, for more info call us at 305-904-4045.
+
+# MENU
+
+ANTIPASTI & SALAD
+PASTA & PIZZA
+LAND & SEA
+DESSERT
+BEVERAGE
+LUNCH
+SUNSET HOUR
+BRUNCH
+
+ANTIPASTI
+
+BURRATA
+
+HEIRLOOM TOMATO | OREGANO | ARUGULA | ORANGE | TOMATO BALSAMIC
+
+PROSCIUTTO DI PARMA
+
+PARMIGIANO REGGIANO | TARALLI | AGED PROSCIUTTO | EVOO
+
+CRISPY CALAMARI
+
+LIGHTLY BREADED | MARINARA | LEMON-CAPER AIOLI
+
+BRUSCHETTA
+
+HEIRLOOM TOMATO | BASIL OIL
+
+CHARRED OCTOPUS
+
+CICI PURÉE | CHERRY TOMATO | OLIVE | SALMORIGLIO
+
+WAGYU MEATBALL
+
+WHIPPED RICOTTA | BASIL | POMODORO
+
+SALMON TUNA TARTARE*
+
+AVOCADO | SESAME | TRUFFLE OIL
+
+TRUFFLE CARPACCIO*
+
+FILET | ARUGULA | PARMIGIANO REGGIANO | TRUFFLE AIOLI
+
+SALAD
+
+TOMATO SALAD
+
+COSTOLUTO GENOVESE | OREGANO | ARUGULA | ORANGE | TOMATO BALSAMIC
+
+ELIA CAESAR
+
+CRISPY CHICKPEAS | RADISH | AVOCADO | SHAVED REGGINAO
+
+GREEK SALAD
+
+FETA | TOMATO | CUCUMBER | ONION | OLIVES | HERB VINAIGRETTE
+
+ENHANCE WITH: CHICKEN | SHRIMP | FILET TIPS | SALMON
+
+PASTA
+
+SPICY RIGATONI
+
+CALABRIAN VODKA POMODORO
+
+SEAFOOD CAPELLINI
+
+SHRIMP | LOBSTER STOCK | TOMATO | LEMON-BUTTER CREAM SAUCE
+
+WAGYU BOLOGNESE
+
+GROUND WAGYU & VEAL RAGÙ | SAN MARZANO TOMATO
+
+GNOCCHI DI SORRENTO
+
+POMODORO | FRESH MOZZARELLA | BASIL
+
+BUCATINI CACIO E PEPE
+
+BUCATINI | PECORINO ROMANO | TOASTED PEPPERCORNS
+
+PIZZA
+
+PEPPERONI
+
+MOZZARELLA | PEPPERONI | POMODORO
+
+TRUFFLE ROYALE
+
+CARAMELIZED PEAR | PECORINO | BLACK TRUFFLE
+
+DOLCE INFERNO
+
+SALAMI | CALABRIAN HONEY | POMODORO | STRACCIATELLA
+
+LAND
+
+GRILLED AUSTRALIAN LAMB CHOPS
+
+PRIME 12oz GRILLED RIBEYE
+
+CHICKEN MILANESE
+
+SEA
+
+GRILLED BRANZINO
+
+GRILLED SALMON
+
+SIDES
+
+PARMESAN TRUFFLE FRIES
+
+ROASTED ARTICHOKES
+
+SAUTÉED MUSHROOMS
+
+MASHED POTATOES
+
+DESSERT
+
+PISTACHIO BLISS
+
+TIRAMISU
+
+CHOCOLATE TEMPTATION
+
+ORANGE CAKE
+
+PISTACHIO GELATO
+
+VANILLA GELATO
+
+CHOCOLATE GELATO
+
+VANILLA MASTIKA ICE CREAM
+
+CHOCOLATE MASTIKA ICE CREAM
+
+ELIA SIGNATURES
+
+VELVET KISS
+
+ELIAS ESPRESSO MARTINI
+
+RED SICILIAN
+
+BLANCO | BLOOD ORANGE | BASIL
+
+ELIA BELLINI
+
+VANILLA INFUSED VODKA | PASSION FRUIT
+
+SICILY SMOKE
+
+MEZCAL | PINEAPPLE | CHILI AGAVE
+
+RIVERSIDE WITH HUGO
+
+PROSECCO | ELDERFLOWER | MINT
+
+FROM CAPRI WITH SPICE
+
+VODKA | GINGER | JALAPEÑO
+
+REBEL FLOWER
+
+TEQUILA | CILANTRO | JALAPEÑO | LIME
+
+ELIA LYCHEE MARTINI
+
+ATIAN ROSE GIN | LYCHEE
+
+RONALDO'S PLEA
+
+HENNESSY | GINGER | LIME
+
+LUNCH
+
+** Our set lunch menu is designed per person and cannot be shared. We’d be happy to suggest some à la carte options if you’d prefer to share dishes.
+
+Monday - Friday, 11:30am - 3pm
+
+* Lunch special is available for parties of 6 or fewer. Larger parties are kindly asked to order from the regular menu.
+
+** Our set lunch menu is designed per person and cannot be shared. We’d be happy to suggest some à la carte options if you’d prefer to share dishes.
+
+25 | 3 COURSES
+
+ANTIPASTI
+
+CHOOSE ONE
+
+SOUP OF THE DAY
+
+BRUSCHETTA
+
+TOMATO | CROSTINI
+
+BOLOGNESE FRITTA
+
+PARMIGIANO REGGIANO | POMODORO
+
+SALAD
+
+CHOOSE ONE
+
+ELIA ITALIAN
+
+TOMATO | RED ONION | BANANA PEPPER | PARMESAN
+
+GREEK SALAD
+
+GOAT CHEESE FETA | TOMATO | CUCUMBER | ONION | OLIVES | HERB VINAIGRETTE
+
+LAND & SEA
+
+CHOOSE ONE
+
+GNOCCHI DI SORRENTO
+
+POMODORO | MOZZARELLA | BASIL
+
+CHICKEN PAILLARD
+
+GRILLED CHICKEN | MIXED GREENS
+
+GRILLED SALMON
+
+GRILLED SALMON | SALMORIGLIO
+
+* Kindly note that on select holidays and special occasions, lunch service may not be available.
+
+SUNSET HOUR
+
+----
+
+Monday - Friday, 3pm - 6pm
+
+AT THE BAR & LOUNGE
+
+----
+
+ELIA SIGNATURES - $10
+
+RED SICILIAN
+
+TEQUILA | BLOOD ORANGE | LEMON
+
+ELIA BELLINI
+
+VODKA | VANILLA | PASSION FRUIT
+
+RIVERSIDE WITH HUGO
+
+PROSECCO | ELDERFLOWER | MINT
+
+APEROL SPRITZ
+
+PROSECCO | CLUB SODA | APEROL
+
+ELIA LYCHEE MARTINI
+
+ATIAN ROSE GIN | LYCHEE
+
+MAGRA MARGARITA
+
+TEQUILA | AGAVE | LIME
+
+$8
+
+HOUSE SPIRITS & BEER
+
+$8
+
+$8
+
+HOUSE WINES
+
+$8
+
+BAR BITES
+
+BRUSCHETTA 10
+
+BOLOGNESE FRITTA 10
+
+TRUFFLE FRIES 10
+
+MARGHERITA PIZZA 10
+
+PEPPERONI PIZZA 10
+
+CRISPY CALAMARI 15
+
+BRUNCH
+
+Saturday - Sunday, 11:30am - 5pm
+
+Last seating for brunch menu 4pm
+
+RIVERSIDE REFRESHERS
+
+2-HOUR BOTTOMLESS
+
+HUGO SPRITZ | APEROL SPRITZ | LIMONCELLO SPRITZ | MIMOSA | PROSECCO | PINOT GRIGIO | SAUVIGNON BLANC | ROSÉ | BEER | BLOODY MARY
+
+BRUNCH
+
+AVOCADO TOAST
+
+CRISPY SUNFLOWER | RED ONION | RADISH | FETA | AVOCADO MOUSSE
+
+FRENCH TOAST MONTE CRISTO
+
+FONTINA | PROSCIUTTO DI PARMA
+
+SMOKED SALMON FLATBREAD
+
+DILL CREAM | ONION | CAPPER | ARUGULA
+
+CHICKEN MARSALA
+
+FARROTTO | SCALLION | MUSHROOM MARSALA
+
+SHORT RIB
+
+GRILLED CHEESY POLENTA | BRAISED SHORT RIB
+
+STEAK & EGGS
+
+12oz PRIME RIBEYE | POACHED EGG | FRIES | AU JUS TARTUFO
+
+LOBSTER BENEDICT
+
+MAINE LOBSTER | TOASTED BRIOCHE | HOLLANDAISE FOAM
+
+SALMON SHAKSHUKA
+
+SMOKED POMODORO | CHIVE | SALMORIGLIO
+
+BAKED RIGATONI
+
+CALABRIAN VODKA POMODORO | MOZZARELLA
+
+GNOCCHI 'NDUJA CARBONARA
+
+SPICY NDUJA | POACHED EGG
+
+'NDUJA PIZZA
+
+RICOTTA | PARMIGIANO REGGIANO | ARUGULA | BROCCOLINI
+
+BREAKFAST PIZZA
+
+EGGS | PROSCIUTTO | ARUGULA | PARMESAN
+
+ANTIPASTI
+
+BURRATA
+
+HEIRLOOM TOMATO | OREGANO | ARUGULA | ORANGE | WHITE BALSAMIC
+
+WAGYU MEATBALLS
+
+GROUND WAGYU & VEAL | WHIPPED RICOTTA | BASIL | POMODORO
+
+TRUFFLE CARPACCIO
+
+FILET | ARUGULA | PARMIGIANO REGGIANO | TRUFFLE AIOLI
+
+SALAD
+
+ELIA CAESAR
+
+CRISPY CHICKPEAS | RADISH | AVOCADO | SHAVED REGGIANO
+
+GREEK SALAD
+
+FETA CHEESE | TOMATO | CUCUMBER | ONION | OLIVES | HERB VINAIGRETTE
+
+TOMATO SALAD
+
+COSTOLUTO GENOVESE | OREGANO | ARUGULA | ORANGE | TOMATO BALSAMIC
+
+ENHANCE WITH: CHICKEN | SHRIMP | FILET TIPS | SALMON
+
+PASTA
+
+SPICY RIGATONI
+
+CALABRIAN VODKA POMODORO
+
+WAGYU BOLOGNESE
+
+GROUND WAGYU & VEAL RAGÙ | SAN MARZANO TOMATO
+
+BUCATINI CACIO E PEPE
+
+BUCATINI | PECORINO ROMANO | TOASTED PEPPERCORN
+
+PIZZA
+
+PEPPERONI
+
+MOZZARELLA | PEPPERONI | POMODORO
+
+TRUFFLE ROYALE
+
+CARAMELIZED PEAR | PECORINO | BLACK TRUFFLE
+
+DOLCE INFERNO
+
+SALAMI | CALABRIAN HONEY | POMODORO | STRACCIATELLA
+
+For the convenience of our valued patrons, a service charge of 20% will be automatically included in your bill. Should you wish to have this charge removed, we kindly request that you speak with a member of our management team.
+
+*Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness, especially if you have certain medical conditions.
+
+*Menu offerings, pricing, and availability are subject to change. For holidays, special events, and limited-time experiences, a curated menu may be offered in place of our standard menu.
+
+**For corkage, celebratory cake, or special arrangement inquiries, please contact the restaurant directly at (305) 904-4045.*
+
+[Image: Elia-VDaydrink.jpg]
+[Image: _T9A8736.jpg]
+[Image: _T9A8970.jpg]
+[Image: Copy of _T9A3321.JPEG]
+[Image: Copy of _T9A3399.JPEG]
+[Image: _T9A3371.jpg]

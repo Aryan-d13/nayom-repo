@@ -1,0 +1,88 @@
+{
+  "query": "api test dentists",
+  "total_found": 2,
+  "usable_count": 2,
+  "grid_tiles_searched": 1,
+  "executed_at": "2026-08-23T08:41:47.753892+00:00",
+  "duration_seconds": 4.88,
+  "metrics": {
+    "requested": 2,
+    "attempted": 1,
+    "found": 2,
+    "usable": 2,
+    "processed": 2,
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "businesses": [
+    {
+      "id": "biz_0x8644b58f01adff99_0x3931510ce67e8abf",
+      "name": "Aqua Dental",
+      "category": "Dentist",
+      "categories": [
+        "Dentist",
+        "Cosmetic dentist",
+        "Dental implants provider",
+        "Orthodontist",
+        "Periodontist"
+      ],
+      "address": "811 E 32nd St, Austin, TX 78705, United States",
+      "city": "Austin",
+      "state": "TX",
+      "country": "United States",
+      "postal_code": "78705",
+      "latitude": 30.291294999999998,
+      "longitude": -97.728205,
+      "phone": "+1512-643-6571",
+      "email": null,
+      "website": "http://aquadentalaustin.com/",
+      "rating": 4.8,
+      "review_count": 0,
+      "google_place_id": "0x8644b58f01adff99:0x3931510ce67e8abf",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Aqua%20Dental%20811%20E%2032nd%20St%2C%20Austin%2C%20TX%2078705%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-23T08:41:47.750604+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260823_084142_878285_api_test_dentists_fe2119_raw.json"
+    },
+    {
+      "id": "biz_0x8644ca638c284765_0x76576315d12cc3cd",
+      "name": "Austin Dental Works",
+      "category": "Dentist",
+      "categories": [
+        "Dentist",
+        "Cosmetic dentist",
+        "Dental clinic",
+        "Dental hygienist",
+        "Dental implants provider",
+        "Denture care center",
+        "Teeth whitening service"
+      ],
+      "address": "4601 N Lamar Blvd #503, Austin, TX 78751, United States",
+      "city": "Austin",
+      "state": "TX",
+      "country": "United States",
+      "postal_code": "78751",
+      "latitude": 30.3150192,
+      "longitude": -97.7355807,
+      "phone": "+1512-877-9822",
+      "email": null,
+      "website": "https://www.austindentalworks.com/",
+      "rating": 4.9,
+      "review_count": 0,
+      "google_place_id": "0x8644ca638c284765:0x76576315d12cc3cd",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Austin%20Dental%20Works%204601%20N%20Lamar%20Blvd%20%23503%2C%20Austin%2C%20TX%2078751%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-23T08:41:47.750881+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260823_084142_878285_api_test_dentists_fe2119_raw.json"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "dental-smooth",
+  "name": "Dental Smooth Practice",
+  "version": "v1",
+  "description": "Welcoming dental template emphasizing smile makeovers, appointment booking, and patient testimonials.",
+  "industry": [
+    "dental",
+    "orthodontics",
+    "pediatric dental",
+    "teeth whitening",
+    "dentist"
+  ],
+  "categories": [
+    "dental",
+    "medical",
+    "health"
+  ],
+  "styles": [
+    "clean",
+    "bright",
+    "soft",
+    "medical"
+  ],
+  "layouts": [
+    "split_hero_feature_stack",
+    "single_page_anchor_flow"
+  ],
+  "features": [
+    "booking",
+    "pricing",
+    "testimonials",
+    "faqs",
+    "contact_form"
+  ],
+  "entrypoint": "app/page.tsx",
+  "slots": {
+    "site.name": "string",
+    "site.tagline": "string",
+    "site.niche": "string",
+    "hero.title": "string",
+    "hero.subtitle": "string",
+    "hero.cta": "string",
+    "hero.ctaLink": "string",
+    "about.summary": "string",
+    "about.differentiators": "string",
+    "contact.phone": "string",
+    "contact.email": "string",
+    "contact.address": "string",
+    "contact.location": "string",
+    "services": "string",
+    "testimonials": "string",
+    "faqs": "string",
+    "socialLinks": "string",
+    "locations": "string",
+    "seo": "string"
+  },
+  "preview_image": "preview/thumbnail.png"
+}

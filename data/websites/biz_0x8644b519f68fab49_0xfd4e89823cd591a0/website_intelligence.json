@@ -1,0 +1,248 @@
+{
+  "site_id": "biz_0x8644b519f68fab49_0xfd4e89823cd591a0",
+  "base_url": "https://solasmileaustin.com/",
+  "domain": "solasmileaustin.com",
+  "source_website_json": "E:\\Code\\Nayom\\data\\websites\\biz_0x8644b519f68fab49_0xfd4e89823cd591a0\\website.json",
+  "business_profile": {
+    "business_name": "Sola Smile Co.",
+    "tagline": "Experience exceptional dental care at Sola Smiles Co in South Austin, TX.",
+    "description": "Sola Smile Co. is a privately owned dental practice located in South Austin, TX, led by Dr. Audrey Su and Dr. Carson Jett. The practice offers comprehensive, wellness-based, and integrative dental care in a spa-like, relaxing environment, covering general, cosmetic, restorative, and biological dentistry.",
+    "industry_category": "Dental Practice",
+    "value_proposition": "Whole-body, wellness-focused integrative dentistry combining advanced digital technology with biological safety standards, mercury-free procedures, and patient-first compassionate care.",
+    "target_audience": "Families, adults, and teens in South Austin and surrounding areas seeking holistic, high-quality, and aesthetic dental care.",
+    "key_differentiators": [
+      "Whole-body, biological dentistry approach",
+      "IAOMT-certified Safe Mercury Amalgam Removal Technique (SMART)",
+      "In-house CEREC CAD/CAM technology for same-day crowns and restorations",
+      "Advanced 3D CBCT imaging and digital diagnostics",
+      "Privately owned practice led by expert female dentists Dr. Audrey Su and Dr. Carson Jett"
+    ]
+  },
+  "services_and_products": [
+    {
+      "name": "Family Dentistry",
+      "description": "Preventive and routine dental care for patients of all ages, from children to seniors.",
+      "category": "Core",
+      "target_audience": "Families and individuals of all ages",
+      "features": [
+        "Early dental exams",
+        "Routine cleanings",
+        "Dental X-rays",
+        "Oral cancer screenings",
+        "Fluoride treatments and sealants"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Cosmetic Dentistry",
+      "description": "Aesthetic treatments designed to enhance smiles and boost self-confidence.",
+      "category": "Core",
+      "target_audience": "Adults seeking smile makeovers",
+      "features": [
+        "Teeth Whitening",
+        "Dental Bonding",
+        "Teeth Reshaping and Gum Contouring",
+        "Dental Veneers"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Invisalign Clear Aligners",
+      "description": "Discrete orthodontic treatment using clear plastic aligners to straighten teeth without traditional metal braces.",
+      "category": "Core",
+      "target_audience": "Teens and adults",
+      "features": [
+        "Custom-made aligner trays",
+        "Step-by-step gradual movement",
+        "Correction of crossbites, overbites, and crowding"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Biological Dentistry",
+      "description": "Holistic dental practices prioritizing biocompatible materials and safe amalgam removal.",
+      "category": "Specialized",
+      "target_audience": "Health-conscious patients",
+      "features": [
+        "Safe Mercury Amalgam Removal Technique (SMART)",
+        "Mercury-free and BPA-free restorations",
+        "Biocompatibility testing with immune systems"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Dental Implants",
+      "description": "Permanent titanium tooth root replacements designed to look, feel, and function like natural teeth.",
+      "category": "Restorative",
+      "target_audience": "Patients with missing teeth",
+      "features": [
+        "Single and multiple tooth implants",
+        "3D CBCT guided placement",
+        "Preservation of adjacent natural teeth"
+      ],
+      "pricing_hint": null
+    }
+  ],
+  "contact_intelligence": {
+    "emails": [
+      "patients@soladentalaustin.com",
+      "patients@solasmileaustin.com"
+    ],
+    "phones": [
+      "512-615-9405"
+    ],
+    "addresses": [
+      "8701 Menchaca Road Building 3, Suite 200, Austin, TX 78748"
+    ],
+    "city": "Austin",
+    "state_or_region": "TX",
+    "country": "US",
+    "social_links": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/solasmileaustin/"
+      }
+    ],
+    "contact_forms_found": true,
+    "business_hours": null,
+    "has_contact_method": true
+  },
+  "brand_and_content": {
+    "tone_and_voice": [
+      "welcoming",
+      "professional",
+      "holistic",
+      "compassionate",
+      "educational"
+    ],
+    "brand_positioning": "Premier integrative and biological dental practice in South Austin combining boutique patient care with advanced clinical technology.",
+    "hero_headlines": [
+      "Sola Smile Co. Austin, TX",
+      "Your Trusted Dentist in South Austin, TX",
+      "Biological Dentistry in South Austin, TX",
+      "Cosmetic Dentistry in South Austin, TX"
+    ],
+    "important_copy_snippets": [
+      "At Sola Smile Co. we believe the mouth is the gateway to the body—and we're committed to treating you with a whole-body, wellness-focused approach.",
+      "Dr. Su uses her expertise, compassion, and artist’s eyes to provide her patients with the highest quality dental work in a comfortable and relaxing environment."
+    ],
+    "content_quality_score": 8
+  },
+  "calls_to_action": [
+    {
+      "text": "Contact Us",
+      "destination": "/p/dentist-South-Austin-TX-Contact-Us-p62271.asp",
+      "intent": "contact",
+      "prominence": "primary",
+      "location": "Header / Navigation"
+    },
+    {
+      "text": "Invisalign Clear Aligners",
+      "destination": "/p/dentist-South-Austin-TX-Invisalign-p62282.asp",
+      "intent": "navigation",
+      "prominence": "primary",
+      "location": "Hero"
+    },
+    {
+      "text": "Cosmetic Dentistry Smile with Confidence",
+      "destination": "/p/dentist-South-Austin-TX-Cosmetic-Dentistry-p62274.asp",
+      "intent": "navigation",
+      "prominence": "primary",
+      "location": "Hero"
+    },
+    {
+      "text": "Biological Dentistry Long Lasting Smile",
+      "destination": "/p/dentist-South-Austin-TX-Biological-Dentistry-p62303.asp",
+      "intent": "navigation",
+      "prominence": "primary",
+      "location": "Hero"
+    }
+  ],
+  "design_and_ux": {
+    "visual_aesthetic": "Traditional dental practice web template with generic layout formatting, standard stock imagery placeholders, and structured service cards.",
+    "typography_assessment": "Standard clean serif/sans-serif heading and body font pairing typical of medical/dental templates, though lacking unique brand typography styling.",
+    "color_palette_assessment": "Clean medical corporate palette featuring neutral background tones with health-associated blues and greens.",
+    "layout_and_spacing": "Standard vertical stack layout with multi-column card grids for team members, services, and blog excerpts.",
+    "ux_navigation_flow": "Standard multi-page dental site navigation with direct access to services, dentist bios, and patient forms, though deep-nested subpages can feel cluttered.",
+    "visual_inputs_analyzed": false,
+    "screenshot_observations": [],
+    "strengths": [
+      "Extensive patient educational content and blog articles",
+      "Clear doctor profiles highlighting qualifications and philosophy",
+      "Transparent financial and insurance information"
+    ],
+    "weaknesses": [
+      "Generic template aesthetic that does not fully convey the boutique 'spa-like' feel described in the copy",
+      "Deeply nested page structures and lengthy URLs common with legacy dental marketing site builders",
+      "Lack of prominent online booking widgets directly on the homepage"
+    ]
+  },
+  "technical_and_seo": {
+    "inferred_tech_stack": [
+      "WEO Media Dental Marketing platform",
+      "ASP.NET backend"
+    ],
+    "seo_health": "Strong local SEO optimization targeting 'dentist South Austin TX' across page titles, meta descriptions, and headers.",
+    "seo_strengths": [
+      "Targeted local keyword targeting in meta descriptions and headings",
+      "Comprehensive sitemap and accessibility information page",
+      "Active blog publishing relevant health articles"
+    ],
+    "seo_weaknesses": [
+      "URL structures utilize lengthy ASP.NET query/path parameters",
+      "Potential duplicate meta keyword tagging across multiple interior pages"
+    ],
+    "accessibility_observations": "Dedicated ADA accessibility information page present with guidance for keyboard navigation and screen readers.",
+    "performance_and_structure_notes": "Standard template performance; content-heavy text pages could benefit from improved whitespace and interactive componentization."
+  },
+  "redesign_recommendations": {
+    "overall_redesign_verdict": "Recommended for a modern Jamstack rebuild (Next.js/Tailwind) to elevate the boutique, wellness-focused brand positioning and streamline the patient acquisition funnel.",
+    "strategic_recommendations": [
+      "Transition from legacy dental template architecture to a custom headless or modern Next.js site to improve speed, UX, and SEO dominance.",
+      "Emphasize the 'spa-like, wellness-focused' differentiator visually through warm editorial design rather than clinical coldness.",
+      "Integrate an instant online booking widget directly into the hero section."
+    ],
+    "ui_ux_improvements": [
+      "Adopt a warm editorial or minimalist Swiss aesthetic with high-end photography of the actual office interior and team.",
+      "Simplify navigation by consolidating deeply nested service subpages into interactive accordion or bento grid components.",
+      "Add interactive patient review sliders and case study galleries with before/after sliders."
+    ],
+    "rebuild_opportunities": [
+      "Next.js / Tailwind CSS / Vercel hosting stack",
+      "Integrated third-party patient scheduling and digital intake form automation",
+      "Headless CMS for effortless blog and team management"
+    ],
+    "quick_wins": [
+      "Add a sticky 'Book Appointment' or 'Call Now' mobile banner",
+      "Prominently display Google reviews and patient ratings above the fold",
+      "Streamline contact form fields to reduce friction for new patient inquiries"
+    ]
+  },
+  "template_recommendation": {
+    "recommended_template": "local-service-leadgen-warm-editorial",
+    "template_category": "local_service",
+    "style_direction": "warm_editorial",
+    "layout_pattern": "split_hero_feature_stack",
+    "template_confidence": 0.95,
+    "key_sections": [
+      "hero_split_booking",
+      "wellness_philosophy_bento",
+      "service_grid_interactive",
+      "doctor_bios",
+      "patient_reviews_slider",
+      "office_tour_gallery",
+      "footer_lead_cta"
+    ],
+    "reasoning": "A warm editorial style paired with a local service lead-generation layout perfectly captures the boutique, spa-like, and holistic wellness positioning of Sola Smile Co. while optimizing conversion paths for new patients."
+  },
+  "metadata": {
+    "provider": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "prompt_version": "1.0.0",
+    "analyzed_at": "2026-08-26T16:02:13.673368+00:00",
+    "screenshots_processed": 0,
+    "duration_seconds": 12.43,
+    "token_usage": null
+  },
+  "warnings": []
+}

@@ -1,0 +1,17 @@
+{
+  "recipient": "contact@atxfamilydental.com",
+  "subject": "Quick thought on ATX Family Dental's website",
+  "body": "Hi ATX Family Dental team, I often look at local practices around Austin and noticed your dedication to providing gentle, comprehensive care for families, from routine cleanings to cosmetic treatments. While looking over your current site, I noticed a couple of missed opportunities: your phone number isn't easily clickable in the header on mobile devices, and adding prominent patient testimonials near the top could help build even more immediate trust with new patients. Since I build clean, high-performance websites for local businesses, I put together a quick working prototype for you. It features a modern split-hero layout, clearer booking calls to action, and a mobile-friendly header. Feel free to check out the live preview here: https://nayom-biz-0x8644b4eb0b01986f-0x6b241d4769ed491-6o5kjpxlm.vercel.app. If you would like to use this design or have me tweak anything, I would be happy to send over the project files or chat for 5 minutes. No worries at all if you are happy with your current setup!",
+  "business_id": "biz_0x8644b4eb0b01986f_0x6b241d4769ed491e",
+  "preview_url": "https://nayom-biz-0x8644b4eb0b01986f-0x6b241d4769ed491-6o5kjpxlm.vercel.app",
+  "generated_at": "2026-08-26T15:39:38.773245+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "business_name": "ATX Family Dental",
+  "key_improvements": [
+    "Made the phone number clickable in the header across all viewports for easier mobile calling.",
+    "Integrated prominent patient testimonials and a dedicated booking CTA section to improve new patient conversion."
+  ],
+  "provider": "gemini",
+  "prompt_version": "1.0.0",
+  "warnings": []
+}

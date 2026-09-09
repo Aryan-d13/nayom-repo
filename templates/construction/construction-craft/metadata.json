@@ -1,0 +1,97 @@
+{
+  "id": "construction-craft",
+  "name": "Construction Craft & Trades",
+  "version": "v1",
+  "description": "Heavy-duty, reliable contractor template built for project portfolios, instant quote requests, and client reviews.",
+  "categories": [
+    "construction",
+    "trades",
+    "local_service"
+  ],
+  "industries": [
+    "construction",
+    "contractor",
+    "trades",
+    "roofing",
+    "remodeling",
+    "plumbing",
+    "electrician"
+  ],
+  "style_keywords": [
+    "bold",
+    "industrial",
+    "robust",
+    "clean"
+  ],
+  "layout_patterns": [
+    "split_hero_feature_stack",
+    "single_page_anchor_flow"
+  ],
+  "supported_features": [
+    "booking",
+    "pricing",
+    "testimonials",
+    "faqs",
+    "contact_form"
+  ],
+  "supported_slots": [
+    "site.name",
+    "site.tagline",
+    "site.niche",
+    "hero.title",
+    "hero.subtitle",
+    "hero.cta",
+    "hero.ctaLink",
+    "about.summary",
+    "about.differentiators",
+    "contact.phone",
+    "contact.email",
+    "contact.address",
+    "contact.location",
+    "services",
+    "testimonials",
+    "faqs",
+    "socialLinks",
+    "locations",
+    "seo"
+  ],
+  "preview_image": "preview/thumbnail.png",
+  "entrypoint": "app/page.tsx",
+  "capabilities": {
+    "supportsBooking": true,
+    "supportsGallery": true,
+    "supportsPricing": false,
+    "supportsMultiLocation": true,
+    "supportsTestimonials": true,
+    "supportsFaq": true,
+    "supportsBeforeAfter": true
+  },
+  "defaultTheme": {
+    "palette": [
+      "#f59e0b",
+      "#1e293b",
+      "#f8fafc",
+      "#0f172a"
+    ],
+    "typography": "Chakra Petch, sans-serif",
+    "iconStyle": "lucide-bold",
+    "borderRadius": "4px",
+    "buttonStyle": "industrial-solid",
+    "animationStyle": "slide-heavy"
+  },
+  "supportedVariants": [
+    "industrial",
+    "light",
+    "dark"
+  ],
+  "availableSections": [
+    "hero",
+    "services",
+    "projects",
+    "before-after",
+    "testimonials",
+    "faqs",
+    "estimate-request",
+    "contact"
+  ]
+}

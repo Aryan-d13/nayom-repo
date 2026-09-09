@@ -1,0 +1,2778 @@
+{
+  "request": {
+    "url": "http://sourduckmarket.com/",
+    "site_id": "biz_0x8644b594e1e61e01_0x70d7243021911e1c",
+    "max_pages": 20,
+    "render_js": false,
+    "screenshot": false,
+    "concurrency": 5,
+    "timeout": 20,
+    "delay": 0.25,
+    "use_sitemap": true,
+    "include_subdomains": false,
+    "min_words": 5,
+    "download_images": false,
+    "user_agent": null
+  },
+  "site_id": "biz_0x8644b594e1e61e01_0x70d7243021911e1c",
+  "base_url": "http://sourduckmarket.com/",
+  "domain": "sourduckmarket.com",
+  "total_pages_crawled": 6,
+  "successful_pages": 6,
+  "failed_pages": 0,
+  "pages": [
+    {
+      "url": "http://sourduckmarket.com/",
+      "path": "/",
+      "title": "Sour Duck Market",
+      "status_code": 200,
+      "crawled_at": "2026-08-24T14:27:58.669291+00:00",
+      "duration_ms": 287.19,
+      "content": {
+        "markdown": "[Image: CE4A9155.jpg]\n[Image: VeganCroissant-SD_E0A3304.jpg]\n[Image: CE4A7654-2.jpg]\n[Image: CE4A9022.jpg]\n[Image: CheeseburgerWithChallahBun-SD_E0A1898.jpg]\n[Image: CE4A9789.jpg]\n[Image: CE4A8919.jpg]\n[Image: Kouign-amann-SD_E0A7254.jpg]\n[Image: CE4A0103.jpg]\n[Image: SmokedChicken-SD_E0A5872.jpg]\n[Image: CinnamonRolls-SD_E0A9962.jpg]\n[Image: SalamiWithDan-SD_E0A8193.jpg]\n[Image: CE4A2874.jpg]\n[Image: _E0A1650.jpg]\n\nSlide 1\nSlide 1 (current slide)\n\nSlide 2\nSlide 2 (current slide)\n\nSlide 3\nSlide 3 (current slide)\n\nSlide 4\nSlide 4 (current slide)\n\nSlide 5\nSlide 5 (current slide)\n\nSlide 6\nSlide 6 (current slide)\n\nSlide 7\nSlide 7 (current slide)\n\nSlide 8\nSlide 8 (current slide)\n\nSlide 9\nSlide 9 (current slide)\n\nSlide 10\nSlide 10 (current slide)\n\nSlide 11\nSlide 11 (current slide)\n\nSlide 12\nSlide 12 (current slide)\n\nSlide 13\nSlide 13 (current slide)\n\nSlide 14\nSlide 14 (current slide)\n\n[Image: CE4A9155.jpg]\n[Image: VeganCroissant-SD_E0A3304.jpg]\n[Image: CE4A7654-2.jpg]\n[Image: CE4A9022.jpg]\n[Image: CheeseburgerWithChallahBun-SD_E0A1898.jpg]\n[Image: CE4A9789.jpg]\n[Image: CE4A8919.jpg]\n[Image: Kouign-amann-SD_E0A7254.jpg]\n[Image: CE4A0103.jpg]\n[Image: SmokedChicken-SD_E0A5872.jpg]\n[Image: CinnamonRolls-SD_E0A9962.jpg]\n[Image: SalamiWithDan-SD_E0A8193.jpg]\n[Image: CE4A2874.jpg]\n[Image: _E0A1650.jpg]\n\n### Austin Eastside Neighborhood Bakery, Café, Bar, and Beer Garden\n\n**Offering handcrafted fresh baked goods, sandwiches, and snacks made from locally sourced ingredients, sustainable coffee, craft cocktails, and a killer selection of beer, wine, and non-alcoholic beverages.**\n\n**We are first come, first served, no reservation required.**\n\n[Order Takeout](https://www.toasttab.com/sour-duck/v3#!/)\n\n## **Daily Menu**\n\n*(availability varies, click “Order Takeout” above to view our offerings in real time)*\n\n**breakfast taco** *(until 2pm)* $5.5\nscrambled egg*, queso fresco, fries, cilantro, onion, jalapeno, red chili salsa, flour tortilla\n\n**breakfast sammy** *(until 2pm)* $10.5\nbreakfast sausage patty, fried egg*, american cheese, arugula, cilantro, onion, jalapeno, aji verde,\n*make it vegetarian: sub avocado for no charge*\n\n**xxl breakfast burrito***(until 2pm) $*19 daily protein, oaxaca cheese, fries, scrambled egg*, cilantro, onion, jalapeno, red chile salsa\n**make it vegetarian: sub avocado for no charge**\n\n**smoked mushroom danish** $5.25\nchevre, swiss, & oaxaca cheeses, sesame seed\n\n**everything bagel danish** $5.00\nchive cream cheese, everything bagel spice, lamindated dough\n\n**seeded pretzel w/queso** $7.5\n\n**soup of the day** $6\n\n**tomato & peach salad** $10\nriver field farms heirloom tomato, peach, pickled corn, dukka vinaigrette, goat cheese, spiced pepitas, basil, mint\n\n**seasonal melon & cucumber salad** $9\n melon, cucumber, corn romesco, chili crisp vinaigrette, onion, cilantro, masa chips\n\n**tx farm salad** $14\nfield greens, maple mustard vinaigrette, cured squash, cherry tomato, charred peppers, mole granola, queso fresco\n**add avocado for $3****add fried chicken* ***or*** *chilled smoked chicken for $6**\n\n**open face summer sando** *(vegan)*$13\n thick cut sourdough, smashed avocado, tomato, marinated squash, crispy oyster mushrooms & arugula\n\n**peanut sesame noodles** $14 *(available after 3pm)* (vegan)\npeanut sauce, cashew chili crisp, pickled carrots, toasted cashews, fresh herbs, *served chilled*\n**add avocado for $3****add fried chicken* ***or*** *chilled smoked chicken for $6**\n\n**smoked turkey sandwich** $18\nhouse smoked turkey, cherry bomb mayo, havarti, greens, shaved onion, focaccia\n\n**maple morita chicken sandwich** $13\nbuttermilk marinated & sourdough dredged fried chicken thigh, maple morita glaze, parsley mayo, pickles, red onion, cucumber & sweet pepper relish\n\n**peeler farms wagyu double cheeseburger** $14\nwagyu smash burger patties, american & pimento cheese, pickle, secret sauce, challah bun\n\n**peachy italian sandwich** $16\nsmoked ham, salami, peach & arugula slaw, sweet peppers, focaccia\n\n**bryce’s brisket sandwich** $20\nsmoked wagyu brisket, refried bean mayo, green tomato escabeche, roasted poblano peppers, queso fresco, cilantro, texas toast\n\n**fish ‘n’ chips** $25\nbeer battered redfish, tartar sauce, charred lime, chow chow\n\n**smoked half chicken** $28\nboneless half chicken, tex mex spice, spring salad, golden raisin, dill, river field farm veggies, sourdough croutons\n\n**hand-punched fries** $4 cajun spice, house ketchup\n\n## **Brunch Menu**\n\n*Available on Saturdays and Sundays from 9am to 3pm*\n\n*(availability varies, click “Order Takeout Here” above to view our offerings in real time)*\n\n**smoked mushroom danish** $5.25\nchevre, swiss, & oaxaca cheeses, sesame seed\n\n**everything bagel danish** $5.00\nchive cream cheese, everything bagel spice, lamindated dough\n\n**seeded pretzel w/queso** $7.5\n\n**spicy sausage & cheese kolache** $6sausage, american cheese, sesame\n\n**seasonal melon & cucumber salad** $9\n melon, cucumber, corn romesco, chili crisp vinaigrette, onion, cilantro, masa chips\n\n**breakfast taco** $5.50\nscrambled egg*, queso fresco, fries, cilantro, onion, jalapeno, red chile salsa, flour tortilla\n\n**breakfast sammy** $10.5\nbreakfast sausage patty, fried egg, arugula, cilantro, onion, jalapeno, aji verde, american cheese\n**make it vegetarian: sub avocado for no charge**\n\n**migas quiche** $11\npastry crust, egg, buttered leeks, masa, roasted tomatoes & peppers, sour cream, escabeche pico\n\n**smoked redfish toast** $13\n sweet peppers, onion, salsa verde, lemon, dill, chives\n\n**tx farm salad** $14\nfield greens, maple mustard vinaigrette, cherry tomatoes, cured squash, charred peppers, mole granola, queso fresco\n**add avocado for $3****add fried chicken* ***or*** *smoked chicken for $6**\n\n**smoked red chile goat tamal** $15\nsmoked windy hill goat meat, red chili broth, seared tamal, mushrooms, oaxaca cheese, cilantro, fried egg\n\n**peeler farms wagyu double cheeseburger** $14\nwagyu smash burger patties, american & pimento cheese, pickle, secret sauce, challah bun\n\n**smoked brisket chilaquiles** $205oz smoked brisket, masa chips, oaxaca cheese, roasted tomato & guajillo salsa, escabeche, onion, cilantro, jalapeno, sour cream, fried egg*\n\n**fried chicken hash** $18\nbuttermilk marinated & sourdough dredged fried chicken thigh, fried yukon potatoes, seasonal veggies, remoulade, cilantro, onion, sunny egg\n\n**hand-punched fries** $4\ncajun spice, house ketchup\n\n**Kid’s Menu**\n\n**breakfast taco *(until 2pm)***\n\n**cheese quesadilla**\n\n**chicken strips**\n\n**cheeseburger**\n\n**Pastries**\n\n**traditional croissant**\n\n**chocolate croissant**\n\n**almond croissant**\n\n**kouign-amann**\n\n**buckwheat almond financier** *(gf)*\n\n**carrot buckwheat financier** *(gf)*\n\n**vegan coffee cake** *(vegan)*\n\n**pecan cinnamon roll**\n\n**zucchini bread**\n\n**chocolate chip cookie**\n\n**trail cookie**\n\n**lemon pound cake**\n\n**espresso chocolate torte** *(gf)*\n\n**millennial bar** *(gf)*\n\n**honey cake**\n\n**unicorn poop**\n\n[Cocktails](https://www.sourduckmarket.com/cocktails)\n\n[Beer, Cider, Wine, & Non-Alcoholic](https://www.sourduckmarket.com/beer)\n\n[Image: _E0A1713-Edit.jpg]\n[Image: _E0A1784.jpg]\n[Image: _E0A6487.jpg]\n[Image: _E0A1768.jpg]\n[Image: _E0A9297.jpg]\n[Image: _E0A1681-Edit.jpg]\n[Image: _E0A9290.jpg]\n[Image: _E0A3466.jpg]\n\nSlide 1\nSlide 1 (current slide)\n\nSlide 2\nSlide 2 (current slide)\n\nSlide 3\nSlide 3 (current slide)\n\nSlide 4\nSlide 4 (current slide)\n\nSlide 5\nSlide 5 (current slide)\n\nSlide 6\nSlide 6 (current slide)\n\nSlide 7\nSlide 7 (current slide)\n\nSlide 8\nSlide 8 (current slide)\n\n[Image: _E0A1713-Edit.jpg]\n[Image: _E0A1784.jpg]\n[Image: _E0A6487.jpg]\n[Image: _E0A1768.jpg]\n[Image: _E0A9297.jpg]\n[Image: _E0A1681-Edit.jpg]\n[Image: _E0A9290.jpg]\n[Image: _E0A3466.jpg]\n\n## [**DON’T DELETE**](#happyhour) **Hours**\n\nMON …………. 9AM-9PM\nTUES ………… 9AM-9PM\nWED …………. 9AM-9PM\nTHUR …………. 9AM-9PM\nFRI ………... 9AM-10PM\nSAT ……..…. 9AM-10PM\nSUN …………. 9AM-9PM\n\n### **Happy Hour 3-6pm Daily!**\n\n#### **$6 Single Burgers $9 Double Burger**\n\n#### **$6** Paloma, Tumeric Mule, & Seasonal Daiquiri **$4** Pints of Select Lagers **$6** Tiny Frozen Cocktails **$3** Seasonal Snaquiri Shots **$1 off** Wine, Draft Beer, & Draft Cider **$3** Lone Star cans all day, every day\n\nNo reservations required.\nSeating is first-come, first-served.\n\n## Stay up to date .. Join our mailing list!\n\nThese days we are constantly changing. Receive the latest news about specials, events, operation changes, and more.\n\nFirst Name\n\nLast Name\n\nEmail Address\n\nSign Up\n\nWe respect your time and privacy.\n\nThank you!\n\n---",
+        "plain_text": "0 Skip to Content Menu & Hours Happy Hour Gift Cards Large Parties About Wholesale Partners FAQs Parking Order Takeout Open Menu Close Menu Open Menu Close Menu Menu & Hours Happy Hour Gift Cards Large Parties About Wholesale Partners FAQs Parking Order Takeout Menu & Hours Happy Hour Gift Cards Large Parties About Wholesale Partners FAQs Parking Order Takeout Slide 1 Slide 1 (current slide) Slide 2 Slide 2 (current slide) Slide 3 Slide 3 (current slide) Slide 4 Slide 4 (current slide) Slide 5 Slide 5 (current slide) Slide 6 Slide 6 (current slide) Slide 7 Slide 7 (current slide) Slide 8 Slide 8 (current slide) Slide 9 Slide 9 (current slide) Slide 10 Slide 10 (current slide) Slide 11 Slide 11 (current slide) Slide 12 Slide 12 (current slide) Slide 13 Slide 13 (current slide) Slide 14 Slide 14 (current slide) Austin Eastside Neighborhood Bakery, Café, Bar, and Beer Garden Offering handcrafted fresh baked goods, sandwiches, and snacks made from locally sourced ingredients, sustainable coffee, craft cocktails, and a killer selection of beer, wine, and non-alcoholic beverages. We are first come, first served, no reservation required. Order Takeout Daily Menu (availability varies, click “Order Takeout” above to view our offerings in real time) breakfast taco (until 2pm) $5.5 scrambled egg*, queso fresco, fries, cilantro, onion, jalapeno, red chili salsa, flour tortilla breakfast sammy (until 2pm) $10.5 breakfast sausage patty, fried egg*, american cheese, arugula, cilantro, onion, jalapeno, aji verde, *make it vegetarian: sub avocado for no charge* xxl breakfast burrito (until 2pm) $ 19 daily protein, oaxaca cheese, fries, scrambled egg*, cilantro, onion, jalapeno, red chile salsa *make it vegetarian: sub avocado for no charge* smoked mushroom danish $5.25 chevre, swiss, & oaxaca cheeses, sesame seed everything bagel danish $5.00 chive cream cheese, everything bagel spice, lamindated dough seeded pretzel w/queso $7.5 soup of the day $6 tomato & peach salad $10 river field farms heirloom tomato, peach, pickled corn, dukka vinaigrette, goat cheese, spiced pepitas, basil, mint seasonal melon & cucumber salad $9 melon, cucumber, corn romesco, chili crisp vinaigrette, onion, cilantro, masa chips tx farm salad $14 field greens, maple mustard vinaigrette, cured squash, cherry tomato, charred peppers, mole granola, queso fresco *add avocado for $3* * add fried chicken or chilled smoked chicken for $6* open face summer sando (vegan) $13 thick cut sourdough, smashed avocado, tomato, marinated squash, crispy oyster mushrooms & arugula peanut sesame noodles $14 (available after 3pm) (vegan) peanut sauce, cashew chili crisp, pickled carrots, toasted cashews, fresh herbs, served chilled *add avocado for $3* * add fried chicken or chilled smoked chicken for $6* smoked turkey sandwich $18 house smoked turkey, cherry bomb mayo, havarti, greens, shaved onion, focaccia maple morita chicken sandwich $13 buttermilk marinated & sourdough dredged fried chicken thigh, maple morita glaze, parsley mayo, pickles, red onion, cucumber & sweet pepper relish peeler farms wagyu double cheeseburger $14 wagyu smash burger patties, american & pimento cheese, pickle, secret sauce, challah bun peachy italian sandwich $16 smoked ham, salami, peach & arugula slaw, sweet peppers, focaccia bryce’s brisket sandwich $20 smoked wagyu brisket, refried bean mayo, green tomato escabeche, roasted poblano peppers, queso fresco, cilantro, texas toast fish ‘n’ chips $25 beer battered redfish, tartar sauce, charred lime, chow chow smoked half chicken $28 boneless half chicken, tex mex spice, spring salad, golden raisin, dill, river field farm veggies, sourdough croutons hand-punched fries $4 cajun spice, house ketchup Brunch Menu Available on Saturdays and Sundays from 9am to 3pm (availability varies, click “Order Takeout Here” above to view our offerings in real time) smoked mushroom danish $5.25 chevre, swiss, & oaxaca cheeses, sesame seed everything bagel danish $5.00 chive cream cheese, everything bagel spice, lamindated dough seeded pretzel w/queso $7.5 spicy sausage & cheese kolache $6 sausage, american cheese, sesame seasonal melon & cucumber salad $9 melon, cucumber, corn romesco, chili crisp vinaigrette, onion, cilantro, masa chips breakfast taco $5.50 scrambled egg*, queso fresco, fries, cilantro, onion, jalapeno, red chile salsa, flour tortilla breakfast sammy $10.5 breakfast sausage patty, fried egg, arugula, cilantro, onion, jalapeno, aji verde, american cheese *make it vegetarian: sub avocado for no charge* migas quiche $11 pastry crust, egg, buttered leeks, masa, roasted tomatoes & peppers, sour cream, escabeche pico smoked redfish toast $13 sweet peppers, onion, salsa verde, lemon, dill, chives tx farm salad $14 field greens, maple mustard vinaigrette, cherry tomatoes, cured squash, charred peppers, mole granola, queso fresco *add avocado for $3* * add fried chicken or smoked chicken for $6* smoked red chile goat tamal $15 smoked windy hill goat meat, red chili broth, seared tamal, mushrooms, oaxaca cheese, cilantro, fried egg peeler farms wagyu double cheeseburger $14 wagyu smash burger patties, american & pimento cheese, pickle, secret sauce, challah bun smoked brisket chilaquiles $20 5oz smoked brisket, masa chips, oaxaca cheese, roasted tomato & guajillo salsa, escabeche, onion, cilantro, jalapeno, sour cream, fried egg* fried chicken hash $18 buttermilk marinated & sourdough dredged fried chicken thigh, fried yukon potatoes, seasonal veggies, remoulade, cilantro, onion, sunny egg hand-punched fries $4 cajun spice, house ketchup Kid’s Menu breakfast taco (until 2pm) cheese quesadilla chicken strips cheeseburger Pastries traditional croissant chocolate croissant almond croissant kouign-amann buckwheat almond financier (gf) carrot buckwheat financier (gf) vegan coffee cake (vegan) pecan cinnamon roll zucchini bread chocolate chip cookie trail cookie lemon pound cake espresso chocolate torte (gf) millennial bar (gf) honey cake unicorn poop Cocktails Beer, Cider, Wine, & Non-Alcoholic Slide 1 Slide 1 (current slide) Slide 2 Slide 2 (current slide) Slide 3 Slide 3 (current slide) Slide 4 Slide 4 (current slide) Slide 5 Slide 5 (current slide) Slide 6 Slide 6 (current slide) Slide 7 Slide 7 (current slide) Slide 8 Slide 8 (current slide) DON’T DELETE Hours MON …………. 9AM-9PM TUES ………… 9AM-9PM WED …………. 9AM-9PM THUR …………. 9AM-9PM FRI ………... 9AM-10PM SAT ……..…. 9AM-10PM SUN …………. 9AM-9PM Happy Hour 3-6pm Daily! $6 Single Burgers $9 Double Burger $6 Paloma, Tumeric Mule, & Seasonal Daiquiri $4 Pints of Select Lagers $6 Tiny Frozen Cocktails $3 Seasonal Snaquiri Shots $1 off Wine, Draft Beer, & Draft Cider $3 Lone Star cans all day, every day No reservations required. Seating is first-come, first-served. Stay up to date .. Join our mailing list! These days we are constantly changing. Receive the latest news about specials, events, operation changes, and more. First Name Last Name Email Address Sign Up We respect your time and privacy. Thank you! FAQs Sour Duck Market 1814 E Martin Luther King Jr Blvd Austin, TX 78702 info@sourduckaustin.com (512) 394-5776 Click here for donation requests Sister Restaurants Odd Duck Barley Swine Site updated 2021 © Sour Duck Market Photographs courtesy of Richard Casteel Illustrations courtesy of Brock Caron",
+        "word_count": 1118,
+        "character_count": 7333,
+        "excerpt": "0 Skip to Content Menu & Hours Happy Hour Gift Cards Large Parties About Wholesale Partners FAQs Parking Order Takeout Open Menu Close Menu Open Menu Close Menu Menu & Hours Happy Hour Gift Cards Large Parties About Wholesale Partners FAQs Parking Or..."
+      },
+      "headings": [
+        {
+          "level": 3,
+          "text": "Austin Eastside Neighborhood Bakery, Café, Bar, and Beer Garden",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Daily Menu",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Brunch Menu",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "DON’T DELETEHours",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "Happy Hour 3-6pm Daily!",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "$6 Single Burgers$9 Double Burger",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "$6 Paloma, Tumeric Mule, & Seasonal Daiquiri$4 Pints of Select Lagers$6 Tiny Frozen Cocktails$3 Seasonal Snaquiri Shots$1 off Wine, Draft Beer, & Draft Cider$3 Lone Star cans all day, every day",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Stay up to date .. Join our mailing list!",
+          "id": null
+        }
+      ],
+      "links": [
+        {
+          "url": "http://sourduckmarket.com/cart",
+          "text": "0",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "http://sourduckmarket.com/",
+          "text": "Menu & Hours",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.sourduckmarket.com/#happyhour",
+          "text": "Happy Hour",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.toasttab.com/sour-duck/giftcards",
+          "text": "Gift Cards",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://sourduckmarket.com/parties",
+          "text": "Large Parties",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "http://sourduckmarket.com/about",
+          "text": "About",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "http://sourduckmarket.com/wholesale",
+          "text": "Wholesale Partners",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "http://sourduckmarket.com/faqs",
+          "text": "FAQs",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "http://sourduckmarket.com/parking",
+          "text": "Parking",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "http://sourduckmarket.com/",
+          "text": "Sour Duck Market",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.instagram.com/sourduckmarket/",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.facebook.com/sourduckmarket/",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://twitter.com/SourDuckMarket",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.toasttab.com/sour-duck/v3/?mode=fulfillment",
+          "text": "Order Takeout",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.toasttab.com/sour-duck/v3#!/",
+          "text": "Order Takeout",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.sourduckmarket.com/cocktails",
+          "text": "Cocktails",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.sourduckmarket.com/beer",
+          "text": "Beer, Cider, Wine, & Non-Alcoholic",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://wck.org/chef-corps",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://goo.gl/maps/izZWb1eGtP8TTSsj7",
+          "text": "1814 E Martin Luther King Jr BlvdAustin, TX 78702",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "mailto:info@sourduckaustin.com",
+          "text": "info@sourduckaustin.com",
+          "title": "Email: info@sourduckaustin.com",
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "tel:+15123945776",
+          "text": "(512) 394-5776",
+          "title": "Phone: +15123945776",
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://airtable.com/appICpRgFPtN6WNF3/pagFwchc2KZv5yoXT/form",
+          "text": "Click here for donation requests",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://oddduckaustin.com",
+          "text": "Odd Duck",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://barleyswine.com/",
+          "text": "Barley Swine",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://dandeliongatherings.com/",
+          "text": "Richard Casteel",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://www.brockcaronart.com/news/tag/art",
+          "text": "Brock Caron",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        }
+      ],
+      "images": [
+        {
+          "url": "http://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/7ef8fb1f-46f5-4dd2-a72e-9e15fe1c616e/sour-duck-logo.png?format=1500w",
+          "alt": "Sour Duck Market",
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": "eager",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/a8c9fc49-6bd2-4ac4-9798-ae60d52a5b35/CE4A9155.jpg",
+          "alt": "CE4A9155.jpg",
+          "title": null,
+          "width": 3000,
+          "height": 2000,
+          "loading": "eager",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/36b25d52-0ecd-4155-9c5f-94711b2e6ad8/VeganCroissant-SD_E0A3304.jpg",
+          "alt": "VeganCroissant-SD_E0A3304.jpg",
+          "title": null,
+          "width": 2490,
+          "height": 1660,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/664d1bbb-6858-467d-af30-5dbcb05be7a2/CE4A7654-2.jpg",
+          "alt": "CE4A7654-2.jpg",
+          "title": null,
+          "width": 3525,
+          "height": 2350,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/73c52494-e3cf-4a64-a886-8239f6173a7f/CE4A9022.jpg",
+          "alt": "CE4A9022.jpg",
+          "title": null,
+          "width": 3000,
+          "height": 2000,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/9b520433-499c-4930-ba31-01c2f2c9c153/CheeseburgerWithChallahBun-SD_E0A1898.jpg",
+          "alt": "CheeseburgerWithChallahBun-SD_E0A1898.jpg",
+          "title": null,
+          "width": 2490,
+          "height": 1660,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/f6caff34-10bf-47a2-aab8-438b4228943f/CE4A9789.jpg",
+          "alt": "CE4A9789.jpg",
+          "title": null,
+          "width": 3000,
+          "height": 2000,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/41a216e8-eef8-4664-ab59-d6e6a339b8fe/CE4A8919.jpg",
+          "alt": "CE4A8919.jpg",
+          "title": null,
+          "width": 3000,
+          "height": 2000,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/392d2697-4d86-4859-9a99-a6683874496d/Kouign-amann-SD_E0A7254.jpg",
+          "alt": "Kouign-amann-SD_E0A7254.jpg",
+          "title": null,
+          "width": 2490,
+          "height": 1660,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/98e22de6-7e6b-452b-b161-d686e4766040/CE4A0103.jpg",
+          "alt": "CE4A0103.jpg",
+          "title": null,
+          "width": 3000,
+          "height": 2000,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/286d7170-e4c3-4fe5-a63d-420783a72a20/SmokedChicken-SD_E0A5872.jpg",
+          "alt": "SmokedChicken-SD_E0A5872.jpg",
+          "title": null,
+          "width": 2490,
+          "height": 1660,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/abb5770e-7a93-4cf3-a461-7fccbf41544e/CinnamonRolls-SD_E0A9962.jpg",
+          "alt": "CinnamonRolls-SD_E0A9962.jpg",
+          "title": null,
+          "width": 2490,
+          "height": 1660,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/346df0ef-5adf-4616-8186-1f6cee590090/SalamiWithDan-SD_E0A8193.jpg",
+          "alt": "SalamiWithDan-SD_E0A8193.jpg",
+          "title": null,
+          "width": 2213,
+          "height": 1660,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/f7859299-180f-46d9-b050-5c9370ba82f1/CE4A2874.jpg",
+          "alt": "CE4A2874.jpg",
+          "title": null,
+          "width": 3000,
+          "height": 2000,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/008f5336-5ea6-423e-ae1b-8ded7d83b881/_E0A1650.jpg",
+          "alt": "_E0A1650.jpg",
+          "title": null,
+          "width": 2000,
+          "height": 1500,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/c21b1dd1-1bed-4019-8dd8-654a53e8cafd/sour_duck-pattern-blue.png",
+          "alt": null,
+          "title": null,
+          "width": 4654,
+          "height": 3513,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/ec48ef25-45a2-4625-9542-ccb9aad9e7a3/_E0A1713-Edit.jpg",
+          "alt": "_E0A1713-Edit.jpg",
+          "title": null,
+          "width": 6712,
+          "height": 3982,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/6705543d-b327-47db-bd50-9e71f4baa8c2/_E0A1784.jpg",
+          "alt": "_E0A1784.jpg",
+          "title": null,
+          "width": 3001,
+          "height": 1660,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/02e3988a-6efc-4060-b830-ad647be9a0da/_E0A6487.jpg",
+          "alt": "_E0A6487.jpg",
+          "title": null,
+          "width": 2951,
+          "height": 1660,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/22ddf3fe-cd85-47d9-8913-3883de7644d5/_E0A1768.jpg",
+          "alt": "_E0A1768.jpg",
+          "title": null,
+          "width": 3141,
+          "height": 1660,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/4aafbe8f-9872-43fd-b328-2f0e98b52d5e/_E0A9297.jpg",
+          "alt": "_E0A9297.jpg",
+          "title": null,
+          "width": 2490,
+          "height": 1660,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/e7d4783c-9e6c-43d7-9cbe-7b3c55a5154f/_E0A1681-Edit.jpg",
+          "alt": "_E0A1681-Edit.jpg",
+          "title": null,
+          "width": 6720,
+          "height": 4480,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/4112b394-ab40-42e6-85ac-69f8c7e4f7a0/_E0A9290.jpg",
+          "alt": "_E0A9290.jpg",
+          "title": null,
+          "width": 2490,
+          "height": 1660,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/1a5abff1-a313-417c-988f-473a62a3b1f6/_E0A3466.jpg",
+          "alt": "_E0A3466.jpg",
+          "title": null,
+          "width": 2490,
+          "height": 1660,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/d6e000db-9f11-445a-8a55-cd6ed042ace5/d92f51c45a52ec128538176fc3286b9c-original-cc_530x230_1.png",
+          "alt": null,
+          "title": null,
+          "width": 230,
+          "height": 230,
+          "loading": "lazy",
+          "local_path": null
+        }
+      ],
+      "metadata": {
+        "title": "Sour Duck Market",
+        "description": null,
+        "keywords": [],
+        "canonical": "https://www.sourduckmarket.com",
+        "language": "en-US",
+        "charset": "utf-8",
+        "viewport": "width=device-width, initial-scale=1",
+        "author": null,
+        "robots": null,
+        "og_tags": {
+          "og:site_name": "Sour Duck Market",
+          "og:title": "Sour Duck Market",
+          "og:url": "https://www.sourduckmarket.com",
+          "og:type": "website",
+          "og:image": "http://static1.squarespace.com/static/60f2fce46385b311d9476316/t/60f2fd71a8f65e35b6d5349b/1626537329952/sour-duck-logo.png?format=1500w",
+          "og:image:width": "1500",
+          "og:image:height": "369"
+        },
+        "twitter_tags": {
+          "twitter:title": "Sour Duck Market",
+          "twitter:image": "http://static1.squarespace.com/static/60f2fce46385b311d9476316/t/60f2fd71a8f65e35b6d5349b/1626537329952/sour-duck-logo.png?format=1500w",
+          "twitter:url": "https://www.sourduckmarket.com",
+          "twitter:card": "summary"
+        },
+        "favicon": "https://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/80e7ae01-386c-4d5d-8ec4-d33ad6d205fa/favicon.ico?format=100w",
+        "other_meta": {}
+      },
+      "forms": [
+        {
+          "id": null,
+          "name": null,
+          "action": null,
+          "method": "POST",
+          "fields": [
+            {
+              "name": "fname",
+              "type": "text",
+              "label": null,
+              "placeholder": "First Name",
+              "required": false,
+              "value": null,
+              "options": []
+            },
+            {
+              "name": "lname",
+              "type": "text",
+              "label": null,
+              "placeholder": "Last Name",
+              "required": false,
+              "value": null,
+              "options": []
+            },
+            {
+              "name": "email",
+              "type": "email",
+              "label": "Email Address",
+              "placeholder": "Email Address",
+              "required": false,
+              "value": null,
+              "options": []
+            }
+          ],
+          "submit_text": "Sign Up"
+        }
+      ],
+      "buttons": [
+        {
+          "text": "Open Menu Close Menu",
+          "type": "button",
+          "href": null,
+          "onclick": null,
+          "id": null,
+          "class_name": "header-burger-btn burger",
+          "is_cta": true
+        },
+        {
+          "text": "Slide 1 Slide 1 (current slide)",
+          "type": "button",
+          "href": null,
+          "onclick": null,
+          "id": null,
+          "class_name": "gallery-fullscreen-slideshow-bullet",
+          "is_cta": false
+        },
+        {
+          "text": "Slide 2 Slide 2 (current slide)",
+          "type": "button",
+          "href": null,
+          "onclick": null,
+          "id": null,
+          "class_name": "gallery-fullscreen-slideshow-bullet",
+          "is_cta": false
+        },
+        {
+          "text": "Slide 3 Slide 3 (current slide)",
+          "type": "button",
+          "href": null,
+          "onclick": null,
+          "id": null,
+          "class_name": "gallery-fullscreen-slideshow-bullet",
+          "is_cta": false
+        },
+        {
+          "text": "Slide 4 Slide 4 (current slide)",
+          "type": "button",
+          "href": null,
+          "onclick": null,
+          "id": null,
+          "class_name": "gallery-fullscreen-slideshow-bullet",
+          "is_cta": false
+        },
+        {
+          "text": "Slide 5 Slide 5 (current slide)",
+          "type": "button",
+          "href": null,
+          "onclick": null,
+          "id": null,
+          "class_name": "gallery-fullscreen-slideshow-bullet",
+          "is_cta": false
+        },
+        {
+          "text": "Slide 6 Slide 6 (current slide)",
+          "type": "button",
+          "href": null,
+          "onclick": null,
+          "id": null,
+          "class_name": "gallery-fullscreen-slideshow-bullet",
+          "is_cta": false
+        },
+        {
+          "text": "Slide 7 Slide 7 (current slide)",
+          "type": "button",
+          "href": null,
+          "onclick": null,
+          "id": null,
+          "class_name": "gallery-fullscreen-slideshow-bullet",
+          "is_cta": false
+        },
+        {
+          "text": "Slide 8 Slide 8 (current slide)",
+          "type": "button",
+          "href": null,
+          "onclick": null,
+          "id": null,
+          "class_name": "gallery-fullscreen-slideshow-bullet",
+          "is_cta": false
+        },
+        {
+          "text": "Slide 9 Slide 9 (current slide)",
+          "type": "button",
+          "href": null,
+          "onclick": null,
+          "id": null,
+          "class_name": "gallery-fullscreen-slideshow-bullet",
+          "is_cta": false
+        },
+        {
+          "text": "Slide 10 Slide 10 (current slide)",
+          "type": "button",
+          "href": null,
+          "onclick": null,
+          "id": null,
+          "class_name": "gallery-fullscreen-slideshow-bullet",
+          "is_cta": false
+        },
+        {
+          "text": "Slide 11 Slide 11 (current slide)",
+          "type": "button",
+          "href": null,
+          "onclick": null,
+          "id": null,
+          "class_name": "gallery-fullscreen-slideshow-bullet",
+          "is_cta": false
+        },
+        {
+          "text": "Slide 12 Slide 12 (current slide)",
+          "type": "button",
+          "href": null,
+          "onclick": null,
+          "id": null,
+          "class_name": "gallery-fullscreen-slideshow-bullet",
+          "is_cta": false
+        },
+        {
+          "text": "Slide 13 Slide 13 (current slide)",
+          "type": "button",
+          "href": null,
+          "onclick": null,
+          "id": null,
+          "class_name": "gallery-fullscreen-slideshow-bullet",
+          "is_cta": false
+        },
+        {
+          "text": "Slide 14 Slide 14 (current slide)",
+          "type": "button",
+          "href": null,
+          "onclick": null,
+          "id": null,
+          "class_name": "gallery-fullscreen-slideshow-bullet",
+          "is_cta": false
+        },
+        {
+          "text": "Sign Up",
+          "type": "submit",
+          "href": null,
+          "onclick": null,
+          "id": null,
+          "class_name": "newsletter-form-button sqs-system-button sqs-editable-button-layout sqs-editable-button-style sqs-editable-button-shape sqs-button-element--primary",
+          "is_cta": true
+        },
+        {
+          "text": "Skip to Content",
+          "type": "link_cta",
+          "href": "http://sourduckmarket.com/#page",
+          "onclick": null,
+          "id": null,
+          "class_name": "header-skip-link sqs-button-element--primary",
+          "is_cta": true
+        },
+        {
+          "text": "Order Takeout",
+          "type": "link_cta",
+          "href": "https://www.toasttab.com/sour-duck/v3/?mode=fulfillment",
+          "onclick": null,
+          "id": null,
+          "class_name": "btn btn--border theme-btn--primary-inverse sqs-button-element--primary",
+          "is_cta": true
+        },
+        {
+          "text": "Order Takeout",
+          "type": "link_cta",
+          "href": "https://www.toasttab.com/sour-duck/v3#!/",
+          "onclick": null,
+          "id": null,
+          "class_name": "sqs-block-button-element--small sqs-button-element--tertiary sqs-block-button-element",
+          "is_cta": true
+        },
+        {
+          "text": "Cocktails",
+          "type": "link_cta",
+          "href": "https://www.sourduckmarket.com/cocktails",
+          "onclick": null,
+          "id": null,
+          "class_name": "sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element",
+          "is_cta": true
+        },
+        {
+          "text": "Beer, Cider, Wine, & Non-Alcoholic",
+          "type": "link_cta",
+          "href": "https://www.sourduckmarket.com/beer",
+          "onclick": null,
+          "id": null,
+          "class_name": "sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element",
+          "is_cta": true
+        }
+      ],
+      "structured_data": {
+        "json_ld": [
+          {
+            "url": "https://www.sourduckmarket.com",
+            "name": "Sour Duck Market",
+            "image": "//images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/7ef8fb1f-46f5-4dd2-a72e-9e15fe1c616e/sour-duck-logo.png",
+            "@context": "http://schema.org",
+            "@type": "WebSite"
+          },
+          {
+            "image": "https://static1.squarespace.com/static/60f2fce46385b311d9476316/t/60f2fd71a8f65e35b6d5349b/1767559143103/",
+            "openingHours": "",
+            "@context": "http://schema.org",
+            "@type": "LocalBusiness"
+          }
+        ],
+        "opengraph": {},
+        "microdata": []
+      },
+      "screenshot_path": null,
+      "raw_markdown_path": null,
+      "is_success": true,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "url": "http://sourduckmarket.com/wholesale",
+      "path": "/wholesale",
+      "title": "Wholesale Partners — Sour Duck Market",
+      "status_code": 200,
+      "crawled_at": "2026-08-24T14:28:03.911135+00:00",
+      "duration_ms": 205.83,
+      "content": {
+        "markdown": "# Wholesale Partners\n\n#### If you’re not in our neighborhood, check out some of Austin’s finest serving up *Sour Duck*:\n\nAfuga Coffee\n\nCentro\n\nCivil Goat Coffee - Guadalupe\n\nCivil Goat - Manor\n\nCivil Goat - 6th\n\nCreature Coffee\n\nFigure 8 Coffee Purveyors - Airport\n\nFigure 8 Coffee Purveyors - Chicon\n\nFlat Track Coffee\n\nFlitch Coffee\n\nCommunity Garden\n\nHoundstooth Coffee - Ed Bluestein\n\nHoundstooth Coffee - Frost\n\nHoundstooth Coffee - Lamar\n\nHoundstooth Coffee- MLK\n\nIdlewild Coffee\n\nPalomino\n\nPalomino Coffee - Airport\n\nRadio - Menchaca\n\nRadio - Rosewood\n\nRadio - East\n\nSpokesman Coffee - St Elmo\n\nSpokesman - Highland\n\nTalisman Coffee Company\n\nTalisman - South\n\nTwo Hands\n\nCape Bottle Room\n\n68 Degrees Kitchen\n\nThe Austin Winery\n\nBirdie’s\n\nCentral District Brewing\n\nEste / Bar Toti\n\nFish Shop\n\nGoogle\n\nThe Eddy\n\nRocco’s\n\nLoLo\n\nUchi\n\nOnly The Wild Ones\n\nArrival Logistics\n\nRoughhouse Brewing\n\nSmall Victory\n\nMerfolk’s Specialty Coffee\n\nLa Traviata\n\nOne Hotel\n\nStrangelove Coffee & Wine\n\nPrana Cafe\n\nPraxis Coffee Roasters\n\nMañana\n\nRoyal Blue Grocery - All Locations\n\nBlackbird Grocery - Spyglass\n\n[Image: PastryBTS-SD_E0A5882.jpg]\n\n---\n\n#### Please email wholesale@sourduckaustin.com for any inquiries.\n\nNaturally leavened hearth bread, enriched buns, flaky croissants, and chewy cookies all made with freshly milled local flour from [Barton Springs Mill](https://bartonspringsmill.com/).",
+        "plain_text": "0 Skip to Content Menu & Hours Happy Hour Gift Cards Large Parties About Wholesale Partners FAQs Parking Order Takeout Open Menu Close Menu Open Menu Close Menu Menu & Hours Happy Hour Gift Cards Large Parties About Wholesale Partners FAQs Parking Order Takeout Menu & Hours Happy Hour Gift Cards Large Parties About Wholesale Partners FAQs Parking Order Takeout Wholesale Partners If you’re not in our neighborhood, check out some of Austin’s finest serving up Sour Duck : Afuga Coffee Centro Civil Goat Coffee - Guadalupe Civil Goat - Manor Civil Goat - 6th Creature Coffee Figure 8 Coffee Purveyors - Airport Figure 8 Coffee Purveyors - Chicon Flat Track Coffee Flitch Coffee Community Garden Houndstooth Coffee - Ed Bluestein Houndstooth Coffee - Frost Houndstooth Coffee - Lamar Houndstooth Coffee- MLK Idlewild Coffee Palomino Palomino Coffee - Airport Radio - Menchaca Radio - Rosewood Radio - East Spokesman Coffee - St Elmo Spokesman - Highland Talisman Coffee Company Talisman - South Two Hands Cape Bottle Room 68 Degrees Kitchen The Austin Winery Birdie’s Central District Brewing Este / Bar Toti Fish Shop Google The Eddy Rocco’s LoLo Uchi Only The Wild Ones Arrival Logistics Roughhouse Brewing Small Victory Merfolk’s Specialty Coffee La Traviata One Hotel Strangelove Coffee & Wine Prana Cafe Praxis Coffee Roasters Mañana Royal Blue Grocery - All Locations Blackbird Grocery - Spyglass Please email wholesale@sourduckaustin.com for any inquiries. Naturally leavened hearth bread, enriched buns, flaky croissants, and chewy cookies all made with freshly milled local flour from Barton Springs Mill . FAQs Sour Duck Market 1814 E Martin Luther King Jr Blvd Austin, TX 78702 info@sourduckaustin.com (512) 394-5776 Click here for donation requests Sister Restaurants Odd Duck Barley Swine Site updated 2021 © Sour Duck Market Photographs courtesy of Richard Casteel Illustrations courtesy of Brock Caron",
+        "word_count": 300,
+        "character_count": 1916,
+        "excerpt": "0 Skip to Content Menu & Hours Happy Hour Gift Cards Large Parties About Wholesale Partners FAQs Parking Order Takeout Open Menu Close Menu Open Menu Close Menu Menu & Hours Happy Hour Gift Cards Large Parties About Wholesale Partners FAQs Parking Or..."
+      },
+      "headings": [
+        {
+          "level": 1,
+          "text": "Wholesale Partners",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "If you’re not in our neighborhood, check out some of Austin’s finest serving up Sour Duck:",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Please email wholesale@sourduckaustin.com for any inquiries.",
+          "id": null
+        }
+      ],
+      "links": [
+        {
+          "url": "http://sourduckmarket.com/cart",
+          "text": "0",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "http://sourduckmarket.com/",
+          "text": "Menu & Hours",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.sourduckmarket.com/#happyhour",
+          "text": "Happy Hour",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.toasttab.com/sour-duck/giftcards",
+          "text": "Gift Cards",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://sourduckmarket.com/parties",
+          "text": "Large Parties",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "http://sourduckmarket.com/about",
+          "text": "About",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "http://sourduckmarket.com/wholesale",
+          "text": "Wholesale Partners",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "http://sourduckmarket.com/faqs",
+          "text": "FAQs",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "http://sourduckmarket.com/parking",
+          "text": "Parking",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "http://sourduckmarket.com/",
+          "text": "Sour Duck Market",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.instagram.com/sourduckmarket/",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.facebook.com/sourduckmarket/",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://twitter.com/SourDuckMarket",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.toasttab.com/sour-duck/v3/?mode=fulfillment",
+          "text": "Order Takeout",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://bartonspringsmill.com/",
+          "text": "Barton Springs Mill",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://wck.org/chef-corps",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://goo.gl/maps/izZWb1eGtP8TTSsj7",
+          "text": "1814 E Martin Luther King Jr BlvdAustin, TX 78702",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "mailto:info@sourduckaustin.com",
+          "text": "info@sourduckaustin.com",
+          "title": "Email: info@sourduckaustin.com",
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "tel:+15123945776",
+          "text": "(512) 394-5776",
+          "title": "Phone: +15123945776",
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://airtable.com/appICpRgFPtN6WNF3/pagFwchc2KZv5yoXT/form",
+          "text": "Click here for donation requests",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://oddduckaustin.com",
+          "text": "Odd Duck",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://barleyswine.com/",
+          "text": "Barley Swine",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://dandeliongatherings.com/",
+          "text": "Richard Casteel",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://www.brockcaronart.com/news/tag/art",
+          "text": "Brock Caron",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        }
+      ],
+      "images": [
+        {
+          "url": "http://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/7ef8fb1f-46f5-4dd2-a72e-9e15fe1c616e/sour-duck-logo.png?format=1500w",
+          "alt": "Sour Duck Market",
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": "eager",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/4a0ea09a-9419-4ce3-867e-e0f54c5de26c/sour_duck-pattern-blue.png",
+          "alt": null,
+          "title": null,
+          "width": 2199,
+          "height": 1660,
+          "loading": "eager",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/1626580633151-XHOJBTVYCBDHFRRJ9QC0/PastryBTS-SD_E0A5882.jpg",
+          "alt": "PastryBTS-SD_E0A5882.jpg",
+          "title": null,
+          "width": 2489,
+          "height": 1591,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/d6e000db-9f11-445a-8a55-cd6ed042ace5/d92f51c45a52ec128538176fc3286b9c-original-cc_530x230_1.png",
+          "alt": null,
+          "title": null,
+          "width": 230,
+          "height": 230,
+          "loading": "lazy",
+          "local_path": null
+        }
+      ],
+      "metadata": {
+        "title": "Wholesale Partners — Sour Duck Market",
+        "description": null,
+        "keywords": [],
+        "canonical": "https://www.sourduckmarket.com/wholesale",
+        "language": "en-US",
+        "charset": "utf-8",
+        "viewport": "width=device-width, initial-scale=1",
+        "author": null,
+        "robots": null,
+        "og_tags": {
+          "og:site_name": "Sour Duck Market",
+          "og:title": "Wholesale Partners — Sour Duck Market",
+          "og:url": "https://www.sourduckmarket.com/wholesale",
+          "og:type": "website"
+        },
+        "twitter_tags": {
+          "twitter:title": "Wholesale Partners — Sour Duck Market",
+          "twitter:url": "https://www.sourduckmarket.com/wholesale",
+          "twitter:card": "summary"
+        },
+        "favicon": "https://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/80e7ae01-386c-4d5d-8ec4-d33ad6d205fa/favicon.ico?format=100w",
+        "other_meta": {}
+      },
+      "forms": [],
+      "buttons": [
+        {
+          "text": "Open Menu Close Menu",
+          "type": "button",
+          "href": null,
+          "onclick": null,
+          "id": null,
+          "class_name": "header-burger-btn burger",
+          "is_cta": true
+        },
+        {
+          "text": "Skip to Content",
+          "type": "link_cta",
+          "href": "http://sourduckmarket.com/wholesale#page",
+          "onclick": null,
+          "id": null,
+          "class_name": "header-skip-link sqs-button-element--primary",
+          "is_cta": true
+        },
+        {
+          "text": "Order Takeout",
+          "type": "link_cta",
+          "href": "https://www.toasttab.com/sour-duck/v3/?mode=fulfillment",
+          "onclick": null,
+          "id": null,
+          "class_name": "btn btn--border theme-btn--primary-inverse sqs-button-element--primary",
+          "is_cta": true
+        }
+      ],
+      "structured_data": {
+        "json_ld": [
+          {
+            "url": "https://www.sourduckmarket.com",
+            "name": "Sour Duck Market",
+            "image": "//images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/7ef8fb1f-46f5-4dd2-a72e-9e15fe1c616e/sour-duck-logo.png",
+            "@context": "http://schema.org",
+            "@type": "WebSite"
+          },
+          {
+            "image": "https://static1.squarespace.com/static/60f2fce46385b311d9476316/t/60f2fd71a8f65e35b6d5349b/1767559143103/",
+            "openingHours": "",
+            "@context": "http://schema.org",
+            "@type": "LocalBusiness"
+          }
+        ],
+        "opengraph": {},
+        "microdata": []
+      },
+      "screenshot_path": null,
+      "raw_markdown_path": null,
+      "is_success": true,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "url": "http://sourduckmarket.com/about",
+      "path": "/about",
+      "title": "About — Sour Duck Market",
+      "status_code": 200,
+      "crawled_at": "2026-08-24T14:28:04.150202+00:00",
+      "duration_ms": 237.78,
+      "content": {
+        "markdown": "# About\n\nThe food and drink at Sour Duck Market are inspired by local farmers and purveyors. Meats are smoked daily in a 1,000-gallon pit smoker, the flour for baked goods is milled locally and cocktails are made with the freshest juice and product. We believe in showing true craftsmanship in cooking by serving good, local food, made the way nature intended—from scratch.\n\n“Opened in 2018, Sour Duck Market was born out of a need for growth for the [Odd Duck](https://oddduckaustin.com) and [Barley Swine](https://barleyswine.com) team. While in the utilitarian sense, it essentially serves as a mega-large commissary kitchen serving its sibling counterparts, it’s housed in an inviting and beautiful restaurant. This allows everyone to dive deeper into all the programs they have in-house: bread, smoked meats, cocktails.” —Nadia Chaudhury, [Eater Austin](https://austin.eater.com/2018/5/9/17332012/sour-duck-market-open-photos-bryce-gilmore-austin-restaurant)\n\n## Our Team\n\n**Driana Elise,** General Manager\n\n**Max Piotrzkowski,** Bar Manager\n\n**Samantha Miller,** Barista Manager\n\n**Zechariah Perez,** Culinary Director\n\n**Brian Cortes**, Chef de Cuisine\n\n**Devon Emory,** Sous Chef\n\n**Andy Elias,** Junior Sous Chef\n\n**Bryce Parrish,** Junior Sous Chef\n\n**Jazmyne Ortiz**, Bakery Manager\n\n**Stuti Gupta**, Assistant Bakery Manager\n\n**Lina Tran**, Assistant Bakery Manager\n\n[Image: _E0A3520 (1).jpg]\n\n---\n\n[Image: Fresh veggie table spread from one of our weekend Farmer’s Markets in the Yard.]\n\nFresh veggie table spread from one of our weekend Farmer’s Markets in the Yard.\n\n## Farmer Friends & Local Producers\n\nSour Duck Market is a place to celebrate the love of food and drink. Gather with friends and family for a dinner driven by the hospitality and passion of our staff. We take pride in our values and hope to continue to grow and support the local food community.\n\n### Pantry\n\n[Vital Farms](https://vitalfarms.com/)\n\n[San Saba Pecan Co.](http://www.sansabapecan.com/)\n\n[Honey Doe Farm & Creamery](http://www.honeydoefarm.com/)\n\n[Barton Springs Mill](https://bartonspringsmill.com/)\n\n[Good Flow Honey](http://www.goodflowhoney.com/)\n\n[Texas Olive Ranch](http://texasoliveranch.com/)\n\n[Homestead Gristmill](http://www.homesteadgristmill.com/)\n\n[Mill-King Market & Creamery](http://www.mill-kingmarket.com/)\n\n[Houston Dairymaids](http://www.houstondairymaids.com/)\n\n[Antonelli's Cheese Shop](http://www.antonellischeese.com/)\n\n---\n\n### Animal\n\n[Ranger Cattle](https://www.rangercattle.com/)\n\n[K & S Seafood](https://www.facebook.com/kandsseafood/)\n\n[Richardson Farm](http://www.richardsonfarms.com/)\n\n[Windy Hill Farm](http://www.windyhillorganics.com/)\n\n[44 Farms](https://shop.44farms.com/?gclid=CjwKCAjwq4fsBRBnEiwANTahcJ0W4i1bLQyXlNrr2FMjzmikC3My3NlEOq-g4qIbZVRPENjv4j6I4BoCueYQAvD_BwE)\n\n---\n\n### Eggs\n\n[LaBranza Farm](https://www.facebook.com/LabranzaFarm/)\n\n[Happy Chick Farm](https://www.facebook.com/happychickfarms/)\n\n[Milagro Farm](https://www.facebook.com/pages/Milagro-Farm/153090871422711)\n\n[Munkebo Farm](http://www.munkebofarm.com/)\n\n---\n\n### Veggies\n\n[Indian Hills Farm](https://indianhillsfarmtx.com/)\n\n[La Flaca](https://www.laflacaatx.com/)\n\n[Caskey Orchards](http://www.caskeyorchards.com/)\n\n[Free Fleeing Farms](https://www.freefleeingfarms.com/)\n\n[Engel Farms](http://engelfarmstx.com/)\n\n[Farm To Table](http://www.farmtotabletx.com/)\n\n[Good Vibes Urban Farm](https://oddduckaustin.com/Add%20a%20link)\n\n[Gray Gardens Farm](http://www.graygardensbuda.com/)\n\n[River's End Nursery](https://www.riversendnursery.com/)\n\n[Boggy Creek Farm](https://www.boggycreekfarm.com/)\n\n[B5 Farm](https://www.facebook.com/B5Farm/)\n\n[Texas Food Ranch](http://www.honeysucklenaturals.com/)\n\n[Urban Roots](http://www.urbanrootsatx.org/)\n\n[Eden East Farm](http://www.springdalefarmaustin.com/)\n\n[Hat and Heart Farms](https://sites.google.com/a/austincsafarm.com/ottmers-family-csa-farm/home)\n\n[Fruitful Hill Farm](http://www.fruitfulhillfarm.com/)\n\n[Springfield Farms](http://www.realtimefarms.com/farm/7323002/springfield-farm1)\n\n[Two Happy Children](http://www.twohappychildrenfarm.com/)\n\n[Hillside Farm](http://www.yelp.com/biz/hillside-farm-austin)\n\n[Animal Farm](http://www.animalfarmcenter.com/index.php)\n\n[Bluebonnet Hydroponics Farm](http://www.bblettuce.com/)\n\n[Bella Verdi Farm](http://www.bellaverdifarms.com/)\n\n[Saga Farms](http://www.hairstoncreekfarm.com/)\n\n[G&S Groves](http://www.gandsgroves.com/metadot/index.pl)\n\n[Gundermann Acres](http://gundermannacres.com/)\n\n[Oak Hill Farms](http://oakhillproduce.com/)\n\n[Comanche Oaks](http://www.comancheoaks.com/)\n\n[Lightsey Farms](http://www.lightseyfarms.com/)\n\n[Kitchen Pride](http://www.kitchenpride.com/)\n\n---",
+        "plain_text": "0 Skip to Content Menu & Hours Happy Hour Gift Cards Large Parties About Wholesale Partners FAQs Parking Order Takeout Open Menu Close Menu Open Menu Close Menu Menu & Hours Happy Hour Gift Cards Large Parties About Wholesale Partners FAQs Parking Order Takeout Menu & Hours Happy Hour Gift Cards Large Parties About Wholesale Partners FAQs Parking Order Takeout About The food and drink at Sour Duck Market are inspired by local farmers and purveyors. Meats are smoked daily in a 1,000-gallon pit smoker, the flour for baked goods is milled locally and cocktails are made with the freshest juice and product. We believe in showing true craftsmanship in cooking by serving good, local food, made the way nature intended—from scratch. “Opened in 2018, Sour Duck Market was born out of a need for growth for the Odd Duck and Barley Swine team. While in the utilitarian sense, it essentially serves as a mega-large commissary kitchen serving its sibling counterparts, it’s housed in an inviting and beautiful restaurant. This allows everyone to dive deeper into all the programs they have in-house: bread, smoked meats, cocktails.” —Nadia Chaudhury, Eater Austin Our Team Driana Elise, General Manager Max Piotrzkowski, Bar Manager Samantha Miller, Barista Manager Zechariah Perez, Culinary Director Brian Cortes , Chef de Cuisine Devon Emory, Sous Chef Andy Elias, Junior Sous Chef Bryce Parrish, Junior Sous Chef Jazmyne Ortiz , Bakery Manager Stuti Gupta , Assistant Bakery Manager Lina Tran , Assistant Bakery Manager Fresh veggie table spread from one of our weekend Farmer’s Markets in the Yard. Farmer Friends & Local Producers Sour Duck Market is a place to celebrate the love of food and drink. Gather with friends and family for a dinner driven by the hospitality and passion of our staff. We take pride in our values and hope to continue to grow and support the local food community. Pantry Vital Farms San Saba Pecan Co. Honey Doe Farm & Creamery Barton Springs Mill Good Flow Honey Texas Olive Ranch Homestead Gristmill Mill-King Market & Creamery Houston Dairymaids Antonelli's Cheese Shop Animal Ranger Cattle K & S Seafood Richardson Farm Windy Hill Farm 44 Farms Eggs LaBranza Farm Happy Chick Farm Milagro Farm Munkebo Farm Veggies Indian Hills Farm La Flaca Caskey Orchards Free Fleeing Farms Engel Farms Farm To Table Good Vibes Urban Farm Gray Gardens Farm River's End Nursery Boggy Creek Farm B5 Farm Texas Food Ranch Urban Roots Eden East Farm Hat and Heart Farms Fruitful Hill Farm Springfield Farms Two Happy Children Hillside Farm Animal Farm Bluebonnet Hydroponics Farm Bella Verdi Farm Saga Farms G&S Groves Gundermann Acres Oak Hill Farms Comanche Oaks Lightsey Farms Kitchen Pride FAQs Sour Duck Market 1814 E Martin Luther King Jr Blvd Austin, TX 78702 info@sourduckaustin.com (512) 394-5776 Click here for donation requests Sister Restaurants Odd Duck Barley Swine Site updated 2021 © Sour Duck Market Photographs courtesy of Richard Casteel Illustrations courtesy of Brock Caron",
+        "word_count": 490,
+        "character_count": 3008,
+        "excerpt": "0 Skip to Content Menu & Hours Happy Hour Gift Cards Large Parties About Wholesale Partners FAQs Parking Order Takeout Open Menu Close Menu Open Menu Close Menu Menu & Hours Happy Hour Gift Cards Large Parties About Wholesale Partners FAQs Parking Or..."
+      },
+      "headings": [
+        {
+          "level": 1,
+          "text": "About",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Our Team",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Farmer Friends & Local Producers",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "Pantry",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "Animal",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "Eggs",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "Veggies",
+          "id": null
+        }
+      ],
+      "links": [
+        {
+          "url": "http://sourduckmarket.com/cart",
+          "text": "0",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "http://sourduckmarket.com/",
+          "text": "Menu & Hours",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.sourduckmarket.com/#happyhour",
+          "text": "Happy Hour",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.toasttab.com/sour-duck/giftcards",
+          "text": "Gift Cards",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://sourduckmarket.com/parties",
+          "text": "Large Parties",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "http://sourduckmarket.com/about",
+          "text": "About",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "http://sourduckmarket.com/wholesale",
+          "text": "Wholesale Partners",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "http://sourduckmarket.com/faqs",
+          "text": "FAQs",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "http://sourduckmarket.com/parking",
+          "text": "Parking",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "http://sourduckmarket.com/",
+          "text": "Sour Duck Market",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.instagram.com/sourduckmarket/",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.facebook.com/sourduckmarket/",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://twitter.com/SourDuckMarket",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.toasttab.com/sour-duck/v3/?mode=fulfillment",
+          "text": "Order Takeout",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://oddduckaustin.com",
+          "text": "Odd Duck",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://barleyswine.com",
+          "text": "Barley Swine",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://austin.eater.com/2018/5/9/17332012/sour-duck-market-open-photos-bryce-gilmore-austin-restaurant",
+          "text": "Eater Austin",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://vitalfarms.com/",
+          "text": "Vital Farms",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://www.sansabapecan.com/",
+          "text": "San Saba Pecan Co.",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://www.honeydoefarm.com/",
+          "text": "Honey Doe Farm & Creamery",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://bartonspringsmill.com/",
+          "text": "Barton Springs Mill",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://www.goodflowhoney.com/",
+          "text": "Good Flow Honey",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://texasoliveranch.com/",
+          "text": "Texas Olive Ranch",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://www.homesteadgristmill.com/",
+          "text": "Homestead Gristmill",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://www.mill-kingmarket.com/",
+          "text": "Mill-King Market & Creamery",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://www.houstondairymaids.com/",
+          "text": "Houston Dairymaids",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://www.antonellischeese.com/",
+          "text": "Antonelli's Cheese Shop",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.rangercattle.com/",
+          "text": "Ranger Cattle",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.facebook.com/kandsseafood/",
+          "text": "K & S Seafood",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://www.richardsonfarms.com/",
+          "text": "Richardson Farm",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://www.windyhillorganics.com/",
+          "text": "Windy Hill Farm",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://shop.44farms.com/?gclid=CjwKCAjwq4fsBRBnEiwANTahcJ0W4i1bLQyXlNrr2FMjzmikC3My3NlEOq-g4qIbZVRPENjv4j6I4BoCueYQAvD_BwE",
+          "text": "44 Farms",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.facebook.com/LabranzaFarm/",
+          "text": "LaBranza Farm",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.facebook.com/happychickfarms/",
+          "text": "Happy Chick Farm",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.facebook.com/pages/Milagro-Farm/153090871422711",
+          "text": "Milagro Farm",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://www.munkebofarm.com/",
+          "text": "Munkebo Farm",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://indianhillsfarmtx.com/",
+          "text": "Indian Hills Farm",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.laflacaatx.com/",
+          "text": "La Flaca",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://www.caskeyorchards.com/",
+          "text": "Caskey Orchards",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.freefleeingfarms.com/",
+          "text": "Free Fleeing Farms",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://engelfarmstx.com/",
+          "text": "Engel Farms",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://www.farmtotabletx.com/",
+          "text": "Farm To Table",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://oddduckaustin.com/Add%20a%20link",
+          "text": "Good Vibes Urban Farm",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://www.graygardensbuda.com/",
+          "text": "Gray Gardens Farm",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.riversendnursery.com/",
+          "text": "River's End Nursery",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.boggycreekfarm.com/",
+          "text": "Boggy Creek Farm",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.facebook.com/B5Farm/",
+          "text": "B5 Farm",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://www.honeysucklenaturals.com/",
+          "text": "Texas Food Ranch",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://www.urbanrootsatx.org/",
+          "text": "Urban Roots",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://www.springdalefarmaustin.com/",
+          "text": "Eden East Farm",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://sites.google.com/a/austincsafarm.com/ottmers-family-csa-farm/home",
+          "text": "Hat and Heart Farms",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://www.fruitfulhillfarm.com/",
+          "text": "Fruitful Hill Farm",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://www.realtimefarms.com/farm/7323002/springfield-farm1",
+          "text": "Springfield Farms",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://www.twohappychildrenfarm.com/",
+          "text": "Two Happy Children",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://www.yelp.com/biz/hillside-farm-austin",
+          "text": "Hillside Farm",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://www.animalfarmcenter.com/index.php",
+          "text": "Animal Farm",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://www.bblettuce.com/",
+          "text": "Bluebonnet Hydroponics Farm",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://www.bellaverdifarms.com/",
+          "text": "Bella Verdi Farm",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://www.hairstoncreekfarm.com/",
+          "text": "Saga Farms",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://www.gandsgroves.com/metadot/index.pl",
+          "text": "G&S Groves",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://gundermannacres.com/",
+          "text": "Gundermann Acres",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://oakhillproduce.com/",
+          "text": "Oak Hill Farms",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://www.comancheoaks.com/",
+          "text": "Comanche Oaks",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://www.lightseyfarms.com/",
+          "text": "Lightsey Farms",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://www.kitchenpride.com/",
+          "text": "Kitchen Pride",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://wck.org/chef-corps",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://goo.gl/maps/izZWb1eGtP8TTSsj7",
+          "text": "1814 E Martin Luther King Jr BlvdAustin, TX 78702",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "mailto:info@sourduckaustin.com",
+          "text": "info@sourduckaustin.com",
+          "title": "Email: info@sourduckaustin.com",
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "tel:+15123945776",
+          "text": "(512) 394-5776",
+          "title": "Phone: +15123945776",
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://airtable.com/appICpRgFPtN6WNF3/pagFwchc2KZv5yoXT/form",
+          "text": "Click here for donation requests",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://barleyswine.com/",
+          "text": "Barley Swine",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://dandeliongatherings.com/",
+          "text": "Richard Casteel",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://www.brockcaronart.com/news/tag/art",
+          "text": "Brock Caron",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        }
+      ],
+      "images": [
+        {
+          "url": "http://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/7ef8fb1f-46f5-4dd2-a72e-9e15fe1c616e/sour-duck-logo.png?format=1500w",
+          "alt": "Sour Duck Market",
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": "eager",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/4a0ea09a-9419-4ce3-867e-e0f54c5de26c/sour_duck-pattern-blue.png",
+          "alt": null,
+          "title": null,
+          "width": 2199,
+          "height": 1660,
+          "loading": "eager",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/795769be-c943-4963-9523-24e70a4ddc92/CE4A9192.jpg",
+          "alt": null,
+          "title": null,
+          "width": 3000,
+          "height": 2000,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/1626576687949-KVVP4GZL04NCV1UHWDNF/_E0A3520+%281%29.jpg",
+          "alt": "_E0A3520 (1).jpg",
+          "title": null,
+          "width": 2490,
+          "height": 1660,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/1626577507279-4WOM3FZBTLMG8C98QG0C/IMG_9222.jpg",
+          "alt": "Fresh veggie table spread from one of our weekend Farmer’s Markets in the Yard.",
+          "title": null,
+          "width": 2951,
+          "height": 1660,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/d6e000db-9f11-445a-8a55-cd6ed042ace5/d92f51c45a52ec128538176fc3286b9c-original-cc_530x230_1.png",
+          "alt": null,
+          "title": null,
+          "width": 230,
+          "height": 230,
+          "loading": "lazy",
+          "local_path": null
+        }
+      ],
+      "metadata": {
+        "title": "About — Sour Duck Market",
+        "description": null,
+        "keywords": [],
+        "canonical": "https://www.sourduckmarket.com/about",
+        "language": "en-US",
+        "charset": "utf-8",
+        "viewport": "width=device-width, initial-scale=1",
+        "author": null,
+        "robots": null,
+        "og_tags": {
+          "og:site_name": "Sour Duck Market",
+          "og:title": "About — Sour Duck Market",
+          "og:url": "https://www.sourduckmarket.com/about",
+          "og:type": "website"
+        },
+        "twitter_tags": {
+          "twitter:title": "About — Sour Duck Market",
+          "twitter:url": "https://www.sourduckmarket.com/about",
+          "twitter:card": "summary"
+        },
+        "favicon": "https://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/80e7ae01-386c-4d5d-8ec4-d33ad6d205fa/favicon.ico?format=100w",
+        "other_meta": {}
+      },
+      "forms": [],
+      "buttons": [
+        {
+          "text": "Open Menu Close Menu",
+          "type": "button",
+          "href": null,
+          "onclick": null,
+          "id": null,
+          "class_name": "header-burger-btn burger",
+          "is_cta": true
+        },
+        {
+          "text": "Skip to Content",
+          "type": "link_cta",
+          "href": "http://sourduckmarket.com/about#page",
+          "onclick": null,
+          "id": null,
+          "class_name": "header-skip-link sqs-button-element--primary",
+          "is_cta": true
+        },
+        {
+          "text": "Order Takeout",
+          "type": "link_cta",
+          "href": "https://www.toasttab.com/sour-duck/v3/?mode=fulfillment",
+          "onclick": null,
+          "id": null,
+          "class_name": "btn btn--border theme-btn--primary-inverse sqs-button-element--primary",
+          "is_cta": true
+        }
+      ],
+      "structured_data": {
+        "json_ld": [
+          {
+            "url": "https://www.sourduckmarket.com",
+            "name": "Sour Duck Market",
+            "image": "//images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/7ef8fb1f-46f5-4dd2-a72e-9e15fe1c616e/sour-duck-logo.png",
+            "@context": "http://schema.org",
+            "@type": "WebSite"
+          },
+          {
+            "image": "https://static1.squarespace.com/static/60f2fce46385b311d9476316/t/60f2fd71a8f65e35b6d5349b/1767559143103/",
+            "openingHours": "",
+            "@context": "http://schema.org",
+            "@type": "LocalBusiness"
+          }
+        ],
+        "opengraph": {},
+        "microdata": []
+      },
+      "screenshot_path": null,
+      "raw_markdown_path": null,
+      "is_success": true,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "url": "http://sourduckmarket.com/faqs",
+      "path": "/faqs",
+      "title": "FAQs — Sour Duck Market",
+      "status_code": 200,
+      "crawled_at": "2026-08-24T14:28:04.414445+00:00",
+      "duration_ms": 263.15,
+      "content": {
+        "markdown": "## Frequently Asked Questions\n\n#### How does this all work?\n\nYou can seat yourself anywhere you want! We have tables in our backyard as well as seats in our cafe, tables in our front yard, tables in our bar building, and full service available at the bar top. Anywhere you sit, there will be a QR code through which you can access our full menu and pay for your tab. **It is important that you scan the specific QR code where you sit so that we know where to find you.** If you decide to move elsewhere, please close your current tab and alert a member of the staff. You will need to scan the new QR code where you move to if you would like to continue ordering.\n\n---\n\n#### I forgot to close out my tab! What do I do?\n\nNothing to worry about; we will take care of it for you! Just please keep in mind that **all tabs left unclosed will receive a 20% service charge before closing.**\n\n---\n\n#### Do you take reservations?\n\nOur tables are first come, first served (most of the time). We have a huge space, so you shouldn’t have a hard time finding tables for almost any party size.\n\nKeep in mind, we do have a host stand on busy shifts.\n\n---\n\n#### Do you take cash?\n\nOf course! You can either remember your table number and order from the cafe counter or pre-authorize a credit card to order through the QR codes and close out with cash at the counter or bar.\n\n---\n\n#### Are you dog friendly?\n\nTotally! We just have some house rules for you and your fur babies to observe:\n\n* All dogs must be leashed at all times.\n\n* If you are sitting in the indoor cafe, we ask that you not have animals with you except for service animals, but the bar and yard are totally cool!\n* Pets are expected to not disrupt any other guests’ experience so if they are barking, we may ask that you take them to the front area where there will be less people around.\n\n---\n\n#### Do you offer to-go orders?\n\nYes! You can order by clicking this [**link**](https://www.toasttab.com/sour-duck/v2/online-order#!/) and if you want delivery you can select the ‘delivery’ option which will set up your order to be delivered by Uber Eats or Doordash. We also have a limited menu available on the Doordash or Uber Eats apps.\n\n#### Are you kid friendly?\n\nOf course! That said, we have a few house rules for your kiddos:\n\n* **Kids must be supervised by adults at all times.**\n* We have a chalkboard trailer for the young ones to play in, but if they’re there, just make sure they have an adult in there with them.\n* We ask that kiddos not play in any other areas of the restaurant including in the pebble yard.\n* **Absolutely no rock throwing.**\n* **No running through the yard.**\n\n---\n\n#### Do you have a full bar?\n\nWe sure do and a great one at that! You can view our house cocktails [here](/cocktails) and our beer/cider/wine/non-alcoholic list is available [here](/beer).\n\n---\n\n#### Do you offer vegetarian, vegan, and gluten-free options?\n\nYes, but please keep in mind we are a bakery and flour is always among us so if cross-contamination to gluten is a concern for you, we cannot make any guarantees that anything we serve will be totally safe for you to eat.\n\n---\n\n#### I have more questions!\n\nWe’re here to help! Direct all other inquiries to our management team via email: **info@sourduckaustin.com**\n\n---",
+        "plain_text": "0 Skip to Content Menu & Hours Happy Hour Gift Cards Large Parties About Wholesale Partners FAQs Parking Order Takeout Open Menu Close Menu Open Menu Close Menu Menu & Hours Happy Hour Gift Cards Large Parties About Wholesale Partners FAQs Parking Order Takeout Menu & Hours Happy Hour Gift Cards Large Parties About Wholesale Partners FAQs Parking Order Takeout Frequently Asked Questions How does this all work? You can seat yourself anywhere you want! We have tables in our backyard as well as seats in our cafe, tables in our front yard, tables in our bar building, and full service available at the bar top. Anywhere you sit, there will be a QR code through which you can access our full menu and pay for your tab. It is important that you scan the specific QR code where you sit so that we know where to find you. If you decide to move elsewhere, please close your current tab and alert a member of the staff. You will need to scan the new QR code where you move to if you would like to continue ordering. I forgot to close out my tab! What do I do? Nothing to worry about; we will take care of it for you! Just please keep in mind that all tabs left unclosed will receive a 20% service charge before closing. Do you take reservations? Our tables are first come, first served (most of the time). We have a huge space, so you shouldn’t have a hard time finding tables for almost any party size. Keep in mind, we do have a host stand on busy shifts. Do you take cash? Of course! You can either remember your table number and order from the cafe counter or pre-authorize a credit card to order through the QR codes and close out with cash at the counter or bar. Are you dog friendly? Totally! We just have some house rules for you and your fur babies to observe: All dogs must be leashed at all times. If you are sitting in the indoor cafe, we ask that you not have animals with you except for service animals, but the bar and yard are totally cool! Pets are expected to not disrupt any other guests’ experience so if they are barking, we may ask that you take them to the front area where there will be less people around. Do you offer to-go orders? Yes! You can order by clicking this link and if you want delivery you can select the ‘delivery’ option which will set up your order to be delivered by Uber Eats or Doordash. We also have a limited menu available on the Doordash or Uber Eats apps. Are you kid friendly? Of course! That said, we have a few house rules for your kiddos: Kids must be supervised by adults at all times. We have a chalkboard trailer for the young ones to play in, but if they’re there, just make sure they have an adult in there with them. We ask that kiddos not play in any other areas of the restaurant including in the pebble yard. Absolutely no rock throwing. No running through the yard. Do you have a full bar? We sure do and a great one at that! You can view our house cocktails here and our beer/cider/wine/non-alcoholic list is available here . Do you offer vegetarian, vegan, and gluten-free options? Yes, but please keep in mind we are a bakery and flour is always among us so if cross-contamination to gluten is a concern for you, we cannot make any guarantees that anything we serve will be totally safe for you to eat. I have more questions! We’re here to help! Direct all other inquiries to our management team via email: info@sourduckaustin.com FAQs Sour Duck Market 1814 E Martin Luther King Jr Blvd Austin, TX 78702 info@sourduckaustin.com (512) 394-5776 Click here for donation requests Sister Restaurants Odd Duck Barley Swine Site updated 2021 © Sour Duck Market Photographs courtesy of Richard Casteel Illustrations courtesy of Brock Caron",
+        "word_count": 680,
+        "character_count": 3693,
+        "excerpt": "0 Skip to Content Menu & Hours Happy Hour Gift Cards Large Parties About Wholesale Partners FAQs Parking Order Takeout Open Menu Close Menu Open Menu Close Menu Menu & Hours Happy Hour Gift Cards Large Parties About Wholesale Partners FAQs Parking Or..."
+      },
+      "headings": [
+        {
+          "level": 2,
+          "text": "Frequently Asked Questions",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "How does this all work?",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "I forgot to close out my tab! What do I do?",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Do you take reservations?",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Do you take cash?",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Are you dog friendly?",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Do you offer to-go orders?",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Are you kid friendly?",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Do you have a full bar?",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Do you offer vegetarian, vegan, and gluten-free options?",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "I have more questions!",
+          "id": null
+        }
+      ],
+      "links": [
+        {
+          "url": "http://sourduckmarket.com/cart",
+          "text": "0",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "http://sourduckmarket.com/",
+          "text": "Menu & Hours",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.sourduckmarket.com/#happyhour",
+          "text": "Happy Hour",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.toasttab.com/sour-duck/giftcards",
+          "text": "Gift Cards",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://sourduckmarket.com/parties",
+          "text": "Large Parties",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "http://sourduckmarket.com/about",
+          "text": "About",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "http://sourduckmarket.com/wholesale",
+          "text": "Wholesale Partners",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "http://sourduckmarket.com/faqs",
+          "text": "FAQs",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "http://sourduckmarket.com/parking",
+          "text": "Parking",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "http://sourduckmarket.com/",
+          "text": "Sour Duck Market",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.instagram.com/sourduckmarket/",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.facebook.com/sourduckmarket/",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://twitter.com/SourDuckMarket",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.toasttab.com/sour-duck/v3/?mode=fulfillment",
+          "text": "Order Takeout",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.toasttab.com/sour-duck/v2/online-order#!/",
+          "text": "link",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://sourduckmarket.com/cocktails",
+          "text": "here",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "http://sourduckmarket.com/beer",
+          "text": "here",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://wck.org/chef-corps",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://goo.gl/maps/izZWb1eGtP8TTSsj7",
+          "text": "1814 E Martin Luther King Jr BlvdAustin, TX 78702",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "mailto:info@sourduckaustin.com",
+          "text": "info@sourduckaustin.com",
+          "title": "Email: info@sourduckaustin.com",
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "tel:+15123945776",
+          "text": "(512) 394-5776",
+          "title": "Phone: +15123945776",
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://airtable.com/appICpRgFPtN6WNF3/pagFwchc2KZv5yoXT/form",
+          "text": "Click here for donation requests",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://oddduckaustin.com",
+          "text": "Odd Duck",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://barleyswine.com/",
+          "text": "Barley Swine",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://dandeliongatherings.com/",
+          "text": "Richard Casteel",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://www.brockcaronart.com/news/tag/art",
+          "text": "Brock Caron",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        }
+      ],
+      "images": [
+        {
+          "url": "http://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/7ef8fb1f-46f5-4dd2-a72e-9e15fe1c616e/sour-duck-logo.png?format=1500w",
+          "alt": "Sour Duck Market",
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": "eager",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/c21b1dd1-1bed-4019-8dd8-654a53e8cafd/sour_duck-pattern-blue.png",
+          "alt": null,
+          "title": null,
+          "width": 4654,
+          "height": 3513,
+          "loading": "eager",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/d6e000db-9f11-445a-8a55-cd6ed042ace5/d92f51c45a52ec128538176fc3286b9c-original-cc_530x230_1.png",
+          "alt": null,
+          "title": null,
+          "width": 230,
+          "height": 230,
+          "loading": "lazy",
+          "local_path": null
+        }
+      ],
+      "metadata": {
+        "title": "FAQs — Sour Duck Market",
+        "description": null,
+        "keywords": [],
+        "canonical": "https://www.sourduckmarket.com/faqs",
+        "language": "en-US",
+        "charset": "utf-8",
+        "viewport": "width=device-width, initial-scale=1",
+        "author": null,
+        "robots": null,
+        "og_tags": {
+          "og:site_name": "Sour Duck Market",
+          "og:title": "FAQs — Sour Duck Market",
+          "og:url": "https://www.sourduckmarket.com/faqs",
+          "og:type": "website"
+        },
+        "twitter_tags": {
+          "twitter:title": "FAQs — Sour Duck Market",
+          "twitter:url": "https://www.sourduckmarket.com/faqs",
+          "twitter:card": "summary"
+        },
+        "favicon": "https://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/80e7ae01-386c-4d5d-8ec4-d33ad6d205fa/favicon.ico?format=100w",
+        "other_meta": {}
+      },
+      "forms": [],
+      "buttons": [
+        {
+          "text": "Open Menu Close Menu",
+          "type": "button",
+          "href": null,
+          "onclick": null,
+          "id": null,
+          "class_name": "header-burger-btn burger",
+          "is_cta": true
+        },
+        {
+          "text": "Skip to Content",
+          "type": "link_cta",
+          "href": "http://sourduckmarket.com/faqs#page",
+          "onclick": null,
+          "id": null,
+          "class_name": "header-skip-link sqs-button-element--primary",
+          "is_cta": true
+        },
+        {
+          "text": "Order Takeout",
+          "type": "link_cta",
+          "href": "https://www.toasttab.com/sour-duck/v3/?mode=fulfillment",
+          "onclick": null,
+          "id": null,
+          "class_name": "btn btn--border theme-btn--primary-inverse sqs-button-element--primary",
+          "is_cta": true
+        }
+      ],
+      "structured_data": {
+        "json_ld": [
+          {
+            "url": "https://www.sourduckmarket.com",
+            "name": "Sour Duck Market",
+            "image": "//images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/7ef8fb1f-46f5-4dd2-a72e-9e15fe1c616e/sour-duck-logo.png",
+            "@context": "http://schema.org",
+            "@type": "WebSite"
+          },
+          {
+            "image": "https://static1.squarespace.com/static/60f2fce46385b311d9476316/t/60f2fd71a8f65e35b6d5349b/1767559143103/",
+            "openingHours": "",
+            "@context": "http://schema.org",
+            "@type": "LocalBusiness"
+          }
+        ],
+        "opengraph": {},
+        "microdata": []
+      },
+      "screenshot_path": null,
+      "raw_markdown_path": null,
+      "is_success": true,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "url": "http://sourduckmarket.com/parties",
+      "path": "/parties",
+      "title": "Large Parties — Sour Duck Market",
+      "status_code": 200,
+      "crawled_at": "2026-08-24T14:28:04.570199+00:00",
+      "duration_ms": 154.43,
+      "content": {
+        "markdown": "# Large Parties\n\n#### We’ve made it easy for you to share the love of our food and drinks with your employees, colleagues, friends, and family.\n\n---\n\nWe are first come - first served. Our patio and bar building have ample room for walk-in guests.\n\nFor larger groups, we offer **full restaurant buyouts** for **up to 200 people**.\n\nFor more information and pricing, please **submit a request** via the link below.\n\n[Event Request](https://www.toasttab.com/invoice/lead?rx=e4e7b17a-56c3-43fc-a280-c311b881f4a9&ot=de056a1d-9aae-4440-b33b-4b83189af075)",
+        "plain_text": "0 Skip to Content Menu & Hours Happy Hour Gift Cards Large Parties About Wholesale Partners FAQs Parking Order Takeout Open Menu Close Menu Open Menu Close Menu Menu & Hours Happy Hour Gift Cards Large Parties About Wholesale Partners FAQs Parking Order Takeout Menu & Hours Happy Hour Gift Cards Large Parties About Wholesale Partners FAQs Parking Order Takeout Large Parties We’ve made it easy for you to share the love of our food and drinks with your employees, colleagues, friends, and family. We are first come - first served. Our patio and bar building have ample room for walk-in guests. For larger groups, we offer full restaurant buyouts for up to 200 people . For more information and pricing, please submit a request via the link below. Event Request FAQs Sour Duck Market 1814 E Martin Luther King Jr Blvd Austin, TX 78702 info@sourduckaustin.com (512) 394-5776 Click here for donation requests Sister Restaurants Odd Duck Barley Swine Site updated 2021 © Sour Duck Market Photographs courtesy of Richard Casteel Illustrations courtesy of Brock Caron",
+        "word_count": 176,
+        "character_count": 1063,
+        "excerpt": "0 Skip to Content Menu & Hours Happy Hour Gift Cards Large Parties About Wholesale Partners FAQs Parking Order Takeout Open Menu Close Menu Open Menu Close Menu Menu & Hours Happy Hour Gift Cards Large Parties About Wholesale Partners FAQs Parking Or..."
+      },
+      "headings": [
+        {
+          "level": 1,
+          "text": "Large Parties",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "We’ve made it easy for you to share the love of our food and drinks with your employees, colleagues, friends, and family.",
+          "id": null
+        }
+      ],
+      "links": [
+        {
+          "url": "http://sourduckmarket.com/cart",
+          "text": "0",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "http://sourduckmarket.com/",
+          "text": "Menu & Hours",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.sourduckmarket.com/#happyhour",
+          "text": "Happy Hour",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.toasttab.com/sour-duck/giftcards",
+          "text": "Gift Cards",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://sourduckmarket.com/parties",
+          "text": "Large Parties",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "http://sourduckmarket.com/about",
+          "text": "About",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "http://sourduckmarket.com/wholesale",
+          "text": "Wholesale Partners",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "http://sourduckmarket.com/faqs",
+          "text": "FAQs",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "http://sourduckmarket.com/parking",
+          "text": "Parking",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "http://sourduckmarket.com/",
+          "text": "Sour Duck Market",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.instagram.com/sourduckmarket/",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.facebook.com/sourduckmarket/",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://twitter.com/SourDuckMarket",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.toasttab.com/sour-duck/v3/?mode=fulfillment",
+          "text": "Order Takeout",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.toasttab.com/invoice/lead?rx=e4e7b17a-56c3-43fc-a280-c311b881f4a9&ot=de056a1d-9aae-4440-b33b-4b83189af075",
+          "text": "Event Request",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://wck.org/chef-corps",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://goo.gl/maps/izZWb1eGtP8TTSsj7",
+          "text": "1814 E Martin Luther King Jr BlvdAustin, TX 78702",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "mailto:info@sourduckaustin.com",
+          "text": "info@sourduckaustin.com",
+          "title": "Email: info@sourduckaustin.com",
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "tel:+15123945776",
+          "text": "(512) 394-5776",
+          "title": "Phone: +15123945776",
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://airtable.com/appICpRgFPtN6WNF3/pagFwchc2KZv5yoXT/form",
+          "text": "Click here for donation requests",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://oddduckaustin.com",
+          "text": "Odd Duck",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://barleyswine.com/",
+          "text": "Barley Swine",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://dandeliongatherings.com/",
+          "text": "Richard Casteel",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://www.brockcaronart.com/news/tag/art",
+          "text": "Brock Caron",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        }
+      ],
+      "images": [
+        {
+          "url": "http://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/7ef8fb1f-46f5-4dd2-a72e-9e15fe1c616e/sour-duck-logo.png?format=1500w",
+          "alt": "Sour Duck Market",
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": "eager",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/4a0ea09a-9419-4ce3-867e-e0f54c5de26c/sour_duck-pattern-blue.png",
+          "alt": null,
+          "title": null,
+          "width": 2199,
+          "height": 1660,
+          "loading": "eager",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/d6e000db-9f11-445a-8a55-cd6ed042ace5/d92f51c45a52ec128538176fc3286b9c-original-cc_530x230_1.png",
+          "alt": null,
+          "title": null,
+          "width": 230,
+          "height": 230,
+          "loading": "lazy",
+          "local_path": null
+        }
+      ],
+      "metadata": {
+        "title": "Large Parties — Sour Duck Market",
+        "description": null,
+        "keywords": [],
+        "canonical": "https://www.sourduckmarket.com/parties",
+        "language": "en-US",
+        "charset": "utf-8",
+        "viewport": "width=device-width, initial-scale=1",
+        "author": null,
+        "robots": null,
+        "og_tags": {
+          "og:site_name": "Sour Duck Market",
+          "og:title": "Large Parties — Sour Duck Market",
+          "og:url": "https://www.sourduckmarket.com/parties",
+          "og:type": "website"
+        },
+        "twitter_tags": {
+          "twitter:title": "Large Parties — Sour Duck Market",
+          "twitter:url": "https://www.sourduckmarket.com/parties",
+          "twitter:card": "summary"
+        },
+        "favicon": "https://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/80e7ae01-386c-4d5d-8ec4-d33ad6d205fa/favicon.ico?format=100w",
+        "other_meta": {}
+      },
+      "forms": [],
+      "buttons": [
+        {
+          "text": "Open Menu Close Menu",
+          "type": "button",
+          "href": null,
+          "onclick": null,
+          "id": null,
+          "class_name": "header-burger-btn burger",
+          "is_cta": true
+        },
+        {
+          "text": "Skip to Content",
+          "type": "link_cta",
+          "href": "http://sourduckmarket.com/parties#page",
+          "onclick": null,
+          "id": null,
+          "class_name": "header-skip-link sqs-button-element--primary",
+          "is_cta": true
+        },
+        {
+          "text": "Order Takeout",
+          "type": "link_cta",
+          "href": "https://www.toasttab.com/sour-duck/v3/?mode=fulfillment",
+          "onclick": null,
+          "id": null,
+          "class_name": "btn btn--border theme-btn--primary-inverse sqs-button-element--primary",
+          "is_cta": true
+        },
+        {
+          "text": "Event Request",
+          "type": "link_cta",
+          "href": "https://www.toasttab.com/invoice/lead?rx=e4e7b17a-56c3-43fc-a280-c311b881f4a9&ot=de056a1d-9aae-4440-b33b-4b83189af075",
+          "onclick": null,
+          "id": null,
+          "class_name": "sqs-block-button-element--large sqs-button-element--secondary sqs-block-button-element",
+          "is_cta": true
+        }
+      ],
+      "structured_data": {
+        "json_ld": [
+          {
+            "url": "https://www.sourduckmarket.com",
+            "name": "Sour Duck Market",
+            "image": "//images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/7ef8fb1f-46f5-4dd2-a72e-9e15fe1c616e/sour-duck-logo.png",
+            "@context": "http://schema.org",
+            "@type": "WebSite"
+          },
+          {
+            "image": "https://static1.squarespace.com/static/60f2fce46385b311d9476316/t/60f2fd71a8f65e35b6d5349b/1767559143103/",
+            "openingHours": "",
+            "@context": "http://schema.org",
+            "@type": "LocalBusiness"
+          }
+        ],
+        "opengraph": {},
+        "microdata": []
+      },
+      "screenshot_path": null,
+      "raw_markdown_path": null,
+      "is_success": true,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "url": "http://sourduckmarket.com/parking",
+      "path": "/parking",
+      "title": "Parking — Sour Duck Market",
+      "status_code": 200,
+      "crawled_at": "2026-08-24T14:28:04.781075+00:00",
+      "duration_ms": 209.76,
+      "content": {
+        "markdown": "# Parking\n\nThere is a small paved parking lot in front of our bar building (on Chicon), and a larger paved parking lot behind the bar building (also on Chicon).\n\nStreet parking is available along Chicon & on nearby streets, 20th & Poquito.\n\nWe ask that you do not park in our alleyway, as it obstructs our neighbor’s ability to get to their homes. Thank you!",
+        "plain_text": "0 Skip to Content Menu & Hours Happy Hour Gift Cards Large Parties About Wholesale Partners FAQs Parking Order Takeout Open Menu Close Menu Open Menu Close Menu Menu & Hours Happy Hour Gift Cards Large Parties About Wholesale Partners FAQs Parking Order Takeout Menu & Hours Happy Hour Gift Cards Large Parties About Wholesale Partners FAQs Parking Order Takeout Parking There is a small paved parking lot in front of our bar building (on Chicon), and a larger paved parking lot behind the bar building (also on Chicon). Street parking is available along Chicon & on nearby streets, 20th & Poquito. We ask that you do not park in our alleyway, as it obstructs our neighbor’s ability to get to their homes. Thank you! FAQs Sour Duck Market 1814 E Martin Luther King Jr Blvd Austin, TX 78702 info@sourduckaustin.com (512) 394-5776 Click here for donation requests Sister Restaurants Odd Duck Barley Swine Site updated 2021 © Sour Duck Market Photographs courtesy of Richard Casteel Illustrations courtesy of Brock Caron",
+        "word_count": 170,
+        "character_count": 1017,
+        "excerpt": "0 Skip to Content Menu & Hours Happy Hour Gift Cards Large Parties About Wholesale Partners FAQs Parking Order Takeout Open Menu Close Menu Open Menu Close Menu Menu & Hours Happy Hour Gift Cards Large Parties About Wholesale Partners FAQs Parking Or..."
+      },
+      "headings": [
+        {
+          "level": 1,
+          "text": "Parking",
+          "id": null
+        }
+      ],
+      "links": [
+        {
+          "url": "http://sourduckmarket.com/cart",
+          "text": "0",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "http://sourduckmarket.com/",
+          "text": "Menu & Hours",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.sourduckmarket.com/#happyhour",
+          "text": "Happy Hour",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.toasttab.com/sour-duck/giftcards",
+          "text": "Gift Cards",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://sourduckmarket.com/parties",
+          "text": "Large Parties",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "http://sourduckmarket.com/about",
+          "text": "About",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "http://sourduckmarket.com/wholesale",
+          "text": "Wholesale Partners",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "http://sourduckmarket.com/faqs",
+          "text": "FAQs",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "http://sourduckmarket.com/parking",
+          "text": "Parking",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "http://sourduckmarket.com/",
+          "text": "Sour Duck Market",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.instagram.com/sourduckmarket/",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.facebook.com/sourduckmarket/",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://twitter.com/SourDuckMarket",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.toasttab.com/sour-duck/v3/?mode=fulfillment",
+          "text": "Order Takeout",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://wck.org/chef-corps",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://goo.gl/maps/izZWb1eGtP8TTSsj7",
+          "text": "1814 E Martin Luther King Jr BlvdAustin, TX 78702",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "mailto:info@sourduckaustin.com",
+          "text": "info@sourduckaustin.com",
+          "title": "Email: info@sourduckaustin.com",
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "tel:+15123945776",
+          "text": "(512) 394-5776",
+          "title": "Phone: +15123945776",
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://airtable.com/appICpRgFPtN6WNF3/pagFwchc2KZv5yoXT/form",
+          "text": "Click here for donation requests",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://oddduckaustin.com",
+          "text": "Odd Duck",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://barleyswine.com/",
+          "text": "Barley Swine",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://dandeliongatherings.com/",
+          "text": "Richard Casteel",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://www.brockcaronart.com/news/tag/art",
+          "text": "Brock Caron",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        }
+      ],
+      "images": [
+        {
+          "url": "http://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/7ef8fb1f-46f5-4dd2-a72e-9e15fe1c616e/sour-duck-logo.png?format=1500w",
+          "alt": "Sour Duck Market",
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": "eager",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/4a0ea09a-9419-4ce3-867e-e0f54c5de26c/sour_duck-pattern-blue.png",
+          "alt": null,
+          "title": null,
+          "width": 2199,
+          "height": 1660,
+          "loading": "eager",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/35f0c3be-e1d8-4d71-882b-a91f734305a6/Sour+Duck+parking+map-01+%281%29.png",
+          "alt": null,
+          "title": null,
+          "width": 3061,
+          "height": 2960,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/d6e000db-9f11-445a-8a55-cd6ed042ace5/d92f51c45a52ec128538176fc3286b9c-original-cc_530x230_1.png",
+          "alt": null,
+          "title": null,
+          "width": 230,
+          "height": 230,
+          "loading": "lazy",
+          "local_path": null
+        }
+      ],
+      "metadata": {
+        "title": "Parking — Sour Duck Market",
+        "description": null,
+        "keywords": [],
+        "canonical": "https://www.sourduckmarket.com/parking",
+        "language": "en-US",
+        "charset": "utf-8",
+        "viewport": "width=device-width, initial-scale=1",
+        "author": null,
+        "robots": null,
+        "og_tags": {
+          "og:site_name": "Sour Duck Market",
+          "og:title": "Parking — Sour Duck Market",
+          "og:url": "https://www.sourduckmarket.com/parking",
+          "og:type": "website"
+        },
+        "twitter_tags": {
+          "twitter:title": "Parking — Sour Duck Market",
+          "twitter:url": "https://www.sourduckmarket.com/parking",
+          "twitter:card": "summary"
+        },
+        "favicon": "https://images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/80e7ae01-386c-4d5d-8ec4-d33ad6d205fa/favicon.ico?format=100w",
+        "other_meta": {}
+      },
+      "forms": [],
+      "buttons": [
+        {
+          "text": "Open Menu Close Menu",
+          "type": "button",
+          "href": null,
+          "onclick": null,
+          "id": null,
+          "class_name": "header-burger-btn burger",
+          "is_cta": true
+        },
+        {
+          "text": "Skip to Content",
+          "type": "link_cta",
+          "href": "http://sourduckmarket.com/parking#page",
+          "onclick": null,
+          "id": null,
+          "class_name": "header-skip-link sqs-button-element--primary",
+          "is_cta": true
+        },
+        {
+          "text": "Order Takeout",
+          "type": "link_cta",
+          "href": "https://www.toasttab.com/sour-duck/v3/?mode=fulfillment",
+          "onclick": null,
+          "id": null,
+          "class_name": "btn btn--border theme-btn--primary-inverse sqs-button-element--primary",
+          "is_cta": true
+        }
+      ],
+      "structured_data": {
+        "json_ld": [
+          {
+            "url": "https://www.sourduckmarket.com",
+            "name": "Sour Duck Market",
+            "image": "//images.squarespace-cdn.com/content/v1/60f2fce46385b311d9476316/7ef8fb1f-46f5-4dd2-a72e-9e15fe1c616e/sour-duck-logo.png",
+            "@context": "http://schema.org",
+            "@type": "WebSite"
+          },
+          {
+            "image": "https://static1.squarespace.com/static/60f2fce46385b311d9476316/t/60f2fd71a8f65e35b6d5349b/1767559143103/",
+            "openingHours": "",
+            "@context": "http://schema.org",
+            "@type": "LocalBusiness"
+          }
+        ],
+        "opengraph": {},
+        "microdata": []
+      },
+      "screenshot_path": null,
+      "raw_markdown_path": null,
+      "is_success": true,
+      "errors": [],
+      "warnings": []
+    }
+  ],
+  "sitemap_urls_found": 0,
+  "site_title": "Sour Duck Market",
+  "site_description": "0 Skip to Content Menu & Hours Happy Hour Gift Cards Large Parties About Wholesale Partners FAQs Parking Order Takeout Open Menu Close Menu Open Menu Close Menu Menu & Hours Happy Hour Gift Cards Large Parties About Wholesale Partners FAQs Parking Or...",
+  "started_at": "2026-08-24T14:27:51.085647+00:00",
+  "completed_at": "2026-08-24T14:28:29.384223+00:00",
+  "duration_seconds": 38.3,
+  "raw_output_dir": "E:\\Code\\Nayom\\data\\websites\\biz_0x8644b594e1e61e01_0x70d7243021911e1c\\raw",
+  "website_json_path": "E:\\Code\\Nayom\\data\\websites\\biz_0x8644b594e1e61e01_0x70d7243021911e1c\\website.json",
+  "errors": [],
+  "warnings": []
+}

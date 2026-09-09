@@ -1,0 +1,18 @@
+{
+  "recipient": "saltysowaustin@saltysow.com",
+  "subject": "Quick thought on the Salty Sow website and menu layout",
+  "body": "Hi Salty Sow team, I am a regular follower of your farm-to-table Southern comfort dishes and Austin happy hours, and I really admire the warm atmosphere you have built at your Manor Road location. While exploring your site, I noticed that relying on external PDFs for the dinner and happy hour menus makes it a bit tougher for locals to browse items quickly on mobile, and hides great keyword details from search engines. To see how a more streamlined approach could look, I put together a quick, modern prototype for you. It features web-native text menus, an interactive rewards signup, and clear happy hour timings right at the top. Feel free to check out the live preview here: https://nayom-biz-0x8644b59369be58eb-0x6f73c991a0600c2-5yt0np99d.vercel.app. If you would like to use this design or have me tweak anything, I would be happy to send over the project files or chat for 5 minutes. No worries at all if you are happy with your current setup!",
+  "business_id": "biz_0x8644b59369be58eb_0x6f73c991a0600c2a",
+  "preview_url": "https://nayom-biz-0x8644b59369be58eb-0x6f73c991a0600c2-5yt0np99d.vercel.app",
+  "generated_at": "2026-08-24T14:33:03.067457+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "business_name": "Salty Sow",
+  "key_improvements": [
+    "Replaced external PDF menu links with fast, mobile-friendly web-native text formatting",
+    "Added prominent top announcement bar for happy hour times and parking guidelines",
+    "Streamlined the Salty Sow Rewards program signup into an interactive experience"
+  ],
+  "provider": "gemini",
+  "prompt_version": "1.0.0",
+  "warnings": []
+}

@@ -1,0 +1,17 @@
+{
+  "recipient": null,
+  "subject": "Quick thought on Superior Dental Health's online presence",
+  "body": "Hi Superior Dental Health team,\n\nI was looking into local practices in Omaha and noticed that your current website is showing as under construction, which makes it tough for new or existing patients to find your office details, hours, or contact information. Since a smooth digital storefront is vital for healthcare providers, I took some time to independently build a clean, modern preview prototype tailored for your practice.\n\nThe new concept includes an organized split hero layout, an interactive services grid, patient reviews, and a clear booking CTA to ensure patients can easily reach your clinic. You can explore the live preview here: https://nayom-biz-0x8793f2db1f4fe67d-0x9607889247a5b11.vercel.app\n\nFeel free to check it out. If you like the design and want to use it or need a few tweaks, I can gladly send over the files or chat for 5 minutes. No worries at all if you are already set with another plan!",
+  "business_id": "biz_0x8793f2db1f4fe67d_0x9607889247a5b112",
+  "preview_url": "https://nayom-biz-0x8793f2db1f4fe67d-0x9607889247a5b11.vercel.app",
+  "generated_at": "2026-08-24T10:02:49.080532+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "business_name": "Superior Dental Health - Omaha",
+  "key_improvements": [
+    "Restored basic clinic contact details, operating hours, and address during under-construction phase",
+    "Added a clean corporate layout with integrated lead booking and services grid"
+  ],
+  "provider": "gemini",
+  "prompt_version": "1.0.0",
+  "warnings": []
+}

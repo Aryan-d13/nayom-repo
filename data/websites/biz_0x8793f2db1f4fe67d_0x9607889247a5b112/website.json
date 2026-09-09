@@ -1,0 +1,91 @@
+{
+  "request": {
+    "url": "https://www.superiordentalomaha.com/",
+    "site_id": "biz_0x8793f2db1f4fe67d_0x9607889247a5b112",
+    "max_pages": 20,
+    "render_js": false,
+    "screenshot": false,
+    "concurrency": 5,
+    "timeout": 20,
+    "delay": 0.25,
+    "use_sitemap": true,
+    "include_subdomains": false,
+    "min_words": 5,
+    "download_images": false,
+    "user_agent": null
+  },
+  "site_id": "biz_0x8793f2db1f4fe67d_0x9607889247a5b112",
+  "base_url": "https://www.superiordentalomaha.com/",
+  "domain": "www.superiordentalomaha.com",
+  "total_pages_crawled": 1,
+  "successful_pages": 1,
+  "failed_pages": 0,
+  "pages": [
+    {
+      "url": "https://www.superiordentalomaha.com/",
+      "path": "/",
+      "title": "Website Suspended",
+      "status_code": 200,
+      "crawled_at": "2026-08-24T10:00:39.102327+00:00",
+      "duration_ms": 13.1,
+      "content": {
+        "markdown": "*This website has been suspended.*\n\n\n# Temporary under construction\n\n## This website is temporary under construction.\n\nWe will back again soon.",
+        "plain_text": "Temporary under construction This website is temporary under construction. We will back again soon.",
+        "word_count": 14,
+        "character_count": 99,
+        "excerpt": "Temporary under construction This website is temporary under construction. We will back again soon."
+      },
+      "headings": [
+        {
+          "level": 1,
+          "text": "Temporary under construction",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "This website is temporary under construction.",
+          "id": null
+        }
+      ],
+      "links": [],
+      "images": [],
+      "metadata": {
+        "title": "Website Suspended",
+        "description": "This website has been suspended.",
+        "keywords": [],
+        "canonical": null,
+        "language": "en",
+        "charset": null,
+        "viewport": null,
+        "author": null,
+        "robots": null,
+        "og_tags": {},
+        "twitter_tags": {},
+        "favicon": null,
+        "other_meta": {}
+      },
+      "forms": [],
+      "buttons": [],
+      "structured_data": {
+        "json_ld": [],
+        "opengraph": {},
+        "microdata": []
+      },
+      "screenshot_path": null,
+      "raw_markdown_path": null,
+      "is_success": true,
+      "errors": [],
+      "warnings": []
+    }
+  ],
+  "sitemap_urls_found": 0,
+  "site_title": "Website Suspended",
+  "site_description": "This website has been suspended.",
+  "started_at": "2026-08-24T10:00:36.258892+00:00",
+  "completed_at": "2026-08-24T10:00:39.123823+00:00",
+  "duration_seconds": 2.86,
+  "raw_output_dir": "E:\\Code\\Nayom\\data\\websites\\biz_0x8793f2db1f4fe67d_0x9607889247a5b112\\raw",
+  "website_json_path": "E:\\Code\\Nayom\\data\\websites\\biz_0x8793f2db1f4fe67d_0x9607889247a5b112\\website.json",
+  "errors": [],
+  "warnings": []
+}

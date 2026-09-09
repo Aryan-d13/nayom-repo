@@ -1,0 +1,973 @@
+{
+  "request": {
+    "url": "https://www.buckeyedentalcare.net/",
+    "site_id": "biz_0x884107a49bdb2ebb_0x499762b9fd414c2e",
+    "max_pages": 20,
+    "render_js": false,
+    "screenshot": false,
+    "concurrency": 5,
+    "timeout": 20,
+    "delay": 0.25,
+    "use_sitemap": true,
+    "include_subdomains": false,
+    "min_words": 5,
+    "download_images": false,
+    "user_agent": null
+  },
+  "site_id": "biz_0x884107a49bdb2ebb_0x499762b9fd414c2e",
+  "base_url": "https://www.buckeyedentalcare.net/",
+  "domain": "www.buckeyedentalcare.net",
+  "total_pages_crawled": 5,
+  "successful_pages": 5,
+  "failed_pages": 0,
+  "pages": [
+    {
+      "url": "https://www.buckeyedentalcare.net/",
+      "path": "/",
+      "title": "Buckeye Dental Care LLC. | Emergency Dental | 1268 Ohio Pike, Amelia, OH, USA",
+      "status_code": 200,
+      "crawled_at": "2026-08-23T07:05:49.688958+00:00",
+      "duration_ms": 118.62,
+      "content": {
+        "markdown": "*Office Dedicated Gentle Dental Care Including Implants, Root Canal Therapy, and Braces.*\n\n\n[Image: BuckeyeDental_0019.jpg]\n\n# BUCKEYE DENTAL CARE\n\n​NOW ACCEPTING NEW PATIENTS\n\nWE ACCEPT MOST INSURANCES IN OR OUT OF NETWORK\n\n[Image: New Composition_2019-01-22 15-22-49_edited.png]\n\n## Address\n\n1268 West Ohio Pike Suite A\n\nAmelia, OH. 45102\n\n## Phone\n\n513-947-2273\n\n## Email\n\n[buckeyedentalcare16@gmail.com](mailto:buckeyedentalcare16@gmail.com)\n\n# Hours\n\nMonday - Thursday\n\n9:00 am to 5:00 pm\n\n​​\n\nFriday-Sunday Closed",
+        "plain_text": "top of page BUCKEYE DENTAL CARE Your Wellness, Our Priority 513-947-2273 Home Services Meet The Team Our Office Contact More Use tab to navigate through the menu items. BUCKEYE DENTAL CARE ​ NOW ACCEPTING NEW PATIENTS WE ACCEPT MOST INSURANCES IN OR OUT OF NETWORK Address 1268 West Ohio Pike Suite A Amelia, OH. 45102 Phone 513-947-2273 Email buckeyedentalcare16@gmail.com Hours Monday - Thursday 9:00 am to 5:00 pm ​ ​ Friday-Sunday Closed ©2019 by Buckeye Dental Care. bottom of page",
+        "word_count": 80,
+        "character_count": 486,
+        "excerpt": "top of page BUCKEYE DENTAL CARE Your Wellness, Our Priority 513-947-2273 Home Services Meet The Team Our Office Contact More Use tab to navigate through the menu items. BUCKEYE DENTAL CARE ​ NOW ACCEPTING NEW PATIENTS WE ACCEPT MOST INSURANCES IN OR..."
+      },
+      "headings": [
+        {
+          "level": 1,
+          "text": "BUCKEYE DENTAL CARE",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Address",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Phone",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Email",
+          "id": null
+        },
+        {
+          "level": 1,
+          "text": "Hours",
+          "id": null
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.buckeyedentalcare.net",
+          "text": "New Composition_2019-01-22 15-22-49.png",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.buckeyedentalcare.net",
+          "text": "BUCKEYE DENTAL CARE",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.buckeyedentalcare.net",
+          "text": "Home",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.buckeyedentalcare.net/services-1",
+          "text": "Services",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.buckeyedentalcare.net/meet-the-team",
+          "text": "Meet The Team",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.buckeyedentalcare.net/our-office",
+          "text": "Our Office",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.buckeyedentalcare.net/contact-4",
+          "text": "Contact",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        }
+      ],
+      "images": [
+        {
+          "url": "https://static.wixstatic.com/media/e4046b_cbd5b693b2af4a93895f9bca1e7a55a5~mv2.png/v1/fill/w_166,h_93,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/New%20Composition_2019-01-22%2015-22-49.png",
+          "alt": "New Composition_2019-01-22 15-22-49.png",
+          "title": null,
+          "width": 166,
+          "height": 97,
+          "loading": null,
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/e4046b_28059769462a4f4d8f2bc835ce0a0951~mv2.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/e4046b_28059769462a4f4d8f2bc835ce0a0951~mv2.jpg",
+          "alt": "BuckeyeDental_0019.jpg",
+          "title": null,
+          "width": 980,
+          "height": 976,
+          "loading": null,
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/e4046b_ac5918ef04564bc0b455fdacb2399ef9~mv2.png/v1/fill/w_933,h_525,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/New%20Composition_2019-01-22%2015-22-49_edited.png",
+          "alt": "New Composition_2019-01-22 15-22-49_edited.png",
+          "title": null,
+          "width": 940,
+          "height": 525,
+          "loading": null,
+          "local_path": null
+        }
+      ],
+      "metadata": {
+        "title": "Buckeye Dental Care LLC. | Emergency Dental | 1268 Ohio Pike, Amelia, OH, USA",
+        "description": "Office Dedicated Gentle Dental Care Including Implants, Root Canal Therapy, and Braces.",
+        "keywords": [
+          "Braces",
+          "Extractions",
+          "Implants",
+          "Root Canal Therapy",
+          "Tooth Pain"
+        ],
+        "canonical": "https://www.buckeyedentalcare.net",
+        "language": "en",
+        "charset": "utf-8",
+        "viewport": "width=device-width, initial-scale=1",
+        "author": null,
+        "robots": null,
+        "og_tags": {
+          "og:title": "Buckeye Dental Care LLC. | Emergency Dental | 1268 Ohio Pike, Amelia, OH, USA",
+          "og:description": "Office Dedicated Gentle Dental Care Including Implants, Root Canal Therapy, and Braces.",
+          "og:image": "https://static.wixstatic.com/media/e4046b_e9ef1e657427484885fef29fc01bbc4a%7Emv2.png/v1/fit/w_2500,h_1330,al_c/e4046b_e9ef1e657427484885fef29fc01bbc4a%7Emv2.png",
+          "og:image:width": "2500",
+          "og:image:height": "1330",
+          "og:url": "https://www.buckeyedentalcare.net",
+          "og:site_name": "Buckeye Dental Care",
+          "og:type": "website"
+        },
+        "twitter_tags": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Buckeye Dental Care LLC. | Emergency Dental | 1268 Ohio Pike, Amelia, OH, USA",
+          "twitter:description": "Office Dedicated Gentle Dental Care Including Implants, Root Canal Therapy, and Braces.",
+          "twitter:image": "https://static.wixstatic.com/media/e4046b_e9ef1e657427484885fef29fc01bbc4a%7Emv2.png/v1/fit/w_2500,h_1330,al_c/e4046b_e9ef1e657427484885fef29fc01bbc4a%7Emv2.png"
+        },
+        "favicon": "https://static.parastorage.com/client/pfavico.ico",
+        "other_meta": {
+          "generator": "Wix.com Website Builder",
+          "format-detection": "telephone=no",
+          "skype_toolbar": "skype_toolbar_parser_compatible",
+          "google-site-verification": "xzi-dWCSj4KZ1D7cqRAguZ3a_wJJDHIcujnw1kb3teM"
+        }
+      },
+      "forms": [],
+      "buttons": [],
+      "structured_data": {
+        "json_ld": [
+          {
+            "@context": "https://schema.org/",
+            "@type": "LocalBusiness",
+            "name": "Buckeye Dental Care",
+            "url": "https://www.buckeyedentalcare.net",
+            "image": "https://static.wixstatic.com/media/e4046b_cbd5b693b2af4a93895f9bca1e7a55a5~mv2.png",
+            "address": {
+              "@type": "PostalAddress",
+              "addressCountry": "US",
+              "addressLocality": "Amelia",
+              "addressRegion": "OH",
+              "postalCode": "45102",
+              "streetAddress": "1268 Ohio Pike"
+            },
+            "telephone": "5139472273"
+          },
+          {
+            "@context": "https://schema.org/",
+            "@type": "WebSite",
+            "name": "Buckeye Dental Care",
+            "url": "https://www.buckeyedentalcare.net"
+          }
+        ],
+        "opengraph": {},
+        "microdata": []
+      },
+      "screenshot_path": null,
+      "raw_markdown_path": null,
+      "is_success": true,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "url": "https://www.buckeyedentalcare.net/meet-the-team",
+      "path": "/meet-the-team",
+      "title": "Meet The Team | Buckeye Dental Care",
+      "status_code": 200,
+      "crawled_at": "2026-08-23T07:05:49.823838+00:00",
+      "duration_ms": 132.96,
+      "content": {
+        "markdown": "## Meet The Team\n\nDedication. Expertise. Passion.\n\n[Image: New Composition_2019-01-22 15-22-49_edited_edited_edited.png]\n\nDentist\n\nDr. Ghulam Fareed\n\nDr. Fareed specializes in providing orthodontic treatment. He is passionate about helping patients achieve beautiful, healthy smiles, Dr. Fareed stays up-to-date with the latest advancements in dentistry to offer the best possible care.\n\n[Image: New Composition_2019-01-22 15-22-49_edited_edited_edited.png]\n\nDentist\n\nDr. Naim Abdullah\n\nDr. Abdullah provides quality restorative and cosmetic treatment here at Buckeye Dental Care. With great chairside manners, you will feel comfortable knowing that you are recieving high quality care.\n\n[Image: New Composition_2019-01-22 15-22-49_edited_edited_edited.png]\n\nOffice Manager\n\nIliana\n\nIliana ensures that your visit runs smoothly from start to finish. From scheduling appointments to helping with insurance questions, Iliana is here to provide you with seamless and efficient service. Iliana makes you feel comfortable the moment you walk in the door!\n\n[Image: New Composition_2019-01-22 15-22-49_edited_edited_edited.png]\n\nTreatment Coordinator\n\nKarime\n\nThe first smile you’ll see when you walk into our office! Karime is here to answer your calls, schedule your appointments, and greet you with a warm welcome. Karime is ready to assist with anything you need to make your visit convenient!\n\n[Image: New Composition_2019-01-22 15-22-49_edited_edited_edited.png]\n\nHygienist\n\nBridgett\n\nWith 35 years of experience in preventive oral health care, Bridgett is a dedicated and compassionate Registered Dental Hygienist committed to promoting lifelong dental wellness. Known for a gentle touch and a patient-focused approach, Bridgett excels at building trust with patients of all ages, including those with dental anxiety.\n\n[Image: New Composition_2019-01-22 15-22-49_edited_edited_edited.png]\n\nHygienist\n\nJessica\n\nJessica is dedicated to helping patients maintain healthy smiles by providing thorough cleanings and offering personalized guidance on brushing, flossing, and overall oral hygiene. She enjoys building relationships with patients and helping them understand the importance of maintaining a healthy mouth for overall well-being.\n\n[Image: New Composition_2019-01-22 15-22-49_edited_edited_edited.png]\n\nExpanded Functions Dental Auxiliary\n\nEFDA\n\nHeather\n\nHeather is a highly skilled Expanded Functions Dental Auxiliary (EFDA) with 5 years of hands-on experience delivering advanced clinical support and top-tier patient care in fast-paced dental practices. Trained and certified to perform a wide range of restorative and preventive procedures, Heather plays a key role in enhancing clinical efficiency and improving patient outcomes.\n\n[Image: New Composition_2019-01-22 15-22-49_edited_edited_edited.png]\n\nExpanded Functions Dental Auxiliary\n\nEFDA\n\nKayla\n\nKnown for a strong work ethic, attention to detail, and excellent chairside manner, Kayla thrives in team-oriented environments and is deeply committed to continuing education and professional development. Passionate about patient education and comfort, she takes pride in helping individuals achieve confident, healthy smiles.\n\n[Image: New Composition_2019-01-22 15-22-49_edited_edited_edited.png]\n\nDental Assistant\n\nBurul\n\nBurul is a dedicated and detail-oriented Dental Assistant with 4 years of experience supporting dentists and enhancing patient care in a wide range of clinical settings. With a calm and compassionate demeanor, she helps create a welcoming environment where patients feel comfortable and informed throughout their dental visits.\n\n[Image: New Composition_2019-01-22 15-22-49_edited_edited_edited.png]\n\nDental Assistant\n\nJasseim\n\nJasseim, our dedicated dental assistant! Currently a college student on the path to becoming a dentist. With a passion for dentistry and a commitment to patient care, Jasseim is excited to learn and grow in this dynamic field. We're thrilled to have him on board!",
+        "plain_text": "top of page BUCKEYE DENTAL CARE Your Wellness, Our Priority 513-947-2273 Home Services Meet The Team Our Office Contact More Use tab to navigate through the menu items. Meet The Team Dedication. Expertise. Passion. Dentist Dr. Ghulam Fareed Dr. Fareed specializes in providing orthodontic treatment. He is passionate about helping patients achieve beautiful, healthy smiles, Dr. Fareed stays up-to-date with the latest advancements in dentistry to offer the best possible care. Dentist Dr. Naim Abdullah Dr. Abdullah provides quality restorative and cosmetic treatment here at Buckeye Dental Care. With great chairside manners, you will feel comfortable knowing that you are recieving high quality care. Office Manager Iliana Iliana ensures that your visit runs smoothly from start to finish. From scheduling appointments to helping with insurance questions, Iliana is here to provide you with seamless and efficient service. Iliana makes you feel comfortable the moment you walk in the door! Treatment Coordinator Karime The first smile you’ll see when you walk into our office! Karime is here to answer your calls, schedule your appointments, and greet you with a warm welcome. Karime is ready to assist with anything you need to make your visit convenient! Hygienist Bridgett With 35 years of experience in preventive oral health care, Bridgett is a dedicated and compassionate Registered Dental Hygienist committed to promoting lifelong dental wellness. Known for a gentle touch and a patient-focused approach, Bridgett excels at building trust with patients of all ages, including those with dental anxiety. Hygienist Jessica Jessica is dedicated to helping patients maintain healthy smiles by providing thorough cleanings and offering personalized guidance on brushing, flossing, and overall oral hygiene. She enjoys building relationships with patients and helping them understand the importance of maintaining a healthy mouth for overall well-being. Expanded Functions Dental Auxiliary EFDA Heather Heather is a highly skilled Expanded Functions Dental Auxiliary (EFDA) with 5 years of hands-on experience delivering advanced clinical support and top-tier patient care in fast-paced dental practices. Trained and certified to perform a wide range of restorative and preventive procedures, Heather plays a key role in enhancing clinical efficiency and improving patient outcomes. Expanded Functions Dental Auxiliary EFDA Kayla Known for a strong work ethic, attention to detail, and excellent chairside manner, Kayla thrives in team-oriented environments and is deeply committed to continuing education and professional development. Passionate about patient education and comfort, she takes pride in helping individuals achieve confident, healthy smiles. Dental Assistant Burul Burul is a dedicated and detail-oriented Dental Assistant with 4 years of experience supporting dentists and enhancing patient care in a wide range of clinical settings. With a calm and compassionate demeanor, she helps create a welcoming environment where patients feel comfortable and informed throughout their dental visits. Dental Assistant Jasseim Jasseim, our dedicated dental assistant! Currently a college student on the path to becoming a dentist. With a passion for dentistry and a commitment to patient care, Jasseim is excited to learn and grow in this dynamic field. We're thrilled to have him on board! ©2019 by Buckeye Dental Care. bottom of page",
+        "word_count": 508,
+        "character_count": 3446,
+        "excerpt": "top of page BUCKEYE DENTAL CARE Your Wellness, Our Priority 513-947-2273 Home Services Meet The Team Our Office Contact More Use tab to navigate through the menu items. Meet The Team Dedication. Expertise. Passion. Dentist Dr. Ghulam Fareed Dr. Faree..."
+      },
+      "headings": [
+        {
+          "level": 2,
+          "text": "Meet The Team",
+          "id": null
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.buckeyedentalcare.net",
+          "text": "New Composition_2019-01-22 15-22-49.png",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.buckeyedentalcare.net",
+          "text": "BUCKEYE DENTAL CARE",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.buckeyedentalcare.net",
+          "text": "Home",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.buckeyedentalcare.net/services-1",
+          "text": "Services",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.buckeyedentalcare.net/meet-the-team",
+          "text": "Meet The Team",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.buckeyedentalcare.net/our-office",
+          "text": "Our Office",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.buckeyedentalcare.net/contact-4",
+          "text": "Contact",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        }
+      ],
+      "images": [
+        {
+          "url": "https://static.wixstatic.com/media/e4046b_cbd5b693b2af4a93895f9bca1e7a55a5~mv2.png/v1/fill/w_166,h_93,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/New%20Composition_2019-01-22%2015-22-49.png",
+          "alt": "New Composition_2019-01-22 15-22-49.png",
+          "title": null,
+          "width": 166,
+          "height": 97,
+          "loading": null,
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/e4046b_78f9f0e730e84e03a15819c6145bc69d~mv2.png/v1/fill/w_258,h_255,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/New%20Composition_2019-01-22%2015-22-49_edited_edited_edited.png",
+          "alt": "New Composition_2019-01-22 15-22-49_edited_edited_edited.png",
+          "title": null,
+          "width": 258,
+          "height": 255,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/e4046b_78f9f0e730e84e03a15819c6145bc69d~mv2.png/v1/fill/w_292,h_292,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/New%20Composition_2019-01-22%2015-22-49_edited_edited_edited.png",
+          "alt": "New Composition_2019-01-22 15-22-49_edited_edited_edited.png",
+          "title": null,
+          "width": 292,
+          "height": 292,
+          "loading": "lazy",
+          "local_path": null
+        }
+      ],
+      "metadata": {
+        "title": "Meet The Team | Buckeye Dental Care",
+        "description": null,
+        "keywords": [
+          "Braces",
+          "Extractions",
+          "Implants",
+          "Root Canal Therapy",
+          "Tooth Pain"
+        ],
+        "canonical": "https://www.buckeyedentalcare.net/meet-the-team",
+        "language": "en",
+        "charset": "utf-8",
+        "viewport": "width=device-width, initial-scale=1",
+        "author": null,
+        "robots": null,
+        "og_tags": {
+          "og:title": "Meet The Team | Buckeye Dental Care",
+          "og:image": "https://static.wixstatic.com/media/e4046b_e9ef1e657427484885fef29fc01bbc4a%7Emv2.png/v1/fit/w_2500,h_1330,al_c/e4046b_e9ef1e657427484885fef29fc01bbc4a%7Emv2.png",
+          "og:image:width": "2500",
+          "og:image:height": "1330",
+          "og:url": "https://www.buckeyedentalcare.net/meet-the-team",
+          "og:site_name": "Buckeye Dental Care",
+          "og:type": "website"
+        },
+        "twitter_tags": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Meet The Team | Buckeye Dental Care",
+          "twitter:image": "https://static.wixstatic.com/media/e4046b_e9ef1e657427484885fef29fc01bbc4a%7Emv2.png/v1/fit/w_2500,h_1330,al_c/e4046b_e9ef1e657427484885fef29fc01bbc4a%7Emv2.png"
+        },
+        "favicon": "https://static.parastorage.com/client/pfavico.ico",
+        "other_meta": {
+          "generator": "Wix.com Website Builder",
+          "format-detection": "telephone=no",
+          "skype_toolbar": "skype_toolbar_parser_compatible",
+          "google-site-verification": "xzi-dWCSj4KZ1D7cqRAguZ3a_wJJDHIcujnw1kb3teM"
+        }
+      },
+      "forms": [],
+      "buttons": [],
+      "structured_data": {
+        "json_ld": [],
+        "opengraph": {},
+        "microdata": []
+      },
+      "screenshot_path": null,
+      "raw_markdown_path": null,
+      "is_success": true,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "url": "https://www.buckeyedentalcare.net/contact-4",
+      "path": "/contact-4",
+      "title": "Contact | Buckeye Dental Care",
+      "status_code": 200,
+      "crawled_at": "2026-08-23T07:05:49.993012+00:00",
+      "duration_ms": 167.07,
+      "content": {
+        "markdown": "# Contact Us\n\n[Image: dentist office with white background for website.jpg]\n\n1268 W Ohio Pike\n\nSuite A\n\nAmelia, OH 45102\n\n513-947-2273\n\n[buckeyedentalcare16@gmail.com](mailto:buckeyedentalcare16@gmail.com)\n\nFirst Name\n\nLast Name\n\nEmail\n\nMessage\n\nSend\n\nThanks for submitting!\n\n## Opening Hours\n\nMonday - Thursday\n\n9:00 am – 5:00 pm\n\nFriday - Sunday\n\nClosed",
+        "plain_text": "top of page BUCKEYE DENTAL CARE Your Wellness, Our Priority 513-947-2273 Home Services Meet The Team Our Office Contact More Use tab to navigate through the menu items. Contact Us 1268 W Ohio Pike Suite A Amelia, OH 45102 513-947-2273 buckeyedentalcare16@gmail.com First Name Last Name Email Message Send Thanks for submitting! Opening Hours Monday - Thursday 9:00 am – 5:00 pm Friday - Sunday Closed ©2019 by Buckeye Dental Care. bottom of page",
+        "word_count": 73,
+        "character_count": 445,
+        "excerpt": "top of page BUCKEYE DENTAL CARE Your Wellness, Our Priority 513-947-2273 Home Services Meet The Team Our Office Contact More Use tab to navigate through the menu items. Contact Us 1268 W Ohio Pike Suite A Amelia, OH 45102 513-947-2273 buckeyedentalca..."
+      },
+      "headings": [
+        {
+          "level": 1,
+          "text": "Contact Us",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Opening Hours",
+          "id": null
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.buckeyedentalcare.net",
+          "text": "New Composition_2019-01-22 15-22-49.png",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.buckeyedentalcare.net",
+          "text": "BUCKEYE DENTAL CARE",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.buckeyedentalcare.net",
+          "text": "Home",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.buckeyedentalcare.net/services-1",
+          "text": "Services",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.buckeyedentalcare.net/meet-the-team",
+          "text": "Meet The Team",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.buckeyedentalcare.net/our-office",
+          "text": "Our Office",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.buckeyedentalcare.net/contact-4",
+          "text": "Contact",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        }
+      ],
+      "images": [
+        {
+          "url": "https://static.wixstatic.com/media/e4046b_cbd5b693b2af4a93895f9bca1e7a55a5~mv2.png/v1/fill/w_166,h_93,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/New%20Composition_2019-01-22%2015-22-49.png",
+          "alt": "New Composition_2019-01-22 15-22-49.png",
+          "title": null,
+          "width": 166,
+          "height": 97,
+          "loading": null,
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/e4046b_92ec389aeaa34484a5b94c3bf1da2297~mv2.jpg/v1/fill/w_123,h_69,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/e4046b_92ec389aeaa34484a5b94c3bf1da2297~mv2.jpg",
+          "alt": "dentist office with white background for website.jpg",
+          "title": null,
+          "width": 490,
+          "height": 816,
+          "loading": null,
+          "local_path": null
+        }
+      ],
+      "metadata": {
+        "title": "Contact | Buckeye Dental Care",
+        "description": null,
+        "keywords": [
+          "Braces",
+          "Extractions",
+          "Implants",
+          "Root Canal Therapy",
+          "Tooth Pain"
+        ],
+        "canonical": "https://www.buckeyedentalcare.net/contact-4",
+        "language": "en",
+        "charset": "utf-8",
+        "viewport": "width=device-width, initial-scale=1",
+        "author": null,
+        "robots": null,
+        "og_tags": {
+          "og:title": "Contact | Buckeye Dental Care",
+          "og:image": "https://static.wixstatic.com/media/e4046b_e9ef1e657427484885fef29fc01bbc4a%7Emv2.png/v1/fit/w_2500,h_1330,al_c/e4046b_e9ef1e657427484885fef29fc01bbc4a%7Emv2.png",
+          "og:image:width": "2500",
+          "og:image:height": "1330",
+          "og:url": "https://www.buckeyedentalcare.net/contact-4",
+          "og:site_name": "Buckeye Dental Care",
+          "og:type": "website"
+        },
+        "twitter_tags": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Contact | Buckeye Dental Care",
+          "twitter:image": "https://static.wixstatic.com/media/e4046b_e9ef1e657427484885fef29fc01bbc4a%7Emv2.png/v1/fit/w_2500,h_1330,al_c/e4046b_e9ef1e657427484885fef29fc01bbc4a%7Emv2.png"
+        },
+        "favicon": "https://static.parastorage.com/client/pfavico.ico",
+        "other_meta": {
+          "generator": "Wix.com Website Builder",
+          "format-detection": "telephone=no",
+          "skype_toolbar": "skype_toolbar_parser_compatible",
+          "google-site-verification": "xzi-dWCSj4KZ1D7cqRAguZ3a_wJJDHIcujnw1kb3teM"
+        }
+      },
+      "forms": [
+        {
+          "id": "comp-mbqmqjbd",
+          "name": null,
+          "action": null,
+          "method": "GET",
+          "fields": [
+            {
+              "name": "first-name",
+              "type": "text",
+              "label": "First Name",
+              "placeholder": null,
+              "required": false,
+              "value": null,
+              "options": []
+            },
+            {
+              "name": "last-name",
+              "type": "text",
+              "label": "Last Name",
+              "placeholder": null,
+              "required": false,
+              "value": null,
+              "options": []
+            },
+            {
+              "name": "email",
+              "type": "email",
+              "label": "Email",
+              "placeholder": null,
+              "required": true,
+              "value": null,
+              "options": []
+            },
+            {
+              "name": null,
+              "type": "textarea",
+              "label": "Message",
+              "placeholder": null,
+              "required": false,
+              "value": null,
+              "options": []
+            }
+          ],
+          "submit_text": "Send"
+        }
+      ],
+      "buttons": [
+        {
+          "text": "Send",
+          "type": "button",
+          "href": null,
+          "onclick": null,
+          "id": null,
+          "class_name": "twJknM wixui-button ZhVEJq",
+          "is_cta": true
+        }
+      ],
+      "structured_data": {
+        "json_ld": [],
+        "opengraph": {},
+        "microdata": []
+      },
+      "screenshot_path": null,
+      "raw_markdown_path": null,
+      "is_success": true,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "url": "https://www.buckeyedentalcare.net/services-1",
+      "path": "/services-1",
+      "title": "Services | Buckeye Dental Care",
+      "status_code": 200,
+      "crawled_at": "2026-08-23T07:05:50.137673+00:00",
+      "duration_ms": 143.89,
+      "content": {
+        "markdown": "## Our Services\n\nBuckeye Dental Care has provided Amelia and surrounding areas with quality and comprehensive healthcare services since 2016. We believe in keeping our community healthy, and we’re committed to exceeding the expectations of our patients with cutting edge services. Let us provide you and all of your family with the personalized care you deserve.\n\n[Image: smiling-face-woman-dentist-closeup-600nw-2561523233.webp]\n\nDental Cleanings\n\n[Image: istockphoto-1361598488-612x612.jpg]\n\nTeeth Whitening\n\n[Image: istockphoto-179771091-612x612.jpg]\n\nDentures\n\n[Image: dental-implant-d-rendering-example-jaw-model-79852852.webp]\n\nImplants\n\n[Image: istockphoto-158588354-612x612.jpg]\n\nPartials\n\n[Image: teeth crowns.jpg]\n\nCrowns\n\n[Image: tooth extraction.jpg]\n\nTooth Extractions\n\n[Image: braces treatment.jpg]\n\nBraces Treatment\n\n[Image: endodontic-root-canal-treatment-process-medically-accurate-tooth-d-illustration-180481293.]\n\nRoot Canal Therapy",
+        "plain_text": "top of page BUCKEYE DENTAL CARE Your Wellness, Our Priority 513-947-2273 Home Services Meet The Team Our Office Contact More Use tab to navigate through the menu items. Our Services Buckeye Dental Care has provided Amelia and surrounding areas with quality and comprehensive healthcare services since 2016. We believe in keeping our community healthy, and we’re committed to exceeding the expectations of our patients with cutting edge services. Let us provide you and all of your family with the personalized care you deserve. Dental Cleanings Teeth Whitening Dentures Implants Partials Crowns Tooth Extractions Braces Treatment Root Canal Therapy ©2019 by Buckeye Dental Care. bottom of page",
+        "word_count": 106,
+        "character_count": 693,
+        "excerpt": "top of page BUCKEYE DENTAL CARE Your Wellness, Our Priority 513-947-2273 Home Services Meet The Team Our Office Contact More Use tab to navigate through the menu items. Our Services Buckeye Dental Care has provided Amelia and surrounding areas with q..."
+      },
+      "headings": [
+        {
+          "level": 2,
+          "text": "Our Services",
+          "id": null
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.buckeyedentalcare.net",
+          "text": "New Composition_2019-01-22 15-22-49.png",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.buckeyedentalcare.net",
+          "text": "BUCKEYE DENTAL CARE",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.buckeyedentalcare.net",
+          "text": "Home",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.buckeyedentalcare.net/services-1",
+          "text": "Services",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.buckeyedentalcare.net/meet-the-team",
+          "text": "Meet The Team",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.buckeyedentalcare.net/our-office",
+          "text": "Our Office",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.buckeyedentalcare.net/contact-4",
+          "text": "Contact",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        }
+      ],
+      "images": [
+        {
+          "url": "https://static.wixstatic.com/media/e4046b_cbd5b693b2af4a93895f9bca1e7a55a5~mv2.png/v1/fill/w_166,h_93,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/New%20Composition_2019-01-22%2015-22-49.png",
+          "alt": "New Composition_2019-01-22 15-22-49.png",
+          "title": null,
+          "width": 166,
+          "height": 97,
+          "loading": null,
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/e4046b_898c8fda0ccf46548267911579a75846~mv2.webp/v1/fill/w_286,h_335,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/smiling-face-woman-dentist-closeup-600nw-2561523233.webp",
+          "alt": "smiling-face-woman-dentist-closeup-600nw-2561523233.webp",
+          "title": null,
+          "width": 286,
+          "height": 335,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/e4046b_23fafc81c9c745289b93bcef8f8b694a~mv2.jpg/v1/crop/x_132,y_0,w_348,h_408/fill/w_286,h_335,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/istockphoto-1361598488-612x612.jpg",
+          "alt": "istockphoto-1361598488-612x612.jpg",
+          "title": null,
+          "width": 286,
+          "height": 335,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/e4046b_83346c3b757645c1be5281c6f2c53db6~mv2.jpg/v1/crop/x_132,y_0,w_348,h_408/fill/w_286,h_335,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/istockphoto-179771091-612x612.jpg",
+          "alt": "istockphoto-179771091-612x612.jpg",
+          "title": null,
+          "width": 286,
+          "height": 335,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/e4046b_dfaa8a4b46e84ac3853fc0cedfe8677d~mv2.webp/v1/fill/w_286,h_335,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/dental-implant-d-rendering-example-jaw-model-79852852.webp",
+          "alt": "dental-implant-d-rendering-example-jaw-model-79852852.webp",
+          "title": null,
+          "width": 286,
+          "height": 335,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/e4046b_a102d96f0c7e469396899d8845d368f7~mv2.jpg/v1/fill/w_286,h_335,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/istockphoto-158588354-612x612.jpg",
+          "alt": "istockphoto-158588354-612x612.jpg",
+          "title": null,
+          "width": 286,
+          "height": 335,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/e4046b_6615b408de7547f4905da4ea28f87564~mv2.jpg/v1/crop/x_75,y_0,w_874,h_1024/fill/w_286,h_335,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/teeth%20crowns.jpg",
+          "alt": "teeth crowns.jpg",
+          "title": null,
+          "width": 286,
+          "height": 335,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/e4046b_e1a790a81b7c4cf8b50f3e0ec4fc1e6a~mv2.jpg/v1/crop/x_75,y_0,w_874,h_1024/fill/w_286,h_335,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/tooth%20extraction.jpg",
+          "alt": "tooth extraction.jpg",
+          "title": null,
+          "width": 286,
+          "height": 335,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/e4046b_16b20636471c45b38450a0f01724ee10~mv2.jpg/v1/crop/x_75,y_0,w_874,h_1024/fill/w_286,h_335,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/braces%20treatment.jpg",
+          "alt": "braces treatment.jpg",
+          "title": null,
+          "width": 286,
+          "height": 335,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/e4046b_9240884a0add446fa8b48de2eae97ced~mv2.webp/v1/fill/w_286,h_335,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/endodontic-root-canal-treatment-process-medically-accurate-tooth-d-illustration-180481293_.webp",
+          "alt": "endodontic-root-canal-treatment-process-medically-accurate-tooth-d-illustration-180481293.",
+          "title": null,
+          "width": 286,
+          "height": 335,
+          "loading": "lazy",
+          "local_path": null
+        }
+      ],
+      "metadata": {
+        "title": "Services | Buckeye Dental Care",
+        "description": null,
+        "keywords": [
+          "Braces",
+          "Extractions",
+          "Implants",
+          "Root Canal Therapy",
+          "Tooth Pain"
+        ],
+        "canonical": "https://www.buckeyedentalcare.net/services-1",
+        "language": "en",
+        "charset": "utf-8",
+        "viewport": "width=device-width, initial-scale=1",
+        "author": null,
+        "robots": null,
+        "og_tags": {
+          "og:title": "Services | Buckeye Dental Care",
+          "og:image": "https://static.wixstatic.com/media/e4046b_e9ef1e657427484885fef29fc01bbc4a%7Emv2.png/v1/fit/w_2500,h_1330,al_c/e4046b_e9ef1e657427484885fef29fc01bbc4a%7Emv2.png",
+          "og:image:width": "2500",
+          "og:image:height": "1330",
+          "og:url": "https://www.buckeyedentalcare.net/services-1",
+          "og:site_name": "Buckeye Dental Care",
+          "og:type": "website"
+        },
+        "twitter_tags": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Services | Buckeye Dental Care",
+          "twitter:image": "https://static.wixstatic.com/media/e4046b_e9ef1e657427484885fef29fc01bbc4a%7Emv2.png/v1/fit/w_2500,h_1330,al_c/e4046b_e9ef1e657427484885fef29fc01bbc4a%7Emv2.png"
+        },
+        "favicon": "https://static.parastorage.com/client/pfavico.ico",
+        "other_meta": {
+          "generator": "Wix.com Website Builder",
+          "format-detection": "telephone=no",
+          "skype_toolbar": "skype_toolbar_parser_compatible",
+          "google-site-verification": "xzi-dWCSj4KZ1D7cqRAguZ3a_wJJDHIcujnw1kb3teM"
+        }
+      },
+      "forms": [],
+      "buttons": [],
+      "structured_data": {
+        "json_ld": [],
+        "opengraph": {},
+        "microdata": []
+      },
+      "screenshot_path": null,
+      "raw_markdown_path": null,
+      "is_success": true,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "url": "https://www.buckeyedentalcare.net/our-office",
+      "path": "/our-office",
+      "title": "Our Office  | Buckeye Dental Care",
+      "status_code": 200,
+      "crawled_at": "2026-08-23T07:05:50.249627+00:00",
+      "duration_ms": 111.16,
+      "content": {
+        "markdown": "## Our Office\n\n[Image: BuckeyeDental_0029_edited_edited.jpg]\n\n[Image: BuckeyeDental_0026_edited.jpg]\n\n[Image: BuckeyeDental_0012_edited_edited.jpg]\n\n[Image: BuckeyeDental_0017_edited.jpg]",
+        "plain_text": "top of page BUCKEYE DENTAL CARE Your Wellness, Our Priority 513-947-2273 Home Services Meet The Team Our Office Contact More Use tab to navigate through the menu items. Our Office ©2019 by Buckeye Dental Care. bottom of page",
+        "word_count": 38,
+        "character_count": 224,
+        "excerpt": "top of page BUCKEYE DENTAL CARE Your Wellness, Our Priority 513-947-2273 Home Services Meet The Team Our Office Contact More Use tab to navigate through the menu items. Our Office ©2019 by Buckeye Dental Care. bottom of page"
+      },
+      "headings": [
+        {
+          "level": 2,
+          "text": "Our Office",
+          "id": null
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.buckeyedentalcare.net",
+          "text": "New Composition_2019-01-22 15-22-49.png",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.buckeyedentalcare.net",
+          "text": "BUCKEYE DENTAL CARE",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.buckeyedentalcare.net",
+          "text": "Home",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.buckeyedentalcare.net/services-1",
+          "text": "Services",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.buckeyedentalcare.net/meet-the-team",
+          "text": "Meet The Team",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.buckeyedentalcare.net/our-office",
+          "text": "Our Office",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.buckeyedentalcare.net/contact-4",
+          "text": "Contact",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        }
+      ],
+      "images": [
+        {
+          "url": "https://static.wixstatic.com/media/e4046b_cbd5b693b2af4a93895f9bca1e7a55a5~mv2.png/v1/fill/w_166,h_93,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/New%20Composition_2019-01-22%2015-22-49.png",
+          "alt": "New Composition_2019-01-22 15-22-49.png",
+          "title": null,
+          "width": 166,
+          "height": 97,
+          "loading": null,
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/e4046b_5cc422e9293a4de48d9f177b13445e13~mv2.jpg/v1/fill/w_685,h_294,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/BuckeyeDental_0029_edited_edited.jpg",
+          "alt": "BuckeyeDental_0029_edited_edited.jpg",
+          "title": null,
+          "width": 685,
+          "height": 294,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/e4046b_bd196a634ae74c68be8ae91f2948cb23~mv2.jpg/v1/fill/w_685,h_294,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/BuckeyeDental_0026_edited.jpg",
+          "alt": "BuckeyeDental_0026_edited.jpg",
+          "title": null,
+          "width": 685,
+          "height": 294,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/e4046b_fab75d7e95f34c2eafb2fdede22ae1ab~mv2.jpg/v1/crop/x_0,y_803,w_2000,h_858/fill/w_685,h_294,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/BuckeyeDental_0012_edited_edited.jpg",
+          "alt": "BuckeyeDental_0012_edited_edited.jpg",
+          "title": null,
+          "width": 685,
+          "height": 294,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/e4046b_dfaf781284d54ae08d18c9c31007d286~mv2.jpg/v1/fill/w_685,h_294,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/BuckeyeDental_0017_edited.jpg",
+          "alt": "BuckeyeDental_0017_edited.jpg",
+          "title": null,
+          "width": 685,
+          "height": 294,
+          "loading": "lazy",
+          "local_path": null
+        }
+      ],
+      "metadata": {
+        "title": "Our Office | Buckeye Dental Care",
+        "description": null,
+        "keywords": [
+          "Braces",
+          "Extractions",
+          "Implants",
+          "Root Canal Therapy",
+          "Tooth Pain"
+        ],
+        "canonical": "https://www.buckeyedentalcare.net/our-office",
+        "language": "en",
+        "charset": "utf-8",
+        "viewport": "width=device-width, initial-scale=1",
+        "author": null,
+        "robots": null,
+        "og_tags": {
+          "og:title": "Our Office | Buckeye Dental Care",
+          "og:image": "https://static.wixstatic.com/media/e4046b_e9ef1e657427484885fef29fc01bbc4a%7Emv2.png/v1/fit/w_2500,h_1330,al_c/e4046b_e9ef1e657427484885fef29fc01bbc4a%7Emv2.png",
+          "og:image:width": "2500",
+          "og:image:height": "1330",
+          "og:url": "https://www.buckeyedentalcare.net/our-office",
+          "og:site_name": "Buckeye Dental Care",
+          "og:type": "website"
+        },
+        "twitter_tags": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Our Office | Buckeye Dental Care",
+          "twitter:image": "https://static.wixstatic.com/media/e4046b_e9ef1e657427484885fef29fc01bbc4a%7Emv2.png/v1/fit/w_2500,h_1330,al_c/e4046b_e9ef1e657427484885fef29fc01bbc4a%7Emv2.png"
+        },
+        "favicon": "https://static.parastorage.com/client/pfavico.ico",
+        "other_meta": {
+          "generator": "Wix.com Website Builder",
+          "format-detection": "telephone=no",
+          "skype_toolbar": "skype_toolbar_parser_compatible",
+          "google-site-verification": "xzi-dWCSj4KZ1D7cqRAguZ3a_wJJDHIcujnw1kb3teM"
+        }
+      },
+      "forms": [],
+      "buttons": [],
+      "structured_data": {
+        "json_ld": [],
+        "opengraph": {},
+        "microdata": []
+      },
+      "screenshot_path": null,
+      "raw_markdown_path": null,
+      "is_success": true,
+      "errors": [],
+      "warnings": []
+    }
+  ],
+  "sitemap_urls_found": 0,
+  "site_title": "Buckeye Dental Care LLC. | Emergency Dental | 1268 Ohio Pike, Amelia, OH, USA",
+  "site_description": "Office Dedicated Gentle Dental Care Including Implants, Root Canal Therapy, and Braces.",
+  "started_at": "2026-08-23T07:05:43.216838+00:00",
+  "completed_at": "2026-08-23T07:05:50.284423+00:00",
+  "duration_seconds": 7.07,
+  "raw_output_dir": "E:\\Code\\Nayom\\data\\websites\\biz_0x884107a49bdb2ebb_0x499762b9fd414c2e\\raw",
+  "website_json_path": "E:\\Code\\Nayom\\data\\websites\\biz_0x884107a49bdb2ebb_0x499762b9fd414c2e\\website.json",
+  "errors": [],
+  "warnings": []
+}

@@ -1,0 +1,19 @@
+{
+  "recipient": "contact@thehillsdentalspa.com",
+  "subject": "Quick thought on your patient booking experience at The Hills Dental Spa",
+  "body": "Hi team at The Hills Dental Spa, I recently came across your practice while looking into aesthetic and neuromuscular care in Austin. I really admire how Dr. Kevin Winters pairs advanced K7 diagnostics with true luxury spa amenities to deliver your 'Return to Yourself' philosophy. While browsing your current site, I noticed that mobile visitors could benefit from a more streamlined, sticky booking bar to quickly schedule consultations, and some of the denser service pages could be broken down into clearer modular sections for better reading flow. Because I specialize in clean web architecture, I took a bit of time to build a modern, high-performance prototype for you. Feel free to check out the live preview here: https://nayom-preview.pages.dev/biz_0x865b3585bfa9d445_0x76e8240fc51b9e2e. If you would like to use this design or have me tweak anything, I would be happy to send over the project files or chat for 5 minutes. No worries at all if you are happy with your current setup!",
+  "business_id": "biz_0x865b3585bfa9d445_0x76e8240fc51b9e2e",
+  "preview_url": "https://nayom-preview.pages.dev/biz_0x865b3585bfa9d445_0x76e8240fc51b9e2e",
+  "generated_at": "2026-08-26T15:38:41.536213+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "business_name": "The Hills Dental Spa",
+  "key_improvements": [
+    "Added a sticky mobile booking bar for better conversion tracking",
+    "Structured dense content blocks into clean, modular sections"
+  ],
+  "provider": "gemini",
+  "prompt_version": "1.0.0",
+  "warnings": [
+    "No deployment.json found. Using preview URL fallback: https://nayom-preview.pages.dev/biz_0x865b3585bfa9d445_0x76e8240fc51b9e2e"
+  ]
+}

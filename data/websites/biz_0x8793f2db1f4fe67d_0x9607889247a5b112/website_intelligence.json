@@ -1,0 +1,126 @@
+{
+  "site_id": "biz_0x8793f2db1f4fe67d_0x9607889247a5b112",
+  "base_url": "https://www.superiordentalomaha.com/",
+  "domain": "www.superiordentalomaha.com",
+  "source_website_json": "E:\\Code\\Nayom\\data\\websites\\biz_0x8793f2db1f4fe67d_0x9607889247a5b112\\website.json",
+  "business_profile": {
+    "business_name": "Superior Dental Omaha",
+    "tagline": "Temporary under construction",
+    "description": "The website for Superior Dental Omaha is currently suspended and displaying an under construction notice.",
+    "industry_category": "Healthcare / Dental Practice",
+    "value_proposition": "Providing professional dental care services in Omaha, currently preparing a renewed web presence.",
+    "target_audience": "Patients seeking dental care and oral health services in the Omaha area.",
+    "key_differentiators": [
+      "Local dental practice in Omaha"
+    ]
+  },
+  "services_and_products": [],
+  "contact_intelligence": {
+    "emails": [],
+    "phones": [],
+    "addresses": [
+      "Omaha"
+    ],
+    "city": "Omaha",
+    "state_or_region": "NE",
+    "country": "USA",
+    "social_links": [],
+    "contact_forms_found": false,
+    "business_hours": null,
+    "has_contact_method": true
+  },
+  "brand_and_content": {
+    "tone_and_voice": [
+      "minimalist",
+      "temporary",
+      "informational"
+    ],
+    "brand_positioning": "Local dental clinic undergoing website transition or maintenance.",
+    "hero_headlines": [
+      "Temporary under construction",
+      "This website is temporary under construction."
+    ],
+    "important_copy_snippets": [
+      "We will back again soon."
+    ],
+    "content_quality_score": 2
+  },
+  "calls_to_action": [],
+  "design_and_ux": {
+    "visual_aesthetic": "Default server suspension or placeholder page, extremely sparse and unstyled.",
+    "typography_assessment": "Standard browser default serif or sans-serif heading and body text with no custom styling.",
+    "color_palette_assessment": "Monochrome or plain white background with standard black text.",
+    "layout_and_spacing": "Unstructured plain text alignment without grid systems, margins, or padding.",
+    "ux_navigation_flow": "Non-existent due to suspension or placeholder state.",
+    "visual_inputs_analyzed": false,
+    "screenshot_observations": [],
+    "strengths": [
+      "Clear status message indicating the site is temporary."
+    ],
+    "weaknesses": [
+      "Website is suspended/under construction.",
+      "No contact information, booking system, or practice details available.",
+      "Complete lack of branding and design."
+    ]
+  },
+  "technical_and_seo": {
+    "inferred_tech_stack": [],
+    "seo_health": "Poor SEO health due to website suspension and lack of indexable content beyond a generic placeholder message.",
+    "seo_strengths": [],
+    "seo_weaknesses": [
+      "Meta description indicates website suspension",
+      "Missing canonical links, structured data, and content keywords"
+    ],
+    "accessibility_observations": "Basic HTML heading structure present, but lacks comprehensive accessibility landmarks.",
+    "performance_and_structure_notes": "Extremely low asset weight due to absence of content."
+  },
+  "redesign_recommendations": {
+    "overall_redesign_verdict": "Complete overhaul required to transform the placeholder landing page into a fully functional, patient-converting local dental practice website.",
+    "strategic_recommendations": [
+      "Develop a modern patient-facing local service website with online booking and patient intake forms.",
+      "Incorporate clear service offerings (preventative, cosmetic, restorative dental care).",
+      "Highlight doctor credentials, patient testimonials, office location, and contact information prominently."
+    ],
+    "ui_ux_improvements": [
+      "Implement a clean, welcoming healthcare aesthetic with calming color palettes (blues and greens).",
+      "Ensure mobile-first responsive design for patients searching on smartphones.",
+      "Add prominent 'Schedule Appointment' and 'Call Us' conversion buttons in the sticky header and hero section."
+    ],
+    "rebuild_opportunities": [
+      "Build using Next.js and Tailwind CSS for lightning-fast performance and exceptional SEO performance.",
+      "Integrate an automated patient scheduling and CRM lead-capture funnel."
+    ],
+    "quick_wins": [
+      "Add direct clinic phone number and address to the under construction landing page immediately so existing patients can reach the office.",
+      "Include operating hours and emergency contact instructions."
+    ]
+  },
+  "template_recommendation": {
+    "recommended_template": "local-service-leadgen",
+    "template_category": "local_service",
+    "style_direction": "clean_corporate",
+    "layout_pattern": "split_hero_feature_stack",
+    "template_confidence": 0.95,
+    "key_sections": [
+      "hero",
+      "services_grid",
+      "about_doctor",
+      "patient_reviews",
+      "lead_booking_cta",
+      "footer_map_hours"
+    ],
+    "reasoning": "A local dental clinic requires a trustworthy, appointment-driven lead generation template optimized for local SEO, mobile conversions, and patient booking."
+  },
+  "metadata": {
+    "provider": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "prompt_version": "1.0.0",
+    "analyzed_at": "2026-08-24T10:00:47.978062+00:00",
+    "screenshots_processed": 0,
+    "duration_seconds": 8.83,
+    "token_usage": null
+  },
+  "warnings": [
+    "Website is currently suspended or under construction."
+  ]
+}

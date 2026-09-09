@@ -1,0 +1,60 @@
+{
+  "id": "salon-glow",
+  "name": "Salon Glow & Beauty Spa",
+  "version": "v1",
+  "description": "Elegant beauty salon and wellness spa template featuring service menus, stylist portfolios, and online appointment booking.",
+  "industry": [
+    "salon",
+    "spa",
+    "beauty",
+    "hairdresser",
+    "barber",
+    "skincare",
+    "massage"
+  ],
+  "categories": [
+    "salon",
+    "beauty",
+    "spa"
+  ],
+  "styles": [
+    "warm_editorial",
+    "soft",
+    "luxurious",
+    "elegant"
+  ],
+  "layouts": [
+    "bento_grid",
+    "single_page_anchor_flow"
+  ],
+  "features": [
+    "booking",
+    "pricing",
+    "testimonials",
+    "faqs",
+    "contact_form"
+  ],
+  "entrypoint": "app/page.tsx",
+  "slots": {
+    "site.name": "string",
+    "site.tagline": "string",
+    "site.niche": "string",
+    "hero.title": "string",
+    "hero.subtitle": "string",
+    "hero.cta": "string",
+    "hero.ctaLink": "string",
+    "about.summary": "string",
+    "about.differentiators": "string",
+    "contact.phone": "string",
+    "contact.email": "string",
+    "contact.address": "string",
+    "contact.location": "string",
+    "services": "string",
+    "testimonials": "string",
+    "faqs": "string",
+    "socialLinks": "string",
+    "locations": "string",
+    "seo": "string"
+  },
+  "preview_image": "preview/thumbnail.png"
+}

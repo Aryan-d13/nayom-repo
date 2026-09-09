@@ -1,0 +1,19 @@
+{
+  "recipient": null,
+  "subject": "Quick thought on Emergency Dental of Omaha's mobile booking",
+  "body": "Hi Dr. Roberto Monteagudo and team, I came across Emergency Dental of Omaha while looking into practices providing crucial same-day care in Nebraska. Your dedication to handling urgent toothaches and extractions when patients need it most is fantastic. While browsing your current site, I noticed that the main contact telephone numbers are a bit buried in text-dense areas, and mobile visitors lack a sticky call-to-action bar for immediate pain management booking. To see how these friction points could be solved, I put together a clean, modern prototype for your practice. It features a sticky emergency contact bar, a streamlined bento grid for services like general dentistry and urgent evaluations, and enhanced local geo-intent for Omaha searches. You can check out the live preview here: https://nayom-biz-0x8793f29582007b19-0xc0f9b048bbc342a.vercel.app. If you would like to use this design or have me tweak anything, I would be happy to send over the project files or chat for five minutes. No worries at all if you are happy with your current setup!",
+  "business_id": "biz_0x8793f29582007b19_0xc0f9b048bbc342ae",
+  "preview_url": "https://nayom-biz-0x8793f29582007b19-0xc0f9b048bbc342a.vercel.app",
+  "generated_at": "2026-08-24T10:05:42.239027+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "business_name": "Emergency Dental of Omaha",
+  "key_improvements": [
+    "Added a sticky 'Call Now / Book Same-Day' action bar for mobile visitors",
+    "Highlighted phone numbers and contact actions more prominently",
+    "Streamlined service offerings into a clean bento grid layout",
+    "Enhanced local geo-intent metadata for Omaha emergency dental searches"
+  ],
+  "provider": "gemini",
+  "prompt_version": "1.0.0",
+  "warnings": []
+}

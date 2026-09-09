@@ -1,0 +1,19 @@
+{
+  "recipient": null,
+  "subject": "Quick thought on Swish Dental South's website + a live prototype",
+  "body": "Hi Swish Dental Team, I always admire how Swish Dental South blends advanced dental technology with a comfortable, spa-like setting right here in Austin. While looking over your location page on South 1st, I noticed a couple of quick opportunities to help drive more bookings: making the click-to-call phone number instantly accessible for mobile patients and highlighting accepted insurance providers right near the top. I put together a quick, modern prototype for you to see how a cleaner layout and instant mobile call buttons could look in action: https://nayom-preview.pages.dev/biz_0x8644b4c083327d89_0x36f8ffe05367f696. Feel free to check out the live preview. If you like the direction and want to use the design or tweak anything, just let me know and I'll gladly send over the files. No worries at all if you're happy with your current setup!",
+  "business_id": "biz_0x8644b4c083327d89_0x36f8ffe05367f696",
+  "preview_url": "https://nayom-preview.pages.dev/biz_0x8644b4c083327d89_0x36f8ffe05367f696",
+  "generated_at": "2026-08-26T16:02:15.083433+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "business_name": "Swish Dental South",
+  "key_improvements": [
+    "Added prominent click-to-call buttons for mobile visitors",
+    "Highlighted accepted insurance providers directly below the hero section"
+  ],
+  "provider": "gemini",
+  "prompt_version": "1.0.0",
+  "warnings": [
+    "No deployment.json found. Using preview URL fallback: https://nayom-preview.pages.dev/biz_0x8644b4c083327d89_0x36f8ffe05367f696"
+  ]
+}

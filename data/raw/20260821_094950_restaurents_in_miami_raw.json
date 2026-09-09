@@ -1,0 +1,2795 @@
+[
+  {
+    "longitude": -80.26611319999999,
+    "input_id": "Ph-IapvnBfaW4-EPs6vVsQ8",
+    "link": "",
+    "cid": "",
+    "title": "Miranda Cuisine and Bar",
+    "categories": [
+      "Restaurant",
+      "Bar",
+      "Gastropub",
+      "Lounge bar"
+    ],
+    "category": "",
+    "address": "4299 NW 36th St, Miami Springs, FL 33166, United States",
+    "open_hours": {
+      "Friday": [
+        "7 am–11 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://www.mirandamiami.com/",
+    "phone": "+1786-409-6490",
+    "plus_code": "76QXRP5M+GH",
+    "review_count": 0,
+    "review_rating": 4.9,
+    "reviews_per_rating": null,
+    "latitude": 25.808826399999997,
+    "longtitude": -80.26611319999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x88d9b752b2a62fb3:0x258055a70f1dfa3",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -80.2204292,
+    "input_id": "Ph-IapvnBfaW4-EPs6vVsQ8",
+    "link": "",
+    "cid": "",
+    "title": "Elia",
+    "categories": [
+      "Restaurant",
+      "Bar",
+      "Italian restaurant",
+      "Southern Italian restaurant"
+    ],
+    "category": "",
+    "address": "1440 NW N River Dr Ste 195, Miami, FL 33125, United States",
+    "open_hours": {
+      "Friday": [
+        "11:30 am–12 am"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.eliaontheriver.com/",
+    "phone": "+1305-904-4045",
+    "plus_code": "76QXQQPH+2R",
+    "review_count": 0,
+    "review_rating": 4.8,
+    "reviews_per_rating": null,
+    "latitude": 25.7850982,
+    "longtitude": -80.2204292,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x88d9b6c3223dc5e5:0x51442116e51269bc",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -80.24422179999999,
+    "input_id": "Ph-IaryGGpja4-EPiuyBmQk",
+    "link": "",
+    "cid": "",
+    "title": "Level 6 Rooftop Restaurant Miami",
+    "categories": [
+      "Restaurant"
+    ],
+    "category": "",
+    "address": "3480 Main Hwy 6th floor, Coconut Grove, FL 33133, United States",
+    "open_hours": {
+      "Friday": [
+        "5 pm–2 am"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://level6miami.com/",
+    "phone": "+1786-800-2080",
+    "plus_code": "76QXPQG4+H8",
+    "review_count": 0,
+    "review_rating": 4.8,
+    "reviews_per_rating": null,
+    "latitude": 25.7264563,
+    "longtitude": -80.24422179999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x88d9b7c542455555:0x7b769e2b5bb018b2",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -80.2204292,
+    "input_id": "Ph-IaryGGpja4-EPiuyBmQk",
+    "link": "",
+    "cid": "",
+    "title": "Elia",
+    "categories": [
+      "Restaurant",
+      "Bar",
+      "Italian restaurant",
+      "Southern Italian restaurant"
+    ],
+    "category": "",
+    "address": "1440 NW N River Dr Ste 195, Miami, FL 33125, United States",
+    "open_hours": {
+      "Friday": [
+        "11:30 am–12 am"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.eliaontheriver.com/",
+    "phone": "+1305-904-4045",
+    "plus_code": "76QXQQPH+2R",
+    "review_count": 0,
+    "review_rating": 4.8,
+    "reviews_per_rating": null,
+    "latitude": 25.7850982,
+    "longtitude": -80.2204292,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x88d9b6c3223dc5e5:0x51442116e51269bc",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -80.1926335,
+    "input_id": "Ph-IarfjGY7lg8UPsb2q6QY",
+    "link": "",
+    "cid": "",
+    "title": "Salty Flame",
+    "categories": [
+      "Restaurant",
+      "Asian fusion restaurant",
+      "Bar & grill",
+      "Catering food and drink supplier",
+      "Cocktail bar",
+      "Lounge bar"
+    ],
+    "category": "",
+    "address": "1414 Brickell Ave, Miami, FL 33131, United States",
+    "open_hours": {
+      "Friday": [
+        "12 pm–12 am"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://saltyflamerestaurant.com/",
+    "phone": "+1305-563-8972",
+    "plus_code": "76QXQR64+4W",
+    "review_count": 0,
+    "review_rating": 4.6,
+    "reviews_per_rating": null,
+    "latitude": 25.760263899999998,
+    "longtitude": -80.1926335,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x88d9b70042eaaebd:0x6761bc621578112c",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -80.1889886,
+    "input_id": "Ph-IarfjGY7lg8UPsb2q6QY",
+    "link": "",
+    "cid": "",
+    "title": "Crazy About You",
+    "categories": [
+      "American restaurant",
+      "Brunch restaurant",
+      "Spanish restaurant"
+    ],
+    "category": "",
+    "address": "1155 Brickell Bay Dr PH101, Miami, FL 33131, United States",
+    "open_hours": {
+      "Friday": [
+        "11 am–12 am"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://passionrestaurantgroup.com/restaurants/crazy-about-you/",
+    "phone": "+1305-377-4442",
+    "plus_code": "76QXQR66+RC",
+    "review_count": 0,
+    "review_rating": 4.8,
+    "reviews_per_rating": null,
+    "latitude": 25.7620008,
+    "longtitude": -80.1889886,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x88d9b6818d92a5e7:0xd1cfb7f1bc8bc057",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -80.1934058,
+    "input_id": "Ph-IarfjGY7lg8UPsb2q6QY",
+    "link": "",
+    "cid": "",
+    "title": "Dolores But You Can Call Me Lolita",
+    "categories": [
+      "American restaurant"
+    ],
+    "category": "",
+    "address": "1000 S Miami Ave, Miami, FL 33130, United States",
+    "open_hours": {
+      "Friday": [
+        "3 pm–12 am"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://passionrestaurantgroup.com/restaurants/dolores-lolita/",
+    "phone": "+1305-403-3103",
+    "plus_code": "76QXQR74+PJ",
+    "review_count": 0,
+    "review_rating": 4.8,
+    "reviews_per_rating": null,
+    "latitude": 25.7642717,
+    "longtitude": -80.1934058,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x88d9b6840b4ca0f5:0xb09141f8812e686c",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -80.1930205,
+    "input_id": "Ph-IarfjGY7lg8UPsb2q6QY",
+    "link": "",
+    "cid": "",
+    "title": "Sexy Fish Miami",
+    "categories": [
+      "Japanese restaurant",
+      "Cocktail bar",
+      "Event venue",
+      "Japanese steakhouse",
+      "Seafood restaurant"
+    ],
+    "category": "",
+    "address": "1001 S Miami Ave, Miami, FL 33130, United States",
+    "open_hours": {
+      "Friday": [
+        "12 pm–2 am"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://sexyfishmiami.com/?utm_source=LocalGoogleExtNet&utm_medium=Organic",
+    "phone": "+1305-889-7888",
+    "plus_code": "76QXQR74+PQ",
+    "review_count": 0,
+    "review_rating": 4.5,
+    "reviews_per_rating": null,
+    "latitude": 25.7643553,
+    "longtitude": -80.1930205,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x88d9b7f0e011f975:0x86d62acce20f1183",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -80.19356669999999,
+    "input_id": "Ph-IarfjGY7lg8UPsb2q6QY",
+    "link": "",
+    "cid": "",
+    "title": "Novecento",
+    "categories": [
+      "Argentinian restaurant",
+      "Brunch restaurant",
+      "Italian restaurant",
+      "South American restaurant",
+      "Steak house"
+    ],
+    "category": "",
+    "address": "900 S Miami Ave #260, Miami, FL 33130, United States",
+    "open_hours": {
+      "Friday": [
+        "11 am–12 am"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://www.novecento.com/",
+    "phone": "+1305-403-0900",
+    "plus_code": "76QXQR74+XH",
+    "review_count": 0,
+    "review_rating": 4.7,
+    "reviews_per_rating": null,
+    "latitude": 25.764995799999998,
+    "longtitude": -80.19356669999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x88d9b68128806b11:0xc41665b01b14e13c",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -80.1930697,
+    "input_id": "Ph-IarfjGY7lg8UPsb2q6QY",
+    "link": "",
+    "cid": "",
+    "title": "Balan's",
+    "categories": [
+      "European restaurant",
+      "Breakfast restaurant",
+      "Brunch restaurant",
+      "Cocktail bar",
+      "Takeout restaurant",
+      "Restaurant",
+      "Wine bar"
+    ],
+    "category": "",
+    "address": "901 S Miami Ave Spc 108, Miami, FL 33130, United States",
+    "open_hours": {
+      "Friday": [
+        "8 am–2 am"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://balansbrickell.com/",
+    "phone": "+1305-809-8587",
+    "plus_code": "76QXQR74+XQ",
+    "review_count": 0,
+    "review_rating": 4.7,
+    "reviews_per_rating": null,
+    "latitude": 25.7649275,
+    "longtitude": -80.1930697,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x88d9b486489d7f3f:0x3e02d9f17e126101",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -80.196175,
+    "input_id": "Ph-IarfjGY7lg8UPsb2q6QY",
+    "link": "",
+    "cid": "",
+    "title": "Rosa Sky",
+    "categories": [
+      "Restaurant",
+      "Brunch restaurant",
+      "Event venue",
+      "Lounge bar",
+      "Cocktail bar",
+      "Small plates restaurant",
+      "Tapas bar"
+    ],
+    "category": "",
+    "address": "115 SW 8th St 22nd Floor, Miami, FL 33130, United States",
+    "open_hours": {
+      "Friday": [
+        "4:30 pm–2 am"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://rosaskyrooftop.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+    "phone": "+1786-628-1515",
+    "plus_code": "76QXQR83+PG",
+    "review_count": 0,
+    "review_rating": 4.7,
+    "reviews_per_rating": null,
+    "latitude": 25.766847199999997,
+    "longtitude": -80.196175,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x88d9b76831e70ca7:0x769368b51385f8b3",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -80.1753116,
+    "input_id": "Ph-IarfjGY7lg8UPsb2q6QY",
+    "link": "",
+    "cid": "",
+    "title": "Rusty Pelican Miami",
+    "categories": [
+      "Seafood restaurant",
+      "Restaurant"
+    ],
+    "category": "",
+    "address": "3201 Rickenbacker Cwy, Key Biscayne, FL 33149, United States",
+    "open_hours": {
+      "Friday": [
+        "12–11 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.therustypelican.com/",
+    "phone": "+1305-361-3818",
+    "plus_code": "76QXPRXF+4V",
+    "review_count": 0,
+    "review_rating": 4.7,
+    "reviews_per_rating": null,
+    "latitude": 25.7478443,
+    "longtitude": -80.1753116,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x88d9b5ce30dc6373:0xb44eee30744447fe",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -80.19006159999999,
+    "input_id": "Ph-IarfjGY7lg8UPsb2q6QY",
+    "link": "",
+    "cid": "",
+    "title": "Komodo Miami",
+    "categories": [
+      "Asian restaurant",
+      "Restaurant"
+    ],
+    "category": "",
+    "address": "801 Brickell Ave, Miami, FL 33131, United States",
+    "open_hours": {
+      "Friday": [
+        "6–11 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://komodomiami.com/",
+    "phone": "+1305-534-2211",
+    "plus_code": "76QXQR85+6X",
+    "review_count": 0,
+    "review_rating": 4.5,
+    "reviews_per_rating": null,
+    "latitude": 25.765615999999998,
+    "longtitude": -80.19006159999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x88d9b68301bca077:0x347414622fbee362",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -80.1939008,
+    "input_id": "Ph-IarfjGY7lg8UPsb2q6QY",
+    "link": "",
+    "cid": "",
+    "title": "Marabu Restaurant",
+    "categories": [
+      "Cuban restaurant",
+      "Cocktail bar"
+    ],
+    "category": "",
+    "address": "701 S Miami Ave Fl 4, Miami, FL 33131, United States",
+    "open_hours": {
+      "Friday": [
+        "11:30 am–11 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.maraburestaurant.com/",
+    "phone": "+1786-598-8012",
+    "plus_code": "76QXQR84+QC",
+    "review_count": 0,
+    "review_rating": 4.8,
+    "reviews_per_rating": null,
+    "latitude": 25.766885,
+    "longtitude": -80.1939008,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x88d9b7e981504f7b:0x7a93789266f36407",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -80.1969397,
+    "input_id": "Ph-IarfjGY7lg8UPsb2q6QY",
+    "link": "",
+    "cid": "",
+    "title": "MAYU",
+    "categories": [
+      "Peruvian restaurant",
+      "Caterer",
+      "Cocktail bar",
+      "Fine dining restaurant",
+      "Seafood restaurant",
+      "Sushi restaurant"
+    ],
+    "category": "",
+    "address": "177 SW 7th St, Miami, FL 33130, United States",
+    "open_hours": {
+      "Friday": [
+        "12–11:30 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://mayumiami.com/?utm_source=google",
+    "phone": "+1305-860-1426",
+    "plus_code": "76QXQR83+X6",
+    "review_count": 0,
+    "review_rating": 4.9,
+    "reviews_per_rating": null,
+    "latitude": 25.767462599999998,
+    "longtitude": -80.1969397,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x88d9b729f172b63f:0xded7af2d473ade7e",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -80.1884975,
+    "input_id": "Ph-IarfjGY7lg8UPsb2q6QY",
+    "link": "",
+    "cid": "",
+    "title": "Gordon Ramsay Hell's Kitchen - Miami",
+    "categories": [
+      "Restaurant"
+    ],
+    "category": "",
+    "address": "333 Biscayne Blvd Way, Miami, FL 33131, United States",
+    "open_hours": {
+      "Friday": [
+        "11:45 am–3 pm",
+        "5–11 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.gordonramsayrestaurants.com/en/us/hells-kitchen/locations/miami",
+    "phone": "+1786-688-0082",
+    "plus_code": "76QXQRC6+FJ",
+    "review_count": 0,
+    "review_rating": 4.3,
+    "reviews_per_rating": null,
+    "latitude": 25.771166599999997,
+    "longtitude": -80.1884975,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x88d9b57ad1b72c73:0x996cf05dbd5b1ef1",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -80.2005081,
+    "input_id": "Ph-IarfjGY7lg8UPsb2q6QY",
+    "link": "",
+    "cid": "",
+    "title": "CASA NEOS",
+    "categories": [
+      "Mediterranean restaurant",
+      "Bar",
+      "Brunch restaurant",
+      "Restaurant",
+      "Seafood restaurant"
+    ],
+    "category": "",
+    "address": "40 SW North River Dr, Miami, FL 33128, United States",
+    "open_hours": {
+      "Friday": [
+        "6 pm–2:30 am"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.casa-neos.com/",
+    "phone": "+1305-800-6367",
+    "plus_code": "76QXQQFX+CQ",
+    "review_count": 0,
+    "review_rating": 4.8,
+    "reviews_per_rating": null,
+    "latitude": 25.773616,
+    "longtitude": -80.2005081,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x88d9b759e1e7d6e3:0x2d23d267531ed387",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -80.18773809999999,
+    "input_id": "Ph-IarfjGY7lg8UPsb2q6QY",
+    "link": "",
+    "cid": "",
+    "title": "Naked Farmer",
+    "categories": [
+      "New American restaurant",
+      "American restaurant",
+      "Takeout restaurant"
+    ],
+    "category": "",
+    "address": "200 S Biscayne Blvd Ste 145, Miami, FL 33131, United States",
+    "open_hours": {
+      "Friday": [
+        "10:30 am–10 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.eatnakedfarmer.com/",
+    "phone": "+1305-614-3911",
+    "plus_code": "76QXQRC6+VW",
+    "review_count": 0,
+    "review_rating": 4.8,
+    "reviews_per_rating": null,
+    "latitude": 25.772242199999997,
+    "longtitude": -80.18773809999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x88d9b754cad76d95:0x939efb61dc4ce7c5",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -80.1895347,
+    "input_id": "Ph-IarfjGY7lg8UPsb2q6QY",
+    "link": "",
+    "cid": "",
+    "title": "Fiore Caffe Miami",
+    "categories": [
+      "Breakfast restaurant",
+      "American restaurant",
+      "Brunch restaurant",
+      "Chicken restaurant",
+      "Lunch restaurant"
+    ],
+    "category": "",
+    "address": "228 SE 1st St, Miami, FL 33131, United States",
+    "open_hours": {
+      "Friday": [
+        "8 am–3:45 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://fiorecaffemiami.com/?utm_source=google",
+    "phone": "+1786-558-5152",
+    "plus_code": "76QXQRF6+85",
+    "review_count": 0,
+    "review_rating": 4.8,
+    "reviews_per_rating": null,
+    "latitude": 25.7732729,
+    "longtitude": -80.1895347,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x88d9b7682012ba6d:0x43e79223046f5598",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -80.19044339999999,
+    "input_id": "Ph-IarfjGY7lg8UPsb2q6QY",
+    "link": "",
+    "cid": "",
+    "title": "Niu Kitchen",
+    "categories": [
+      "Tapas restaurant",
+      "Catalonian restaurant",
+      "Restaurant",
+      "Spanish restaurant"
+    ],
+    "category": "",
+    "address": "104 NE 2nd Ave, Miami, FL 33132, United States",
+    "open_hours": {
+      "Friday": [
+        "5–10:30 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://niukitchen.com/",
+    "phone": "+1786-717-6711",
+    "plus_code": "76QXQRG5+5R",
+    "review_count": 0,
+    "review_rating": 4.6,
+    "reviews_per_rating": null,
+    "latitude": 25.7753935,
+    "longtitude": -80.19044339999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x88d9b69e8ab2a665:0xb49b913b43f13612",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -80.18844179999999,
+    "input_id": "Ph-IarfjGY7lg8UPsb2q6QY",
+    "link": "",
+    "cid": "",
+    "title": "CVI.CHE 105",
+    "categories": [
+      "Peruvian restaurant",
+      "Bar",
+      "Cocktail bar",
+      "Latin American restaurant",
+      "Restaurant",
+      "Seafood restaurant",
+      "South American restaurant",
+      "Wine bar"
+    ],
+    "category": "",
+    "address": "105 NE 3rd Ave, Miami, FL 33132, United States",
+    "open_hours": {
+      "Friday": [
+        "12–11:30 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.ceviche105.com/",
+    "phone": "+1305-577-3454",
+    "plus_code": "76QXQRG6+5J",
+    "review_count": 0,
+    "review_rating": 4.9,
+    "reviews_per_rating": null,
+    "latitude": 25.7754765,
+    "longtitude": -80.18844179999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x88d9b69e13f63e97:0xf33305312982752d",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -80.19341399999999,
+    "input_id": "Ph-IarfjGY7lg8UPsb2q6QY",
+    "link": "",
+    "cid": "",
+    "title": "Giselle Miami",
+    "categories": [
+      "Fusion restaurant",
+      "Asian fusion restaurant",
+      "Asian restaurant",
+      "Bar",
+      "Cocktail bar",
+      "Fine dining restaurant",
+      "French restaurant",
+      "Restaurant",
+      "Seafood restaurant",
+      "Steak house"
+    ],
+    "category": "",
+    "address": "15 NE 11th St, Miami, FL 33132, United States",
+    "open_hours": {
+      "Friday": [
+        "6 pm–3 am"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://gisellemiami.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+    "phone": "+1305-358-9848",
+    "plus_code": "76QXQRM4+XJ",
+    "review_count": 0,
+    "review_rating": 4.8,
+    "reviews_per_rating": null,
+    "latitude": 25.7849637,
+    "longtitude": -80.19341399999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x88d9b74fb080e623:0xaf519dbaf0ea0a95",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -80.2204292,
+    "input_id": "Ph-IarfjGY7lg8UPsb2q6QY",
+    "link": "",
+    "cid": "",
+    "title": "Elia",
+    "categories": [
+      "Restaurant",
+      "Bar",
+      "Italian restaurant",
+      "Southern Italian restaurant"
+    ],
+    "category": "",
+    "address": "1440 NW N River Dr Ste 195, Miami, FL 33125, United States",
+    "open_hours": {
+      "Friday": [
+        "11:30 am–12 am"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.eliaontheriver.com/",
+    "phone": "+1305-904-4045",
+    "plus_code": "76QXQQPH+2R",
+    "review_count": 0,
+    "review_rating": 4.8,
+    "reviews_per_rating": null,
+    "latitude": 25.7850982,
+    "longtitude": -80.2204292,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x88d9b6c3223dc5e5:0x51442116e51269bc",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -80.19629739999999,
+    "input_id": "Ph-IarfjGY7lg8UPsb2q6QY",
+    "link": "",
+    "cid": "",
+    "title": "Ossobuco Miami - Steak house",
+    "categories": [
+      "Steak house"
+    ],
+    "category": "",
+    "address": "62 NW 27th St, Miami, FL 33127, United States",
+    "open_hours": {
+      "Friday": [
+        "4–11 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://ossobuco.miami/",
+    "phone": "+1786-833-9971",
+    "plus_code": "76QXRR23+RF",
+    "review_count": 0,
+    "review_rating": 4.9,
+    "reviews_per_rating": null,
+    "latitude": 25.8020657,
+    "longtitude": -80.19629739999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x88d9b75ecae92969:0x7d5e9de916a9cf5e",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -80.1918219,
+    "input_id": "Ph-IaraOBui84-EPq8P12As",
+    "link": "",
+    "cid": "",
+    "title": "Sofia Italian Restaurant Miami",
+    "categories": [
+      "Italian restaurant",
+      "Bar",
+      "Brunch restaurant",
+      "Cocktail bar",
+      "Event venue",
+      "Fine dining restaurant",
+      "Lunch restaurant",
+      "Restaurant"
+    ],
+    "category": "",
+    "address": "Inside Palm Court Dome, 140 NE 39th St #133, Miami, FL 33137, United States",
+    "open_hours": {
+      "Friday": [
+        "11:30 am–11 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://sofiamiamidd.com/?utm_source=&utm_medium=&utm_campaign=&utm_content=sofia-miami-design-district",
+    "phone": "+1786-220-0225",
+    "plus_code": "76QXRR65+X7",
+    "review_count": 0,
+    "review_rating": 4.8,
+    "reviews_per_rating": null,
+    "latitude": 25.812376,
+    "longtitude": -80.1918219,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x88d9b156de400001:0xf12bc61f0008b007",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -80.1960946,
+    "input_id": "Ph-IaraOBui84-EPq8P12As",
+    "link": "",
+    "cid": "",
+    "title": "Pasta e Basta",
+    "categories": [
+      "Italian restaurant",
+      "Restaurant"
+    ],
+    "category": "",
+    "address": "30 NW 34th St Ste 110, Miami, FL 33127, United States",
+    "open_hours": {
+      "Friday": [
+        "12–11 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://www.pastaebasta.us/",
+    "phone": "+1786-432-8165",
+    "plus_code": "76QXRR53+6H",
+    "review_count": 0,
+    "review_rating": 4.9,
+    "reviews_per_rating": null,
+    "latitude": 25.8080395,
+    "longtitude": -80.1960946,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x88d9b19fd8e20ec5:0xdb90d85a2e1158e1",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -80.1913478,
+    "input_id": "Ph-IaraOBui84-EPq8P12As",
+    "link": "",
+    "cid": "",
+    "title": "Boia De",
+    "categories": [
+      "Italian restaurant",
+      "Restaurant"
+    ],
+    "category": "",
+    "address": "5205 NE 2nd Ave, Miami, FL 33137, United States",
+    "open_hours": {
+      "Friday": [
+        "5:30–10:30 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://www.boiaderestaurant.com/",
+    "phone": "+1786-209-6310",
+    "plus_code": "76QXRRF5+PF",
+    "review_count": 0,
+    "review_rating": 4.6,
+    "reviews_per_rating": null,
+    "latitude": 25.8242908,
+    "longtitude": -80.1913478,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x88d9b11bdb1bedb5:0x3cd2dba2c5fec7af",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -80.19629739999999,
+    "input_id": "Ph-IaraOBui84-EPq8P12As",
+    "link": "",
+    "cid": "",
+    "title": "Ossobuco Miami - Steak house",
+    "categories": [
+      "Steak house"
+    ],
+    "category": "",
+    "address": "62 NW 27th St, Miami, FL 33127, United States",
+    "open_hours": {
+      "Friday": [
+        "4–11 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://ossobuco.miami/",
+    "phone": "+1786-833-9971",
+    "plus_code": "76QXRR23+RF",
+    "review_count": 0,
+    "review_rating": 4.9,
+    "reviews_per_rating": null,
+    "latitude": 25.8020657,
+    "longtitude": -80.19629739999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x88d9b75ecae92969:0x7d5e9de916a9cf5e",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -80.196981,
+    "input_id": "Ph-IaraOBui84-EPq8P12As",
+    "link": "",
+    "cid": "",
+    "title": "Sha Wynwood",
+    "categories": [
+      "Mediterranean restaurant",
+      "Asian fusion restaurant",
+      "Cocktail bar",
+      "Fine dining restaurant",
+      "Live music venue",
+      "Lounge bar",
+      "Restaurant"
+    ],
+    "category": "",
+    "address": "97 NW 25th St, Miami, FL 33127, United States",
+    "open_hours": {
+      "Friday": [
+        "4 pm–3 am"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.shawynwood.com/",
+    "phone": "+1305-204-0694",
+    "plus_code": "76QXRR23+96",
+    "review_count": 0,
+    "review_rating": 4.7,
+    "reviews_per_rating": null,
+    "latitude": 25.8009371,
+    "longtitude": -80.196981,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x88d9b7025f2d6f77:0x2b5945d356f39e3b",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -80.197581,
+    "input_id": "Ph-IaraOBui84-EPq8P12As",
+    "link": "",
+    "cid": "",
+    "title": "Mayami Wynwood",
+    "categories": [
+      "Restaurant",
+      "Asian fusion restaurant",
+      "Bar",
+      "Brunch restaurant",
+      "Cocktail bar",
+      "Dance club",
+      "Disco club",
+      "Live music bar",
+      "Mexican restaurant",
+      "Night club"
+    ],
+    "category": "",
+    "address": "127 NW 23rd St, Miami, FL 33127, United States",
+    "open_hours": {
+      "Friday": [
+        "5 pm–3 am"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.mayamiwynwood.com/",
+    "phone": "+1786-660-1341",
+    "plus_code": "76QXQRX2+PX",
+    "review_count": 0,
+    "review_rating": 4.6,
+    "reviews_per_rating": null,
+    "latitude": 25.799334599999998,
+    "longtitude": -80.197581,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x88d9b72b29c3ed85:0xdaa98f251399e554",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -80.19341399999999,
+    "input_id": "Ph-IaraOBui84-EPq8P12As",
+    "link": "",
+    "cid": "",
+    "title": "Giselle Miami",
+    "categories": [
+      "Fusion restaurant",
+      "Asian fusion restaurant",
+      "Asian restaurant",
+      "Bar",
+      "Cocktail bar",
+      "Fine dining restaurant",
+      "French restaurant",
+      "Restaurant",
+      "Seafood restaurant",
+      "Steak house"
+    ],
+    "category": "",
+    "address": "15 NE 11th St, Miami, FL 33132, United States",
+    "open_hours": {
+      "Friday": [
+        "6 pm–3 am"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://gisellemiami.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+    "phone": "+1305-358-9848",
+    "plus_code": "76QXQRM4+XJ",
+    "review_count": 0,
+    "review_rating": 4.8,
+    "reviews_per_rating": null,
+    "latitude": 25.7849637,
+    "longtitude": -80.19341399999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x88d9b74fb080e623:0xaf519dbaf0ea0a95",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -80.2204292,
+    "input_id": "Ph-IaraOBui84-EPq8P12As",
+    "link": "",
+    "cid": "",
+    "title": "Elia",
+    "categories": [
+      "Restaurant",
+      "Bar",
+      "Italian restaurant",
+      "Southern Italian restaurant"
+    ],
+    "category": "",
+    "address": "1440 NW N River Dr Ste 195, Miami, FL 33125, United States",
+    "open_hours": {
+      "Friday": [
+        "11:30 am–12 am"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.eliaontheriver.com/",
+    "phone": "+1305-904-4045",
+    "plus_code": "76QXQQPH+2R",
+    "review_count": 0,
+    "review_rating": 4.8,
+    "reviews_per_rating": null,
+    "latitude": 25.7850982,
+    "longtitude": -80.2204292,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x88d9b6c3223dc5e5:0x51442116e51269bc",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -80.18844179999999,
+    "input_id": "Ph-IaraOBui84-EPq8P12As",
+    "link": "",
+    "cid": "",
+    "title": "CVI.CHE 105",
+    "categories": [
+      "Peruvian restaurant",
+      "Bar",
+      "Cocktail bar",
+      "Latin American restaurant",
+      "Restaurant",
+      "Seafood restaurant",
+      "South American restaurant",
+      "Wine bar"
+    ],
+    "category": "",
+    "address": "105 NE 3rd Ave, Miami, FL 33132, United States",
+    "open_hours": {
+      "Friday": [
+        "12–11:30 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.ceviche105.com/",
+    "phone": "+1305-577-3454",
+    "plus_code": "76QXQRG6+5J",
+    "review_count": 0,
+    "review_rating": 4.9,
+    "reviews_per_rating": null,
+    "latitude": 25.7754765,
+    "longtitude": -80.18844179999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x88d9b69e13f63e97:0xf33305312982752d",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -80.2005081,
+    "input_id": "Ph-IaraOBui84-EPq8P12As",
+    "link": "",
+    "cid": "",
+    "title": "CASA NEOS",
+    "categories": [
+      "Mediterranean restaurant",
+      "Bar",
+      "Brunch restaurant",
+      "Restaurant",
+      "Seafood restaurant"
+    ],
+    "category": "",
+    "address": "40 SW North River Dr, Miami, FL 33128, United States",
+    "open_hours": {
+      "Friday": [
+        "6 pm–2:30 am"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.casa-neos.com/",
+    "phone": "+1305-800-6367",
+    "plus_code": "76QXQQFX+CQ",
+    "review_count": 0,
+    "review_rating": 4.8,
+    "reviews_per_rating": null,
+    "latitude": 25.773616,
+    "longtitude": -80.2005081,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x88d9b759e1e7d6e3:0x2d23d267531ed387",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -80.1884975,
+    "input_id": "Ph-IaraOBui84-EPq8P12As",
+    "link": "",
+    "cid": "",
+    "title": "Gordon Ramsay Hell's Kitchen - Miami",
+    "categories": [
+      "Restaurant"
+    ],
+    "category": "",
+    "address": "333 Biscayne Blvd Way, Miami, FL 33131, United States",
+    "open_hours": {
+      "Friday": [
+        "11:45 am–3 pm",
+        "5–11 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.gordonramsayrestaurants.com/en/us/hells-kitchen/locations/miami",
+    "phone": "+1786-688-0082",
+    "plus_code": "76QXQRC6+FJ",
+    "review_count": 0,
+    "review_rating": 4.3,
+    "reviews_per_rating": null,
+    "latitude": 25.771166599999997,
+    "longtitude": -80.1884975,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x88d9b57ad1b72c73:0x996cf05dbd5b1ef1",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -80.1969397,
+    "input_id": "Ph-IaraOBui84-EPq8P12As",
+    "link": "",
+    "cid": "",
+    "title": "MAYU",
+    "categories": [
+      "Peruvian restaurant",
+      "Caterer",
+      "Cocktail bar",
+      "Fine dining restaurant",
+      "Seafood restaurant",
+      "Sushi restaurant"
+    ],
+    "category": "",
+    "address": "177 SW 7th St, Miami, FL 33130, United States",
+    "open_hours": {
+      "Friday": [
+        "12–11:30 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://mayumiami.com/?utm_source=google",
+    "phone": "+1305-860-1426",
+    "plus_code": "76QXQR83+X6",
+    "review_count": 0,
+    "review_rating": 4.9,
+    "reviews_per_rating": null,
+    "latitude": 25.767462599999998,
+    "longtitude": -80.1969397,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x88d9b729f172b63f:0xded7af2d473ade7e",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -80.1939008,
+    "input_id": "Ph-IaraOBui84-EPq8P12As",
+    "link": "",
+    "cid": "",
+    "title": "Marabu Restaurant",
+    "categories": [
+      "Cuban restaurant",
+      "Cocktail bar"
+    ],
+    "category": "",
+    "address": "701 S Miami Ave Fl 4, Miami, FL 33131, United States",
+    "open_hours": {
+      "Friday": [
+        "11:30 am–11 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.maraburestaurant.com/",
+    "phone": "+1786-598-8012",
+    "plus_code": "76QXQR84+QC",
+    "review_count": 0,
+    "review_rating": 4.8,
+    "reviews_per_rating": null,
+    "latitude": 25.766885,
+    "longtitude": -80.1939008,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x88d9b7e981504f7b:0x7a93789266f36407",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -80.19006159999999,
+    "input_id": "Ph-IaraOBui84-EPq8P12As",
+    "link": "",
+    "cid": "",
+    "title": "Komodo Miami",
+    "categories": [
+      "Asian restaurant",
+      "Restaurant"
+    ],
+    "category": "",
+    "address": "801 Brickell Ave, Miami, FL 33131, United States",
+    "open_hours": {
+      "Friday": [
+        "6–11 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://komodomiami.com/",
+    "phone": "+1305-534-2211",
+    "plus_code": "76QXQR85+6X",
+    "review_count": 0,
+    "review_rating": 4.5,
+    "reviews_per_rating": null,
+    "latitude": 25.765615999999998,
+    "longtitude": -80.19006159999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x88d9b68301bca077:0x347414622fbee362",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -80.19356669999999,
+    "input_id": "Ph-IaraOBui84-EPq8P12As",
+    "link": "",
+    "cid": "",
+    "title": "Novecento",
+    "categories": [
+      "Argentinian restaurant",
+      "Brunch restaurant",
+      "Italian restaurant",
+      "South American restaurant",
+      "Steak house"
+    ],
+    "category": "",
+    "address": "900 S Miami Ave #260, Miami, FL 33130, United States",
+    "open_hours": {
+      "Friday": [
+        "11 am–12 am"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://www.novecento.com/",
+    "phone": "+1305-403-0900",
+    "plus_code": "76QXQR74+XH",
+    "review_count": 0,
+    "review_rating": 4.7,
+    "reviews_per_rating": null,
+    "latitude": 25.764995799999998,
+    "longtitude": -80.19356669999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x88d9b68128806b11:0xc41665b01b14e13c",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -80.1930697,
+    "input_id": "Ph-IaraOBui84-EPq8P12As",
+    "link": "",
+    "cid": "",
+    "title": "Balan's",
+    "categories": [
+      "European restaurant",
+      "Breakfast restaurant",
+      "Brunch restaurant",
+      "Cocktail bar",
+      "Takeout restaurant",
+      "Restaurant",
+      "Wine bar"
+    ],
+    "category": "",
+    "address": "901 S Miami Ave Spc 108, Miami, FL 33130, United States",
+    "open_hours": {
+      "Friday": [
+        "8 am–2 am"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://balansbrickell.com/",
+    "phone": "+1305-809-8587",
+    "plus_code": "76QXQR74+XQ",
+    "review_count": 0,
+    "review_rating": 4.7,
+    "reviews_per_rating": null,
+    "latitude": 25.7649275,
+    "longtitude": -80.1930697,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x88d9b486489d7f3f:0x3e02d9f17e126101",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -80.1930205,
+    "input_id": "Ph-IaraOBui84-EPq8P12As",
+    "link": "",
+    "cid": "",
+    "title": "Sexy Fish Miami",
+    "categories": [
+      "Japanese restaurant",
+      "Cocktail bar",
+      "Event venue",
+      "Japanese steakhouse",
+      "Seafood restaurant"
+    ],
+    "category": "",
+    "address": "1001 S Miami Ave, Miami, FL 33130, United States",
+    "open_hours": {
+      "Friday": [
+        "12 pm–2 am"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://sexyfishmiami.com/?utm_source=LocalGoogleExtNet&utm_medium=Organic",
+    "phone": "+1305-889-7888",
+    "plus_code": "76QXQR74+PQ",
+    "review_count": 0,
+    "review_rating": 4.5,
+    "reviews_per_rating": null,
+    "latitude": 25.7643553,
+    "longtitude": -80.1930205,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x88d9b7f0e011f975:0x86d62acce20f1183",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -80.1934058,
+    "input_id": "Ph-IaraOBui84-EPq8P12As",
+    "link": "",
+    "cid": "",
+    "title": "Dolores But You Can Call Me Lolita",
+    "categories": [
+      "American restaurant"
+    ],
+    "category": "",
+    "address": "1000 S Miami Ave, Miami, FL 33130, United States",
+    "open_hours": {
+      "Friday": [
+        "3 pm–12 am"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://passionrestaurantgroup.com/restaurants/dolores-lolita/",
+    "phone": "+1305-403-3103",
+    "plus_code": "76QXQR74+PJ",
+    "review_count": 0,
+    "review_rating": 4.8,
+    "reviews_per_rating": null,
+    "latitude": 25.7642717,
+    "longtitude": -80.1934058,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x88d9b6840b4ca0f5:0xb09141f8812e686c",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -80.1889886,
+    "input_id": "Ph-IaraOBui84-EPq8P12As",
+    "link": "",
+    "cid": "",
+    "title": "Crazy About You",
+    "categories": [
+      "American restaurant",
+      "Brunch restaurant",
+      "Spanish restaurant"
+    ],
+    "category": "",
+    "address": "1155 Brickell Bay Dr PH101, Miami, FL 33131, United States",
+    "open_hours": {
+      "Friday": [
+        "11 am–12 am"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://passionrestaurantgroup.com/restaurants/crazy-about-you/",
+    "phone": "+1305-377-4442",
+    "plus_code": "76QXQR66+RC",
+    "review_count": 0,
+    "review_rating": 4.8,
+    "reviews_per_rating": null,
+    "latitude": 25.7620008,
+    "longtitude": -80.1889886,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x88d9b6818d92a5e7:0xd1cfb7f1bc8bc057",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -80.1926335,
+    "input_id": "Ph-IaraOBui84-EPq8P12As",
+    "link": "",
+    "cid": "",
+    "title": "Salty Flame",
+    "categories": [
+      "Restaurant",
+      "Asian fusion restaurant",
+      "Bar & grill",
+      "Catering food and drink supplier",
+      "Cocktail bar",
+      "Lounge bar"
+    ],
+    "category": "",
+    "address": "1414 Brickell Ave, Miami, FL 33131, United States",
+    "open_hours": {
+      "Friday": [
+        "12 pm–12 am"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://saltyflamerestaurant.com/",
+    "phone": "+1305-563-8972",
+    "plus_code": "76QXQR64+4W",
+    "review_count": 0,
+    "review_rating": 4.6,
+    "reviews_per_rating": null,
+    "latitude": 25.760263899999998,
+    "longtitude": -80.1926335,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/New_York",
+    "price_range": "",
+    "data_id": "0x88d9b70042eaaebd:0x6761bc621578112c",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  }
+]

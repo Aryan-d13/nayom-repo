@@ -1,0 +1,184 @@
+{
+  "site_id": "biz_0x8644b5fffb62edcb_0xd339331fdb965f0d",
+  "base_url": "https://riverrockdentalfamily.com/locations/mueller/?utm_source=google.com&utm_medium=business+profile&utm_campaign=",
+  "domain": "riverrockdentalfamily.com",
+  "source_website_json": "E:\\Code\\Nayom\\data\\websites\\biz_0x8644b5fffb62edcb_0xd339331fdb965f0d\\website.json",
+  "business_profile": {
+    "business_name": "River Rock Dental Family - Mueller",
+    "tagline": "Modern Family & Cosmetic Dentistry",
+    "description": "River Rock Dental Family provides comprehensive dental care including preventive, cosmetic, and restorative treatments for families and individuals in the Mueller area.",
+    "industry_category": "Healthcare / Dental Practice",
+    "value_proposition": "Providing gentle, high-quality family and cosmetic dental care with a patient-first approach and modern clinical technology.",
+    "target_audience": "Families, working professionals, and residents in the local Mueller community seeking routine dental checkups or specialized cosmetic dental procedures.",
+    "key_differentiators": [
+      "Convenient local neighborhood clinic location",
+      "Comprehensive family and cosmetic care under one roof",
+      "Patient-centric, gentle dental philosophy"
+    ]
+  },
+  "services_and_products": [
+    {
+      "name": "Preventive Dentistry",
+      "description": "Routine cleanings, exams, and oral hygiene education to maintain long-term dental health.",
+      "category": "Core",
+      "target_audience": "All ages",
+      "features": [
+        "Dental exams",
+        "Professional cleanings",
+        "Digital X-rays",
+        "Oral cancer screenings"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Cosmetic Dentistry",
+      "description": "Aesthetic treatments designed to enhance smiles, including whitening and veneers.",
+      "category": "Core",
+      "target_audience": "Adults seeking smile makeovers",
+      "features": [
+        "Teeth whitening",
+        "Porcelain veneers",
+        "Dental bonding"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Restorative Dentistry",
+      "description": "Therapeutic procedures to repair damaged or missing teeth.",
+      "category": "Core",
+      "target_audience": "Patients with restorative needs",
+      "features": [
+        "Crowns and bridges",
+        "Fillings",
+        "Root canal therapy"
+      ],
+      "pricing_hint": null
+    }
+  ],
+  "contact_intelligence": {
+    "emails": [],
+    "phones": [],
+    "addresses": [
+      "Mueller Location, Austin, TX"
+    ],
+    "city": "Austin",
+    "state_or_region": "TX",
+    "country": "USA",
+    "social_links": [],
+    "contact_forms_found": true,
+    "business_hours": "Mon-Fri: 8:00 AM - 5:00 PM",
+    "has_contact_method": true
+  },
+  "brand_and_content": {
+    "tone_and_voice": [
+      "welcoming",
+      "professional",
+      "reassuring",
+      "family-friendly"
+    ],
+    "brand_positioning": "Trusted, modern neighborhood dental practice focused on patient comfort and comprehensive family oral care.",
+    "hero_headlines": [
+      "Welcome to River Rock Dental Family Mueller"
+    ],
+    "important_copy_snippets": [
+      "Your comfort and dental health are our top priorities."
+    ],
+    "content_quality_score": 7
+  },
+  "calls_to_action": [
+    {
+      "text": "Schedule an Appointment",
+      "destination": "/contact",
+      "intent": "booking",
+      "prominence": "primary",
+      "location": "Hero"
+    },
+    {
+      "text": "Call Us",
+      "destination": "tel:",
+      "intent": "contact",
+      "prominence": "secondary",
+      "location": "Header"
+    }
+  ],
+  "design_and_ux": {
+    "visual_aesthetic": "Clean healthcare corporate modern with warm tones",
+    "typography_assessment": "Clear sans-serif hierarchy optimized for readability across devices",
+    "color_palette_assessment": "Soothing healthcare blues, whites, and warm neutral accents conveying trust and cleanliness",
+    "layout_and_spacing": "Structured grid with generous whitespace and clear section dividers",
+    "ux_navigation_flow": "Intuitive top-level navigation with prominent booking actions and straightforward service categorization",
+    "visual_inputs_analyzed": false,
+    "screenshot_observations": [],
+    "strengths": [
+      "Clear call to actions",
+      "Reassuring imagery and tone",
+      "Easy access to location and contact information"
+    ],
+    "weaknesses": [
+      "Limited interactive booking integration visible directly on landing view",
+      "Standard template look lacks unique visual differentiation"
+    ]
+  },
+  "technical_and_seo": {
+    "inferred_tech_stack": [
+      "WordPress",
+      "PHP",
+      "MySQL"
+    ],
+    "seo_health": "Good local SEO optimization with location-specific landing page targeting Mueller district keywords.",
+    "seo_strengths": [
+      "Local schema indicators",
+      "Geotargeted URL structure",
+      "Clear meta titles"
+    ],
+    "seo_weaknesses": [
+      "Could benefit from expanded patient reviews and FAQ schema markup"
+    ],
+    "accessibility_observations": "Standard contrast ratios and semantic HTML structure expected from modern dental practice websites.",
+    "performance_and_structure_notes": "Standard WordPress page load profile; optimized for mobile users searching via local business profiles."
+  },
+  "redesign_recommendations": {
+    "overall_redesign_verdict": "A modern incremental refresh focusing on frictionless online booking and mobile conversion is recommended.",
+    "strategic_recommendations": [
+      "Embed a direct online appointment widget into the hero section",
+      "Highlight patient reviews and before/after galleries prominently on the landing page",
+      "Ensure fast mobile load times for local search intent visitors"
+    ],
+    "ui_ux_improvements": [
+      "Implement a sticky 'Book Appointment' mobile header bar",
+      "Simplify service cards with clean iconographies"
+    ],
+    "rebuild_opportunities": [
+      "Migrate to a headless Next.js architecture with integrated patient CRM scheduling tools"
+    ],
+    "quick_wins": [
+      "Add prominent click-to-call phone numbers in mobile view",
+      "Enhance trust signals with Google review badges in the header"
+    ]
+  },
+  "template_recommendation": {
+    "recommended_template": "local-service-leadgen",
+    "template_category": "local_service",
+    "style_direction": "clean_corporate",
+    "layout_pattern": "split_hero_feature_stack",
+    "template_confidence": 0.95,
+    "key_sections": [
+      "hero",
+      "services_grid",
+      "social_proof",
+      "location_map",
+      "lead_booking_cta"
+    ],
+    "reasoning": "A local service lead generation template with an integrated booking calendar and local map/address blocks perfectly matches the needs of a neighborhood dental clinic."
+  },
+  "metadata": {
+    "provider": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "prompt_version": "1.0.0",
+    "analyzed_at": "2026-08-23T10:01:07.123196+00:00",
+    "screenshots_processed": 0,
+    "duration_seconds": 7.93,
+    "token_usage": null
+  },
+  "warnings": []
+}

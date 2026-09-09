@@ -1,0 +1,33 @@
+{
+  "site": {
+    "name": "Generic Business",
+    "niche": "Services"
+  },
+  "theme": {
+    "palette": ["#2563eb", "#16a34a", "#f8fafc", "#0f172a"],
+    "typography": "Inter, sans-serif",
+    "iconStyle": "lucide-standard",
+    "borderRadius": "8px",
+    "buttonStyle": "rounded-standard",
+    "animationStyle": "fade-subtle"
+  },
+  "hero": {
+    "title": "Welcome to Our Business",
+    "subtitle": "Professional services tailored for your needs.",
+    "cta": "Get Started Today"
+  },
+  "about": {
+    "summary": "We provide quality services to local clients with dedication and excellence."
+  },
+  "contact": {
+    "phone": "(555) 000-0000",
+    "email": "info@example.com",
+    "address": "123 Main Street",
+    "businessHours": "Mon-Fri 9am - 5pm"
+  },
+  "services": [],
+  "testimonials": [],
+  "faqs": [],
+  "socialLinks": {},
+  "locations": { "serviceAreas": [] }
+}

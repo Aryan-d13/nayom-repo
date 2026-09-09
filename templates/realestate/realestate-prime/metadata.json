@@ -1,0 +1,95 @@
+{
+  "id": "realestate-prime",
+  "name": "Real Estate Prime Brokerage",
+  "version": "v1",
+  "description": "Sleek luxury property showcase template featuring listing cards, neighborhood guides, and agent contact funnels.",
+  "categories": [
+    "realestate",
+    "property",
+    "luxury"
+  ],
+  "industries": [
+    "realestate",
+    "real estate",
+    "realtor",
+    "property",
+    "brokerage",
+    "apartments"
+  ],
+  "style_keywords": [
+    "luxury",
+    "editorial",
+    "modern",
+    "clean"
+  ],
+  "layout_patterns": [
+    "bento_grid",
+    "split_hero_feature_stack"
+  ],
+  "supported_features": [
+    "booking",
+    "pricing",
+    "testimonials",
+    "faqs",
+    "contact_form"
+  ],
+  "supported_slots": [
+    "site.name",
+    "site.tagline",
+    "site.niche",
+    "hero.title",
+    "hero.subtitle",
+    "hero.cta",
+    "hero.ctaLink",
+    "about.summary",
+    "about.differentiators",
+    "contact.phone",
+    "contact.email",
+    "contact.address",
+    "contact.location",
+    "services",
+    "testimonials",
+    "faqs",
+    "socialLinks",
+    "locations",
+    "seo"
+  ],
+  "preview_image": "preview/thumbnail.png",
+  "entrypoint": "app/page.tsx",
+  "capabilities": {
+    "supportsBooking": true,
+    "supportsGallery": true,
+    "supportsPricing": true,
+    "supportsMultiLocation": true,
+    "supportsTestimonials": true,
+    "supportsFaq": true,
+    "supportsBeforeAfter": false
+  },
+  "defaultTheme": {
+    "palette": [
+      "#0f4c81",
+      "#d4af37",
+      "#f4f7f6",
+      "#1a1a1a"
+    ],
+    "typography": "Bodoni Moda, sans-serif",
+    "iconStyle": "lucide-clean",
+    "borderRadius": "8px",
+    "buttonStyle": "luxury-gold",
+    "animationStyle": "fade-smooth"
+  },
+  "supportedVariants": [
+    "light",
+    "glassmorphism"
+  ],
+  "availableSections": [
+    "hero",
+    "featured-listings",
+    "services",
+    "agents",
+    "testimonials",
+    "faqs",
+    "valuation-request",
+    "contact"
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "site_id": "biz_0x8644b5b6fb440001_0x48219815b3589371",
+  "base_url": "https://www.suerteatx.com/",
+  "domain": "www.suerteatx.com",
+  "source_website_json": "E:\\Code\\Nayom\\data\\websites\\biz_0x8644b5b6fb440001_0x48219815b3589371\\website.json",
+  "business_profile": {
+    "business_name": "Suerte",
+    "tagline": "A nationally acclaimed restaurant employing traditional Mexican cooking techniques, local Texas ingredients & housemade masa",
+    "description": "Located in the heart of East Austin, Suerte is an award-winning restaurant driven by a passion for masa, an ingredient at the heart of Mexican cooking. Led by nationally acclaimed Chef Fermin Nunez, the restaurant features seasonally driven menus, a robust agave and succulent spirit program, natural wines, and craft cocktails.",
+    "industry_category": "Hospitality & Restaurant",
+    "value_proposition": "Combining traditional Mexican cooking techniques and housemade masa with fresh local Texas ingredients to deliver a uniquely vibrant dining and agave bar experience in East Austin.",
+    "target_audience": "Local Austinites, food enthusiasts, cocktail lovers, visitors seeking acclaimed culinary experiences, and groups looking for private dining or upscale catering.",
+    "key_differentiators": [
+      "Nationally acclaimed and recognized by Food & Wine, Eater, and the MICHELIN Guide",
+      "Daily housemade masa using traditional nixtamalization techniques",
+      "Unique selection of Mexican agave and succulent spirits state-side",
+      "Prime location in East Austin with indoor and outdoor covered deck seating"
+    ]
+  },
+  "services_and_products": [
+    {
+      "name": "Dinner Service",
+      "description": "Daily dinner service featuring seasonally driven Mexican-inspired dishes and housemade masa specialties.",
+      "category": "Core",
+      "target_audience": "General diners and food enthusiasts",
+      "features": [
+        "Seasonally rotating menu",
+        "Housemade tortillas and masa plates",
+        "Agave spirit cocktails and natural wines"
+      ],
+      "pricing_hint": "Standard à la carte restaurant pricing"
+    },
+    {
+      "name": "Weekend Brunch",
+      "description": "Saturday and Sunday brunch service featuring specialized morning plates and cocktails.",
+      "category": "Core",
+      "target_audience": "Weekend diners and brunchgoers",
+      "features": [
+        "Saturday & Sunday 11am - 3pm",
+        "Specialized brunch menu items"
+      ],
+      "pricing_hint": "Standard à la carte restaurant pricing"
+    },
+    {
+      "name": "Lucky Hour (Happy Hour)",
+      "description": "Weekday and weekend happy hour offering specially priced drinks and bites.",
+      "category": "Core",
+      "target_audience": "Bar patrons and early evening guests",
+      "features": [
+        "Monday - Friday 5pm - 6pm",
+        "Saturday - Sunday 3pm - 5pm"
+      ],
+      "pricing_hint": "Happy hour promotional pricing"
+    },
+    {
+      "name": "Large Party & Private Dining",
+      "description": "Accommodations for parties of 10 or more featuring semi-private rooms, covered deck, or full buyouts.",
+      "category": "Enterprise / Events",
+      "target_audience": "Groups, corporate events, and celebrations",
+      "features": [
+        "Semi-private dining room (up to 24 guests)",
+        "Outdoor covered deck (up to 50 guests standing)",
+        "Full restaurant buyout (up to 100 guests)"
+      ],
+      "pricing_hint": "Food and beverage minimums and non-refundable deposits required"
+    },
+    {
+      "name": "Suerte Catering",
+      "description": "Taco bar experiences and full-service catering bringing Suerte's flavors to off-site events.",
+      "category": "Add-on / Catering",
+      "target_audience": "Private and corporate event hosts",
+      "features": [
+        "Taco bar drop-off and pick-up options",
+        "Full-service family-style catering with staff and bar services"
+      ],
+      "pricing_hint": "To-go order minimums starting at $500"
+    }
+  ],
+  "contact_intelligence": {
+    "emails": [
+      "hola@suerteatx.com",
+      "reservations@suerteatx.com",
+      "suerte@giantnoise.com"
+    ],
+    "phones": [
+      "512-522-3031"
+    ],
+    "addresses": [
+      "1800 East 6th Street, Austin, Texas 78702"
+    ],
+    "city": "Austin",
+    "state_or_region": "Texas",
+    "country": "United States",
+    "social_links": [],
+    "contact_forms_found": true,
+    "business_hours": "Monday - Thursday: 5pm - 10pm, Friday: 5pm - 11pm, Saturday: 11am - 11pm, Sunday: 11am - 10pm",
+    "has_contact_method": true
+  },
+  "brand_and_content": {
+    "tone_and_voice": [
+      "vibrant",
+      "authoritative",
+      "welcoming",
+      "culinary-focused"
+    ],
+    "brand_positioning": "A nationally recognized, award-winning East Austin culinary destination celebrating authentic Mexican traditions through a modern Texan lens.",
+    "hero_headlines": [
+      "Suerte: East Austin",
+      "A nationally acclaimed restaurant employing traditional Mexican cooking techniques, local Texas ingredients & housemade masa"
+    ],
+    "important_copy_snippets": [
+      "Hospitality prevails, homemade masa reigns and every day can be an occasion to celebrate!",
+      "Named among Food & Wine's Best Chefs, Núñez was also named Eater Austin Chef of the Year in 2018 and has been featured on Food Network, Netflix’s The Taco Chronicles."
+    ],
+    "content_quality_score": 9
+  },
+  "calls_to_action": [
+    {
+      "text": "Find A Table",
+      "destination": null,
+      "intent": "booking",
+      "prominence": "primary",
+      "location": "Hero / Reservation Form"
+    },
+    {
+      "text": "Reservations",
+      "destination": "/reserve-table",
+      "intent": "booking",
+      "prominence": "primary",
+      "location": "Global Navigation"
+    },
+    {
+      "text": "Inquire Now",
+      "destination": "/large-party-dining-1",
+      "intent": "lead_capture",
+      "prominence": "secondary",
+      "location": "Large Party Dining"
+    },
+    {
+      "text": "Suerte Catering To-Go",
+      "destination": "https://portal.tripleseat.com/direct_bookings/ztkvkvyebf",
+      "intent": "checkout",
+      "prominence": "secondary",
+      "location": "Catering Page"
+    }
+  ],
+  "design_and_ux": {
+    "visual_aesthetic": "Warm editorial, vibrant hospitality, upscale modern rustic",
+    "typography_assessment": "Clean hierarchy with expressive serif headers and readable sans-serif body text tailored for culinary storytelling.",
+    "color_palette_assessment": "Earth tones, terracotta, warm neutrals, and agave greens reflecting Mexican culinary heritage and Texas terroir.",
+    "layout_and_spacing": "Generous whitespace, immersive photography galleries, and structured multi-column sections for hours, menus, and private event tiers.",
+    "ux_navigation_flow": "Clear pathway from brand introduction to reservations (OpenTable), FAQs, and private dining inquiries.",
+    "visual_inputs_analyzed": false,
+    "screenshot_observations": [],
+    "strengths": [
+      "Clear prominent calls to action for table reservations and private bookings",
+      "Comprehensive FAQ addressing common diner friction points (parking, pets, corkage)",
+      "Strong social proof highlighting awards and media recognition"
+    ],
+    "weaknesses": [
+      "Reservation flows route through third-party platforms which can fragment user journeys",
+      "Multiple redundant pages for large party dining could be consolidated"
+    ]
+  },
+  "technical_and_seo": {
+    "inferred_tech_stack": [
+      "OpenTable",
+      "Tripleseat",
+      "reCAPTCHA",
+      "JSON-LD Schemas"
+    ],
+    "seo_health": "Strong local SEO optimization with rich meta titles, keywords referencing East Austin and Mexican dining, and structured schema markup.",
+    "seo_strengths": [
+      "Targeted local keywords (East Austin, Mexican Food, Brunch, Masa, Agave Spirits)",
+      "JSON-LD structured data implemented across key pages",
+      "Clear descriptive meta descriptions"
+    ],
+    "seo_weaknesses": [
+      "Duplicate URLs for large party dining pages could lead to minor canonicalization issues"
+    ],
+    "accessibility_observations": "Good semantic heading structure and clear form labels with validation states.",
+    "performance_and_structure_notes": "Well-structured content hierarchy with optimized asset loading across standard pages."
+  },
+  "redesign_recommendations": {
+    "overall_redesign_verdict": "The current website is functional and rich in brand identity, but could benefit from a modern headless architecture and streamlined reservation UX to reduce third-party friction.",
+    "strategic_recommendations": [
+      "Integrate reservation availability widgets directly into the homepage hero",
+      "Consolidate duplicate large party dining pages into a single high-conversion landing page",
+      "Enhance visual storytelling with high-definition video loops of masa preparation and cocktail pouring"
+    ],
+    "ui_ux_improvements": [
+      "Adopt a sticky mobile reservation bar for immediate table booking access",
+      "Refine typography scaling on mobile viewports for enhanced readability"
+    ],
+    "rebuild_opportunities": [
+      "Rebuild using Next.js and Tailwind CSS with a headless CMS for lightning-fast page transitions and dynamic menu updates"
+    ],
+    "quick_wins": [
+      "Add direct anchor links from the homepage to the FAQ section for instant answers",
+      "Update holiday and seasonal catering specials prominently on the primary navigation banner"
+    ]
+  },
+  "template_recommendation": {
+    "recommended_template": "warm-editorial-hospitality",
+    "template_category": "local_service",
+    "style_direction": "warm_editorial",
+    "layout_pattern": "split_hero_feature_stack",
+    "template_confidence": 0.95,
+    "key_sections": [
+      "hero",
+      "hours_and_location_bar",
+      "menu_teaser_grid",
+      "press_and_accidents_social_proof",
+      "private_dining_cta",
+      "footer_contact_info"
+    ],
+    "reasoning": "A warm editorial hospitality template emphasizes rich imagery, clear operational details (hours, parking, contact), and frictionless booking calls-to-action perfectly suited for an award-winning restaurant."
+  },
+  "metadata": {
+    "provider": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "prompt_version": "1.0.0",
+    "analyzed_at": "2026-08-24T14:28:18.628368+00:00",
+    "screenshots_processed": 0,
+    "duration_seconds": 10.57,
+    "token_usage": null
+  },
+  "warnings": []
+}

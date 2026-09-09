@@ -1,0 +1,18 @@
+{
+  "recipient": null,
+  "subject": "Quick thought on Dentistry for Health's mobile booking and site layout",
+  "body": "Hi Dentistry for Health team, I live in the area and have always appreciated your focus on holistic well-being and advanced care here in Omaha, especially for specialized treatments like TMJ care and cosmetic makeovers. While browsing your current site on my phone, I noticed that the mobile layout requires a bit of extra scrolling to find direct contact options, and the service pages carry some repetitive footer blocks. Because making it effortless for families and seniors to reach out for cleanings or emergency care is so important, I went ahead and built a clean, modern preview of your site to show how it could look and convert. You can check out the live preview here: https://nayom-biz-0x8793f2d10cdaab7b-0xb1c18be98e87a26.vercel.app. It features a streamlined mobile header with direct click-to-call buttons, explicit business hours, and a bento grid service layout. If you'd like to use this design or have me tweak anything, I'd be happy to send over the project files or chat for 5 minutes. No worries at all if you're happy with your current setup!",
+  "business_id": "biz_0x8793f2d10cdaab7b_0xb1c18be98e87a26e",
+  "preview_url": "https://nayom-biz-0x8793f2d10cdaab7b-0xb1c18be98e87a26.vercel.app",
+  "generated_at": "2026-08-24T10:04:38.822665+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "business_name": "Dentistry for Health",
+  "key_improvements": [
+    "Added direct click-to-call buttons inside the mobile sticky header.",
+    "Streamlined service pages with a bento grid layout to remove repetitive footer blocks.",
+    "Ensured business hours and location details are explicitly and clearly displayed."
+  ],
+  "provider": "gemini",
+  "prompt_version": "1.0.0",
+  "warnings": []
+}

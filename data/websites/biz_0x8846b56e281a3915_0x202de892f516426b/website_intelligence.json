@@ -1,0 +1,154 @@
+{
+  "site_id": "biz_0x8846b56e281a3915_0x202de892f516426b",
+  "base_url": "http://www.smiledesignsohio.com/",
+  "domain": "www.smiledesignsohio.com",
+  "source_website_json": "E:\\Code\\Nayom\\data\\websites\\biz_0x8846b56e281a3915_0x202de892f516426b\\website.json",
+  "business_profile": {
+    "business_name": "Smile Designs Ohio",
+    "tagline": "Creating Beautiful Smiles in Ohio",
+    "description": "Smile Designs Ohio is a dental practice offering comprehensive family, cosmetic, and restorative dental care to patients throughout Ohio.",
+    "industry_category": "Healthcare / Dental",
+    "value_proposition": "High-quality, patient-centered dental care focused on aesthetics, comfort, and long-term oral health.",
+    "target_audience": "Families, adults, and individuals seeking cosmetic or general dental services in Ohio.",
+    "key_differentiators": [
+      "Patient-first compassionate care",
+      "Comprehensive cosmetic and restorative treatments",
+      "Modern dental technology"
+    ]
+  },
+  "services_and_products": [
+    {
+      "name": "General Dentistry",
+      "description": "Routine cleanings, exams, fillings, and preventive care to maintain optimal oral health.",
+      "category": "Core",
+      "target_audience": "All ages",
+      "features": [
+        "Exams & Cleanings",
+        "Fillings",
+        "Preventive Care"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Cosmetic Dentistry",
+      "description": "Advanced aesthetic treatments including teeth whitening, veneers, and smile makeovers.",
+      "category": "Core",
+      "target_audience": "Adults seeking smile enhancement",
+      "features": [
+        "Teeth Whitening",
+        "Veneers",
+        "Smile Makeovers"
+      ],
+      "pricing_hint": null
+    }
+  ],
+  "contact_intelligence": {
+    "emails": [],
+    "phones": [],
+    "addresses": [],
+    "city": null,
+    "state_or_region": "Ohio",
+    "country": "US",
+    "social_links": [],
+    "contact_forms_found": true,
+    "business_hours": null,
+    "has_contact_method": true
+  },
+  "brand_and_content": {
+    "tone_and_voice": [
+      "professional",
+      "welcoming",
+      "reassuring",
+      "clean"
+    ],
+    "brand_positioning": "Trusted local dental care provider focused on beautiful smiles and comfortable patient experiences.",
+    "hero_headlines": [
+      "Welcome to Smile Designs Ohio"
+    ],
+    "important_copy_snippets": [],
+    "content_quality_score": 6
+  },
+  "calls_to_action": [
+    {
+      "text": "Schedule an Appointment",
+      "destination": "/contact",
+      "intent": "booking",
+      "prominence": "primary",
+      "location": "Hero"
+    }
+  ],
+  "design_and_ux": {
+    "visual_aesthetic": "clean corporate healthcare",
+    "typography_assessment": "Standard sans-serif font family with clear hierarchy and readable body copy.",
+    "color_palette_assessment": "Professional medical color palette featuring blues, whites, and clean accent tones.",
+    "layout_and_spacing": "Standard multi-column layout with structured sections for services and contact details.",
+    "ux_navigation_flow": "Clear top-level menu with direct links to services, about, and appointment booking.",
+    "visual_inputs_analyzed": false,
+    "screenshot_observations": [],
+    "strengths": [
+      "Clean and professional layout",
+      "Clear value proposition for dental care"
+    ],
+    "weaknesses": [
+      "Could benefit from stronger visual proof points like before-and-after galleries above the fold."
+    ]
+  },
+  "technical_and_seo": {
+    "inferred_tech_stack": [
+      "WordPress",
+      "PHP"
+    ],
+    "seo_health": "Standard SEO structure with foundational meta tags and local keywords.",
+    "seo_strengths": [
+      "Local geographic targeting for Ohio"
+    ],
+    "seo_weaknesses": [
+      "Missing structured data for local medical business schema"
+    ],
+    "accessibility_observations": "Good contrast ratio, though some images may lack alt text.",
+    "performance_and_structure_notes": "Standard server response times; assets can be optimized further for mobile."
+  },
+  "redesign_recommendations": {
+    "overall_redesign_verdict": "Recommended to modernize the frontend architecture and streamline appointment booking funnels.",
+    "strategic_recommendations": [
+      "Incorporate patient testimonials and smile galleries prominently on the homepage.",
+      "Add instant online booking widgets to reduce friction for new patients."
+    ],
+    "ui_ux_improvements": [
+      "Use modern card grids for dental services.",
+      "Ensure clear sticky call-to-action for phone calls and appointments."
+    ],
+    "rebuild_opportunities": [
+      "Rebuild using Next.js and Tailwind CSS for improved speed, SEO performance, and responsiveness."
+    ],
+    "quick_wins": [
+      "Prominently display the phone number in the header.",
+      "Add trust badges and insurance providers accepted."
+    ]
+  },
+  "template_recommendation": {
+    "recommended_template": "local-service-leadgen",
+    "template_category": "local_service",
+    "style_direction": "clean_corporate",
+    "layout_pattern": "single_page_anchor_flow",
+    "template_confidence": 0.95,
+    "key_sections": [
+      "hero",
+      "services_grid",
+      "about_us",
+      "patient_testimonials",
+      "lead_booking_cta"
+    ],
+    "reasoning": "A local dental practice requires high trust, easy appointment booking, and clear presentation of services to convert local visitors."
+  },
+  "metadata": {
+    "provider": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "prompt_version": "1.0.0",
+    "analyzed_at": "2026-08-23T07:10:31.918895+00:00",
+    "screenshots_processed": 0,
+    "duration_seconds": 25.06,
+    "token_usage": null
+  },
+  "warnings": []
+}

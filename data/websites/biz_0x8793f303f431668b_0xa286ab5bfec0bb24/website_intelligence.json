@@ -1,0 +1,340 @@
+{
+  "site_id": "biz_0x8793f303f431668b_0xa286ab5bfec0bb24",
+  "base_url": "http://horizondentalcenter.com/?utm_source=gbp&utm_medium=organic&utm_campaign=yext_listing",
+  "domain": "horizondentalcenter.com",
+  "source_website_json": "E:\\Code\\Nayom\\data\\websites\\biz_0x8793f303f431668b_0xa286ab5bfec0bb24\\website.json",
+  "business_profile": {
+    "business_name": "Horizon Dental Center",
+    "tagline": "Elevate your experience today. We believe in a smile that gets you compliments.",
+    "description": "Horizon Dental Center is a comprehensive family and cosmetic dental practice located in Omaha, Nebraska, offering a wide range of services including preventative care, restorative treatments, endodontics, orthodontics (Invisalign), dental implants, and emergency dental trauma care.",
+    "industry_category": "Dental Practice / Healthcare",
+    "value_proposition": "Patients receive gentle, comprehensive dental care utilizing modern technologies and techniques in a calm and welcoming environment in Omaha, NE.",
+    "target_audience": "Families, adults, and children in Omaha, Nebraska and surrounding areas seeking preventative, restorative, or cosmetic dental treatments.",
+    "key_differentiators": [
+      "Comprehensive range of treatments from preventative cleanings to complex endodontics and dental implants",
+      "Calm, gentle approach to patient care",
+      "Advanced digital imaging and modern dental technologies",
+      "Convenient location in Omaha, NE with flexible financing options"
+    ]
+  },
+  "services_and_products": [
+    {
+      "name": "Apicoectomy",
+      "description": "A trusted root canal therapy alternative that removes the tip of a tooth's root and inflamed gum tissue to preserve and protect teeth.",
+      "category": "Core Endodontic Service",
+      "target_audience": "Patients who have had unsuccessful root canal retreatments",
+      "features": [],
+      "pricing_hint": null
+    },
+    {
+      "name": "Dental Bone Grafting",
+      "description": "Surgical procedure to replace missing or thinning bone in the gums to increase jaw bone density and support dental implants.",
+      "category": "Core Restorative Service",
+      "target_audience": "Patients needing jaw repair or preparation for implants",
+      "features": [],
+      "pricing_hint": null
+    },
+    {
+      "name": "Cracked & Broken Tooth Repair",
+      "description": "Diagnostic and restorative procedures including bonding, crowns, and root canals to save cracked and broken teeth.",
+      "category": "Core Restorative Service",
+      "target_audience": "Patients experiencing cracked or fractured teeth",
+      "features": [],
+      "pricing_hint": null
+    },
+    {
+      "name": "Dental Cleanings & Checkups",
+      "description": "Biannual preventative exams and cleanings including plaque removal, polishing, and oral cancer screenings.",
+      "category": "Preventative Care",
+      "target_audience": "All patients",
+      "features": [],
+      "pricing_hint": null
+    },
+    {
+      "name": "Dental Imaging & X-rays",
+      "description": "Advanced digital radiography utilizing 90% less radiation for precise diagnostics and treatment planning.",
+      "category": "Diagnostic",
+      "target_audience": "All patients",
+      "features": [],
+      "pricing_hint": null
+    },
+    {
+      "name": "Full & Partial Dentures",
+      "description": "Custom-made premium, immediate, partial, and implant-supported natural-looking dentures to replace missing teeth.",
+      "category": "Restorative Service",
+      "target_audience": "Patients missing multiple or all teeth",
+      "features": [],
+      "pricing_hint": null
+    },
+    {
+      "name": "Tooth Extractions",
+      "description": "Gentle extraction services for severely decayed, damaged, or impacted teeth with options for sedation and single/multiple replacements.",
+      "category": "Core Restorative Service",
+      "target_audience": "Patients requiring tooth removal",
+      "features": [],
+      "pricing_hint": null
+    },
+    {
+      "name": "Fluoride Treatment",
+      "description": "Application of fluoride varnish, gel, or foam to strengthen tooth enamel and combat decay.",
+      "category": "Preventative Care",
+      "target_audience": "Children and adults susceptible to cavities",
+      "features": [],
+      "pricing_hint": null
+    },
+    {
+      "name": "Implant-Supported Dentures",
+      "description": "Permanent and snap-in dentures anchored by titanium dental implants for superior stability and reduced bone loss.",
+      "category": "Restorative Service",
+      "target_audience": "Patients missing most or all teeth seeking secure replacements",
+      "features": [],
+      "pricing_hint": null
+    },
+    {
+      "name": "Single Tooth Dental Implants",
+      "description": "Titanium posts surgically placed in the jawbone topped with custom crowns to permanently replace single missing teeth.",
+      "category": "Restorative Service",
+      "target_audience": "Patients missing a single tooth",
+      "features": [],
+      "pricing_hint": null
+    },
+    {
+      "name": "Invisalign® Clear Aligners",
+      "description": "Custom-made clear aligner treatment to gently straighten teeth without traditional metal wires and brackets.",
+      "category": "Cosmetic / Orthodontic Service",
+      "target_audience": "Teens and adults wanting a straighter smile",
+      "features": [],
+      "pricing_hint": null
+    },
+    {
+      "name": "Mouth Guards for Teeth Grinding & Sports",
+      "description": "Custom-fit thermoplastic oral appliances to protect teeth during contact sports or nocturnal teeth grinding.",
+      "category": "Preventative Care",
+      "target_audience": "Athletes and patients with bruxism",
+      "features": [],
+      "pricing_hint": null
+    },
+    {
+      "name": "Oral Trauma Care",
+      "description": "Emergency and urgent dental care for chipped teeth, dislodged teeth, and acute oral injuries.",
+      "category": "Emergency Service",
+      "target_audience": "Patients experiencing oral injuries",
+      "features": [],
+      "pricing_hint": null
+    },
+    {
+      "name": "Tooth Pain Relief",
+      "description": "Assessment, identification, and treatment plans for severe toothaches, sensitivity, and gum pain.",
+      "category": "Emergency / Core Service",
+      "target_audience": "Patients experiencing oral pain",
+      "features": [],
+      "pricing_hint": null
+    },
+    {
+      "name": "Preventative Dental Care",
+      "description": "Comprehensive routine exams, cleanings, X-rays, and patient education for long-term oral health.",
+      "category": "Preventative Care",
+      "target_audience": "All patients",
+      "features": [],
+      "pricing_hint": null
+    },
+    {
+      "name": "Pediatric Pulpotomy",
+      "description": "Removal of infected pulp from baby molars followed by a medicated filling and protective crown.",
+      "category": "Pediatric Service",
+      "target_audience": "Children with decayed baby teeth",
+      "features": [],
+      "pricing_hint": null
+    },
+    {
+      "name": "Root Canal Treatment",
+      "description": "Gentle removal of infected pulp chamber tissue and sealing of root canals to relieve pain and save natural teeth.",
+      "category": "Endodontic Service",
+      "target_audience": "Patients with severe tooth decay or pulp infection",
+      "features": [],
+      "pricing_hint": null
+    },
+    {
+      "name": "Dental Sealants",
+      "description": "Protective plastic coating applied to the chewing surfaces of permanent back molars to block bacteria and prevent decay.",
+      "category": "Preventative Care",
+      "target_audience": "Children, teenagers, and cavity-prone adults",
+      "features": [],
+      "pricing_hint": null
+    }
+  ],
+  "contact_intelligence": {
+    "emails": [],
+    "phones": [
+      "(402) 330-5080"
+    ],
+    "addresses": [
+      "12100 W Center Rd, Ste 110, Omaha, NE 68144"
+    ],
+    "city": "Omaha",
+    "state_or_region": "NE",
+    "country": "USA",
+    "social_links": [],
+    "contact_forms_found": true,
+    "business_hours": null,
+    "has_contact_method": true
+  },
+  "brand_and_content": {
+    "tone_and_voice": [
+      "professional",
+      "compassionate",
+      "reassuring",
+      "authoritative"
+    ],
+    "brand_positioning": "A trusted, gentle, and modern local family dental care center in Omaha offering comprehensive treatments.",
+    "hero_headlines": [
+      "Apicoectomy",
+      "Bone Grafting",
+      "Cracked Teeth",
+      "Dental Cleanings & Checkups",
+      "Dental Imaging & X-rays",
+      "Dentures",
+      "Extractions",
+      "Fluoride Treatment",
+      "Implant-Supported Dentures",
+      "Individual Implants",
+      "Invisalign® Treatment",
+      "Mouth Guards",
+      "Oral Trauma",
+      "Pain and Dental Issues",
+      "Preventative & Oral Health",
+      "Pulpotomy",
+      "Root Canal Treatment",
+      "Sealants"
+    ],
+    "important_copy_snippets": [
+      "Elevate your experience today. We believe in a smile that gets you compliments.",
+      "We are knowledgeable in the latest dental technologies and techniques and are known for our calm, gentle approach to dentistry."
+    ],
+    "content_quality_score": 8
+  },
+  "calls_to_action": [
+    {
+      "text": "Schedule with Us",
+      "destination": "/make-appointment",
+      "intent": "booking",
+      "prominence": "primary",
+      "location": "Hero"
+    },
+    {
+      "text": "Call Us: (402) 330-5080",
+      "destination": "tel:(402) 330-5080",
+      "intent": "contact",
+      "prominence": "primary",
+      "location": "Header / Footer"
+    },
+    {
+      "text": "Book Now",
+      "destination": "/make-appointment",
+      "intent": "booking",
+      "prominence": "primary",
+      "location": "Service Pages"
+    },
+    {
+      "text": "Get Directions",
+      "destination": "https://maps.google.com/maps?cid=11711236292627970852",
+      "intent": "navigation",
+      "prominence": "secondary",
+      "location": "Footer / Contact Section"
+    },
+    {
+      "text": "What to Expect",
+      "destination": "/what-to-expect",
+      "intent": "navigation",
+      "prominence": "secondary",
+      "location": "Search / Patient Info"
+    },
+    {
+      "text": "New Patient Paperwork",
+      "destination": "/what-to-expect#patient-paperwork",
+      "intent": "download",
+      "prominence": "secondary",
+      "location": "Search / Patient Info"
+    }
+  ],
+  "design_and_ux": {
+    "visual_aesthetic": "clean corporate healthcare modern",
+    "typography_assessment": "Clear sans-serif font hierarchy with legible body text and distinct section headings.",
+    "color_palette_assessment": "Clean professional healthcare palette emphasizing trust with clear contrast on high-readability backgrounds.",
+    "layout_and_spacing": "Structured multi-page layout with clear content categorization, FAQ sections, and consistent contact footers.",
+    "ux_navigation_flow": "Straightforward information architecture with prominent phone numbers and appointment scheduling CTAs on every service page.",
+    "visual_inputs_analyzed": false,
+    "screenshot_observations": [],
+    "strengths": [
+      "Comprehensive service pages with detailed FAQs and expectations",
+      "Consistent, highly visible phone number and appointment booking buttons across all pages",
+      "Clear local address and Google Maps directions link"
+    ],
+    "weaknesses": [
+      "Some pages feature repetitive footer and address blocks",
+      "Lack of direct online booking widget embedded on the page (relies on routing to appointment page)"
+    ]
+  },
+  "technical_and_seo": {
+    "inferred_tech_stack": [
+      "Next.js",
+      "React",
+      "Vercel",
+      "Tailwind CSS"
+    ],
+    "seo_health": "Strong localized SEO with targeted meta descriptions and keyword inclusion for Omaha, Nebraska across all service landing pages.",
+    "seo_strengths": [
+      "Unique meta descriptions for every service page incorporating local keywords ('Omaha, Nebraska')",
+      "Clean URL slugs and JSON-LD schema integration present on pages"
+    ],
+    "seo_weaknesses": [
+      "Some sub-pages could benefit from enhanced internal linking structures"
+    ],
+    "accessibility_observations": "Standard semantic HTML heading structure utilized across service pages.",
+    "performance_and_structure_notes": "Fast-loading static generation architecture with clean asset structure."
+  },
+  "redesign_recommendations": {
+    "overall_redesign_verdict": "The current website is functionally sound and well-optimized for local SEO, but could benefit from a modern UI refresh with integrated real-time booking widgets and social proof testimonials.",
+    "strategic_recommendations": [
+      "Integrate patient testimonials and before/after smile galleries prominently on the homepage and key service landing pages.",
+      "Add a direct embedded scheduling widget so patients can select appointment slots without navigating away."
+    ],
+    "ui_ux_improvements": [
+      "Implement sticky mobile bottom navigation featuring a one-tap 'Call Us' and 'Book Appointment' bar.",
+      "Streamline service page layouts using bento grid cards for cleaner scannability."
+    ],
+    "rebuild_opportunities": [
+      "Rebuild using Next.js App Router with Tailwind CSS and Headless CMS for lightning-fast localized landing pages."
+    ],
+    "quick_wins": [
+      "Add click-to-call tracking on phone numbers to measure conversion performance from Google Business Profile traffic.",
+      "Add doctor bios and team photos to build immediate patient trust."
+    ]
+  },
+  "template_recommendation": {
+    "recommended_template": "local-service-leadgen",
+    "template_category": "local_service",
+    "style_direction": "clean_corporate",
+    "layout_pattern": "multi_page_funnel",
+    "template_confidence": 0.95,
+    "key_sections": [
+      "hero",
+      "services_grid",
+      "why_choose_us",
+      "patient_testimonials",
+      "interactive_booking_cta",
+      "location_and_hours"
+    ],
+    "reasoning": "A local service leadgen template optimized for dental practices ensures high conversion rates, mobile-first click-to-call accessibility, and clear service categorization for local patients in Omaha."
+  },
+  "metadata": {
+    "provider": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "prompt_version": "1.0.0",
+    "analyzed_at": "2026-08-24T10:01:18.906849+00:00",
+    "screenshots_processed": 0,
+    "duration_seconds": 15.2,
+    "token_usage": null
+  },
+  "warnings": []
+}

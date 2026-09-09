@@ -1,0 +1,2974 @@
+[
+  {
+    "longitude": -97.8295519,
+    "input_id": "If6HaseoDvjAjuMPz43OKA",
+    "link": "",
+    "cid": "",
+    "title": "The Hive",
+    "categories": [
+      "Coffee shop",
+      "Bar",
+      "Cafe",
+      "Cocktail bar"
+    ],
+    "category": "",
+    "address": "10542 Menchaca Rd, Austin, TX 78748, United States",
+    "open_hours": {
+      "Friday": [
+        "7 am–10 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://www.hiveaustin.com/",
+    "phone": "+1512-215-2942",
+    "plus_code": "8624558C+55",
+    "review_count": 0,
+    "review_rating": 4.5,
+    "reviews_per_rating": null,
+    "latitude": 30.1654278,
+    "longtitude": -97.8295519,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x865b4d52f8c270d7:0x28c51a840f0b752c",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.815917,
+    "input_id": "If6HaseoDvjAjuMPz43OKA",
+    "link": "",
+    "cid": "",
+    "title": "Radix House Coffee",
+    "categories": [
+      "Coffee shop",
+      "Beverage Store",
+      "Donut shop",
+      "Taco restaurant",
+      "Tea house"
+    ],
+    "category": "",
+    "address": "Coffee Shop, 2701 W William Cannon Dr, Austin, TX 78745, United States",
+    "open_hours": {
+      "Friday": [
+        "7 am–7 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.radixhouse.com/",
+    "phone": "+1737-256-9959",
+    "plus_code": "8624654M+QJ",
+    "review_count": 0,
+    "review_rating": 4.9,
+    "reviews_per_rating": null,
+    "latitude": 30.206939499999997,
+    "longtitude": -97.815917,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x865b4d159201ad95:0x424bfa2bf1830608",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.7624548,
+    "input_id": "If6Haq7FIPev4-EPq-66qQ4",
+    "link": "",
+    "cid": "",
+    "title": "Spokesman Coffee",
+    "categories": [
+      "Coffee shop",
+      "Bar",
+      "Beer hall",
+      "Coffee roastery",
+      "Coffee wholesaler"
+    ],
+    "category": "",
+    "address": "440 E St Elmo Rd A2, Austin, TX 78745, United States",
+    "open_hours": {
+      "Friday": [
+        "7 am–9 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://www.spokesmancoffee.com/",
+    "phone": "+1512-586-9657",
+    "plus_code": "8624668Q+62",
+    "review_count": 0,
+    "review_rating": 4.7,
+    "reviews_per_rating": null,
+    "latitude": 30.2155763,
+    "longtitude": -97.7624548,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b4986946608b:0x8398e3fb458d7c22",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.815917,
+    "input_id": "If6Haq7FIPev4-EPq-66qQ4",
+    "link": "",
+    "cid": "",
+    "title": "Radix House Coffee",
+    "categories": [
+      "Coffee shop",
+      "Beverage Store",
+      "Donut shop",
+      "Taco restaurant",
+      "Tea house"
+    ],
+    "category": "",
+    "address": "Coffee Shop, 2701 W William Cannon Dr, Austin, TX 78745, United States",
+    "open_hours": {
+      "Friday": [
+        "7 am–7 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.radixhouse.com/",
+    "phone": "+1737-256-9959",
+    "plus_code": "8624654M+QJ",
+    "review_count": 0,
+    "review_rating": 4.9,
+    "reviews_per_rating": null,
+    "latitude": 30.206939499999997,
+    "longtitude": -97.815917,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x865b4d159201ad95:0x424bfa2bf1830608",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.80610139999999,
+    "input_id": "Iv6Haou8I5aR4-EP8MiG0A0",
+    "link": "",
+    "cid": "",
+    "title": "Trianon Coffee",
+    "categories": [
+      "Coffee shop",
+      "Coffee roastery",
+      "Coffee wholesaler",
+      "Espresso bar"
+    ],
+    "category": "",
+    "address": "3654 Bee Caves Rd Ste A, Austin, TX 78746, United States",
+    "open_hours": {
+      "Friday": [
+        "7 am–7 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://trianoncoffee.com/",
+    "phone": "+1512-328-4033",
+    "plus_code": "862475HV+XH",
+    "review_count": 0,
+    "review_rating": 4.7,
+    "reviews_per_rating": null,
+    "latitude": 30.2798788,
+    "longtitude": -97.80610139999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x865b4ab8bb646e11:0xf7aa60201978d249",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.815917,
+    "input_id": "Iv6Haou8I5aR4-EP8MiG0A0",
+    "link": "",
+    "cid": "",
+    "title": "Radix House Coffee",
+    "categories": [
+      "Coffee shop",
+      "Beverage Store",
+      "Donut shop",
+      "Taco restaurant",
+      "Tea house"
+    ],
+    "category": "",
+    "address": "Coffee Shop, 2701 W William Cannon Dr, Austin, TX 78745, United States",
+    "open_hours": {
+      "Friday": [
+        "7 am–7 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.radixhouse.com/",
+    "phone": "+1737-256-9959",
+    "plus_code": "8624654M+QJ",
+    "review_count": 0,
+    "review_rating": 4.9,
+    "reviews_per_rating": null,
+    "latitude": 30.206939499999997,
+    "longtitude": -97.815917,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x865b4d159201ad95:0x424bfa2bf1830608",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.7876869,
+    "input_id": "Iv6Haou8I5aR4-EP8MiG0A0",
+    "link": "",
+    "cid": "",
+    "title": "Radio Coffee & Beer",
+    "categories": [
+      "Coffee shop"
+    ],
+    "category": "",
+    "address": "4204 Menchaca Rd, Austin, TX 78704, United States",
+    "open_hours": {
+      "Friday": [
+        "7 am–12 am"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://radiocoffeeandbeer.com/",
+    "phone": "+1512-394-7844",
+    "plus_code": "862466J6+JW",
+    "review_count": 0,
+    "review_rating": 4.6,
+    "reviews_per_rating": null,
+    "latitude": 30.231507899999997,
+    "longtitude": -97.7876869,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x865b4b345f5f9e47:0x987257b0016e1db8",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.78395119999999,
+    "input_id": "Iv6Haou8I5aR4-EP8MiG0A0",
+    "link": "",
+    "cid": "",
+    "title": "Mozart's Coffee Roasters",
+    "categories": [
+      "Coffee shop",
+      "Boat Rental Agency",
+      "Dessert restaurant",
+      "Espresso bar",
+      "Live music venue"
+    ],
+    "category": "",
+    "address": "3825 Lake Austin Blvd, Austin, TX 78703, United States",
+    "open_hours": {
+      "Friday": [
+        "7 am–12 am"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://mozartscoffee.com/",
+    "phone": "+1512-477-2900",
+    "plus_code": "862476W8+5C",
+    "review_count": 0,
+    "review_rating": 4.5,
+    "reviews_per_rating": null,
+    "latitude": 30.295469599999997,
+    "longtitude": -97.78395119999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b5554461664d:0xbc4ff333ec9ad1ad",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.70495749999999,
+    "input_id": "Lf6HasO6GLGd4-EPyu2l4AY",
+    "link": "",
+    "cid": "",
+    "title": "Texas Coffee Traders Cafe",
+    "categories": [
+      "Coffee shop",
+      "Cafe",
+      "Coffee store",
+      "Pastry shop"
+    ],
+    "category": "",
+    "address": "3223 E 7th St, Austin, TX 78702, United States",
+    "open_hours": {
+      "Friday": [
+        "7 am–4 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.texascoffeetraders.com/",
+    "phone": "+1512-476-2279",
+    "plus_code": "8624775W+32",
+    "review_count": 0,
+    "review_rating": 4.9,
+    "reviews_per_rating": null,
+    "latitude": 30.2577197,
+    "longtitude": -97.70495749999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b5b1ae06adef:0x33f3a1b2bd766114",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.70545519999999,
+    "input_id": "Lf6HasO6GLGd4-EPyu2l4AY",
+    "link": "",
+    "cid": "",
+    "title": "Flitch Coffee",
+    "categories": [
+      "Coffee shop"
+    ],
+    "category": "",
+    "address": "641 Tillery St Suite 110, Austin, TX 78702, United States",
+    "open_hours": {
+      "Friday": [
+        "7 am–2 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://flitchcoffee.com/",
+    "phone": "+1512-698-1326",
+    "plus_code": "8624775V+3R",
+    "review_count": 0,
+    "review_rating": 4.7,
+    "reviews_per_rating": null,
+    "latitude": 30.257730199999997,
+    "longtitude": -97.70545519999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b5d308dbec6d:0x585034302d1a4677",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.7137874,
+    "input_id": "Lf6HasO6GLGd4-EPyu2l4AY",
+    "link": "",
+    "cid": "",
+    "title": "Desnudo Coffee: East Austin",
+    "categories": [
+      "Coffee shop",
+      "Cafe",
+      "Coffee roastery",
+      "Coffee stand",
+      "Coffee wholesaler",
+      "Espresso bar"
+    ],
+    "category": "",
+    "address": "2505 Webberville Rd, Austin, TX 78702, United States",
+    "open_hours": {
+      "Friday": [
+        "7 am–2 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://www.desnudocoffee.com/",
+    "phone": "",
+    "plus_code": "8624777P+6F",
+    "review_count": 0,
+    "review_rating": 4.8,
+    "reviews_per_rating": null,
+    "latitude": 30.2630986,
+    "longtitude": -97.7137874,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b525b4375f7b:0x1d73c2989730057a",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.7143007,
+    "input_id": "Lf6HasO6GLGd4-EPyu2l4AY",
+    "link": "",
+    "cid": "",
+    "title": "Fleet Coffee",
+    "categories": [
+      "Coffee shop"
+    ],
+    "category": "",
+    "address": "2427 Webberville Rd, Austin, TX 78702, United States",
+    "open_hours": {
+      "Friday": [
+        "7 am–1:30 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://www.fleetcoffee.com/",
+    "phone": "+1512-212-7174",
+    "plus_code": "8624777P+47",
+    "review_count": 0,
+    "review_rating": 4.7,
+    "reviews_per_rating": null,
+    "latitude": 30.262752799999998,
+    "longtitude": -97.7143007,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b5ced49c5d45:0x278cb9e9d5c171ee",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.71994699999999,
+    "input_id": "Lf6HasO6GLGd4-EPyu2l4AY",
+    "link": "",
+    "cid": "",
+    "title": "Figure 8 Coffee Purveyors Cafe & Roastery",
+    "categories": [
+      "Coffee shop"
+    ],
+    "category": "",
+    "address": "1111 Chicon St, Austin, TX 78702, United States",
+    "open_hours": {
+      "Friday": [
+        "7 am–7 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://www.figure8coffeepurveyors.com/",
+    "phone": "",
+    "plus_code": "8624778J+Q2",
+    "review_count": 0,
+    "review_rating": 4.7,
+    "reviews_per_rating": null,
+    "latitude": 30.266914,
+    "longtitude": -97.71994699999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b5b80a0ee693:0xe15d438a8f4ed8a",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.7196223,
+    "input_id": "Lf6HasO6GLGd4-EPyu2l4AY",
+    "link": "",
+    "cid": "",
+    "title": "Bennu Coffee",
+    "categories": [
+      "Coffee shop",
+      "Espresso bar"
+    ],
+    "category": "",
+    "address": "2001 E Martin Luther King Jr Blvd, Austin, TX 78702, United States",
+    "open_hours": {
+      "Friday": [
+        "Open 24 hours"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://www.bennucoffee.com/",
+    "phone": "+1512-478-4700",
+    "plus_code": "862477HJ+W5",
+    "review_count": 0,
+    "review_rating": 4.5,
+    "reviews_per_rating": null,
+    "latitude": 30.279812,
+    "longtitude": -97.7196223,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b571d3dfb50d:0x4deb2f0c0bfd183a",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.72543119999999,
+    "input_id": "Lf6HasO6GLGd4-EPyu2l4AY",
+    "link": "",
+    "cid": "",
+    "title": "Klerje Coffee",
+    "categories": [
+      "Coffee shop"
+    ],
+    "category": "",
+    "address": "1614 E 6th St Apt 112, Austin, TX 78702, United States",
+    "open_hours": {
+      "Friday": [
+        "7 am–1 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.klerjecoffee.com/",
+    "phone": "",
+    "plus_code": "8624777F+4R",
+    "review_count": 0,
+    "review_rating": 4.8,
+    "reviews_per_rating": null,
+    "latitude": 30.262757999999998,
+    "longtitude": -97.72543119999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b5621bdae7dd:0xe6d9eb562b242358",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.75209799999999,
+    "input_id": "Lf6HaqWHDqLG4-EPiJXV-AU",
+    "link": "",
+    "cid": "",
+    "title": "Merit Coffee Co.",
+    "categories": [
+      "Coffee shop",
+      "Cafe",
+      "Coffee store",
+      "Espresso bar"
+    ],
+    "category": "",
+    "address": "222 West Ave #120, Austin, TX 78701, United States",
+    "open_hours": {
+      "Friday": [
+        "6:30 am–7 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://meritcoffee.com/pages/seaholm",
+    "phone": "+1512-906-0266",
+    "plus_code": "8624769X+25",
+    "review_count": 0,
+    "review_rating": 4.5,
+    "reviews_per_rating": null,
+    "latitude": 30.267570199999998,
+    "longtitude": -97.75209799999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b50e25cd8c2d:0x3fa3976be9ecaa5",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.743066,
+    "input_id": "Lf6HaqWHDqLG4-EPiJXV-AU",
+    "link": "",
+    "cid": "",
+    "title": "Houndstooth Coffee",
+    "categories": [
+      "Coffee shop",
+      "Beer store",
+      "Cafe",
+      "Coffee store",
+      "Espresso bar",
+      "Wine store"
+    ],
+    "category": "",
+    "address": "401 Congress Ave. #100c, Austin, TX 78701, United States",
+    "open_hours": {
+      "Friday": [
+        "6:30 am–7 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://www.houndstoothcoffee.com/?utm_source=google&utm_medium=organic&utm_campaign=googlebusiness",
+    "phone": "+1512-394-6051",
+    "plus_code": "86247784+FQ",
+    "review_count": 0,
+    "review_rating": 4.5,
+    "reviews_per_rating": null,
+    "latitude": 30.266216,
+    "longtitude": -97.743066,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b50847967b9f:0x9c58a6fceb42fe15",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.7493717,
+    "input_id": "Lf6HaqWHDqLG4-EPiJXV-AU",
+    "link": "",
+    "cid": "",
+    "title": "Jo's Coffee – South Congress",
+    "categories": [
+      "Coffee shop",
+      "Cafe",
+      "Takeout restaurant",
+      "Sandwich shop"
+    ],
+    "category": "",
+    "address": "1300 S Congress Ave, Austin, TX 78704, United States",
+    "open_hours": {
+      "Friday": [
+        "7 am–7 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.joscoffee.com/south-congress-jos",
+    "phone": "+1512-852-2300",
+    "plus_code": "86247722+C7",
+    "review_count": 0,
+    "review_rating": 4.4,
+    "reviews_per_rating": null,
+    "latitude": 30.2510458,
+    "longtitude": -97.7493717,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b4fda2c12fd5:0x66b58cb4722b37b",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.7498225,
+    "input_id": "Lf6HaqWHDqLG4-EPiJXV-AU",
+    "link": "",
+    "cid": "",
+    "title": "Mañana",
+    "categories": [
+      "Coffee shop",
+      "Bakery and Cake Shop",
+      "Breakfast restaurant",
+      "Cafe"
+    ],
+    "category": "",
+    "address": "1603 S Congress Ave, Austin, TX 78704, United States",
+    "open_hours": {
+      "Friday": [
+        "7 am–7 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://mananaaustin.com/",
+    "phone": "+1512-872-3144",
+    "plus_code": "862467X2+33",
+    "review_count": 0,
+    "review_rating": 4.4,
+    "reviews_per_rating": null,
+    "latitude": 30.247704199999998,
+    "longtitude": -97.7498225,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b4fc866add87:0x7327c6cabb7a51aa",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.73309169999999,
+    "input_id": "Lf6HaqWHDqLG4-EPiJXV-AU",
+    "link": "",
+    "cid": "",
+    "title": "The Brew and Brew",
+    "categories": [
+      "Coffee shop",
+      "Bar",
+      "Breakfast restaurant",
+      "Brunch restaurant",
+      "Cocktail bar"
+    ],
+    "category": "",
+    "address": "500 San Marcos St #105, Austin, TX 78702, United States",
+    "open_hours": {
+      "Friday": [
+        "7 am–8 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://www.thebrewandbrew.com/",
+    "phone": "+1512-827-9673",
+    "plus_code": "86247778+QQ",
+    "review_count": 0,
+    "review_rating": 4.5,
+    "reviews_per_rating": null,
+    "latitude": 30.2644111,
+    "longtitude": -97.73309169999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b5af858cb3fd:0x1aca02d5fc79c6c9",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.75702489999999,
+    "input_id": "Lf6HaqWHDqLG4-EPiJXV-AU",
+    "link": "",
+    "cid": "",
+    "title": "Once Over Coffee Bar",
+    "categories": [
+      "Coffee shop",
+      "Art gallery",
+      "Cocktail bar",
+      "Espresso bar"
+    ],
+    "category": "",
+    "address": "2009 S 1st St #100, Austin, TX 78704, United States",
+    "open_hours": {
+      "Friday": [
+        "7 am–7 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://www.onceovercoffeebar.com/",
+    "phone": "",
+    "plus_code": "862466VV+W5",
+    "review_count": 0,
+    "review_rating": 4.5,
+    "reviews_per_rating": null,
+    "latitude": 30.244854,
+    "longtitude": -97.75702489999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b4e43d9c0fe7:0x26a464848daab9f9",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.71994699999999,
+    "input_id": "Lf6HaqWHDqLG4-EPiJXV-AU",
+    "link": "",
+    "cid": "",
+    "title": "Figure 8 Coffee Purveyors Cafe & Roastery",
+    "categories": [
+      "Coffee shop"
+    ],
+    "category": "",
+    "address": "1111 Chicon St, Austin, TX 78702, United States",
+    "open_hours": {
+      "Friday": [
+        "7 am–7 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://www.figure8coffeepurveyors.com/",
+    "phone": "",
+    "plus_code": "8624778J+Q2",
+    "review_count": 0,
+    "review_rating": 4.7,
+    "reviews_per_rating": null,
+    "latitude": 30.266914,
+    "longtitude": -97.71994699999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b5b80a0ee693:0xe15d438a8f4ed8a",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.7143007,
+    "input_id": "Lf6HaqWHDqLG4-EPiJXV-AU",
+    "link": "",
+    "cid": "",
+    "title": "Fleet Coffee",
+    "categories": [
+      "Coffee shop"
+    ],
+    "category": "",
+    "address": "2427 Webberville Rd, Austin, TX 78702, United States",
+    "open_hours": {
+      "Friday": [
+        "7 am–1:30 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://www.fleetcoffee.com/",
+    "phone": "+1512-212-7174",
+    "plus_code": "8624777P+47",
+    "review_count": 0,
+    "review_rating": 4.7,
+    "reviews_per_rating": null,
+    "latitude": 30.262752799999998,
+    "longtitude": -97.7143007,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b5ced49c5d45:0x278cb9e9d5c171ee",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.7137874,
+    "input_id": "Lf6HaqWHDqLG4-EPiJXV-AU",
+    "link": "",
+    "cid": "",
+    "title": "Desnudo Coffee: East Austin",
+    "categories": [
+      "Coffee shop",
+      "Cafe",
+      "Coffee roastery",
+      "Coffee stand",
+      "Coffee wholesaler",
+      "Espresso bar"
+    ],
+    "category": "",
+    "address": "2505 Webberville Rd, Austin, TX 78702, United States",
+    "open_hours": {
+      "Friday": [
+        "7 am–2 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://www.desnudocoffee.com/",
+    "phone": "",
+    "plus_code": "8624777P+6F",
+    "review_count": 0,
+    "review_rating": 4.8,
+    "reviews_per_rating": null,
+    "latitude": 30.2630986,
+    "longtitude": -97.7137874,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b525b4375f7b:0x1d73c2989730057a",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.7196223,
+    "input_id": "Lf6HaqWHDqLG4-EPiJXV-AU",
+    "link": "",
+    "cid": "",
+    "title": "Bennu Coffee",
+    "categories": [
+      "Coffee shop",
+      "Espresso bar"
+    ],
+    "category": "",
+    "address": "2001 E Martin Luther King Jr Blvd, Austin, TX 78702, United States",
+    "open_hours": {
+      "Friday": [
+        "Open 24 hours"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://www.bennucoffee.com/",
+    "phone": "+1512-478-4700",
+    "plus_code": "862477HJ+W5",
+    "review_count": 0,
+    "review_rating": 4.5,
+    "reviews_per_rating": null,
+    "latitude": 30.279812,
+    "longtitude": -97.7196223,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b571d3dfb50d:0x4deb2f0c0bfd183a",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.70495749999999,
+    "input_id": "Lf6HaqWHDqLG4-EPiJXV-AU",
+    "link": "",
+    "cid": "",
+    "title": "Texas Coffee Traders Cafe",
+    "categories": [
+      "Coffee shop",
+      "Cafe",
+      "Coffee store",
+      "Pastry shop"
+    ],
+    "category": "",
+    "address": "3223 E 7th St, Austin, TX 78702, United States",
+    "open_hours": {
+      "Friday": [
+        "7 am–4 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.texascoffeetraders.com/",
+    "phone": "+1512-476-2279",
+    "plus_code": "8624775W+32",
+    "review_count": 0,
+    "review_rating": 4.9,
+    "reviews_per_rating": null,
+    "latitude": 30.2577197,
+    "longtitude": -97.70495749999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b5b1ae06adef:0x33f3a1b2bd766114",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.7876869,
+    "input_id": "Lf6HaqWHDqLG4-EPiJXV-AU",
+    "link": "",
+    "cid": "",
+    "title": "Radio Coffee & Beer",
+    "categories": [
+      "Coffee shop"
+    ],
+    "category": "",
+    "address": "4204 Menchaca Rd, Austin, TX 78704, United States",
+    "open_hours": {
+      "Friday": [
+        "7 am–12 am"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://radiocoffeeandbeer.com/",
+    "phone": "+1512-394-7844",
+    "plus_code": "862466J6+JW",
+    "review_count": 0,
+    "review_rating": 4.6,
+    "reviews_per_rating": null,
+    "latitude": 30.231507899999997,
+    "longtitude": -97.7876869,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x865b4b345f5f9e47:0x987257b0016e1db8",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.735632,
+    "input_id": "Lf6HaqWHDqLG4-EPiJXV-AU",
+    "link": "",
+    "cid": "",
+    "title": "Terrible Love",
+    "categories": [
+      "Coffee shop",
+      "Coffee stand"
+    ],
+    "category": "",
+    "address": "3908 Avenue B, Austin, TX 78751, United States",
+    "open_hours": {
+      "Friday": [
+        "7:30 am–2 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://terriblelovecoffee.com/",
+    "phone": "",
+    "plus_code": "86248737+RP",
+    "review_count": 0,
+    "review_rating": 4.9,
+    "reviews_per_rating": null,
+    "latitude": 30.3045132,
+    "longtitude": -97.735632,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b5909076ca3f:0x29646d76a1c6aada",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.78395119999999,
+    "input_id": "Lf6HaqWHDqLG4-EPiJXV-AU",
+    "link": "",
+    "cid": "",
+    "title": "Mozart's Coffee Roasters",
+    "categories": [
+      "Coffee shop",
+      "Boat Rental Agency",
+      "Dessert restaurant",
+      "Espresso bar",
+      "Live music venue"
+    ],
+    "category": "",
+    "address": "3825 Lake Austin Blvd, Austin, TX 78703, United States",
+    "open_hours": {
+      "Friday": [
+        "7 am–12 am"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://mozartscoffee.com/",
+    "phone": "+1512-477-2900",
+    "plus_code": "862476W8+5C",
+    "review_count": 0,
+    "review_rating": 4.5,
+    "reviews_per_rating": null,
+    "latitude": 30.295469599999997,
+    "longtitude": -97.78395119999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b5554461664d:0xbc4ff333ec9ad1ad",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.7624548,
+    "input_id": "Lf6HaqWHDqLG4-EPiJXV-AU",
+    "link": "",
+    "cid": "",
+    "title": "Spokesman Coffee",
+    "categories": [
+      "Coffee shop",
+      "Bar",
+      "Beer hall",
+      "Coffee roastery",
+      "Coffee wholesaler"
+    ],
+    "category": "",
+    "address": "440 E St Elmo Rd A2, Austin, TX 78745, United States",
+    "open_hours": {
+      "Friday": [
+        "7 am–9 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://www.spokesmancoffee.com/",
+    "phone": "+1512-586-9657",
+    "plus_code": "8624668Q+62",
+    "review_count": 0,
+    "review_rating": 4.7,
+    "reviews_per_rating": null,
+    "latitude": 30.2155763,
+    "longtitude": -97.7624548,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b4986946608b:0x8398e3fb458d7c22",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.72454019999999,
+    "input_id": "Lf6HaqWHDqLG4-EPiJXV-AU",
+    "link": "",
+    "cid": "",
+    "title": "Epoch Coffee",
+    "categories": [
+      "Coffee shop"
+    ],
+    "category": "",
+    "address": "221 W N Loop Blvd, Austin, TX 78751, United States",
+    "open_hours": {
+      "Friday": [
+        "Open 24 hours"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://www.epochcoffee.com/",
+    "phone": "+1512-454-3762",
+    "plus_code": "8624879G+C5",
+    "review_count": 0,
+    "review_rating": 4.5,
+    "reviews_per_rating": null,
+    "latitude": 30.318603699999997,
+    "longtitude": -97.72454019999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644ca6bc309e81b:0x1f1a903bbb66839",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.815917,
+    "input_id": "Lf6HaqWHDqLG4-EPiJXV-AU",
+    "link": "",
+    "cid": "",
+    "title": "Radix House Coffee",
+    "categories": [
+      "Coffee shop",
+      "Beverage Store",
+      "Donut shop",
+      "Taco restaurant",
+      "Tea house"
+    ],
+    "category": "",
+    "address": "Coffee Shop, 2701 W William Cannon Dr, Austin, TX 78745, United States",
+    "open_hours": {
+      "Friday": [
+        "7 am–7 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.radixhouse.com/",
+    "phone": "+1737-256-9959",
+    "plus_code": "8624654M+QJ",
+    "review_count": 0,
+    "review_rating": 4.9,
+    "reviews_per_rating": null,
+    "latitude": 30.206939499999997,
+    "longtitude": -97.815917,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x865b4d159201ad95:0x424bfa2bf1830608",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.7174799,
+    "input_id": "Lf6HaqWHDqLG4-EPiJXV-AU",
+    "link": "",
+    "cid": "",
+    "title": "Barrett's Coffee",
+    "categories": [
+      "Coffee shop"
+    ],
+    "category": "",
+    "address": "713 W St Johns Ave, Austin, TX 78752, United States",
+    "open_hours": {
+      "Friday": [
+        "7 am–7 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.barrettscoffee.com/",
+    "phone": "+1512-677-7667",
+    "plus_code": "862487QM+H2",
+    "review_count": 0,
+    "review_rating": 4.6,
+    "reviews_per_rating": null,
+    "latitude": 30.3389733,
+    "longtitude": -97.7174799,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644ca365e2bba7d:0x3701d606bcf6ce99",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.7421123,
+    "input_id": "Lv6HarnkM83c4-EPiJGysAY",
+    "link": "",
+    "cid": "",
+    "title": "Flora Coffee & Culture",
+    "categories": [
+      "Coffee shop"
+    ],
+    "category": "",
+    "address": "3300 W Anderson Ln. Ste 300, Austin, TX 78757, United States",
+    "open_hours": {
+      "Friday": [
+        "7 am–3 pm"
+      ],
+      "Monday": [
+        "7 am–3 pm"
+      ],
+      "Saturday": [
+        "7 am–3 pm"
+      ],
+      "Sunday": [
+        "8:30 am–3 pm"
+      ],
+      "Thursday": [
+        "7 am–3 pm"
+      ],
+      "Tuesday": [
+        "7 am–3 pm"
+      ],
+      "Wednesday": [
+        "7 am–3 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://floracoffee.co/",
+    "phone": "",
+    "plus_code": "86249765+W5",
+    "review_count": 393,
+    "review_rating": 4.9,
+    "reviews_per_rating": null,
+    "latitude": 30.362347,
+    "longtitude": -97.7421123,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644eb01e1b6f12b:0xfd2a1ae49e89ca16",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.7336153,
+    "input_id": "Lv6HarnkM83c4-EPiJGysAY",
+    "link": "",
+    "cid": "",
+    "title": "Russell’s Bakery & Genuine Joe Coffeehouse",
+    "categories": [
+      "Coffee shop",
+      "Bakery and Cake Shop"
+    ],
+    "category": "",
+    "address": "2525 W Anderson Ln. Suite #270, Austin, TX 78757, United States",
+    "open_hours": {
+      "Friday": [
+        "7 am–9 pm"
+      ],
+      "Monday": [
+        "7 am–9 pm"
+      ],
+      "Saturday": [
+        "7 am–9 pm"
+      ],
+      "Sunday": [
+        "7 am–6 pm"
+      ],
+      "Thursday": [
+        "7 am–9 pm"
+      ],
+      "Tuesday": [
+        "7 am–9 pm"
+      ],
+      "Wednesday": [
+        "7 am–9 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://russellsbakeryanderson.square.site/",
+    "phone": "+1512-291-7958",
+    "plus_code": "86249748+8H",
+    "review_count": 1411,
+    "review_rating": 4.6,
+    "reviews_per_rating": null,
+    "latitude": 30.355855899999998,
+    "longtitude": -97.7336153,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644cbb1030f7d31:0xff1d8120b027b9cc",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.7201575,
+    "input_id": "Lv6HarnkM83c4-EPiJGysAY",
+    "link": "",
+    "cid": "",
+    "title": "Summer Moon Coffee",
+    "categories": [
+      "Coffee shop"
+    ],
+    "category": "",
+    "address": "11005 Burnet Rd Ste 112, Austin, TX 78758, United States",
+    "open_hours": {
+      "Friday": [
+        "5 am–7 pm"
+      ],
+      "Monday": [
+        "5 am–7 pm"
+      ],
+      "Saturday": [
+        "6 am–7 pm"
+      ],
+      "Sunday": [
+        "6 am–7 pm"
+      ],
+      "Thursday": [
+        "5 am–7 pm"
+      ],
+      "Tuesday": [
+        "5 am–7 pm"
+      ],
+      "Wednesday": [
+        "5 am–7 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://locations.summermooncoffee.com/locations/burnet-rd-austin/",
+    "phone": "+1737-300-1265",
+    "plus_code": "862497VH+PW",
+    "review_count": 2048,
+    "review_rating": 4.6,
+    "reviews_per_rating": null,
+    "latitude": 30.3943718,
+    "longtitude": -97.7201575,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644cc752bbe37bf:0x4a9e56f256689bb2",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.7174799,
+    "input_id": "Lv6HarnkM83c4-EPiJGysAY",
+    "link": "",
+    "cid": "",
+    "title": "Barrett's Coffee",
+    "categories": [
+      "Coffee shop"
+    ],
+    "category": "",
+    "address": "713 W St Johns Ave, Austin, TX 78752, United States",
+    "open_hours": {
+      "Friday": [
+        "7 am–7 pm"
+      ],
+      "Monday": [
+        "7 am–7 pm"
+      ],
+      "Saturday": [
+        "7 am–7 pm"
+      ],
+      "Sunday": [
+        "7 am–7 pm"
+      ],
+      "Thursday": [
+        "7 am–7 pm"
+      ],
+      "Tuesday": [
+        "7 am–7 pm"
+      ],
+      "Wednesday": [
+        "7 am–7 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.barrettscoffee.com/",
+    "phone": "+1512-677-7667",
+    "plus_code": "862487QM+H2",
+    "review_count": 947,
+    "review_rating": 4.6,
+    "reviews_per_rating": null,
+    "latitude": 30.3389733,
+    "longtitude": -97.7174799,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644ca365e2bba7d:0x3701d606bcf6ce99",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.72454019999999,
+    "input_id": "Lv6HarnkM83c4-EPiJGysAY",
+    "link": "",
+    "cid": "",
+    "title": "Epoch Coffee",
+    "categories": [
+      "Coffee shop"
+    ],
+    "category": "",
+    "address": "221 W N Loop Blvd, Austin, TX 78751, United States",
+    "open_hours": {
+      "Friday": [
+        "Open 24 hours"
+      ],
+      "Monday": [
+        "12 am–11:30 pm"
+      ],
+      "Saturday": [
+        "Open 24 hours"
+      ],
+      "Sunday": [
+        "Open 24 hours"
+      ],
+      "Thursday": [
+        "Open 24 hours"
+      ],
+      "Tuesday": [
+        "Open 24 hours"
+      ],
+      "Wednesday": [
+        "Open 24 hours"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://www.epochcoffee.com/",
+    "phone": "+1512-454-3762",
+    "plus_code": "8624879G+C5",
+    "review_count": 2514,
+    "review_rating": 4.5,
+    "reviews_per_rating": null,
+    "latitude": 30.318603699999997,
+    "longtitude": -97.72454019999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644ca6bc309e81b:0x1f1a903bbb66839",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.735632,
+    "input_id": "Lv6HarnkM83c4-EPiJGysAY",
+    "link": "",
+    "cid": "",
+    "title": "Terrible Love",
+    "categories": [
+      "Coffee shop",
+      "Coffee stand"
+    ],
+    "category": "",
+    "address": "3908 Avenue B, Austin, TX 78751, United States",
+    "open_hours": {
+      "Friday": [
+        "7:30 am–2 pm"
+      ],
+      "Monday": [
+        "7:30 am–2 pm"
+      ],
+      "Saturday": [
+        "8:30 am–3 pm"
+      ],
+      "Sunday": [
+        "8:30 am–3 pm"
+      ],
+      "Thursday": [
+        "7:30 am–2 pm"
+      ],
+      "Tuesday": [
+        "7:30 am–2 pm"
+      ],
+      "Wednesday": [
+        "7:30 am–2 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://terriblelovecoffee.com/",
+    "phone": "",
+    "plus_code": "86248737+RP",
+    "review_count": 420,
+    "review_rating": 4.9,
+    "reviews_per_rating": null,
+    "latitude": 30.3045132,
+    "longtitude": -97.735632,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b5909076ca3f:0x29646d76a1c6aada",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.78395119999999,
+    "input_id": "Lv6HarnkM83c4-EPiJGysAY",
+    "link": "",
+    "cid": "",
+    "title": "Mozart's Coffee Roasters",
+    "categories": [
+      "Coffee shop",
+      "Boat Rental Agency",
+      "Dessert restaurant",
+      "Espresso bar",
+      "Live music venue"
+    ],
+    "category": "",
+    "address": "3825 Lake Austin Blvd, Austin, TX 78703, United States",
+    "open_hours": {
+      "Friday": [
+        "7 am–12 am"
+      ],
+      "Monday": [
+        "7 am–12 am"
+      ],
+      "Saturday": [
+        "7 am–12 am"
+      ],
+      "Sunday": [
+        "7 am–12 am"
+      ],
+      "Thursday": [
+        "7 am–12 am"
+      ],
+      "Tuesday": [
+        "7 am–12 am"
+      ],
+      "Wednesday": [
+        "7 am–12 am"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://mozartscoffee.com/",
+    "phone": "+1512-477-2900",
+    "plus_code": "862476W8+5C",
+    "review_count": 10847,
+    "review_rating": 4.5,
+    "reviews_per_rating": null,
+    "latitude": 30.295469599999997,
+    "longtitude": -97.78395119999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b5554461664d:0xbc4ff333ec9ad1ad",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.817188,
+    "input_id": "Mf6HavjsHp2t4-EPkY_x-Qs",
+    "link": "",
+    "cid": "",
+    "title": "Mojo Coffee Lakeline",
+    "categories": [
+      "Coffee shop"
+    ],
+    "category": "",
+    "address": "12206 Ranch Rd 620 N, Austin, TX 78750, United States",
+    "open_hours": {
+      "Friday": [
+        "5:30 am–8 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://www.mojodrivethru.com/",
+    "phone": "+1737-900-3700",
+    "plus_code": "8624F56M+W4",
+    "review_count": 0,
+    "review_rating": 4.7,
+    "reviews_per_rating": null,
+    "latitude": 30.462303,
+    "longtitude": -97.817188,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x865b33ee6a9856e5:0x5064d03fde124e36",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.7618103,
+    "input_id": "Mv6HatHSMoyc4-EPu4Tq8AE",
+    "link": "",
+    "cid": "",
+    "title": "Rocket Coffee ATX & Pastries",
+    "categories": [
+      "Coffee shop",
+      "Cafe",
+      "Dessert shop"
+    ],
+    "category": "",
+    "address": "8701 W Parmer Ln #2127, Austin, TX 78729, United States",
+    "open_hours": {
+      "Friday": [
+        "6:30 am–5 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.rocketcoffeetx.com/",
+    "phone": "+1512-551-2655",
+    "plus_code": "8624F69Q+67",
+    "review_count": 0,
+    "review_rating": 4.8,
+    "reviews_per_rating": null,
+    "latitude": 30.4681057,
+    "longtitude": -97.7618103,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644cdfea478762b:0x4a3914cb52f0eef0",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.817188,
+    "input_id": "Mv6HatHSMoyc4-EPu4Tq8AE",
+    "link": "",
+    "cid": "",
+    "title": "Mojo Coffee Lakeline",
+    "categories": [
+      "Coffee shop"
+    ],
+    "category": "",
+    "address": "12206 Ranch Rd 620 N, Austin, TX 78750, United States",
+    "open_hours": {
+      "Friday": [
+        "5:30 am–8 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://www.mojodrivethru.com/",
+    "phone": "+1737-900-3700",
+    "plus_code": "8624F56M+W4",
+    "review_count": 0,
+    "review_rating": 4.7,
+    "reviews_per_rating": null,
+    "latitude": 30.462303,
+    "longtitude": -97.817188,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x865b33ee6a9856e5:0x5064d03fde124e36",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.7201575,
+    "input_id": "Mv6HatHSMoyc4-EPu4Tq8AE",
+    "link": "",
+    "cid": "",
+    "title": "Summer Moon Coffee",
+    "categories": [
+      "Coffee shop"
+    ],
+    "category": "",
+    "address": "11005 Burnet Rd Ste 112, Austin, TX 78758, United States",
+    "open_hours": {
+      "Friday": [
+        "5 am–7 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://locations.summermooncoffee.com/locations/burnet-rd-austin/",
+    "phone": "+1737-300-1265",
+    "plus_code": "862497VH+PW",
+    "review_count": 0,
+    "review_rating": 4.6,
+    "reviews_per_rating": null,
+    "latitude": 30.3943718,
+    "longtitude": -97.7201575,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644cc752bbe37bf:0x4a9e56f256689bb2",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.7174799,
+    "input_id": "Mf6HarqfH52s4-EPwvHrwAQ",
+    "link": "",
+    "cid": "",
+    "title": "Barrett's Coffee",
+    "categories": [
+      "Coffee shop"
+    ],
+    "category": "",
+    "address": "713 W St Johns Ave, Austin, TX 78752, United States",
+    "open_hours": {
+      "Friday": [
+        "7 am–7 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.barrettscoffee.com/",
+    "phone": "+1512-677-7667",
+    "plus_code": "862487QM+H2",
+    "review_count": 0,
+    "review_rating": 4.6,
+    "reviews_per_rating": null,
+    "latitude": 30.3389733,
+    "longtitude": -97.7174799,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644ca365e2bba7d:0x3701d606bcf6ce99",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.7201575,
+    "input_id": "Mf6HarqfH52s4-EPwvHrwAQ",
+    "link": "",
+    "cid": "",
+    "title": "Summer Moon Coffee",
+    "categories": [
+      "Coffee shop"
+    ],
+    "category": "",
+    "address": "11005 Burnet Rd Ste 112, Austin, TX 78758, United States",
+    "open_hours": {
+      "Friday": [
+        "5 am–7 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://locations.summermooncoffee.com/locations/burnet-rd-austin/",
+    "phone": "+1737-300-1265",
+    "plus_code": "862497VH+PW",
+    "review_count": 0,
+    "review_rating": 4.6,
+    "reviews_per_rating": null,
+    "latitude": 30.3943718,
+    "longtitude": -97.7201575,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644cc752bbe37bf:0x4a9e56f256689bb2",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  }
+]

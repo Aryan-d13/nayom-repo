@@ -1,0 +1,95 @@
+{
+  "id": "lawyer-authority",
+  "name": "Lawyer Authority & Legal Practice",
+  "version": "v1",
+  "description": "Prestigious, high-trust law firm template designed for consultation bookings, practice area breakdowns, and attorney bios.",
+  "categories": [
+    "law",
+    "legal",
+    "professional_services"
+  ],
+  "industries": [
+    "lawyer",
+    "attorney",
+    "legal",
+    "law firm",
+    "counsel",
+    "litigation"
+  ],
+  "style_keywords": [
+    "authoritative",
+    "formal",
+    "minimalist",
+    "dark-tech"
+  ],
+  "layout_patterns": [
+    "split_hero_feature_stack",
+    "single_page_anchor_flow"
+  ],
+  "supported_features": [
+    "booking",
+    "pricing",
+    "testimonials",
+    "faqs",
+    "contact_form"
+  ],
+  "supported_slots": [
+    "site.name",
+    "site.tagline",
+    "site.niche",
+    "hero.title",
+    "hero.subtitle",
+    "hero.cta",
+    "hero.ctaLink",
+    "about.summary",
+    "about.differentiators",
+    "contact.phone",
+    "contact.email",
+    "contact.address",
+    "contact.location",
+    "services",
+    "testimonials",
+    "faqs",
+    "socialLinks",
+    "locations",
+    "seo"
+  ],
+  "preview_image": "preview/thumbnail.png",
+  "entrypoint": "app/page.tsx",
+  "capabilities": {
+    "supportsBooking": true,
+    "supportsGallery": false,
+    "supportsPricing": false,
+    "supportsMultiLocation": true,
+    "supportsTestimonials": true,
+    "supportsFaq": true,
+    "supportsBeforeAfter": false
+  },
+  "defaultTheme": {
+    "palette": [
+      "#1b2a4a",
+      "#c5a059",
+      "#f8f9fa",
+      "#0b1325"
+    ],
+    "typography": "Cinzel, Playfair Display, serif",
+    "iconStyle": "lucide-classic",
+    "borderRadius": "4px",
+    "buttonStyle": "sharp-gold",
+    "animationStyle": "fade-subtle"
+  },
+  "supportedVariants": [
+    "light",
+    "dark"
+  ],
+  "availableSections": [
+    "hero",
+    "practice-areas",
+    "attorneys",
+    "results",
+    "testimonials",
+    "faqs",
+    "free-consultation",
+    "contact"
+  ]
+}

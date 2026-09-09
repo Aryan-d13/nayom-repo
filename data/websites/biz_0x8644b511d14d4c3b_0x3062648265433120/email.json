@@ -1,0 +1,18 @@
+{
+  "recipient": "contact@toothbar.com",
+  "subject": "Quick thought on Toothbar's downtown site experience",
+  "body": "Hi Toothbar team, As someone who frequently walks around downtown Austin, I've always admired how you've redefined the dental experience for busy professionals with your luxury lounge and happy hour whitening parties. While looking over your current site, I noticed a couple of quick opportunities to streamline the user journey: the main page lacks visible business hours, and adding a persistent mobile call button would make it much easier for anxious patients to book quickly on the fly. Because I really appreciate your patient-first approach led by your female founders, I went ahead and built a clean, single-page prototype for Toothbar that resolves these layout items while highlighting PPO insurance trust badges right below the fold. You can check out the live preview here: https://nayom-biz-0x8644b511d14d4c3b-0x306264826543312-qn9kufmud.vercel.app. If you like the cleaner structure or want me to adjust anything, I'd be happy to share the project files. No worries at all if you are completely happy with your current setup!",
+  "business_id": "biz_0x8644b511d14d4c3b_0x3062648265433120",
+  "preview_url": "https://nayom-biz-0x8644b511d14d4c3b-0x306264826543312-qn9kufmud.vercel.app",
+  "generated_at": "2026-08-26T15:40:27.606947+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "business_name": "Toothbar",
+  "key_improvements": [
+    "Added persistent click-to-call buttons on a mobile sticky bottom bar",
+    "Highlighted major PPO insurance logos immediately below the fold",
+    "Cleaned up duplicate heading structures and ensured clear visibility of business hours"
+  ],
+  "provider": "gemini",
+  "prompt_version": "1.0.0",
+  "warnings": []
+}

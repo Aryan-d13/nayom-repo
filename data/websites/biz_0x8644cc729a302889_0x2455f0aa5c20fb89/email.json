@@ -1,0 +1,17 @@
+{
+  "recipient": "contact@docbsrestaurant.com",
+  "subject": "Quick thought on the Doc B's Austin site + a live preview",
+  "body": "Hi Doc B's Austin Team, I love stopping by for your scratch-made burgers and weekend brunch, so I spent some time looking over your Austin location page. While your daily ingredients and vibrant atmosphere shine through, I noticed that adding a more prominent 'Reserve a Table' button to the top navigation would make it easier for local diners to book on mobile devices, and deeper content on the page could improve local search visibility. I went ahead and put together a modern, live prototype for you that addresses these exact points with a clean layout and an immediate reservation CTA. Feel free to check out the live preview here: https://nayom-biz-0x8644cc729a302889-0x2455f0aa5c20fb8-3wmtoca38.vercel.app. If you'd like to use this design or have me tweak anything, I'd be happy to send over the project files or chat for 5 minutes. No worries at all if you're happy with your current setup!",
+  "business_id": "biz_0x8644cc729a302889_0x2455f0aa5c20fb89",
+  "preview_url": "https://nayom-biz-0x8644cc729a302889-0x2455f0aa5c20fb8-3wmtoca38.vercel.app",
+  "generated_at": "2026-08-24T14:32:20.437212+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "business_name": "Doc B's Restaurant",
+  "key_improvements": [
+    "Added a prominent 'Reserve a Table' button to the top navigation bar",
+    "Expanded local content for better search engine visibility"
+  ],
+  "provider": "gemini",
+  "prompt_version": "1.0.0",
+  "warnings": []
+}

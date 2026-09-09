@@ -1,0 +1,228 @@
+{
+  "site_id": "biz_0x88d9e74657f8b06f_0xd765b3844973d1b9",
+  "base_url": "https://www.floridacitydental.com/",
+  "domain": "www.floridacitydental.com",
+  "source_website_json": "E:\\Code\\Nayom\\data\\websites\\biz_0x88d9e74657f8b06f_0xd765b3844973d1b9\\website.json",
+  "business_profile": {
+    "business_name": "Florida City Dental",
+    "tagline": "A place where amazing smiles begin",
+    "description": "Florida City Dental is a local dental practice in Homestead, FL, offering comprehensive preventative, restorative, and cosmetic dental wellness services including All-on-X implants, smile makeovers, whitening, braces, Invisalign, and custom dentures.",
+    "industry_category": "Dental Practice & Orthodontics",
+    "value_proposition": "Thoughtful, personalized dental care in a soothing and non-judgmental environment, backed by 14 years of community service with specials like $65 X-Ray, Cleaning & Exam.",
+    "target_audience": "Local residents of Homestead, FL and surrounding areas including the Keys seeking routine care, cosmetic enhancements, or major restorative procedures like All-on-X implants.",
+    "key_differentiators": [
+      "14 years of community service in Homestead",
+      "Free All-on-X consultations",
+      "$65 New Patient Special (X-Ray, Cleaning & Exam)",
+      "Soothing and non-judgmental environment"
+    ]
+  },
+  "services_and_products": [
+    {
+      "name": "New Patient Special",
+      "description": "Comprehensive checkup package including X-Ray, Cleaning, and Exam.",
+      "category": "Preventative",
+      "target_audience": "New Patients",
+      "features": [
+        "X-Ray",
+        "Cleaning",
+        "Exam"
+      ],
+      "pricing_hint": "$65"
+    },
+    {
+      "name": "All-on-X Implants",
+      "description": "Permanent new teeth using a small number of strategically placed implants for a secure foundation.",
+      "category": "Restorative",
+      "target_audience": "Patients with missing or failing teeth",
+      "features": [
+        "Permanent new teeth",
+        "Natural look and feel",
+        "Free initial consultation"
+      ],
+      "pricing_hint": "Free consultation"
+    },
+    {
+      "name": "Smile Makeovers & Cosmetic Services",
+      "description": "Comprehensive aesthetic dental improvements including teeth whitening and custom restorations.",
+      "category": "Cosmetic",
+      "target_audience": "Patients looking to improve their smile",
+      "features": [
+        "Teeth Whitening",
+        "Custom Dentures",
+        "Smile Design"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Orthodontics",
+      "description": "Braces and clear aligners to straighten teeth and correct bites.",
+      "category": "Orthodontics",
+      "target_audience": "Teens and adults",
+      "features": [
+        "Braces",
+        "Invisalign"
+      ],
+      "pricing_hint": null
+    }
+  ],
+  "contact_intelligence": {
+    "emails": [
+      "smile@floridacitydental.com"
+    ],
+    "phones": [
+      "305-242-5777"
+    ],
+    "addresses": [
+      "786 S Homestead Blvd, Homestead, FL 33030"
+    ],
+    "city": "Homestead",
+    "state_or_region": "FL",
+    "country": "US",
+    "social_links": [
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/flcitydental/"
+      }
+    ],
+    "contact_forms_found": true,
+    "business_hours": null,
+    "has_contact_method": true
+  },
+  "brand_and_content": {
+    "tone_and_voice": [
+      "welcoming",
+      "empathetic",
+      "reassuring",
+      "community-focused"
+    ],
+    "brand_positioning": "A trusted, non-judgmental community dental practice specializing in high-value preventative care and advanced restorative procedures like All-on-X.",
+    "hero_headlines": [
+      "a place where amazing smiles begin",
+      "preventative, restorative, & cosmetic services",
+      "Permanent New Teeth: Smile without hesitation. Eat freely. Live with comfort."
+    ],
+    "important_copy_snippets": [
+      "For 14 years, our team has helped people in our community restore their smiles with thoughtful, personalized care.",
+      "Your consultation is simply a chance to ask questions, understand your options, and receive a treatment plan created for you—without pressure."
+    ],
+    "content_quality_score": 8
+  },
+  "calls_to_action": [
+    {
+      "text": "BOOK A CONSULTATION",
+      "destination": "https://bookit.dentrixascend.com/soe/new/dental?pid=ASC19000000001151&mode=externalLink",
+      "intent": "booking",
+      "prominence": "primary",
+      "location": "Hero"
+    },
+    {
+      "text": "Write to us",
+      "destination": "https://www.flcitydental.com/contact",
+      "intent": "contact",
+      "prominence": "secondary",
+      "location": "Header/Navigation"
+    },
+    {
+      "text": "Patient Referral Form",
+      "destination": "https://www.flcitydental.com/referral-form",
+      "intent": "navigation",
+      "prominence": "secondary",
+      "location": "Header/Navigation"
+    },
+    {
+      "text": "305-242-5777",
+      "destination": "tel:1-305-242-5777",
+      "intent": "contact",
+      "prominence": "primary",
+      "location": "Header/Footer"
+    },
+    {
+      "text": "Submit",
+      "destination": null,
+      "intent": "lead_capture",
+      "prominence": "primary",
+      "location": "Contact Form"
+    }
+  ],
+  "design_and_ux": {
+    "visual_aesthetic": "Clean modern healthcare aesthetic focusing on warmth, approachability, and patient trust.",
+    "typography_assessment": "Clear sans-serif hierarchy with friendly heading styling and legible body text.",
+    "color_palette_assessment": "Clean dental clinical white background paired with approachable brand accent tones and high-contrast text.",
+    "layout_and_spacing": "Modular vertical flow featuring dedicated service blocks, patient team introduction sections, and clear appointment booking triggers.",
+    "ux_navigation_flow": "Smooth journey leading users directly to online booking via Dentrix Ascend or direct consultation inquiries.",
+    "visual_inputs_analyzed": false,
+    "screenshot_observations": [],
+    "strengths": [
+      "Strong patient-centric value propositions and clear pricing specials ($65 exam)",
+      "Prominent and accessible booking links via Dentrix Ascend",
+      "Reassuring copy focusing on a non-judgmental environment"
+    ],
+    "weaknesses": [
+      "Heavy reliance on repeated promotional image banners for All-on-X consultations",
+      "Single-page sprawl that could benefit from clearer segmented sub-pages"
+    ]
+  },
+  "technical_and_seo": {
+    "inferred_tech_stack": [
+      "Dentrix Ascend Integration",
+      "HTML5",
+      "CSS3",
+      "JavaScript"
+    ],
+    "seo_health": "Good baseline meta tags with targeted local keywords for Homestead dentist and orthodontics services.",
+    "seo_strengths": [
+      "Clear local intent keywords in title and description (Homestead Dentist, Florida City Dental)",
+      "JSON-LD structured data implemented"
+    ],
+    "seo_weaknesses": [
+      "Limited multi-page internal linking architecture captured in current crawl"
+    ],
+    "accessibility_observations": "Semantic heading usage present, though image alt tags should be audited for detailed descriptive context.",
+    "performance_and_structure_notes": "Fast loading static text elements with external widget embeds for scheduling."
+  },
+  "redesign_recommendations": {
+    "overall_redesign_verdict": "Minor refresh recommended to organize service silos and streamline mobile conversion paths.",
+    "strategic_recommendations": [
+      "Highlight patient testimonials and before/after smile gallery higher up on the homepage",
+      "Create dedicated landing sub-pages for high-value procedures like All-on-X and Invisalign"
+    ],
+    "ui_ux_improvements": [
+      "Add a sticky mobile booking bar for instant access to phone and online scheduling",
+      "Improve spacing and card layouts for team and service listings"
+    ],
+    "rebuild_opportunities": [
+      "Migrate to a modern Next.js/Tailwind architecture with headless CMS for lightning-fast speeds and optimized local SEO"
+    ],
+    "quick_wins": [
+      "Ensure phone numbers are clickable click-to-call links across all viewports",
+      "Add operating hours clearly near the primary contact buttons"
+    ]
+  },
+  "template_recommendation": {
+    "recommended_template": "local-service-leadgen",
+    "template_category": "local_service",
+    "style_direction": "clean_corporate",
+    "layout_pattern": "single_page_anchor_flow",
+    "template_confidence": 0.95,
+    "key_sections": [
+      "hero",
+      "services_grid",
+      "special_offer_banner",
+      "team_section",
+      "testimonials",
+      "location_map_contact"
+    ],
+    "reasoning": "A local dental practice requires high trust signals, clear appointment booking integrations, mobile-first click-to-call functionality, and prominent display of new patient specials."
+  },
+  "metadata": {
+    "provider": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "prompt_version": "1.0.0",
+    "analyzed_at": "2026-08-26T08:58:40.081446+00:00",
+    "screenshots_processed": 0,
+    "duration_seconds": 10.17,
+    "token_usage": null
+  },
+  "warnings": []
+}

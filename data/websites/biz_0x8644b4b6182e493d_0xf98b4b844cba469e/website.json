@@ -1,0 +1,407 @@
+{
+  "request": {
+    "url": "https://www.sunsethillsdentist.com/",
+    "site_id": "biz_0x8644b4b6182e493d_0xf98b4b844cba469e",
+    "max_pages": 20,
+    "render_js": false,
+    "screenshot": false,
+    "concurrency": 5,
+    "timeout": 20,
+    "delay": 0.25,
+    "use_sitemap": true,
+    "include_subdomains": false,
+    "min_words": 5,
+    "download_images": false,
+    "user_agent": null
+  },
+  "site_id": "biz_0x8644b4b6182e493d_0xf98b4b844cba469e",
+  "base_url": "https://www.sunsethillsdentist.com/",
+  "domain": "www.sunsethillsdentist.com",
+  "total_pages_crawled": 1,
+  "successful_pages": 1,
+  "failed_pages": 0,
+  "pages": [
+    {
+      "url": "https://www.sunsethillsdentist.com/",
+      "path": "/",
+      "title": "Sunset Hills Dentistry | Trusted Dentist in South Austin",
+      "status_code": 200,
+      "crawled_at": "2026-08-26T16:02:19.652938+00:00",
+      "duration_ms": 69.7,
+      "content": {
+        "markdown": "*Explore Sunset Hills Dentistry for general, restorative, cosmetic, and emergency dentistry. Book your appointment today for a modern, caring dental experience in South Austin.*\n\n\nYou can schedule [`online`](https://patient.portal.archy.com/p/dc9e7549-7cf8-4b27-b78b-baafd711488e/self-booking?rwg_token=AE37R_gfJaCrcw020zGJ7A4eG4IRGnqhHN-gKs19ABPQ6ac_ZxpraFTAmForJnZ5nl5tkaYVPcCzuQDmqQlkyKwhar9CYf5xxg%3D%3D), call our office at [512-441-7777](tel:512-441-7777) or text us at [737-338-3544](tel:737-338-3544) and we will help you find a time that works for you.",
+        "plain_text": "Sunset Hills Dentistry Services General Care Cleanings & Exams Routine checkups and preventive care for lasting oral health. Restorative Dentistry Fillings, crowns, and solutions to restore your smile. Cosmetic Dentistry Whitening, veneers, and aesthetic treatments for confidence. Specialty Care Dental Implants Permanent solutions for missing or damaged teeth. Invisalign Clear aligners for a straighter, natural-looking smile. Emergency Visits Prompt care for urgent dental needs in South Austin. Patient Info New Patients What to expect and how to get started. Insurance & Payment Flexible options for your dental care. Contact & Location Find our office and get in touch. Pay A Bill Quick, secure payment for your account. Modern care, trusted legacy Experience a calm, welcoming approach to dentistry in South Austin. Learn more About Contact Call 512-441-7777 Book now Book appointment Where Austin comes to smile. Whether it's been 6 months or 6 years, you're always welcome here — no lectures, no judgment. Book now Call us Dentistry without judgment. Care without rush. At Sunset Hills Dentistry, we take the time to actually listen — no rushing, no upselling. Honest dental care for adults in South Austin. General care Cleanings & exams Routine checkups and gentle cleanings to keep your teeth healthy and your smile bright. Book now Cosmetic care Cosmetic dentistry Teeth whitening, veneers, and cosmetic bonding to enhance your natural smile. Book now Clear Aligners Invisalign Straighten your teeth discreetly with custom Invisalign aligners — no metal, no wires. Book now Emergency care Same-day emergency visits Dental emergencies are stressful. Call us and we'll take it from there. Book now Care you can count on Real experiences from our South Austin patients Questions? We’re here to help Answers to common dental care questions How do I book an appointment? You can schedule online , call our office at 512-441-7777 or text us at 737-338-3544 and we will help you find a time that works for you. What insurance do you accept? We accept most major dental insurance plans. Please call us to confirm your coverage. How do I reach your team? Call our office at 512-441-7777 , text us at 737-338-3544 or email hello@sunsethillsdentist.com . Our team responds promptly during office hours. What can I expect on my first visit? We start by getting to know you — your history, your goals, and anything that's been on your mind about your smile. Then we move into a full exam and cleaning, and we take our time with it rather than rushing through a checklist. Once that's done, Dr. Ali sits down with you one-on-one to explain exactly what we found, in plain language. From there, we build a treatment plan together based on what actually makes sense for you and your budget. You'll walk out knowing where you stand and what your options are. Connect with our dental team Have a question or ready to schedule? hello@sunsethillsdentist.com Full name Email address PHONE NUMBER Service needed Select one... Cleaning Emergency visit Schedule treatment General question Are you a new patient? Select one... Yes No How can we help? Please do not submit any Protected Health Information (PHI) Thank you for reaching out. We’ll be in touch soon. There was an error. Please try again. Sunset Hills Dentistry Facebook Instagram All rights reserved © 2026 Sunset Hills Dentistry Privacy Terms Accessibility",
+        "word_count": 551,
+        "character_count": 3409,
+        "excerpt": "Sunset Hills Dentistry Services General Care Cleanings & Exams Routine checkups and preventive care for lasting oral health. Restorative Dentistry Fillings, crowns, and solutions to restore your smile. Cosmetic Dentistry Whitening, veneers, and aesth..."
+      },
+      "headings": [
+        {
+          "level": 1,
+          "text": "Where Austin comes to smile.",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Dentistry without judgment. Care without rush.",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "Cleanings & exams",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "Cosmetic dentistry",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "Invisalign",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "Same-day emergency visits",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Care you can count on",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Questions? We’re here to help",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Connect with our dental team",
+          "id": null
+        }
+      ],
+      "links": [
+        {
+          "url": "https://sunsethillsdents.securepayments.cardpointe.com/pay",
+          "text": "Pay A BillQuick, secure payment for your account.",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "tel:5124417777",
+          "text": "Call 512-441-7777",
+          "title": "Phone: 5124417777",
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://patient.portal.archy.com/p/dc9e7549-7cf8-4b27-b78b-baafd711488e/self-booking",
+          "text": "Book now",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://patient.portal.archy.com/p/dc9e7549-7cf8-4b27-b78b-baafd711488e/self-booking",
+          "text": "Book appointment",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "tel:5124417777",
+          "text": "Call us",
+          "title": "Phone: 5124417777",
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://patient.portal.archy.com/p/dc9e7549-7cf8-4b27-b78b-baafd711488e/self-booking?rwg_token=AE37R_gfJaCrcw020zGJ7A4eG4IRGnqhHN-gKs19ABPQ6ac_ZxpraFTAmForJnZ5nl5tkaYVPcCzuQDmqQlkyKwhar9CYf5xxg%3D%3D",
+          "text": "online",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "tel:512-441-7777",
+          "text": "512-441-7777",
+          "title": "Phone: 512-441-7777",
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "tel:737-338-3544",
+          "text": "737-338-3544",
+          "title": "Phone: 737-338-3544",
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "mailto:hello@sunsethillsdentist.com",
+          "text": "hello@sunsethillsdentist.com",
+          "title": "Email: hello@sunsethillsdentist.com",
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.facebook.com/profile.php?id=61559352941832",
+          "text": "Facebook",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.instagram.com/sunsethillsdentistry",
+          "text": "Instagram",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.prod.website-files.com/6a28375c4848f4a9c95e82a6/6a2855baa763ef2d8a54e19a_8dd111f16e9ec295676ec85063613288_Logo%20Icon%20%281%29.png",
+          "alt": null,
+          "title": null,
+          "width": 98,
+          "height": null,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/image-generation-assets/66915764-22d7-40da-b798-cb7cecf09a81.avif",
+          "alt": "image of clean dental office environment",
+          "title": null,
+          "width": 1216,
+          "height": 832,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/6a28375c4848f4a9c95e82a6/6a283f12362ad55a931c1573_fc225f89-fbe4-4733-8181-e3952eb50a29.avif",
+          "alt": "image of clean dental office environment",
+          "title": null,
+          "width": 1216,
+          "height": 832,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/image-generation-assets/ba226ee3-ca6f-4839-8d1c-24d58fd2b9a5.avif",
+          "alt": "image of a doctor talking to a patient",
+          "title": null,
+          "width": 1216,
+          "height": 832,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/6a28375c4848f4a9c95e82a6/6a283f12362ad55a931c15c3_30421a06-1d60-4d0c-9afe-c422d1e3ddf6.avif",
+          "alt": "image of the dental office exterior",
+          "title": null,
+          "width": 1216,
+          "height": 832,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/image-generation-assets/d7ca699e-56aa-40d6-8b0c-5a3e91bdedf0.avif",
+          "alt": "image depicting company headquarters for a manufacturing plant",
+          "title": null,
+          "width": 1216,
+          "height": 832,
+          "loading": "lazy",
+          "local_path": null
+        }
+      ],
+      "metadata": {
+        "title": "Sunset Hills Dentistry | Trusted Dentist in South Austin",
+        "description": "Explore Sunset Hills Dentistry for general, restorative, cosmetic, and emergency dentistry. Book your appointment today for a modern, caring dental experience in South Austin.",
+        "keywords": [],
+        "canonical": null,
+        "language": "en-US",
+        "charset": "utf-8",
+        "viewport": "width=device-width, initial-scale=1",
+        "author": null,
+        "robots": null,
+        "og_tags": {
+          "og:title": "Welcome to Sunset Hills Dentistry",
+          "og:description": "Experience a calm and welcoming environment at Sunset Hills Dentistry. Meet Dr. Ali Latif and learn about our commitment to quality dental care.",
+          "og:type": "website"
+        },
+        "twitter_tags": {
+          "twitter:title": "Welcome to Sunset Hills Dentistry",
+          "twitter:description": "Experience a calm and welcoming environment at Sunset Hills Dentistry. Meet Dr. Ali Latif and learn about our commitment to quality dental care.",
+          "twitter:card": "summary_large_image"
+        },
+        "favicon": "https://cdn.prod.website-files.com/6a28375c4848f4a9c95e82a6/6a6cc4d163ed1be4d5f07173_output-onlinepngtools.png",
+        "other_meta": {
+          "generator": "Webflow"
+        }
+      },
+      "forms": [
+        {
+          "id": "wf-form-contact-form",
+          "name": "wf-form-Contact-Form",
+          "action": null,
+          "method": "GET",
+          "fields": [
+            {
+              "name": "Name",
+              "type": "text",
+              "label": "Full name",
+              "placeholder": "Your name",
+              "required": true,
+              "value": null,
+              "options": []
+            },
+            {
+              "name": "Email",
+              "type": "email",
+              "label": "Email address",
+              "placeholder": "@gmail.com",
+              "required": true,
+              "value": null,
+              "options": []
+            },
+            {
+              "name": "Phone",
+              "type": "tel",
+              "label": "PHONE NUMBER",
+              "placeholder": "512-123-4567",
+              "required": true,
+              "value": null,
+              "options": []
+            },
+            {
+              "name": "Service-Needed",
+              "type": "select",
+              "label": "Service needed",
+              "placeholder": null,
+              "required": true,
+              "value": null,
+              "options": [
+                "Select one...",
+                "Cleaning",
+                "Emergency visit",
+                "Schedule treatment",
+                "General question"
+              ]
+            },
+            {
+              "name": "Are-you-a-new-patient",
+              "type": "select",
+              "label": "Are you a new patient?",
+              "placeholder": null,
+              "required": true,
+              "value": null,
+              "options": [
+                "Select one...",
+                "Yes",
+                "No"
+              ]
+            },
+            {
+              "name": "Message",
+              "type": "textarea",
+              "label": "How can we help?",
+              "placeholder": "Type your message...",
+              "required": false,
+              "value": null,
+              "options": []
+            },
+            {
+              "name": "agreement-checkbox-4",
+              "type": "checkbox",
+              "label": "Please do not submit any Protected Health Information (PHI)",
+              "placeholder": null,
+              "required": true,
+              "value": null,
+              "options": []
+            }
+          ],
+          "submit_text": "Submit"
+        }
+      ],
+      "buttons": [
+        {
+          "text": "Submit",
+          "type": "submit",
+          "href": null,
+          "onclick": null,
+          "id": null,
+          "class_name": "button w-button",
+          "is_cta": true
+        },
+        {
+          "text": "New PatientsWhat to expect and how to get started.",
+          "type": "link_cta",
+          "href": "https://www.sunsethillsdentist.com/#",
+          "onclick": null,
+          "id": null,
+          "class_name": "mega-nav_link-item w-inline-block",
+          "is_cta": true
+        },
+        {
+          "text": "Contact & LocationFind our office and get in touch.",
+          "type": "link_cta",
+          "href": "https://www.sunsethillsdentist.com/#",
+          "onclick": null,
+          "id": null,
+          "class_name": "mega-nav_link-item w-inline-block",
+          "is_cta": true
+        },
+        {
+          "text": "Book now",
+          "type": "link_cta",
+          "href": "https://patient.portal.archy.com/p/dc9e7549-7cf8-4b27-b78b-baafd711488e/self-booking",
+          "onclick": null,
+          "id": null,
+          "class_name": "nav_dropdown-link w-inline-block",
+          "is_cta": true
+        },
+        {
+          "text": "Book appointment",
+          "type": "link_cta",
+          "href": "https://patient.portal.archy.com/p/dc9e7549-7cf8-4b27-b78b-baafd711488e/self-booking",
+          "onclick": null,
+          "id": null,
+          "class_name": "button on-accent-primary w-inline-block",
+          "is_cta": true
+        },
+        {
+          "text": "Call us",
+          "type": "link_cta",
+          "href": "tel:5124417777",
+          "onclick": null,
+          "id": null,
+          "class_name": "button is-secondary on-inverse w-button",
+          "is_cta": true
+        }
+      ],
+      "structured_data": {
+        "json_ld": [],
+        "opengraph": {},
+        "microdata": []
+      },
+      "screenshot_path": null,
+      "raw_markdown_path": null,
+      "is_success": true,
+      "errors": [],
+      "warnings": []
+    }
+  ],
+  "sitemap_urls_found": 0,
+  "site_title": "Sunset Hills Dentistry | Trusted Dentist in South Austin",
+  "site_description": "Explore Sunset Hills Dentistry for general, restorative, cosmetic, and emergency dentistry. Book your appointment today for a modern, caring dental experience in South Austin.",
+  "started_at": "2026-08-26T16:02:16.767292+00:00",
+  "completed_at": "2026-08-26T16:02:19.671125+00:00",
+  "duration_seconds": 2.9,
+  "raw_output_dir": "E:\\Code\\Nayom\\data\\websites\\biz_0x8644b4b6182e493d_0xf98b4b844cba469e\\raw",
+  "website_json_path": "E:\\Code\\Nayom\\data\\websites\\biz_0x8644b4b6182e493d_0xf98b4b844cba469e\\website.json",
+  "errors": [],
+  "warnings": []
+}

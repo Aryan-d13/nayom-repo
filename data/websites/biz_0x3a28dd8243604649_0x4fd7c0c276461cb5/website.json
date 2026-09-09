@@ -1,0 +1,36 @@
+{
+  "request": {
+    "url": "https://www.gethingyms.com/raipur/",
+    "site_id": "biz_0x3a28dd8243604649_0x4fd7c0c276461cb5",
+    "max_pages": 20,
+    "render_js": false,
+    "screenshot": false,
+    "concurrency": 5,
+    "timeout": 20,
+    "delay": 0.25,
+    "use_sitemap": true,
+    "include_subdomains": false,
+    "min_words": 5,
+    "download_images": false,
+    "user_agent": null
+  },
+  "site_id": "biz_0x3a28dd8243604649_0x4fd7c0c276461cb5",
+  "base_url": "https://www.gethingyms.com/raipur/",
+  "domain": "www.gethingyms.com",
+  "total_pages_crawled": 0,
+  "successful_pages": 0,
+  "failed_pages": 0,
+  "pages": [],
+  "sitemap_urls_found": 0,
+  "site_title": null,
+  "site_description": null,
+  "started_at": "2026-08-23T08:55:42.041132+00:00",
+  "completed_at": "2026-08-23T08:55:50.145337+00:00",
+  "duration_seconds": 8.1,
+  "raw_output_dir": "E:\\Code\\Nayom\\data\\websites\\biz_0x3a28dd8243604649_0x4fd7c0c276461cb5\\raw",
+  "website_json_path": "E:\\Code\\Nayom\\data\\websites\\biz_0x3a28dd8243604649_0x4fd7c0c276461cb5\\website.json",
+  "errors": [
+    "MarkCrawl execution failed: signal only works in main thread of the main interpreter"
+  ],
+  "warnings": []
+}

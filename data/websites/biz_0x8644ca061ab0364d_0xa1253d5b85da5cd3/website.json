@@ -1,0 +1,36 @@
+{
+  "request": {
+    "url": "https://mydentalsmiles.com/",
+    "site_id": "biz_0x8644ca061ab0364d_0xa1253d5b85da5cd3",
+    "max_pages": 20,
+    "render_js": false,
+    "screenshot": false,
+    "concurrency": 5,
+    "timeout": 20,
+    "delay": 0.25,
+    "use_sitemap": true,
+    "include_subdomains": false,
+    "min_words": 5,
+    "download_images": false,
+    "user_agent": null
+  },
+  "site_id": "biz_0x8644ca061ab0364d_0xa1253d5b85da5cd3",
+  "base_url": "https://mydentalsmiles.com/",
+  "domain": "mydentalsmiles.com",
+  "total_pages_crawled": 0,
+  "successful_pages": 0,
+  "failed_pages": 0,
+  "pages": [],
+  "sitemap_urls_found": 0,
+  "site_title": null,
+  "site_description": null,
+  "started_at": "2026-08-23T10:01:18.515100+00:00",
+  "completed_at": "2026-08-23T10:01:20.281428+00:00",
+  "duration_seconds": 1.77,
+  "raw_output_dir": "E:\\Code\\Nayom\\data\\websites\\biz_0x8644ca061ab0364d_0xa1253d5b85da5cd3\\raw",
+  "website_json_path": "E:\\Code\\Nayom\\data\\websites\\biz_0x8644ca061ab0364d_0xa1253d5b85da5cd3\\website.json",
+  "errors": [
+    "MarkCrawl execution failed: signal only works in main thread of the main interpreter"
+  ],
+  "warnings": []
+}

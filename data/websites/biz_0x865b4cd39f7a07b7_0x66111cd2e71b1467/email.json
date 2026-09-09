@@ -1,0 +1,17 @@
+{
+  "recipient": "austinartisticdental@gmail.com",
+  "subject": "Quick thought on Austin Artistic Dental's online booking",
+  "body": "Hi Dr. Hulse and team, I came across Austin Artistic Dental while researching local practices that focus on conservative, natural-looking veneers in the Austin area. I really appreciate your philosophy of avoiding bulky aesthetics and making patients feel genuinely comfortable. While browsing your current site, I noticed that the virtual consultation process and mobile booking flow could be streamlined to capture patients right away. To show you what I mean, I put together a modern, live prototype for your practice. It features a sticky mobile booking bar, an interactive services bento grid, and immediate Google review highlights right in the hero section. Feel free to check out the live preview here: https://nayom-biz-0x865b4cd39f7a07b7-0x66111cd2e71b146-gz75jcnks.vercel.app. If you'd like to use this design or have me tweak anything, I'd be happy to send over the project files or chat for 5 minutes. No worries at all if you're happy with your current setup!",
+  "business_id": "biz_0x865b4cd39f7a07b7_0x66111cd2e71b1467",
+  "preview_url": "https://nayom-biz-0x865b4cd39f7a07b7-0x66111cd2e71b146-gz75jcnks.vercel.app",
+  "generated_at": "2026-08-26T16:01:51.999478+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "business_name": "Austin Artistic Dental",
+  "key_improvements": [
+    "Added a sticky mobile call and booking bar at the bottom of the viewport",
+    "Highlighted direct patient review ratings immediately in the hero section"
+  ],
+  "provider": "gemini",
+  "prompt_version": "1.0.0",
+  "warnings": []
+}

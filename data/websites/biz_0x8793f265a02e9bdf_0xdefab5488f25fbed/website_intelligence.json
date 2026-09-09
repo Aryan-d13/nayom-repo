@@ -1,0 +1,293 @@
+{
+  "site_id": "biz_0x8793f265a02e9bdf_0xdefab5488f25fbed",
+  "base_url": "http://qualitydentalcare.org/",
+  "domain": "qualitydentalcare.org",
+  "source_website_json": "E:\\Code\\Nayom\\data\\websites\\biz_0x8793f265a02e9bdf_0xdefab5488f25fbed\\website.json",
+  "business_profile": {
+    "business_name": "Quality Dental Care",
+    "tagline": "EXPERIENCE QUALITY DENTAL CARE",
+    "description": "Quality Dental Care is a professional dental practice located in Omaha, Nebraska, offering a comprehensive range of general, cosmetic, restorative, and emergency dental services delivered by experienced practitioners in a gentle, caring atmosphere.",
+    "industry_category": "Healthcare / Dentistry",
+    "value_proposition": "Treating patients like family with high-quality, friendly, and compassionate dental care, featuring same-day emergency appointments, sedation dentistry options, and advanced cosmetic solutions.",
+    "target_audience": "Families, individuals, and patients with dental anxiety or emergency dental needs in the Omaha, Nebraska area.",
+    "key_differentiators": [
+      "Same-day emergency appointments available",
+      "Multiple sedation options for anxious patients",
+      "Advanced technology including VELscope oral cancer screening and Zoom! whitening",
+      "Patient-first family practice philosophy established in 2006"
+    ]
+  },
+  "services_and_products": [
+    {
+      "name": "Cosmetic Dentistry",
+      "description": "Services designed to perfect smiles, including teeth whitening, veneers, implants, and alignment.",
+      "category": "Core",
+      "target_audience": "Patients seeking whiter, straighter, or more attractive smiles",
+      "features": [
+        "Teeth Whitening",
+        "Lumineers",
+        "Dental Implants",
+        "Invisalign"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Dental Implants",
+      "description": "Titanium screws used to replace missing teeth, promoting bone growth and restoring functionality.",
+      "category": "Restorative",
+      "target_audience": "Patients suffering from tooth loss",
+      "features": [
+        "Titanium screw integration",
+        "Crown restoration",
+        "Prevents bone deterioration"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Invisalign Treatment",
+      "description": "Clear aligners providing a comfortable, virtually invisible alternative to traditional metal braces.",
+      "category": "Orthodontics",
+      "target_audience": "Patients needing tooth alignment correction",
+      "features": [
+        "Removable clear trays",
+        "No tightening required",
+        "Faster treatment time"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Emergency Dentistry",
+      "description": "Urgent dental care for sudden tooth breakage, pain, or trauma with same-day availability.",
+      "category": "Urgent Care",
+      "target_audience": "Patients experiencing acute dental pain or emergencies",
+      "features": [
+        "Same-day appointments",
+        "Rapid pain relief",
+        "Emergency diagnostics"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Sedation Dentistry",
+      "description": "Sedative options including oral sedation and laughing gas to relax nervous and anxious patients.",
+      "category": "Patient Comfort",
+      "target_audience": "Patients with dental anxiety or phobias",
+      "features": [
+        "Oral sedation",
+        "Sedative pill",
+        "Laughing gas"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Dental Crowns",
+      "description": "Porcelain or metal caps used to restore strength and protect broken or damaged teeth.",
+      "category": "Restorative",
+      "target_audience": "Patients with cracked, decayed, or weakened teeth",
+      "features": [
+        "Porcelain matching natural teeth",
+        "Long-lasting durability",
+        "Stain resistance"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Dentures",
+      "description": "Partial or full dentures to replace missing teeth and restore chewing and speaking functionality.",
+      "category": "Restorative",
+      "target_audience": "Older adults or patients missing multiple teeth",
+      "features": [
+        "Full and partial options",
+        "Implant-supported stability",
+        "Natural appearance"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Oral Cancer Screening",
+      "description": "Thorough and gentle examinations using advanced VELscope fluorescence technology.",
+      "category": "Preventative",
+      "target_audience": "All patients during routine checkups",
+      "features": [
+        "FDA-approved VELscope device",
+        "Quick 2-3 minute examination",
+        "Early detection"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Professional Teeth Whitening",
+      "description": "Philips Zoom! Whitening system and Whitening for Life program for professional-grade brightening.",
+      "category": "Cosmetic",
+      "target_audience": "Patients with stained or discolored teeth",
+      "features": [
+        "Zoom! in-office system",
+        "Whitening for Life program",
+        "Custom bleaching trays"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Root Canal Therapy",
+      "description": "Procedure to remove infected dental pulp and nerves, eliminate pain, and save the natural tooth.",
+      "category": "Restorative",
+      "target_audience": "Patients with severe tooth decay or pulp infection",
+      "features": [
+        "Infection removal",
+        "Pain elimination",
+        "Tooth preservation"
+      ],
+      "pricing_hint": null
+    }
+  ],
+  "contact_intelligence": {
+    "emails": [],
+    "phones": [
+      "(402) 431-8844"
+    ],
+    "addresses": [
+      "713 North 132nd Street, Omaha, NE 68154"
+    ],
+    "city": "Omaha",
+    "state_or_region": "NE",
+    "country": "USA",
+    "social_links": [],
+    "contact_forms_found": true,
+    "business_hours": "Monday - Thursday: 8:00am – 5:00pm, Friday: 8:00am – 1:00pm, Saturday - Sunday: Closed",
+    "has_contact_method": true
+  },
+  "brand_and_content": {
+    "tone_and_voice": [
+      "compassionate",
+      "professional",
+      "welcoming",
+      "trustworthy",
+      "patient-focused"
+    ],
+    "brand_positioning": "A premier, family-oriented dental practice in Omaha emphasizing gentle, high-quality care, patient comfort, and advanced dental technology.",
+    "hero_headlines": [
+      "EXPERIENCE QUALITY DENTAL CARE",
+      "Welcome to Quality Dental Care!",
+      "Your Dentist in Omaha, NE."
+    ],
+    "important_copy_snippets": [
+      "Our goal and policy is to treat our patients as we would treat our families.",
+      "I’ve searched a long time for a dentist like this. Well done everyone at Quality Dental. You’ve restored my faith in dentistry once again!"
+    ],
+    "content_quality_score": 8
+  },
+  "calls_to_action": [
+    {
+      "text": "Call Us: (402) 431-8844",
+      "destination": "tel:(402) 431-8844",
+      "intent": "booking",
+      "prominence": "primary",
+      "location": "Header / Footer / Hero"
+    },
+    {
+      "text": "Emergency Appointment",
+      "destination": "/emergency-dentistry/",
+      "intent": "booking",
+      "prominence": "primary",
+      "location": "Header"
+    },
+    {
+      "text": "Contact Us",
+      "destination": "/contact-us/",
+      "intent": "contact",
+      "prominence": "secondary",
+      "location": "Navigation / Footer"
+    },
+    {
+      "text": "Submit",
+      "destination": null,
+      "intent": "lead_capture",
+      "prominence": "primary",
+      "location": "Contact Form"
+    }
+  ],
+  "design_and_ux": {
+    "visual_aesthetic": "Traditional medical/dental practice corporate design with clean layouts, imagery of dental professionals and patients, and warm trust-building elements.",
+    "typography_assessment": "Clear typographic hierarchy with readable sans-serif body copy and prominent, bold headings guiding users through service explanations.",
+    "color_palette_assessment": "Clean, clinical color palette dominated by professional blues, whites, and neutral tones conveying cleanliness and trust.",
+    "layout_and_spacing": "Structured multi-page layout with clear section dividers, sidebar office hours widgets, and easily accessible contact numbers.",
+    "ux_navigation_flow": "Comprehensive drop-down navigation covering specific services, provider biographies, and straightforward contact pathways.",
+    "visual_inputs_analyzed": false,
+    "screenshot_observations": [],
+    "strengths": [
+      "Clear, prominent phone contact numbers on every page",
+      "Extensive and detailed service pages with patient-centric explanations",
+      "Strong social proof via authentic patient testimonials and video reviews"
+    ],
+    "weaknesses": [
+      "Heavy reliance on traditional WordPress form structures without modern instant online booking widgets",
+      "Some pages feature dense blocks of text that could benefit from bento grid layouts or bulleted card summaries"
+    ]
+  },
+  "technical_and_seo": {
+    "inferred_tech_stack": [
+      "WordPress",
+      "PHP",
+      "MySQL"
+    ],
+    "seo_health": "Strong localized SEO with targeted keywords for Omaha, NE, comprehensive meta descriptions, and structured schema implementation.",
+    "seo_strengths": [
+      "Localized geo-targeting ('in Omaha, NE') across core service pages",
+      "Valid JSON-LD schema markup present on crawled pages",
+      "Clean URL slugs matching specific dental procedures"
+    ],
+    "seo_weaknesses": [
+      "Could benefit from enhanced XML sitemap optimization and local Google Business Profile integration markup",
+      "Some page titles can be more punchy for mobile search users"
+    ],
+    "accessibility_observations": "Good contrast on text elements, though form fields and buttons should ensure clear ARIA labels and focus states for enhanced screen-reader compatibility.",
+    "performance_and_structure_notes": "Standard WordPress asset loading; optimization of images and implementation of caching plugins recommended for faster mobile load times."
+  },
+  "redesign_recommendations": {
+    "overall_redesign_verdict": "A modernizing refresh is recommended to transition from a classic WordPress layout to a sleek, high-converting Next.js architecture with integrated online patient scheduling.",
+    "strategic_recommendations": [
+      "Implement a prominent online appointment booking widget alongside click-to-call buttons in the sticky header.",
+      "Highlight patient reviews and before/higher-resolution smile transformation galleries directly on the homepage.",
+      "Add interactive quiz or symptom-checker tools to help patients identify appropriate treatments."
+    ],
+    "ui_ux_improvements": [
+      "Adopt a clean bento grid layout for showcasing services instead of long text lists.",
+      "Enhance mobile touch targets for emergency callouts and appointment requests.",
+      "Integrate warm, authentic photography of the actual team and clinic rather than stock imagery."
+    ],
+    "rebuild_opportunities": [
+      "Rebuild on Next.js and Tailwind CSS for instant page loads and superior Core Web Vitals.",
+      "Integrate a headless CMS or streamlined form backend with automated patient appointment confirmation flows."
+    ],
+    "quick_wins": [
+      "Make the primary phone number a sticky click-to-call banner on mobile viewports.",
+      "Add direct links to Google Reviews on the homepage to boost local conversion trust."
+    ]
+  },
+  "template_recommendation": {
+    "recommended_template": "local-service-leadgen",
+    "template_category": "local_service",
+    "style_direction": "clean_corporate",
+    "layout_pattern": "split_hero_feature_stack",
+    "template_confidence": 0.95,
+    "key_sections": [
+      "sticky_header_with_phone_and_booking",
+      "split_hero_with_trust_badges",
+      "services_bento_grid",
+      "dentist_team_profile_cards",
+      "patient_testimonials_carousel",
+      "office_hours_and_map_footer"
+    ],
+    "reasoning": "A local service lead generation template with clean corporate styling perfectly fits a professional family dental practice by prioritizing quick phone calls, appointment bookings, and local trust signals."
+  },
+  "metadata": {
+    "provider": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "prompt_version": "1.0.0",
+    "analyzed_at": "2026-08-24T10:01:07.552881+00:00",
+    "screenshots_processed": 0,
+    "duration_seconds": 12.35,
+    "token_usage": null
+  },
+  "warnings": []
+}

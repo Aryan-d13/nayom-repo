@@ -1,0 +1,274 @@
+{
+  "site_id": "biz_0x8644b4df8ca136ad_0xb8adae0e500a1372",
+  "base_url": "https://www.breezeoralcare.com/",
+  "domain": "www.breezeoralcare.com",
+  "source_website_json": "E:\\Code\\Nayom\\data\\websites\\biz_0x8644b4df8ca136ad_0xb8adae0e500a1372\\website.json",
+  "business_profile": {
+    "business_name": "Breeze Dental",
+    "tagline": "One Place for All of Your Dental Needs",
+    "description": "Breeze Dental is a holistic, tech-forward dental practice in Austin, TX with three convenient locations (South Lamar, East 5th, and North Lamar). They offer relaxed visits, comprehensive preventive care, orthodontics, restorative dentistry, cosmetic enhancements, and emergency dental services, backed by 600+ 5-star Google reviews.",
+    "industry_category": "Healthcare / Dental",
+    "value_proposition": "A reimagined, anxiety-free dental experience combining tech-forward treatments, holistic oral care, insurance-friendly PPO plans, and retail wellness spaces across three convenient Austin locations.",
+    "target_audience": "Busy professionals, families, and health-conscious individuals in Austin, TX looking for modern, anxiety-free, and comprehensive dental care.",
+    "key_differentiators": [
+      "Dual care model with fast hygiene close to home and restorative hubs",
+      "Retail wellness spaces replacing traditional waiting rooms",
+      "Proprietary iOS/Android mobile app for patient progress and reminders",
+      "Advanced tech including iTero 3D scanners and Airflow Dental Cleanings",
+      "In-network with most PPO insurance plans plus custom membership plans for the uninsured"
+    ]
+  },
+  "services_and_products": [
+    {
+      "name": "Preventative Care",
+      "description": "Routine cleanings, exams, oral cancer screenings, gum therapy, and dental x-rays.",
+      "category": "Core",
+      "target_audience": "All patients seeking maintenance and preventive wellness",
+      "features": [
+        "Airflow Dental Cleanings",
+        "Oral Cancer Screenings",
+        "Gum Therapy"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Orthodontics",
+      "description": "Straightening and alignment solutions including Invisalign and Vivera retainers.",
+      "category": "Core",
+      "target_audience": "Patients seeking smile alignment",
+      "features": [
+        "Invisalign",
+        "Vivera Retainers",
+        "Custom Retainers"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Restorative Dentistry",
+      "description": "Rebuilding damaged or decayed teeth with crowns, bridges, fillings, and root canals.",
+      "category": "Core",
+      "target_audience": "Patients needing dental repair",
+      "features": [
+        "Same Day Crowns",
+        "Root Canal Therapy",
+        "Dental Implant Crowns",
+        "Dental Fillings"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Cosmetic Dentistry",
+      "description": "Enhancing smile aesthetics through professional whitening, bonding, and contouring.",
+      "category": "Core",
+      "target_audience": "Patients seeking cosmetic improvements",
+      "features": [
+        "In-office Zoom Whitening",
+        "Custom Whitening Trays",
+        "Dental Bonding",
+        "Gingival Contouring"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Emergency Care",
+      "description": "Prompt attention for urgent dental pain, broken teeth, abscesses, and trauma.",
+      "category": "Urgent",
+      "target_audience": "Patients experiencing acute dental distress",
+      "features": [
+        "Severe Toothache Treatment",
+        "Dental Abscess Care",
+        "Broken/Fractured Tooth Repair",
+        "Bleeding Gums Care",
+        "Jaw Pain & TMJ Solutions"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Surgical Care",
+      "description": "Advanced oral surgeries including extractions, implants, and bone/gum grafting.",
+      "category": "Advanced",
+      "target_audience": "Patients requiring surgical interventions",
+      "features": [
+        "Wisdom Teeth Extraction",
+        "Dental Implants",
+        "Tooth Extractions",
+        "Gum Grafting"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Sleep Appliances",
+      "description": "Custom oral appliances for sleep-disordered breathing and obstructive sleep apnea.",
+      "category": "Specialized",
+      "target_audience": "Patients suffering from snoring and mild-to-moderate sleep apnea",
+      "features": [
+        "Snoring Treatment",
+        "Obstructive Sleep Apnea Appliances"
+      ],
+      "pricing_hint": null
+    }
+  ],
+  "contact_intelligence": {
+    "emails": [],
+    "phones": [
+      "+15128286471",
+      "+15125353888",
+      "+15128287659"
+    ],
+    "addresses": [
+      "1601 S Lamar Blvd, Austin, TX 78704",
+      "1300 E 5th St. Ste C, Austin, TX 78702",
+      "3800 N Lamar Blvd Suite 130, Austin, TX 78756"
+    ],
+    "city": "Austin",
+    "state_or_region": "TX",
+    "country": "US",
+    "social_links": [],
+    "contact_forms_found": true,
+    "business_hours": null,
+    "has_contact_method": true
+  },
+  "brand_and_content": {
+    "tone_and_voice": [
+      "modern",
+      "welcoming",
+      "professional",
+      "reassuring",
+      "holistic"
+    ],
+    "brand_positioning": "A premier, tech-forward, and lifestyle-oriented dental practice that reimagines oral healthcare to be relaxing, accessible, and transparent.",
+    "hero_headlines": [
+      "One Place for All of Your Dental Needs",
+      "Not all teeth are the same. And not all dentists are the same.",
+      "Dental Sleep Appliances in Austin, TX | Breeze Dental",
+      "Cosmetic Custom Whitening Trays"
+    ],
+    "important_copy_snippets": [
+      "A waiting room you won’t want to leave. Instead of reading magazines, you can shop for health and wellness essentials in our retail space.",
+      "The Breeze dual care model means you get fast hygiene services close to home, and drill-worthy work at our main location.",
+      "All my questions are met with thorough answers. — Nick"
+    ],
+    "content_quality_score": 9
+  },
+  "calls_to_action": [
+    {
+      "text": "Book Now",
+      "destination": "https://booking.breezeoralcare.com/",
+      "intent": "booking",
+      "prominence": "primary",
+      "location": "Hero"
+    },
+    {
+      "text": "Call (512) 828-6471",
+      "destination": "tel:5128286471",
+      "intent": "contact",
+      "prominence": "secondary",
+      "location": "Header/Hero"
+    },
+    {
+      "text": "Book Consult",
+      "destination": "https://booking.breezeoralcare.com/",
+      "intent": "booking",
+      "prominence": "primary",
+      "location": "Service Pages"
+    },
+    {
+      "text": "Get the iOS App",
+      "destination": "https://apps.apple.com/us/app/breeze-oral-care/id6479655092",
+      "intent": "download",
+      "prominence": "secondary",
+      "location": "Homepage"
+    },
+    {
+      "text": "Join Today!",
+      "destination": "https://member.clerri.com/?slug=WK4F",
+      "intent": "lead_capture",
+      "prominence": "primary",
+      "location": "Membership Page"
+    }
+  ],
+  "design_and_ux": {
+    "visual_aesthetic": "Clean modern healthcare aesthetic with warm lifestyle retail integration, crisp typography, and inviting imagery.",
+    "typography_assessment": "Clear font hierarchy utilizing strong sans-serif headings and highly legible body text suitable for healthcare accessibility.",
+    "color_palette_assessment": "Fresh, calming color palette featuring clean whites, clinical blues/teals, and warm organic accent tones.",
+    "layout_and_spacing": "Generous whitespace, structured grid cards for services and locations, and engaging bento-style feature highlights.",
+    "ux_navigation_flow": "Smooth user journey with persistent booking CTAs, clear location switching, and intuitive service categorization.",
+    "visual_inputs_analyzed": false,
+    "screenshot_observations": [],
+    "strengths": [
+      "Exceptional social proof integrated prominently (600+ 5-star reviews)",
+      "Clear multi-location breakdown with direct phone numbers",
+      "Strong emphasis on reducing dental anxiety via retail waiting rooms",
+      "Transparent membership and insurance information"
+    ],
+    "weaknesses": [
+      "Some deep service pages have slight content truncations or repetitive emergency layouts",
+      "Heavy reliance on external booking subdomains can disrupt seamless user flow"
+    ]
+  },
+  "technical_and_seo": {
+    "inferred_tech_stack": [
+      "Next.js",
+      "Tailwind CSS",
+      "Vercel",
+      "Einstein AI / Wizehire integrations",
+      "imgix"
+    ],
+    "seo_health": "Strong local SEO optimization with specific Austin keyword targeting, meta descriptions, and multi-location schema architecture.",
+    "seo_strengths": [
+      "Targeted local landing pages for Austin neighborhoods and specific procedures",
+      "Clear meta descriptions and keyword-rich headings across 20+ crawled pages",
+      "Integration of Google Review schema and local business details"
+    ],
+    "seo_weaknesses": [
+      "Some duplicate emergency boilerplate copy across multiple procedural pages that could be further personalized"
+    ],
+    "accessibility_observations": "Good semantic landmark structure, descriptive headings, and clear contact links. Alt text present on key imagery.",
+    "performance_and_structure_notes": "Optimized asset delivery with modern image CDNs and fast static rendering structures."
+  },
+  "redesign_recommendations": {
+    "overall_redesign_verdict": "The current website is modern and high-converting. A full structural redesign is not needed, but iterative UX enhancements and conversion funnel streamlining can further elevate patient acquisition.",
+    "strategic_recommendations": [
+      "Integrate inline booking widgets directly into service pages to minimize redirects to external booking portals.",
+      "Highlight patient membership value propositions higher up on the homepage for uninsured potential leads.",
+      "Expand video testimonials and before/after galleries directly on the homepage."
+    ],
+    "ui_ux_improvements": [
+      "Refine mobile sticky CTA bars for faster thumb-reach booking and calling.",
+      "Enhance visual distinction between the three Austin locations with interactive map previews."
+    ],
+    "rebuild_opportunities": [
+      "Migrate booking flows into an embedded React component within the Next.js frontend to keep users on-domain."
+    ],
+    "quick_wins": [
+      "Add prominent click-to-text functionality alongside click-to-call buttons.",
+      "Optimize local schema markup for all three physical Austin locations."
+    ]
+  },
+  "template_recommendation": {
+    "recommended_template": "local-service-multi-location-leadgen",
+    "template_category": "local_service",
+    "style_direction": "clean_corporate",
+    "layout_pattern": "bento_grid",
+    "template_confidence": 0.95,
+    "key_sections": [
+      "hero",
+      "multi_location_switcher",
+      "service_bento_grid",
+      "review_social_proof",
+      "insurance_membership_calculator",
+      "lead_booking_cta"
+    ],
+    "reasoning": "A multi-location local service template with bento grid layouts and integrated booking widgets perfectly aligns with Breeze Dental's dual-care model, retail experience, and appointment-driven patient acquisition goals."
+  },
+  "metadata": {
+    "provider": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "prompt_version": "1.0.0",
+    "analyzed_at": "2026-08-26T15:41:01.930716+00:00",
+    "screenshots_processed": 0,
+    "duration_seconds": 29.22,
+    "token_usage": null
+  },
+  "warnings": []
+}

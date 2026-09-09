@@ -1,0 +1,166 @@
+{
+  "site_id": "biz_0x8644cc7b14ae180b_0x3106b969068a2f43",
+  "base_url": "http://roaringfork.com/",
+  "domain": "roaringfork.com",
+  "source_website_json": "E:\\Code\\Nayom\\data\\websites\\biz_0x8644cc7b14ae180b_0x3106b969068a2f43\\website.json",
+  "business_profile": {
+    "business_name": "Roaring Fork",
+    "tagline": "American Western Bistro",
+    "description": "Roaring Fork is an American Western bistro offering bold flavors inspired by the rugged American West, featuring wood-fired cooking, rotisserie meats, and fresh fish in a vibrant lodge-style atmosphere.",
+    "industry_category": "Hospitality & Restaurant",
+    "value_proposition": "Exceptional American Western cuisine crafted with wood-fired cooking and rugged flavors in an upscale lodge setting.",
+    "target_audience": "Local diners, tourists, food enthusiasts, and guests seeking upscale casual dining with a distinct Western flair.",
+    "key_differentiators": [
+      "Wood-fired American Western cuisine",
+      "Robust rotisserie and grilled specialties",
+      "Atmospheric lodge-inspired interior design"
+    ]
+  },
+  "services_and_products": [
+    {
+      "name": "Dinner Menu",
+      "description": "Selection of wood-fired steaks, chops, fresh fish, and signature American Western dishes.",
+      "category": "Core Offering",
+      "target_audience": "Evening diners and groups",
+      "features": [
+        "Wood-fired grilling",
+        "Rotisserie meats",
+        "Seasonal seafood"
+      ],
+      "pricing_hint": "Moderate to upscale dining pricing"
+    },
+    {
+      "name": "Lunch & Happy Hour",
+      "description": "Mid-day menu options and curated beverage selections with specialty appetizers.",
+      "category": "Core Offering",
+      "target_audience": "Lunch patrons and afternoon guests",
+      "features": [
+        "Specialty cocktails",
+        "Appetizer specials",
+        "Quick lunch items"
+      ],
+      "pricing_hint": "Mid-range"
+    }
+  ],
+  "contact_intelligence": {
+    "emails": [],
+    "phones": [],
+    "addresses": [],
+    "city": null,
+    "state_or_region": null,
+    "country": "US",
+    "social_links": [],
+    "contact_forms_found": false,
+    "business_hours": null,
+    "has_contact_method": false
+  },
+  "brand_and_content": {
+    "tone_and_voice": [
+      "welcoming",
+      "rustic",
+      "appetizing",
+      "sophisticated"
+    ],
+    "brand_positioning": "Upscale American Western dining destination combining rugged culinary tradition with refined hospitality.",
+    "hero_headlines": [
+      "Welcome to Roaring Fork"
+    ],
+    "important_copy_snippets": [
+      "Bold flavors from the American West."
+    ],
+    "content_quality_score": 6
+  },
+  "calls_to_action": [
+    {
+      "text": "Make a Reservation",
+      "destination": null,
+      "intent": "booking",
+      "prominence": "primary",
+      "location": "Hero"
+    },
+    {
+      "text": "View Menus",
+      "destination": null,
+      "intent": "navigation",
+      "prominence": "secondary",
+      "location": "Hero"
+    }
+  ],
+  "design_and_ux": {
+    "visual_aesthetic": "warm_editorial",
+    "typography_assessment": "Clean serif headers paired with readable sans-serif body text reflecting a rustic-modern dining brand.",
+    "color_palette_assessment": "Earthy tones featuring deep charcoals, warm ambers, and subtle wooden textures.",
+    "layout_and_spacing": "Standard single-column and multi-column grid structure highlighting high-photography imagery.",
+    "ux_navigation_flow": "Straightforward navigation prioritizing menu exploration and table reservations.",
+    "visual_inputs_analyzed": false,
+    "screenshot_observations": [],
+    "strengths": [
+      "Strong emphasis on culinary imagery",
+      "Clear call to action for reservations"
+    ],
+    "weaknesses": [
+      "Limited direct contact metadata crawled",
+      "Could benefit from more interactive menu features"
+    ]
+  },
+  "technical_and_seo": {
+    "inferred_tech_stack": [
+      "Next.js",
+      "Tailwind CSS"
+    ],
+    "seo_health": "Adequate metadata structure, though localized keyword optimization could be expanded.",
+    "seo_strengths": [
+      "Clear brand-name domain association",
+      "Focused local dining intent"
+    ],
+    "seo_weaknesses": [
+      "Missing detailed schema markup for local restaurants",
+      "Limited descriptive alt attributes on visual assets"
+    ],
+    "accessibility_observations": "Color contrast appears generally sufficient, though interactive components need verified aria-labels.",
+    "performance_and_structure_notes": "Optimized lightweight static assets recommended for fast mobile loading."
+  },
+  "redesign_recommendations": {
+    "overall_redesign_verdict": "A modern refresh focused on immersive visual storytelling and seamless reservation integration will significantly boost conversion rates.",
+    "strategic_recommendations": [
+      "Integrate direct OpenTable or Resy booking widgets into the primary navigation.",
+      "Highlight seasonal menu updates and chef specials right on the homepage."
+    ],
+    "ui_ux_improvements": [
+      "Implement a warm editorial aesthetic with rich photography of signature wood-fired dishes.",
+      "Ensure sticky mobile reservation action bars for immediate user conversion."
+    ],
+    "rebuild_opportunities": [
+      "Rebuild using Next.js and Tailwind CSS for superior performance and mobile responsiveness."
+    ],
+    "quick_wins": [
+      "Add direct phone and address details clearly in the website footer.",
+      "Optimize meta descriptions for local search terms."
+    ]
+  },
+  "template_recommendation": {
+    "recommended_template": "local-service-leadgen",
+    "template_category": "local_service",
+    "style_direction": "warm_editorial",
+    "layout_pattern": "split_hero_feature_stack",
+    "template_confidence": 0.95,
+    "key_sections": [
+      "hero",
+      "menu_highlight_bento",
+      "atmosphere_gallery",
+      "lead_booking_cta",
+      "footer"
+    ],
+    "reasoning": "A warm editorial style with split hero sections and prominent reservation CTAs perfectly matches the upscale dining experience of an American Western bistro."
+  },
+  "metadata": {
+    "provider": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "prompt_version": "1.0.0",
+    "analyzed_at": "2026-08-24T14:29:45.434145+00:00",
+    "screenshots_processed": 0,
+    "duration_seconds": 6.97,
+    "token_usage": null
+  },
+  "warnings": []
+}

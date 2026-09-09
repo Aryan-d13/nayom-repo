@@ -1,0 +1,17 @@
+{
+  "recipient": null,
+  "subject": "Quick thought on Dental Smiles and local search",
+  "body": "Hi Dental Smiles team, I recently came across your practice while looking at local dental providers in Austin, TX. I really appreciate your patient-centric, compassionate approach to family and cosmetic dentistry, especially your work with preventive care and dental implants. While browsing your current site at mydentalsmiles.com, I noticed a couple of opportunities to help more local patients connect with you. Specifically, adding a direct click-to-call button in the mobile header and updating your local business schema markup could make it much easier for patients on-the-go to book an appointment and improve your visibility in local search results. I went ahead and built a clean, modern live prototype for you to show how these adjustments look in practice. You can check it out here: https://nayom-biz-0x8644ca061ab0364d-0xa1253d5b85da5cd.vercel.app. If you'd like to use this design or have me tweak anything, I would be happy to send over the project files or chat for 5 minutes. No worries at all if you are happy with your current setup!",
+  "business_id": "biz_0x8644ca061ab0364d_0xa1253d5b85da5cd3",
+  "preview_url": "https://nayom-biz-0x8644ca061ab0364d-0xa1253d5b85da5cd.vercel.app",
+  "generated_at": "2026-08-23T10:04:10.009948+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "business_name": "Dental Smiles",
+  "key_improvements": [
+    "Added direct click-to-call phone buttons in the mobile header",
+    "Enhanced local business schema markup for better local search visibility"
+  ],
+  "provider": "gemini",
+  "prompt_version": "1.0.0",
+  "warnings": []
+}

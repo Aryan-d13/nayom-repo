@@ -1,0 +1,73 @@
+{
+  "id": "generic-modern",
+  "name": "Generic Modern Universal",
+  "version": "1.0.0",
+  "description": "Universal fallback template adaptable to any commercial business or service provider.",
+  "industry": [
+    "generic",
+    "all",
+    "business",
+    "services",
+    "corporate",
+    "consulting",
+    "agency",
+    "saas"
+  ],
+  "categories": [
+    "generic",
+    "business",
+    "services",
+    "corporate",
+    "agency",
+    "local_service",
+    "saas_landing"
+  ],
+  "styles": [
+    "modern",
+    "clean",
+    "minimalist",
+    "corporate",
+    "light",
+    "glassmorphism",
+    "industrial"
+  ],
+  "layouts": [
+    "single_page_anchor_flow",
+    "split_hero_feature_stack",
+    "bento_grid"
+  ],
+  "features": [
+    "booking",
+    "gallery",
+    "pricing",
+    "testimonials",
+    "faqs",
+    "contact_form",
+    "multi_location"
+  ],
+  "entrypoint": "app/page.tsx",
+  "slots": {
+    "site.name": "string",
+    "site.tagline": "string",
+    "site.niche": "string",
+    "hero.title": "string",
+    "hero.subtitle": "string",
+    "hero.cta": "string",
+    "hero.ctaLink": "string",
+    "about.summary": "string",
+    "about.differentiators": "string",
+    "contact.phone": "string",
+    "contact.email": "string",
+    "contact.address": "string",
+    "contact.location": "string",
+    "contact.businessHours": "string",
+    "services": "string",
+    "testimonials": "string",
+    "faqs": "string",
+    "socialLinks": "string",
+    "locations": "string",
+    "seo": "string",
+    "seo.keywords": "string"
+  },
+  "preview_image": "preview/thumbnail.png"
+}

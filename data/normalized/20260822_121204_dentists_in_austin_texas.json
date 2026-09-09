@@ -1,0 +1,48 @@
+{
+  "query": "dentists in Austin Texas",
+  "total_found": 1,
+  "usable_count": 1,
+  "grid_tiles_searched": 12,
+  "executed_at": "2026-08-22T12:12:30.376591+00:00",
+  "duration_seconds": 26.08,
+  "businesses": [
+    {
+      "id": "biz_0x865b4d7a5e653abd_0x9c9d76d231343eae",
+      "name": "Peak Dental - South Austin",
+      "category": "Dentist",
+      "categories": [
+        "Dentist",
+        "Cosmetic dentist",
+        "Dental clinic",
+        "Dental implants provider",
+        "Denture care center",
+        "Emergency dental service",
+        "Endodontist",
+        "Oral surgeon",
+        "Pediatric dentist",
+        "Teeth whitening service"
+      ],
+      "address": "11330 Menchaca Rd, Austin, TX 78748, United States",
+      "city": "Austin",
+      "state": "TX",
+      "country": "United States",
+      "postal_code": "78748",
+      "latitude": 30.1552829,
+      "longitude": -97.8342208,
+      "phone": "+1737-281-2931",
+      "email": null,
+      "website": "http://www.peakdentaltexas.com/locations/south-austin?utm_source=google_organic&utm_medium=gmb_website&utm_campaign=gmb_website_link",
+      "rating": 4.5,
+      "review_count": 0,
+      "google_place_id": "0x865b4d7a5e653abd:0x9c9d76d231343eae",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Peak%20Dental%20-%20South%20Austin%2011330%20Menchaca%20Rd%2C%20Austin%2C%20TX%2078748%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-22T12:12:07.289132+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260822_121204_dentists_in_austin_texas_raw.json"
+    }
+  ]
+}

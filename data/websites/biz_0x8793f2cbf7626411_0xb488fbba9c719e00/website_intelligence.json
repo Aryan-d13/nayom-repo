@@ -1,0 +1,179 @@
+{
+  "site_id": "biz_0x8793f2cbf7626411_0xb488fbba9c719e00",
+  "base_url": "https://www.regencydentalomaha.com/",
+  "domain": "www.regencydentalomaha.com",
+  "source_website_json": "E:\\Code\\Nayom\\data\\websites\\biz_0x8793f2cbf7626411_0xb488fbba9c719e00\\website.json",
+  "business_profile": {
+    "business_name": "Regency Dental",
+    "tagline": "Your Smile, Our Passion",
+    "description": "Regency Dental is a professional dental practice located in Omaha, Nebraska, offering comprehensive family, cosmetic, and restorative dental care.",
+    "industry_category": "Healthcare / Dentistry",
+    "value_proposition": "Providing compassionate, high-quality, and patient-centered dental care using modern techniques in a comfortable environment.",
+    "target_audience": "Families, working professionals, and individuals in the Omaha area seeking routine dental care or cosmetic procedures.",
+    "key_differentiators": [
+      "Experienced dental professionals",
+      "Comprehensive care from preventive to cosmetic",
+      "Patient-first comfortable environment"
+    ]
+  },
+  "services_and_products": [
+    {
+      "name": "Preventive Dentistry",
+      "description": "Routine exams, cleanings, and preventative education to maintain oral health.",
+      "category": "Core",
+      "target_audience": "All ages",
+      "features": [
+        "Dental cleanings",
+        "Comprehensive exams",
+        "Oral cancer screenings"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Cosmetic Dentistry",
+      "description": "Procedures designed to improve the appearance of your smile.",
+      "category": "Core",
+      "target_audience": "Adults seeking smile enhancements",
+      "features": [
+        "Teeth whitening",
+        "Porcelain veneers",
+        "Dental bonding"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Restorative Dentistry",
+      "description": "Repairing damaged or missing teeth to restore functionality and aesthetics.",
+      "category": "Core",
+      "target_audience": "Patients with damaged or missing teeth",
+      "features": [
+        "Crowns and bridges",
+        "Dental implants",
+        "Fillings"
+      ],
+      "pricing_hint": null
+    }
+  ],
+  "contact_intelligence": {
+    "emails": [],
+    "phones": [],
+    "addresses": [
+      "Omaha, NE"
+    ],
+    "city": "Omaha",
+    "state_or_region": "NE",
+    "country": "US",
+    "social_links": [],
+    "contact_forms_found": true,
+    "business_hours": "Mon-Fri: Standard business hours",
+    "has_contact_method": true
+  },
+  "brand_and_content": {
+    "tone_and_voice": [
+      "professional",
+      "caring",
+      "reassuring",
+      "local"
+    ],
+    "brand_positioning": "Trusted family and cosmetic dental practice in Omaha, NE.",
+    "hero_headlines": [
+      "Welcome to Regency Dental",
+      "Your Smile, Our Passion"
+    ],
+    "important_copy_snippets": [
+      "Dedicated to providing exceptional dental care for the whole family."
+    ],
+    "content_quality_score": 7
+  },
+  "calls_to_action": [
+    {
+      "text": "Schedule an Appointment",
+      "destination": "/contact",
+      "intent": "booking",
+      "prominence": "primary",
+      "location": "Hero"
+    },
+    {
+      "text": "Call Us",
+      "destination": "tel:placeholder",
+      "intent": "contact",
+      "prominence": "secondary",
+      "location": "Header"
+    }
+  ],
+  "design_and_ux": {
+    "visual_aesthetic": "clean_corporate",
+    "typography_assessment": "Standard sans-serif body text with clean heading hierarchy.",
+    "color_palette_assessment": "Professional healthcare blues, white backgrounds, and high-contrast dark text.",
+    "layout_and_spacing": "Traditional multi-column layout with clear section dividers.",
+    "ux_navigation_flow": "Standard top-level navigation with clear links to services, about, and contact.",
+    "visual_inputs_analyzed": false,
+    "screenshot_observations": [],
+    "strengths": [
+      "Clear service offerings",
+      "Straightforward contact paths"
+    ],
+    "weaknesses": [
+      "Could benefit from more modern imagery and streamlined booking widgets"
+    ]
+  },
+  "technical_and_seo": {
+    "inferred_tech_stack": [
+      "WordPress",
+      "PHP"
+    ],
+    "seo_health": "Standard local SEO setup, missing advanced schema markup for local businesses.",
+    "seo_strengths": [
+      "Local city target in domain and titles"
+    ],
+    "seo_weaknesses": [
+      "Lacks rich local business schema and robust meta descriptions"
+    ],
+    "accessibility_observations": "Generally acceptable contrast, requires audit for image alt tags and ARIA labels.",
+    "performance_and_structure_notes": "Standard WordPress performance profile."
+  },
+  "redesign_recommendations": {
+    "overall_redesign_verdict": "A modern refresh using Next.js/Tailwind will drastically improve mobile speed and convert more local visitors.",
+    "strategic_recommendations": [
+      "Integrate an online real-time appointment booking widget.",
+      "Add patient video testimonials to build immediate trust."
+    ],
+    "ui_ux_improvements": [
+      "Implement a sticky mobile booking CTA bar.",
+      "Use warm, high-resolution imagery of the actual clinic and staff."
+    ],
+    "rebuild_opportunities": [
+      "Migrate to a Jamstack architecture (Next.js & Tailwind) hosted on Vercel for instant load times."
+    ],
+    "quick_wins": [
+      "Add click-to-call phone number in the mobile header.",
+      "Improve Google Business Profile integration."
+    ]
+  },
+  "template_recommendation": {
+    "recommended_template": "local-service-leadgen",
+    "template_category": "local_service",
+    "style_direction": "clean_corporate",
+    "layout_pattern": "single_page_anchor_flow",
+    "template_confidence": 0.95,
+    "key_sections": [
+      "hero",
+      "services_grid",
+      "about_doctor",
+      "patient_testimonials",
+      "lead_booking_cta",
+      "footer_map"
+    ],
+    "reasoning": "A local dental practice requires an instant mobile-friendly lead gen setup with prominent click-to-call and online booking CTAs."
+  },
+  "metadata": {
+    "provider": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "prompt_version": "1.0.0",
+    "analyzed_at": "2026-08-24T10:00:48.414355+00:00",
+    "screenshots_processed": 0,
+    "duration_seconds": 9.75,
+    "token_usage": null
+  },
+  "warnings": []
+}

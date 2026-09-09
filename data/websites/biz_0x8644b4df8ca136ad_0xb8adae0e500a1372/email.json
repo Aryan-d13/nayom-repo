@@ -1,0 +1,18 @@
+{
+  "recipient": "contact@breezeoralcare.com",
+  "subject": "Quick thought on the Breeze Dental site & local booking",
+  "body": "Hi Breeze Dental team, I've always admired how your three Austin locations reimagine the patient experience—especially replacing traditional waiting rooms with retail wellness spaces and offering tech-forward treatments like Airflow cleanings. While browsing your current site, I noticed that deep service pages occasionally deal with content layouts that can disrupt the mobile user flow, and your local schema could be optimized further across your spots. Because I enjoy building fast, clean interfaces for local health providers, I put together a live prototype for Breeze Dental using a modern bento-grid layout, built-in click-to-text scheduling, and explicit local markup for all three Austin spots. Feel free to check out the live preview here: https://nayom-biz-0x8644b4df8ca136ad-0xb8adae0e500a137-iqmtvgdg0.vercel.app. If you'd like to use this design or have me tweak anything, I'd be happy to send over the project files or chat for 5 minutes. No worries at all if you're happy with your current setup!",
+  "business_id": "biz_0x8644b4df8ca136ad_0xb8adae0e500a1372",
+  "preview_url": "https://nayom-biz-0x8644b4df8ca136ad-0xb8adae0e500a137-iqmtvgdg0.vercel.app",
+  "generated_at": "2026-08-26T15:41:33.092332+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "business_name": "Breeze Dental",
+  "key_improvements": [
+    "Streamlined mobile user flow and optimized deep service page layouts",
+    "Enhanced local schema markup for all three physical Austin locations",
+    "Added prominent click-to-text scheduling functionality alongside traditional calls"
+  ],
+  "provider": "gemini",
+  "prompt_version": "1.0.0",
+  "warnings": []
+}

@@ -1,0 +1,1161 @@
+{
+  "version": "1.0.0",
+  "generated_at": "2026-09-03T15:05:18.727101+00:00",
+  "total_templates": 11,
+  "valid_templates": 3,
+  "runnable_templates": 3,
+  "templates": {
+    "construction-craft": {
+      "id": "construction-craft",
+      "name": "Construction Craft & Trades",
+      "version": "v1",
+      "description": "Heavy-duty, reliable contractor template built for project portfolios, instant quote requests, and client reviews.",
+      "categories": [
+        "construction",
+        "trades",
+        "local_service"
+      ],
+      "industries": [
+        "construction",
+        "contractor",
+        "trades",
+        "roofing",
+        "remodeling",
+        "plumbing",
+        "electrician"
+      ],
+      "style_keywords": [
+        "bold",
+        "industrial",
+        "robust",
+        "clean"
+      ],
+      "layout_patterns": [
+        "split_hero_feature_stack",
+        "single_page_anchor_flow"
+      ],
+      "supported_features": [
+        "booking",
+        "pricing",
+        "testimonials",
+        "faqs",
+        "contact_form"
+      ],
+      "supported_slots": [
+        "site.name",
+        "site.tagline",
+        "site.niche",
+        "hero.title",
+        "hero.subtitle",
+        "hero.cta",
+        "hero.ctaLink",
+        "about.summary",
+        "about.differentiators",
+        "contact.phone",
+        "contact.email",
+        "contact.address",
+        "contact.location",
+        "services",
+        "testimonials",
+        "faqs",
+        "socialLinks",
+        "locations",
+        "seo"
+      ],
+      "preview_image": "preview/thumbnail.png",
+      "entrypoint": "app/page.tsx",
+      "template_dir": "E:\\Code\\Nayom\\templates\\construction\\construction-craft",
+      "is_valid": false,
+      "is_runnable": false,
+      "validation_errors": [
+        "Missing required file: package.json (Next.js project descriptor)",
+        "Missing Next.js application directory (expected 'app/' or 'pages/')",
+        "Entrypoint file not found: app/page.tsx"
+      ],
+      "validation_warnings": [
+        "No 'components/' directory found (recommended for modular React structure)"
+      ],
+      "industry": null,
+      "supported_industries": [],
+      "capabilities": {
+        "supportsBooking": true,
+        "supportsGallery": true,
+        "supportsPricing": false,
+        "supportsMultiLocation": true,
+        "supportsTestimonials": true,
+        "supportsFaq": true,
+        "supportsBeforeAfter": true
+      },
+      "default_theme": {
+        "palette": [
+          "#f59e0b",
+          "#1e293b",
+          "#f8fafc",
+          "#0f172a"
+        ],
+        "typography": "Chakra Petch, sans-serif",
+        "iconStyle": "lucide-bold",
+        "borderRadius": "4px",
+        "buttonStyle": "industrial-solid",
+        "animationStyle": "slide-heavy"
+      },
+      "supported_variants": [
+        "industrial",
+        "light",
+        "dark"
+      ],
+      "available_sections": [
+        "hero",
+        "services",
+        "projects",
+        "before-after",
+        "testimonials",
+        "faqs",
+        "estimate-request",
+        "contact"
+      ]
+    },
+    "dental-smooth": {
+      "id": "dental-smooth",
+      "name": "Dental Smooth Practice",
+      "version": "v1",
+      "description": "Welcoming dental template emphasizing smile makeovers, appointment booking, and patient testimonials.",
+      "categories": [
+        "dental",
+        "medical",
+        "health"
+      ],
+      "industries": [
+        "dental",
+        "orthodontics",
+        "pediatric dental",
+        "teeth whitening",
+        "dentist"
+      ],
+      "style_keywords": [
+        "clean",
+        "bright",
+        "soft",
+        "medical"
+      ],
+      "layout_patterns": [
+        "split_hero_feature_stack",
+        "single_page_anchor_flow"
+      ],
+      "supported_features": [
+        "booking",
+        "pricing",
+        "testimonials",
+        "faqs",
+        "contact_form"
+      ],
+      "supported_slots": [
+        "site.name",
+        "site.tagline",
+        "site.niche",
+        "hero.title",
+        "hero.subtitle",
+        "hero.cta",
+        "hero.ctaLink",
+        "about.summary",
+        "about.differentiators",
+        "contact.phone",
+        "contact.email",
+        "contact.address",
+        "contact.location",
+        "services",
+        "testimonials",
+        "faqs",
+        "socialLinks",
+        "locations",
+        "seo"
+      ],
+      "preview_image": "preview/thumbnail.png",
+      "entrypoint": "app/page.tsx",
+      "template_dir": "E:\\Code\\Nayom\\templates\\dental\\dental-smooth",
+      "is_valid": false,
+      "is_runnable": false,
+      "validation_errors": [
+        "Missing required file: package.json (Next.js project descriptor)",
+        "Missing Next.js application directory (expected 'app/' or 'pages/')",
+        "Entrypoint file not found: app/page.tsx"
+      ],
+      "validation_warnings": [
+        "No 'components/' directory found (recommended for modular React structure)"
+      ],
+      "industry": null,
+      "supported_industries": [],
+      "capabilities": {
+        "supportsBooking": true,
+        "supportsGallery": true,
+        "supportsPricing": true,
+        "supportsMultiLocation": false,
+        "supportsTestimonials": true,
+        "supportsFaq": true,
+        "supportsBeforeAfter": true
+      },
+      "default_theme": {
+        "palette": [
+          "#00a8ff",
+          "#00d2d3",
+          "#f5f6fa",
+          "#2f3640"
+        ],
+        "typography": "Plus Jakarta Sans, sans-serif",
+        "iconStyle": "lucide-soft",
+        "borderRadius": "16px",
+        "buttonStyle": "rounded-soft",
+        "animationStyle": "bounce-subtle"
+      },
+      "supported_variants": [
+        "light",
+        "glassmorphism"
+      ],
+      "available_sections": [
+        "hero",
+        "services",
+        "about",
+        "before-after",
+        "testimonials",
+        "pricing",
+        "faqs",
+        "booking",
+        "contact"
+      ]
+    },
+    "generic-modern": {
+      "id": "generic-modern",
+      "name": "Generic Modern Universal",
+      "version": "1.0.0",
+      "description": "Universal fallback template adaptable to any commercial business or service provider.",
+      "categories": [
+        "generic",
+        "business",
+        "services",
+        "corporate",
+        "agency",
+        "local_service",
+        "saas_landing"
+      ],
+      "industries": [
+        "generic",
+        "all",
+        "business",
+        "services",
+        "corporate",
+        "consulting",
+        "agency",
+        "saas"
+      ],
+      "style_keywords": [
+        "modern",
+        "clean",
+        "minimalist",
+        "corporate",
+        "light",
+        "glassmorphism",
+        "industrial"
+      ],
+      "layout_patterns": [
+        "single_page_anchor_flow",
+        "split_hero_feature_stack",
+        "bento_grid"
+      ],
+      "supported_features": [
+        "booking",
+        "gallery",
+        "pricing",
+        "testimonials",
+        "faqs",
+        "contact_form",
+        "multi_location"
+      ],
+      "supported_slots": [
+        "site.name",
+        "site.tagline",
+        "site.niche",
+        "hero.title",
+        "hero.subtitle",
+        "hero.cta",
+        "hero.ctaLink",
+        "about.summary",
+        "about.differentiators",
+        "contact.phone",
+        "contact.email",
+        "contact.address",
+        "contact.location",
+        "contact.businessHours",
+        "services",
+        "testimonials",
+        "faqs",
+        "socialLinks",
+        "locations",
+        "seo",
+        "seo.keywords"
+      ],
+      "preview_image": "preview/thumbnail.png",
+      "entrypoint": "app/page.tsx",
+      "template_dir": "E:\\Code\\Nayom\\templates\\generic\\generic-modern",
+      "is_valid": true,
+      "is_runnable": true,
+      "validation_errors": [],
+      "validation_warnings": [],
+      "industry": null,
+      "supported_industries": [],
+      "capabilities": {
+        "supportsBooking": true,
+        "supportsGallery": true,
+        "supportsPricing": true,
+        "supportsMultiLocation": true,
+        "supportsTestimonials": true,
+        "supportsFaq": true,
+        "supportsBeforeAfter": true
+      },
+      "default_theme": {
+        "palette": [
+          "#2563eb",
+          "#16a34a",
+          "#f8fafc",
+          "#0f172a"
+        ],
+        "typography": "Inter, sans-serif",
+        "iconStyle": "lucide-standard",
+        "borderRadius": "8px",
+        "buttonStyle": "rounded-standard",
+        "animationStyle": "fade-subtle"
+      },
+      "supported_variants": [
+        "light",
+        "dark",
+        "glassmorphism",
+        "industrial"
+      ],
+      "available_sections": [
+        "hero",
+        "services",
+        "about",
+        "testimonials",
+        "pricing",
+        "faqs",
+        "gallery",
+        "contact",
+        "booking"
+      ]
+    },
+    "gym-power": {
+      "id": "gym-power",
+      "name": "Gym Power & Fitness Hub",
+      "version": "v1",
+      "description": "High-energy fitness studio template with class schedules, trainer rosters, membership tiers, and free trial leadgen.",
+      "categories": [
+        "gym",
+        "fitness",
+        "wellness"
+      ],
+      "industries": [
+        "gym",
+        "fitness",
+        "crossfit",
+        "personal trainer",
+        "yoga",
+        "wellness"
+      ],
+      "style_keywords": [
+        "dark",
+        "bold",
+        "energetic",
+        "high-contrast"
+      ],
+      "layout_patterns": [
+        "bento_grid",
+        "single_page_anchor_flow"
+      ],
+      "supported_features": [
+        "booking",
+        "pricing",
+        "testimonials",
+        "faqs",
+        "contact_form"
+      ],
+      "supported_slots": [
+        "site.name",
+        "site.tagline",
+        "site.niche",
+        "hero.title",
+        "hero.subtitle",
+        "hero.cta",
+        "hero.ctaLink",
+        "about.summary",
+        "about.differentiators",
+        "contact.phone",
+        "contact.email",
+        "contact.address",
+        "contact.location",
+        "services",
+        "testimonials",
+        "faqs",
+        "socialLinks",
+        "locations",
+        "seo"
+      ],
+      "preview_image": "preview/thumbnail.png",
+      "entrypoint": "app/page.tsx",
+      "template_dir": "E:\\Code\\Nayom\\templates\\gym\\gym-power",
+      "is_valid": false,
+      "is_runnable": false,
+      "validation_errors": [
+        "Missing required file: package.json (Next.js project descriptor)",
+        "Missing Next.js application directory (expected 'app/' or 'pages/')",
+        "Entrypoint file not found: app/page.tsx"
+      ],
+      "validation_warnings": [
+        "No 'components/' directory found (recommended for modular React structure)"
+      ],
+      "industry": null,
+      "supported_industries": [],
+      "capabilities": {
+        "supportsBooking": true,
+        "supportsGallery": true,
+        "supportsPricing": true,
+        "supportsMultiLocation": true,
+        "supportsTestimonials": true,
+        "supportsFaq": true,
+        "supportsBeforeAfter": true
+      },
+      "default_theme": {
+        "palette": [
+          "#ff3e3e",
+          "#111111",
+          "#1a1a1a",
+          "#ffffff"
+        ],
+        "typography": "Montserrat, sans-serif",
+        "iconStyle": "lucide-sharp",
+        "borderRadius": "4px",
+        "buttonStyle": "high-contrast-slant",
+        "animationStyle": "slide-heavy"
+      },
+      "supported_variants": [
+        "dark",
+        "industrial"
+      ],
+      "available_sections": [
+        "hero",
+        "classes",
+        "trainers",
+        "pricing",
+        "transformations",
+        "testimonials",
+        "schedule",
+        "contact"
+      ]
+    },
+    "lawyer-authority": {
+      "id": "lawyer-authority",
+      "name": "Lawyer Authority & Legal Practice",
+      "version": "v1",
+      "description": "Prestigious, high-trust law firm template designed for consultation bookings, practice area breakdowns, and attorney bios.",
+      "categories": [
+        "law",
+        "legal",
+        "professional_services"
+      ],
+      "industries": [
+        "lawyer",
+        "attorney",
+        "legal",
+        "law firm",
+        "counsel",
+        "litigation"
+      ],
+      "style_keywords": [
+        "authoritative",
+        "formal",
+        "minimalist",
+        "dark-tech"
+      ],
+      "layout_patterns": [
+        "split_hero_feature_stack",
+        "single_page_anchor_flow"
+      ],
+      "supported_features": [
+        "booking",
+        "pricing",
+        "testimonials",
+        "faqs",
+        "contact_form"
+      ],
+      "supported_slots": [
+        "site.name",
+        "site.tagline",
+        "site.niche",
+        "hero.title",
+        "hero.subtitle",
+        "hero.cta",
+        "hero.ctaLink",
+        "about.summary",
+        "about.differentiators",
+        "contact.phone",
+        "contact.email",
+        "contact.address",
+        "contact.location",
+        "services",
+        "testimonials",
+        "faqs",
+        "socialLinks",
+        "locations",
+        "seo"
+      ],
+      "preview_image": "preview/thumbnail.png",
+      "entrypoint": "app/page.tsx",
+      "template_dir": "E:\\Code\\Nayom\\templates\\law\\lawyer-authority",
+      "is_valid": false,
+      "is_runnable": false,
+      "validation_errors": [
+        "Missing required file: package.json (Next.js project descriptor)",
+        "Missing Next.js application directory (expected 'app/' or 'pages/')",
+        "Entrypoint file not found: app/page.tsx"
+      ],
+      "validation_warnings": [
+        "No 'components/' directory found (recommended for modular React structure)"
+      ],
+      "industry": null,
+      "supported_industries": [],
+      "capabilities": {
+        "supportsBooking": true,
+        "supportsGallery": false,
+        "supportsPricing": false,
+        "supportsMultiLocation": true,
+        "supportsTestimonials": true,
+        "supportsFaq": true,
+        "supportsBeforeAfter": false
+      },
+      "default_theme": {
+        "palette": [
+          "#1b2a4a",
+          "#c5a059",
+          "#f8f9fa",
+          "#0b1325"
+        ],
+        "typography": "Cinzel, Playfair Display, serif",
+        "iconStyle": "lucide-classic",
+        "borderRadius": "4px",
+        "buttonStyle": "sharp-gold",
+        "animationStyle": "fade-subtle"
+      },
+      "supported_variants": [
+        "light",
+        "dark"
+      ],
+      "available_sections": [
+        "hero",
+        "practice-areas",
+        "attorneys",
+        "results",
+        "testimonials",
+        "faqs",
+        "free-consultation",
+        "contact"
+      ]
+    },
+    "medical-modern": {
+      "id": "medical-modern",
+      "name": "Medical Modern Clinic",
+      "version": "v1",
+      "description": "Trustworthy medical practice and healthcare provider template with doctor credentials, service directories, and patient portal links.",
+      "categories": [
+        "medical",
+        "healthcare",
+        "clinic"
+      ],
+      "industries": [
+        "medical",
+        "doctor",
+        "clinic",
+        "hospital",
+        "health",
+        "pediatrician"
+      ],
+      "style_keywords": [
+        "clean",
+        "calm",
+        "clinical",
+        "accessible"
+      ],
+      "layout_patterns": [
+        "split_hero_feature_stack",
+        "single_page_anchor_flow"
+      ],
+      "supported_features": [
+        "booking",
+        "pricing",
+        "testimonials",
+        "faqs",
+        "contact_form"
+      ],
+      "supported_slots": [
+        "site.name",
+        "site.tagline",
+        "site.niche",
+        "hero.title",
+        "hero.subtitle",
+        "hero.cta",
+        "hero.ctaLink",
+        "about.summary",
+        "about.differentiators",
+        "contact.phone",
+        "contact.email",
+        "contact.address",
+        "contact.location",
+        "services",
+        "testimonials",
+        "faqs",
+        "socialLinks",
+        "locations",
+        "seo"
+      ],
+      "preview_image": "preview/thumbnail.png",
+      "entrypoint": "app/page.tsx",
+      "template_dir": "E:\\Code\\Nayom\\templates\\medical\\medical-modern",
+      "is_valid": false,
+      "is_runnable": false,
+      "validation_errors": [
+        "Missing required file: package.json (Next.js project descriptor)",
+        "Missing Next.js application directory (expected 'app/' or 'pages/')",
+        "Entrypoint file not found: app/page.tsx"
+      ],
+      "validation_warnings": [
+        "No 'components/' directory found (recommended for modular React structure)"
+      ],
+      "industry": null,
+      "supported_industries": [],
+      "capabilities": {
+        "supportsBooking": true,
+        "supportsGallery": false,
+        "supportsPricing": false,
+        "supportsMultiLocation": false,
+        "supportsTestimonials": true,
+        "supportsFaq": true,
+        "supportsBeforeAfter": false
+      },
+      "default_theme": {
+        "palette": [
+          "#0052cc",
+          "#00875a",
+          "#f4f5f7",
+          "#172b4d"
+        ],
+        "typography": "Inter, sans-serif",
+        "iconStyle": "lucide-clean",
+        "borderRadius": "8px",
+        "buttonStyle": "rounded-solid",
+        "animationStyle": "fade-subtle"
+      },
+      "supported_variants": [
+        "light",
+        "glassmorphism"
+      ],
+      "available_sections": [
+        "hero",
+        "services",
+        "about",
+        "testimonials",
+        "faqs",
+        "contact",
+        "booking"
+      ]
+    },
+    "cyber-brutalist": {
+      "id": "cyber-brutalist",
+      "name": "Cyber Industrial Brutalist Portfolio",
+      "version": "1.0.0",
+      "description": "High-velocity cyber-industrial brutalist portfolio template featuring ultra-condensed typography, 3D wireframe hero telemetry, alternating project case studies, and tactical yellow-on-black aesthetic.",
+      "categories": [],
+      "industries": [],
+      "style_keywords": [],
+      "layout_patterns": [],
+      "supported_features": [
+        "supportsGallery",
+        "supportsTestimonials",
+        "supportsFaq",
+        "supportsAudioFx",
+        "supportsCustomCursor"
+      ],
+      "supported_slots": [],
+      "preview_image": null,
+      "entrypoint": "app/page.tsx",
+      "template_dir": "E:\\Code\\Nayom\\templates\\portfolio\\cyber-brutalist",
+      "is_valid": true,
+      "is_runnable": true,
+      "validation_errors": [],
+      "validation_warnings": [
+        "metadata.json has no 'categories' or 'industries' specified",
+        "metadata.json has no 'style_keywords' specified",
+        "metadata.json has no 'layout_patterns' specified"
+      ],
+      "industry": null,
+      "supported_industries": [],
+      "capabilities": {
+        "supportsBooking": false,
+        "supportsGallery": true,
+        "supportsPricing": false,
+        "supportsMultiLocation": false,
+        "supportsTestimonials": true,
+        "supportsFaq": true,
+        "supportsBeforeAfter": false,
+        "supportsAudioFx": true,
+        "supportsCustomCursor": true
+      },
+      "default_theme": {
+        "palette": [
+          "#FFE600",
+          "#050505",
+          "#FFFFFF",
+          "#061A1E",
+          "#022417"
+        ],
+        "typography": "Barlow Condensed, JetBrains Mono, Inter, sans-serif",
+        "iconStyle": "lucide-bold",
+        "borderRadius": "0px",
+        "mediaRadius": "32px",
+        "buttonStyle": "pill-cyber",
+        "animationStyle": "tactical-kinetic"
+      },
+      "supported_variants": [],
+      "available_sections": []
+    },
+    "dark-portfolio": {
+      "id": "dark-portfolio",
+      "name": "Dark Mode Systems & Developer Portfolio",
+      "version": "1.0.0",
+      "description": "High-impact dark-mode portfolio engineered for systems developers, software engineers, and technical consultants featuring bento grid case studies, stack badges, and fast conversion CTAs.",
+      "categories": [
+        "portfolio",
+        "developer",
+        "software",
+        "systems",
+        "tech",
+        "creator",
+        "dark_tech"
+      ],
+      "industries": [
+        "portfolio",
+        "developer",
+        "engineer",
+        "software",
+        "systems",
+        "tech",
+        "consultant",
+        "freelancer"
+      ],
+      "style_keywords": [
+        "dark",
+        "dark_tech",
+        "dark-tech",
+        "minimal-slate",
+        "bento",
+        "modern"
+      ],
+      "layout_patterns": [
+        "bento_grid",
+        "single_page_anchor_flow"
+      ],
+      "supported_features": [
+        "projects",
+        "tech_stack",
+        "experience",
+        "testimonials",
+        "contact_form",
+        "resume_download"
+      ],
+      "supported_slots": [
+        "site.name",
+        "site.tagline",
+        "site.niche",
+        "hero.title",
+        "hero.subtitle",
+        "hero.cta",
+        "hero.ctaLink",
+        "about.summary",
+        "about.differentiators",
+        "contact.phone",
+        "contact.email",
+        "contact.address",
+        "contact.location",
+        "services",
+        "testimonials",
+        "socialLinks",
+        "techStack"
+      ],
+      "preview_image": "preview/thumbnail.png",
+      "entrypoint": "app/page.tsx",
+      "template_dir": "E:\\Code\\Nayom\\templates\\portfolio\\dark-portfolio",
+      "is_valid": true,
+      "is_runnable": true,
+      "validation_errors": [],
+      "validation_warnings": [],
+      "industry": null,
+      "supported_industries": [],
+      "capabilities": {
+        "supportsProjects": true,
+        "supportsTechStack": true,
+        "supportsExperience": true,
+        "supportsTestimonials": true,
+        "supportsContactForm": true,
+        "supportsResumeDownload": true
+      },
+      "default_theme": {
+        "palette": [
+          "#0f172a",
+          "#0284c7",
+          "#10b981",
+          "#f8fafc"
+        ],
+        "typography": "Inter, JetBrains Mono, sans-serif",
+        "iconStyle": "lucide-dark",
+        "borderRadius": "12px",
+        "buttonStyle": "rounded-pill",
+        "animationStyle": "fade-smooth"
+      },
+      "supported_variants": [
+        "dark",
+        "dark-tech",
+        "minimal-slate"
+      ],
+      "available_sections": [
+        "hero",
+        "tech_stack",
+        "projects",
+        "experience",
+        "testimonials",
+        "contact"
+      ]
+    },
+    "realestate-prime": {
+      "id": "realestate-prime",
+      "name": "Real Estate Prime Brokerage",
+      "version": "v1",
+      "description": "Sleek luxury property showcase template featuring listing cards, neighborhood guides, and agent contact funnels.",
+      "categories": [
+        "realestate",
+        "property",
+        "luxury"
+      ],
+      "industries": [
+        "realestate",
+        "real estate",
+        "realtor",
+        "property",
+        "brokerage",
+        "apartments"
+      ],
+      "style_keywords": [
+        "luxury",
+        "editorial",
+        "modern",
+        "clean"
+      ],
+      "layout_patterns": [
+        "bento_grid",
+        "split_hero_feature_stack"
+      ],
+      "supported_features": [
+        "booking",
+        "pricing",
+        "testimonials",
+        "faqs",
+        "contact_form"
+      ],
+      "supported_slots": [
+        "site.name",
+        "site.tagline",
+        "site.niche",
+        "hero.title",
+        "hero.subtitle",
+        "hero.cta",
+        "hero.ctaLink",
+        "about.summary",
+        "about.differentiators",
+        "contact.phone",
+        "contact.email",
+        "contact.address",
+        "contact.location",
+        "services",
+        "testimonials",
+        "faqs",
+        "socialLinks",
+        "locations",
+        "seo"
+      ],
+      "preview_image": "preview/thumbnail.png",
+      "entrypoint": "app/page.tsx",
+      "template_dir": "E:\\Code\\Nayom\\templates\\realestate\\realestate-prime",
+      "is_valid": false,
+      "is_runnable": false,
+      "validation_errors": [
+        "Missing required file: package.json (Next.js project descriptor)",
+        "Missing Next.js application directory (expected 'app/' or 'pages/')",
+        "Entrypoint file not found: app/page.tsx"
+      ],
+      "validation_warnings": [
+        "No 'components/' directory found (recommended for modular React structure)"
+      ],
+      "industry": null,
+      "supported_industries": [],
+      "capabilities": {
+        "supportsBooking": true,
+        "supportsGallery": true,
+        "supportsPricing": true,
+        "supportsMultiLocation": true,
+        "supportsTestimonials": true,
+        "supportsFaq": true,
+        "supportsBeforeAfter": false
+      },
+      "default_theme": {
+        "palette": [
+          "#0f4c81",
+          "#d4af37",
+          "#f4f7f6",
+          "#1a1a1a"
+        ],
+        "typography": "Bodoni Moda, sans-serif",
+        "iconStyle": "lucide-clean",
+        "borderRadius": "8px",
+        "buttonStyle": "luxury-gold",
+        "animationStyle": "fade-smooth"
+      },
+      "supported_variants": [
+        "light",
+        "glassmorphism"
+      ],
+      "available_sections": [
+        "hero",
+        "featured-listings",
+        "services",
+        "agents",
+        "testimonials",
+        "faqs",
+        "valuation-request",
+        "contact"
+      ]
+    },
+    "restaurant-flavor": {
+      "id": "restaurant-flavor",
+      "name": "Restaurant Flavor & Bistro",
+      "version": "v1",
+      "description": "Vibrant culinary template with menu highlights, online reservations, chef stories, and atmospheric gallery.",
+      "categories": [
+        "restaurant",
+        "food",
+        "hospitality"
+      ],
+      "industries": [
+        "restaurant",
+        "cafe",
+        "bistro",
+        "bakery",
+        "bar",
+        "food",
+        "dining"
+      ],
+      "style_keywords": [
+        "warm",
+        "rich",
+        "editorial",
+        "dark"
+      ],
+      "layout_patterns": [
+        "single_page_anchor_flow",
+        "bento_grid"
+      ],
+      "supported_features": [
+        "booking",
+        "pricing",
+        "testimonials",
+        "faqs",
+        "contact_form"
+      ],
+      "supported_slots": [
+        "site.name",
+        "site.tagline",
+        "site.niche",
+        "hero.title",
+        "hero.subtitle",
+        "hero.cta",
+        "hero.ctaLink",
+        "about.summary",
+        "about.differentiators",
+        "contact.phone",
+        "contact.email",
+        "contact.address",
+        "contact.location",
+        "services",
+        "testimonials",
+        "faqs",
+        "socialLinks",
+        "locations",
+        "seo"
+      ],
+      "preview_image": "preview/thumbnail.png",
+      "entrypoint": "app/page.tsx",
+      "template_dir": "E:\\Code\\Nayom\\templates\\restaurant\\restaurant-flavor",
+      "is_valid": false,
+      "is_runnable": false,
+      "validation_errors": [
+        "Missing required file: package.json (Next.js project descriptor)",
+        "Missing Next.js application directory (expected 'app/' or 'pages/')",
+        "Entrypoint file not found: app/page.tsx"
+      ],
+      "validation_warnings": [
+        "No 'components/' directory found (recommended for modular React structure)"
+      ],
+      "industry": null,
+      "supported_industries": [],
+      "capabilities": {
+        "supportsBooking": true,
+        "supportsGallery": true,
+        "supportsPricing": true,
+        "supportsMultiLocation": true,
+        "supportsTestimonials": true,
+        "supportsFaq": false,
+        "supportsBeforeAfter": false
+      },
+      "default_theme": {
+        "palette": [
+          "#d32f2f",
+          "#ff9800",
+          "#121212",
+          "#ffffff"
+        ],
+        "typography": "DM Serif Display, sans-serif",
+        "iconStyle": "lucide-bold",
+        "borderRadius": "12px",
+        "buttonStyle": "warm-rounded",
+        "animationStyle": "zoom-subtle"
+      },
+      "supported_variants": [
+        "light",
+        "dark"
+      ],
+      "available_sections": [
+        "hero",
+        "menu",
+        "story",
+        "gallery",
+        "reservations",
+        "testimonials",
+        "location",
+        "contact"
+      ]
+    },
+    "salon-glow": {
+      "id": "salon-glow",
+      "name": "Salon Glow & Beauty Spa",
+      "version": "v1",
+      "description": "Elegant beauty salon and wellness spa template featuring service menus, stylist portfolios, and online appointment booking.",
+      "categories": [
+        "salon",
+        "beauty",
+        "spa"
+      ],
+      "industries": [
+        "salon",
+        "spa",
+        "beauty",
+        "hairdresser",
+        "barber",
+        "skincare",
+        "massage"
+      ],
+      "style_keywords": [
+        "warm_editorial",
+        "soft",
+        "luxurious",
+        "elegant"
+      ],
+      "layout_patterns": [
+        "bento_grid",
+        "single_page_anchor_flow"
+      ],
+      "supported_features": [
+        "booking",
+        "pricing",
+        "testimonials",
+        "faqs",
+        "contact_form"
+      ],
+      "supported_slots": [
+        "site.name",
+        "site.tagline",
+        "site.niche",
+        "hero.title",
+        "hero.subtitle",
+        "hero.cta",
+        "hero.ctaLink",
+        "about.summary",
+        "about.differentiators",
+        "contact.phone",
+        "contact.email",
+        "contact.address",
+        "contact.location",
+        "services",
+        "testimonials",
+        "faqs",
+        "socialLinks",
+        "locations",
+        "seo"
+      ],
+      "preview_image": "preview/thumbnail.png",
+      "entrypoint": "app/page.tsx",
+      "template_dir": "E:\\Code\\Nayom\\templates\\salon\\salon-glow",
+      "is_valid": false,
+      "is_runnable": false,
+      "validation_errors": [
+        "Missing required file: package.json (Next.js project descriptor)",
+        "Missing Next.js application directory (expected 'app/' or 'pages/')",
+        "Entrypoint file not found: app/page.tsx"
+      ],
+      "validation_warnings": [
+        "No 'components/' directory found (recommended for modular React structure)"
+      ],
+      "industry": null,
+      "supported_industries": [],
+      "capabilities": {
+        "supportsBooking": true,
+        "supportsGallery": true,
+        "supportsPricing": true,
+        "supportsMultiLocation": false,
+        "supportsTestimonials": true,
+        "supportsFaq": true,
+        "supportsBeforeAfter": true
+      },
+      "default_theme": {
+        "palette": [
+          "#e0a96d",
+          "#201e20",
+          "#ddc3a5",
+          "#ffffff"
+        ],
+        "typography": "Cormorant Garamond, sans-serif",
+        "iconStyle": "lucide-soft",
+        "borderRadius": "20px",
+        "buttonStyle": "pastel-pill",
+        "animationStyle": "fade-soft"
+      },
+      "supported_variants": [
+        "light",
+        "glassmorphism"
+      ],
+      "available_sections": [
+        "hero",
+        "services",
+        "menu-pricing",
+        "portfolio",
+        "team",
+        "testimonials",
+        "booking",
+        "contact"
+      ]
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "realestate-prime",
+  "name": "Real Estate Prime Brokerage",
+  "version": "v1",
+  "description": "Sleek luxury property showcase template featuring listing cards, neighborhood guides, and agent contact funnels.",
+  "industry": [
+    "realestate",
+    "real estate",
+    "realtor",
+    "property",
+    "brokerage",
+    "apartments"
+  ],
+  "categories": [
+    "realestate",
+    "property",
+    "luxury"
+  ],
+  "styles": [
+    "luxury",
+    "editorial",
+    "modern",
+    "clean"
+  ],
+  "layouts": [
+    "bento_grid",
+    "split_hero_feature_stack"
+  ],
+  "features": [
+    "booking",
+    "pricing",
+    "testimonials",
+    "faqs",
+    "contact_form"
+  ],
+  "entrypoint": "app/page.tsx",
+  "slots": {
+    "site.name": "string",
+    "site.tagline": "string",
+    "site.niche": "string",
+    "hero.title": "string",
+    "hero.subtitle": "string",
+    "hero.cta": "string",
+    "hero.ctaLink": "string",
+    "about.summary": "string",
+    "about.differentiators": "string",
+    "contact.phone": "string",
+    "contact.email": "string",
+    "contact.address": "string",
+    "contact.location": "string",
+    "services": "string",
+    "testimonials": "string",
+    "faqs": "string",
+    "socialLinks": "string",
+    "locations": "string",
+    "seo": "string"
+  },
+  "preview_image": "preview/thumbnail.png"
+}

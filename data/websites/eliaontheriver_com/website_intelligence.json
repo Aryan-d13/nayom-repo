@@ -1,0 +1,227 @@
+{
+  "site_id": "eliaontheriver_com",
+  "base_url": "https://www.eliaontheriver.com",
+  "domain": "www.eliaontheriver.com",
+  "source_website_json": "E:\\Code\\Nayom\\data\\websites\\eliaontheriver_com\\website.json",
+  "business_profile": {
+    "business_name": "Elia on the River",
+    "tagline": "Where Water Meets Sunset",
+    "description": "Miami's premier waterfront destination for authentic Southern Italian cuisine with coastal flair, featuring a carefully curated menu, handcrafted cocktails, live music, and dock-and-dine capabilities.",
+    "industry_category": "Hospitality & Restaurant",
+    "value_proposition": "An upscale waterfront dining experience combining authentic Southern Italian coastal cuisine, handcrafted cocktails, and vibrant live entertainment in a stunning riverside setting in Miami.",
+    "target_audience": "Affluent locals, food enthusiasts, tourists, boaters, and event planners looking for high-end dining, romantic dinners, weekend brunches, and vibrant nightlife.",
+    "key_differentiators": [
+      "Stunning waterfront location with dock-and-dine capabilities via Dockwa",
+      "Vibrant weekly events including live salsa bands, jazz brunches, and DJ sets",
+      "Unique after-hours speakeasy experience ('Incognito Thursdays')",
+      "Luxurious imported marble and hand-painted mural interior"
+    ]
+  },
+  "services_and_products": [
+    {
+      "name": "Southern Italian Dining",
+      "description": "Authentic Southern Italian dishes with coastal flair, handmade pastas, fresh seafood, and prime meats.",
+      "category": "Core",
+      "target_audience": "Diners and food enthusiasts",
+      "features": [
+        "Fresh handmade pasta",
+        "Seafood and coastal specialties",
+        "Wood-fired pizzas",
+        "Meticulous attention to detail by Executive Chef"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Tipsy Tea Thursdays",
+      "description": "A playful twist on afternoon tea and thirsty Thursday featuring three-tier sweet and savory towers, spritzes, and live entertainment.",
+      "category": "Experience",
+      "target_audience": "Groups and social diners",
+      "features": [
+        "Three-tier food towers",
+        "Spritz and cocktail pairings",
+        "Live entertainment",
+        "Riverfront views"
+      ],
+      "pricing_hint": "$55 to $85 per person"
+    },
+    {
+      "name": "Dock & Dine",
+      "description": "Waterfront boat docking service allowing guests to sail right up to the restaurant.",
+      "category": "Amenity",
+      "target_audience": "Boaters and yacht owners",
+      "features": [
+        "Easy reservation via Dockwa",
+        "Docking fee waived on tables over $500"
+      ],
+      "pricing_hint": "$5 per foot per hour if under $500"
+    },
+    {
+      "name": "Private Events & Group Dining",
+      "description": "Customized group dining and celebrations ranging from intimate gatherings to large-scale waterfront events.",
+      "category": "Events",
+      "target_audience": "Corporate clients and event hosts",
+      "features": [
+        "Tailored event menus",
+        "Stunning riverfront backdrop",
+        "Full-service hospitality"
+      ],
+      "pricing_hint": null
+    }
+  ],
+  "contact_intelligence": {
+    "emails": [
+      "triinu@eliaontheriver.com"
+    ],
+    "phones": [
+      "3059044045"
+    ],
+    "addresses": [
+      "River Landing, 1440 NW N River Dr., #195, Miami, FL 33125"
+    ],
+    "city": "Miami",
+    "state_or_region": "FL",
+    "country": "US",
+    "social_links": [],
+    "contact_forms_found": true,
+    "business_hours": "Mon-Thu 11:30 AM - 11:00 PM; Fri-Sat 11:30 AM - 12:00 AM; Sun 11:30 AM - 11:00 PM",
+    "has_contact_method": true
+  },
+  "brand_and_content": {
+    "tone_and_voice": [
+      "luxurious",
+      "vibrant",
+      "sophisticated",
+      "inviting"
+    ],
+    "brand_positioning": "High-end waterfront destination blending Italian culinary tradition with dynamic Miami nightlife and river culture.",
+    "hero_headlines": [
+      "Where Water Meets Sunset",
+      "Welcome to Elia on the River!",
+      "Southern Italian cuisine with coastal flair, waterfront views, handcrafted cocktails, live music, and vibrant Miami energy."
+    ],
+    "important_copy_snippets": [
+      "Each dish is crafted with meticulous attention to detail, ensuring a memorable and delightful meal.",
+      "What happens when Thirsty Thursday meets Afternoon Tea? You will get Tipsy Tea!"
+    ],
+    "content_quality_score": 8
+  },
+  "calls_to_action": [
+    {
+      "text": "RESERVE A TABLE",
+      "destination": "https://www.opentable.com/r/elia-miami?ot_source=Instagram",
+      "intent": "booking",
+      "prominence": "primary",
+      "location": "Header / Navigation"
+    },
+    {
+      "text": "BOOK NOW",
+      "destination": "https://www.opentable.com/r/elia-miami?ot_source=Instagram",
+      "intent": "booking",
+      "prominence": "primary",
+      "location": "Hero Section"
+    },
+    {
+      "text": "SUBSCRIBE",
+      "destination": null,
+      "intent": "lead_capture",
+      "prominence": "secondary",
+      "location": "Footer / Newsletter"
+    },
+    {
+      "text": "ELIA GIFT CARDS",
+      "destination": "https://order.toasttab.com/egiftcards/elia-restaurant-1440-nw-north-river-drive-195",
+      "intent": "checkout",
+      "prominence": "secondary",
+      "location": "Gift Card Section"
+    },
+    {
+      "text": "CALL US",
+      "destination": "tel:3059044045",
+      "intent": "contact",
+      "prominence": "subtle",
+      "location": "Hours & Location Page"
+    }
+  ],
+  "design_and_ux": {
+    "visual_aesthetic": "Warm editorial, luxury coastal hospitality, and upscale dark-accented modern design.",
+    "typography_assessment": "Clean serif and sans-serif pairing reflecting high-end dining editorial standards.",
+    "color_palette_assessment": "Sophisticated dark background and neutral tones contrasted with vibrant imagery of sunset, cocktails, and Italian dishes.",
+    "layout_and_spacing": "Generous white space, immersive imagery stacks, and clear grid separation for menus and weekly events.",
+    "ux_navigation_flow": "Clear and conversion-focused navigation directing users instantly to OpenTable reservations, menus, and event schedules.",
+    "visual_inputs_analyzed": false,
+    "screenshot_observations": [],
+    "strengths": [
+      "Immediate prominence of booking CTAs across all pages",
+      "Extensive and well-categorized menu and weekly events schedule",
+      "Clear docking and parking instructions for visitors"
+    ],
+    "weaknesses": [
+      "Multiple redundant menu pages (/menu and /menu-hotel)",
+      "Some hidden event pages require direct email or specific URL discovery"
+    ]
+  },
+  "technical_and_seo": {
+    "inferred_tech_stack": [
+      "Next.js",
+      "Tailwind CSS",
+      "OpenTable Integration",
+      "GoFormz",
+      "Toast Tab"
+    ],
+    "seo_health": "Strong local SEO setup with explicit metadata, descriptive page titles, and location-based keywords for Miami waterfront dining.",
+    "seo_strengths": [
+      "Clear meta descriptions on key pages",
+      "Structured local business context and address information",
+      "Keyword-rich headings highlighting Southern Italian cuisine and Miami river setting"
+    ],
+    "seo_weaknesses": [
+      "Duplicate or overlapping menu pages could cause keyword cannibalization",
+      "Missing dedicated FAQ schema entities in code"
+    ],
+    "accessibility_observations": "Good semantic heading structure and skip-to-content links present, though color contrast on some image overlays requires careful verification.",
+    "performance_and_structure_notes": "Fast loading architecture with clean asset hierarchy and third-party widget integrations for reservations and ticketing."
+  },
+  "redesign_recommendations": {
+    "overall_redesign_verdict": "The website is visually appealing and functionally robust, but could benefit from consolidating duplicate menu routes and streamlining the event discovery funnel.",
+    "strategic_recommendations": [
+      "Consolidate the main menu and hotel menu into a single, interactive, searchable digital menu experience.",
+      "Implement an integrated events calendar with direct ticketing/reservation triggers rather than external redirects where possible."
+    ],
+    "ui_ux_improvements": [
+      "Add sticky reservation bars on mobile viewports to maximize booking conversion rates.",
+      "Enhance event imagery galleries with immersive lightbox interactions."
+    ],
+    "rebuild_opportunities": [
+      "Upgrade to a high-performance Headless CMS + Next.js architecture with Sanity or Strapi for seamless daily menu and event updates."
+    ],
+    "quick_wins": [
+      "Add direct phone click-to-call buttons in the sticky mobile header.",
+      "Optimize email capture form conversion states with instant success messaging."
+    ]
+  },
+  "template_recommendation": {
+    "recommended_template": "luxury-hospitality-waterfront-leadgen",
+    "template_category": "local_service",
+    "style_direction": "warm_editorial",
+    "layout_pattern": "split_hero_feature_stack",
+    "template_confidence": 0.95,
+    "key_sections": [
+      "hero",
+      "event_ticker",
+      "menu_showcase",
+      "dock_and_dine_info",
+      "lead_booking_cta"
+    ],
+    "reasoning": "A luxury hospitality template with warm editorial aesthetics and an integrated reservation workflow perfectly fits a high-end waterfront dining destination."
+  },
+  "metadata": {
+    "provider": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "prompt_version": "1.0.0",
+    "analyzed_at": "2026-08-21T09:53:19.021450+00:00",
+    "screenshots_processed": 0,
+    "duration_seconds": 10.8,
+    "token_usage": null
+  },
+  "warnings": []
+}

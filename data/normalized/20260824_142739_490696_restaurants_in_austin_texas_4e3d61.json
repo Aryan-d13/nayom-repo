@@ -1,0 +1,332 @@
+{
+  "query": "restaurants in Austin Texas",
+  "total_found": 10,
+  "usable_count": 10,
+  "grid_tiles_searched": 12,
+  "executed_at": "2026-08-24T14:27:51.000304+00:00",
+  "duration_seconds": 11.51,
+  "metrics": {
+    "requested": 10,
+    "attempted": 12,
+    "found": 32,
+    "usable": 10,
+    "processed": 28,
+    "succeeded": 10,
+    "failed": 0,
+    "skipped": 22
+  },
+  "businesses": [
+    {
+      "id": "biz_0x865b497819550c5b_0x51f5579d6f2e3af4",
+      "name": "Jack Allen's Kitchen Oak Hill",
+      "category": "American restaurant",
+      "categories": [
+        "American restaurant",
+        "Brunch restaurant",
+        "Restaurant",
+        "Southwestern restaurant (US)"
+      ],
+      "address": "7720 State Hwy 71 West, Austin, TX 78735, United States",
+      "city": "Austin",
+      "state": "TX",
+      "country": "United States",
+      "postal_code": "78735",
+      "latitude": 30.2435734,
+      "longitude": -97.8825773,
+      "phone": "+1512-852-8558",
+      "email": null,
+      "website": "http://www.jackallenskitchen.com/",
+      "rating": 4.6,
+      "review_count": 0,
+      "google_place_id": "0x865b497819550c5b:0x51f5579d6f2e3af4",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Jack%20Allen%27s%20Kitchen%20Oak%20Hill%207720%20State%20Hwy%2071%20West%2C%20Austin%2C%20TX%2078735%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-24T14:27:42.233854+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260824_142739_490696_restaurants_in_austin_texas_4e3d61_raw.json"
+    },
+    {
+      "id": "biz_0x8644b56fc9860415_0x1d28b50cac9fd2dd",
+      "name": "Vic and Al's",
+      "category": "Cajun restaurant",
+      "categories": [
+        "Cajun restaurant",
+        "Breakfast restaurant",
+        "Po’ boys restaurant",
+        "Restaurant"
+      ],
+      "address": "2406 Manor Rd D, Austin, TX 78722, United States",
+      "city": "Austin",
+      "state": "TX",
+      "country": "United States",
+      "postal_code": "78722",
+      "latitude": 30.284943,
+      "longitude": -97.716982,
+      "phone": "+1346-658-5809",
+      "email": null,
+      "website": "http://www.vicandals.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=16065829198384685157",
+      "rating": 4.7,
+      "review_count": 0,
+      "google_place_id": "0x8644b56fc9860415:0x1d28b50cac9fd2dd",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Vic%20and%20Al%27s%202406%20Manor%20Rd%20D%2C%20Austin%2C%20TX%2078722%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-24T14:27:44.933410+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260824_142739_490696_restaurants_in_austin_texas_4e3d61_raw.json"
+    },
+    {
+      "id": "biz_0x8644b5b6fb440001_0x48219815b3589371",
+      "name": "Suerte",
+      "category": "Mexican restaurant",
+      "categories": [
+        "Mexican restaurant"
+      ],
+      "address": "1800 E 6th St, Austin, TX 78702, United States",
+      "city": "Austin",
+      "state": "TX",
+      "country": "United States",
+      "postal_code": "78702",
+      "latitude": 30.2622778,
+      "longitude": -97.7232758,
+      "phone": "+1512-522-3031",
+      "email": null,
+      "website": "https://www.suerteatx.com/",
+      "rating": 4.6,
+      "review_count": 0,
+      "google_place_id": "0x8644b5b6fb440001:0x48219815b3589371",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Suerte%201800%20E%206th%20St%2C%20Austin%2C%20TX%2078702%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-24T14:27:44.933591+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260824_142739_490696_restaurants_in_austin_texas_4e3d61_raw.json"
+    },
+    {
+      "id": "biz_0x8644b44b02e40143_0x358a05fe0dd85bfa",
+      "name": "Launderette",
+      "category": "American restaurant",
+      "categories": [
+        "American restaurant",
+        "Restaurant"
+      ],
+      "address": "2115 Holly St, Austin, TX 78702, United States",
+      "city": "Austin",
+      "state": "TX",
+      "country": "United States",
+      "postal_code": "78702",
+      "latitude": 30.2518902,
+      "longitude": -97.7227868,
+      "phone": "+1512-382-1599",
+      "email": null,
+      "website": "https://launderetteaustin.com/",
+      "rating": 4.6,
+      "review_count": 0,
+      "google_place_id": "0x8644b44b02e40143:0x358a05fe0dd85bfa",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Launderette%202115%20Holly%20St%2C%20Austin%2C%20TX%2078702%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-24T14:27:44.933701+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260824_142739_490696_restaurants_in_austin_texas_4e3d61_raw.json"
+    },
+    {
+      "id": "biz_0x8644b594e1e61e01_0x70d7243021911e1c",
+      "name": "Sour Duck Market",
+      "category": "American restaurant",
+      "categories": [
+        "American restaurant"
+      ],
+      "address": "1814 E Martin Luther King Jr Blvd, Austin, TX 78702, United States",
+      "city": "Austin",
+      "state": "TX",
+      "country": "United States",
+      "postal_code": "78702",
+      "latitude": 30.2798806,
+      "longitude": -97.7215815,
+      "phone": "+1512-394-5776",
+      "email": null,
+      "website": "http://sourduckmarket.com/",
+      "rating": 4.5,
+      "review_count": 0,
+      "google_place_id": "0x8644b594e1e61e01:0x70d7243021911e1c",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sour%20Duck%20Market%201814%20E%20Martin%20Luther%20King%20Jr%20Blvd%2C%20Austin%2C%20TX%2078702%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-24T14:27:44.933812+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260824_142739_490696_restaurants_in_austin_texas_4e3d61_raw.json"
+    },
+    {
+      "id": "biz_0x8644b59369be58eb_0x6f73c991a0600c2a",
+      "name": "Salty Sow",
+      "category": "American restaurant",
+      "categories": [
+        "American restaurant"
+      ],
+      "address": "1917 Manor Rd, Austin, TX 78722, United States",
+      "city": "Austin",
+      "state": "TX",
+      "country": "United States",
+      "postal_code": "78722",
+      "latitude": 30.2838279,
+      "longitude": -97.72123169999999,
+      "phone": "+1512-391-2337",
+      "email": null,
+      "website": "http://www.saltysow.com/",
+      "rating": 4.6,
+      "review_count": 0,
+      "google_place_id": "0x8644b59369be58eb:0x6f73c991a0600c2a",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Salty%20Sow%201917%20Manor%20Rd%2C%20Austin%2C%20TX%2078722%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-24T14:27:44.933923+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260824_142739_490696_restaurants_in_austin_texas_4e3d61_raw.json"
+    },
+    {
+      "id": "biz_0x8644b4df2ef2dd89_0x47d117aa79f293fc",
+      "name": "Barley Swine",
+      "category": "American restaurant",
+      "categories": [
+        "American restaurant",
+        "Bar",
+        "Fine dining restaurant",
+        "Restaurant",
+        "Small plates restaurant"
+      ],
+      "address": "6555 Burnet Rd #400, Austin, TX 78757, United States",
+      "city": "Austin",
+      "state": "TX",
+      "country": "United States",
+      "postal_code": "78757",
+      "latitude": 30.341314599999997,
+      "longitude": -97.73828669999999,
+      "phone": "+1512-394-8150",
+      "email": null,
+      "website": "http://www.barleyswine.com/",
+      "rating": 4.7,
+      "review_count": 0,
+      "google_place_id": "0x8644b4df2ef2dd89:0x47d117aa79f293fc",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Barley%20Swine%206555%20Burnet%20Rd%20%23400%2C%20Austin%2C%20TX%2078757%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-24T14:27:45.216220+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260824_142739_490696_restaurants_in_austin_texas_4e3d61_raw.json"
+    },
+    {
+      "id": "biz_0x8644cc7b14ae180b_0x3106b969068a2f43",
+      "name": "Roaring Fork",
+      "category": "American restaurant",
+      "categories": [
+        "American restaurant"
+      ],
+      "address": "10850 Stonelake Blvd, Austin, TX 78759, United States",
+      "city": "Austin",
+      "state": "TX",
+      "country": "United States",
+      "postal_code": "78759",
+      "latitude": 30.4008874,
+      "longitude": -97.73782469999999,
+      "phone": "+1512-342-2700",
+      "email": null,
+      "website": "http://roaringfork.com/",
+      "rating": 4.5,
+      "review_count": 0,
+      "google_place_id": "0x8644cc7b14ae180b:0x3106b969068a2f43",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Roaring%20Fork%2010850%20Stonelake%20Blvd%2C%20Austin%2C%20TX%2078759%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-24T14:27:45.216317+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260824_142739_490696_restaurants_in_austin_texas_4e3d61_raw.json"
+    },
+    {
+      "id": "biz_0x8644cc72561ee0d5_0xe12eff88147950fd",
+      "name": "Culinary Dropout",
+      "category": "American restaurant",
+      "categories": [
+        "American restaurant",
+        "Bar",
+        "Brunch restaurant",
+        "Charcuterie",
+        "Chicken restaurant",
+        "Hamburger restaurant",
+        "Live music bar",
+        "Lunch restaurant",
+        "New American restaurant",
+        "Restaurant"
+      ],
+      "address": "11721 Rock Rose Ave #100, Austin, TX 78758, United States",
+      "city": "Austin",
+      "state": "TX",
+      "country": "United States",
+      "postal_code": "78758",
+      "latitude": 30.4034725,
+      "longitude": -97.7215123,
+      "phone": "+1512-777-3394",
+      "email": null,
+      "website": "https://www.culinarydropout.com/locations/austin-tx/?utm_source=Google&utm_medium=Organic&utm_campaign=Maps",
+      "rating": 4.4,
+      "review_count": 0,
+      "google_place_id": "0x8644cc72561ee0d5:0xe12eff88147950fd",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Culinary%20Dropout%2011721%20Rock%20Rose%20Ave%20%23100%2C%20Austin%2C%20TX%2078758%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-24T14:27:45.216369+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260824_142739_490696_restaurants_in_austin_texas_4e3d61_raw.json"
+    },
+    {
+      "id": "biz_0x8644cc729a302889_0x2455f0aa5c20fb89",
+      "name": "Doc B's Restaurant",
+      "category": "American restaurant",
+      "categories": [
+        "American restaurant",
+        "Bar",
+        "Restaurant"
+      ],
+      "address": "3001 Palm Way Ste 120, Austin, TX 78758, United States",
+      "city": "Austin",
+      "state": "TX",
+      "country": "United States",
+      "postal_code": "78758",
+      "latitude": 30.4027556,
+      "longitude": -97.7197442,
+      "phone": "+1512-672-8400",
+      "email": null,
+      "website": "https://docbsrestaurant.com/locations/austin",
+      "rating": 4.7,
+      "review_count": 0,
+      "google_place_id": "0x8644cc729a302889:0x2455f0aa5c20fb89",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Doc%20B%27s%20Restaurant%203001%20Palm%20Way%20Ste%20120%2C%20Austin%2C%20TX%2078758%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-24T14:27:45.216415+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260824_142739_490696_restaurants_in_austin_texas_4e3d61_raw.json"
+    }
+  ]
+}

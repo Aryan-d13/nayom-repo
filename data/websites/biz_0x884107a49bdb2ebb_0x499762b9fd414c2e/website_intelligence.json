@@ -1,0 +1,257 @@
+{
+  "site_id": "biz_0x884107a49bdb2ebb_0x499762b9fd414c2e",
+  "base_url": "https://www.buckeyedentalcare.net/",
+  "domain": "www.buckeyedentalcare.net",
+  "source_website_json": "E:\\Code\\Nayom\\data\\websites\\biz_0x884107a49bdb2ebb_0x499762b9fd414c2e\\website.json",
+  "business_profile": {
+    "business_name": "Buckeye Dental Care LLC.",
+    "tagline": "Office Dedicated Gentle Dental Care Including Implants, Root Canal Therapy, and Braces.",
+    "description": "Buckeye Dental Care LLC, located in Amelia, Ohio, offers comprehensive and gentle family dental care including orthodontics, implants, root canal therapy, teeth whitening, crowns, and extractions since 2016.",
+    "industry_category": "Healthcare / Dental Practice",
+    "value_proposition": "Quality, comprehensive family dental care with cutting-edge services, accepting most insurances in or out of network, and offering gentle care for patients with dental anxiety.",
+    "target_audience": "Families and individuals in Amelia, OH and surrounding areas seeking general, orthodontic, restorative, or emergency dental care.",
+    "key_differentiators": [
+      "Experienced practitioners including specialized orthodontists and hygienists with 35+ years experience",
+      "Comprehensive service catalog spanning cleanings to implants and root canals",
+      "Accepts most insurances in or out of network",
+      "Focus on gentle care for patients with dental anxiety"
+    ]
+  },
+  "services_and_products": [
+    {
+      "name": "Dental Cleanings",
+      "description": "Professional preventative dental cleanings and oral health maintenance.",
+      "category": "Core",
+      "target_audience": null,
+      "features": [
+        "Preventative care",
+        "Thorough cleanings",
+        "Oral hygiene guidance"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Teeth Whitening",
+      "description": "Cosmetic treatment to brighten and whiten smiles.",
+      "category": "Cosmetic",
+      "target_audience": null,
+      "features": [
+        "Cosmetic enhancement",
+        "Professional whitening"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Dentures",
+      "description": "Full replacement options for missing teeth.",
+      "category": "Restorative",
+      "target_audience": null,
+      "features": [
+        "Full mouth restoration",
+        "Custom fit"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Implants",
+      "description": "Advanced permanent tooth replacement solutions.",
+      "category": "Restorative",
+      "target_audience": null,
+      "features": [
+        "Permanent replacement",
+        "Surgical precision",
+        "Natural look and feel"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Partials",
+      "description": "Partial dentures for replacing multiple missing teeth.",
+      "category": "Restorative",
+      "target_audience": null,
+      "features": [
+        "Removable partial replacement",
+        "Custom match"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Crowns",
+      "description": "Protective dental caps to restore damaged teeth.",
+      "category": "Restorative",
+      "target_audience": null,
+      "features": [
+        "Tooth protection",
+        "Structural restoration",
+        "Custom porcelain/ceramic crowns"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Tooth Extractions",
+      "description": "Safe and gentle removal of damaged or problematic teeth.",
+      "category": "Core",
+      "target_audience": null,
+      "features": [
+        "Safe removal",
+        "Pain management",
+        "Emergency extractions"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Braces Treatment",
+      "description": "Orthodontic care to straighten teeth and correct bite issues.",
+      "category": "Orthodontics",
+      "target_audience": null,
+      "features": [
+        "Teeth straightening",
+        "Bite correction",
+        "Specialized orthodontic care"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Root Canal Therapy",
+      "description": "Endodontic treatment to save infected or damaged teeth.",
+      "category": "Core",
+      "target_audience": null,
+      "features": [
+        "Endodontic therapy",
+        "Pain relief",
+        "Tooth preservation"
+      ],
+      "pricing_hint": null
+    }
+  ],
+  "contact_intelligence": {
+    "emails": [
+      "buckeyedentalcare16@gmail.com"
+    ],
+    "phones": [
+      "513-947-2273"
+    ],
+    "addresses": [
+      "1268 West Ohio Pike Suite A, Amelia, OH 45102"
+    ],
+    "city": "Amelia",
+    "state_or_region": "OH",
+    "country": "USA",
+    "social_links": [],
+    "contact_forms_found": true,
+    "business_hours": "Monday - Thursday 9:00 am to 5:00 pm, Friday - Sunday Closed",
+    "has_contact_method": true
+  },
+  "brand_and_content": {
+    "tone_and_voice": [
+      "welcoming",
+      "professional",
+      "gentle",
+      "community-focused"
+    ],
+    "brand_positioning": "Trusted local family dental clinic providing high-end comprehensive and gentle dental services with flexible insurance acceptance.",
+    "hero_headlines": [
+      "BUCKEYE DENTAL CARE",
+      "NOW ACCEPTING NEW PATIENTS",
+      "WE ACCEPT MOST INSURANCES IN OR OUT OF NETWORK"
+    ],
+    "important_copy_snippets": [
+      "Buckeye Dental Care has provided Amelia and surrounding areas with quality and comprehensive healthcare services since 2016.",
+      "With 35 years of experience in preventive oral health care..."
+    ],
+    "content_quality_score": 7
+  },
+  "calls_to_action": [
+    {
+      "text": "Send",
+      "destination": null,
+      "intent": "lead_capture",
+      "prominence": "primary",
+      "location": "Contact Page Form"
+    }
+  ],
+  "design_and_ux": {
+    "visual_aesthetic": "Traditional local medical practice website with basic layout structure and stock imagery.",
+    "typography_assessment": "Standard sans-serif font stack with clear header hierarchy but limited typographic styling.",
+    "color_palette_assessment": "Standard clinical white and medical blue tones typical of dental websites, though lacking a distinct cohesive brand palette.",
+    "layout_and_spacing": "Standard vertical page stacking with basic grid alignment for team members and services.",
+    "ux_navigation_flow": "Standard multi-page navigation including Home, Services, Meet The Team, Our Office, and Contact pages.",
+    "visual_inputs_analyzed": false,
+    "screenshot_observations": [],
+    "strengths": [
+      "Clear contact details and office hours displayed prominently",
+      "Detailed team bios establishing credibility and experience",
+      "Comprehensive service offerings clearly cataloged"
+    ],
+    "weaknesses": [
+      "Lacks direct online booking or appointment scheduling tools",
+      "Relies on generic stock photos rather than authentic practice imagery",
+      "Call-to-action strategy is minimal"
+    ]
+  },
+  "technical_and_seo": {
+    "inferred_tech_stack": [
+      "Wix or similar page builder"
+    ],
+    "seo_health": "Basic meta titles and descriptions present with local keywords like Amelia, OH and specific dental procedures.",
+    "seo_strengths": [
+      "Local service keywords included in meta descriptions and headings",
+      "Structured schema markup detected on homepage"
+    ],
+    "seo_weaknesses": [
+      "Missing dedicated landing pages for individual service keywords",
+      "Lack of localized schema markup across inner pages"
+    ],
+    "accessibility_observations": "Basic semantic structure used, but alt-text coverage on embedded images requires improvement.",
+    "performance_and_structure_notes": "Standard builder platform performance profile with multiple image assets."
+  },
+  "redesign_recommendations": {
+    "overall_redesign_verdict": "Recommended to upgrade to a modern Next.js/Tailwind web architecture with integrated online booking and high-end dental branding.",
+    "strategic_recommendations": [
+      "Integrate an automated patient scheduling/booking widget directly into the hero section",
+      "Highlight patient reviews and testimonials prominently on the homepage",
+      "Replace generic stock imagery with authentic photos of the clinic and staff"
+    ],
+    "ui_ux_improvements": [
+      "Implement a clean, modern medical color palette with reassuring blues and warm neutrals",
+      "Add sticky contact and emergency phone headers for high conversion intent",
+      "Reorganize services into interactive bento or card layouts with direct consultation triggers"
+    ],
+    "rebuild_opportunities": [
+      "Rebuild using Next.js and Tailwind CSS for lightning-fast load speeds and superior mobile responsiveness",
+      "Implement a headless CRM or HIPAA-compliant lead capture funnel"
+    ],
+    "quick_wins": [
+      "Add a prominent 'Book Appointment' button to the main header",
+      "Display insurance provider logos to reinforce 'most insurances accepted' claim",
+      "Add click-to-call phone number formatting"
+    ]
+  },
+  "template_recommendation": {
+    "recommended_template": "local-service-leadgen",
+    "template_category": "local_service",
+    "style_direction": "clean_corporate",
+    "layout_pattern": "single_page_anchor_flow",
+    "template_confidence": 0.95,
+    "key_sections": [
+      "hero",
+      "services_grid",
+      "team_showcase",
+      "office_gallery",
+      "insurance_badges",
+      "lead_booking_cta",
+      "map_and_hours"
+    ],
+    "reasoning": "A local service lead generation template optimized for medical practices will provide clear hours, instant phone call triggers, online booking, and structured service displays to convert local patients."
+  },
+  "metadata": {
+    "provider": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "prompt_version": "1.0.0",
+    "analyzed_at": "2026-08-23T07:06:02.249083+00:00",
+    "screenshots_processed": 0,
+    "duration_seconds": 11.96,
+    "token_usage": null
+  },
+  "warnings": []
+}

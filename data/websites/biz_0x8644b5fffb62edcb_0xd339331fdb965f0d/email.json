@@ -1,0 +1,18 @@
+{
+  "recipient": null,
+  "subject": "Quick thought on the Mueller location site for River Rock Dental",
+  "body": "Hi River Rock Dental Team, I live in Austin and often look at local neighborhood practices. While checking out your Mueller clinic page for preventive and cosmetic dentistry, I noticed that the mobile view could benefit from a more prominent click-to-call button and integrated appointment booking right in the header to better capture busy working professionals. I went ahead and built a clean, fast-loading prototype for your Mueller location that adds those features, along with highlighted review badges to build instant trust. You can take a look at the live preview here: https://nayom-biz-0x8644b5fffb62edcb-0xd339331fdb965f0.vercel.app. If you like the layout or want me to adjust anything specific, just let me know and I'd be happy to send over the code or chat for a few minutes. No worries at all if you are happy with your current site!",
+  "business_id": "biz_0x8644b5fffb62edcb_0xd339331fdb965f0d",
+  "preview_url": "https://nayom-biz-0x8644b5fffb62edcb-0xd339331fdb965f0.vercel.app",
+  "generated_at": "2026-08-23T10:03:46.585772+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "business_name": "River Rock Dental Austin - Mueller",
+  "key_improvements": [
+    "Added prominent click-to-call phone numbers for mobile visitors",
+    "Enhanced trust signals with visible review badges in the header",
+    "Streamlined the booking and appointment layout for faster conversion"
+  ],
+  "provider": "gemini",
+  "prompt_version": "1.0.0",
+  "warnings": []
+}

@@ -1,0 +1,17 @@
+{
+  "recipient": "contact@roaringfork.com",
+  "subject": "Quick thought on the Roaring Fork website (and a live prototype)",
+  "body": "Hi Roaring Fork team, I often find myself thinking about your wood-fired steaks and the rugged, upscale lodge setting over in Austin. While looking through your site recently, I noticed a couple of quick opportunities to make it even easier for diners: adding clear contact details and address info right in the footer, and fine-tuning local search markup so more food enthusiasts find you easily when searching for American Western cuisine. Since I specialize in independent web design, I took a little time to build a modern, high-performance prototype for you. It features a warm editorial layout, interactive menu highlights, and an atmosphere gallery designed to capture that true western bistro feel. Feel free to check out the live preview here: https://nayom-biz-0x8644cc7b14ae180b-0x3106b969068a2f4-lree1cxmy.vercel.app. If you'd like to use this design or have me tweak anything, I'd be happy to send over the project files or chat for 5 minutes. No worries at all if you're happy with your current setup!",
+  "business_id": "biz_0x8644cc7b14ae180b_0x3106b969068a2f43",
+  "preview_url": "https://nayom-biz-0x8644cc7b14ae180b-0x3106b969068a2f4-lree1cxmy.vercel.app",
+  "generated_at": "2026-08-24T14:31:41.729562+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "business_name": "Roaring Fork",
+  "key_improvements": [
+    "Added direct phone and address details clearly in the website footer",
+    "Optimized local schema markup and meta descriptions for local search terms"
+  ],
+  "provider": "gemini",
+  "prompt_version": "1.0.0",
+  "warnings": []
+}

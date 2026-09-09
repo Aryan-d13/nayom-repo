@@ -1,0 +1,19 @@
+{
+  "query": "dentists in newark, new jersy",
+  "total_found": 0,
+  "usable_count": 0,
+  "grid_tiles_searched": 1,
+  "executed_at": "2026-08-26T15:30:27.280067+00:00",
+  "duration_seconds": 7.91,
+  "metrics": {
+    "requested": 10,
+    "attempted": 1,
+    "found": 0,
+    "usable": 0,
+    "processed": 0,
+    "succeeded": 0,
+    "failed": 0,
+    "skipped": 0
+  },
+  "businesses": []
+}

@@ -1,0 +1,17 @@
+{
+  "recipient": null,
+  "subject": "Quick thoughts on your portfolio site + live preview",
+  "body": "Hi Aryan, I came across your work building production-grade Python infrastructures and Next.js dashboards, and I was especially impressed by how you optimized the Julius media processing pipeline to drop render times from 30 minutes to under 5 minutes. While reviewing your site at aryansharmaswe.vercel.app, I noticed a couple of minor opportunities to help prospective clients reach out faster, such as adding a direct contact action and structured schema markup for your portfolio. I went ahead and built a live prototype of your site that addresses these items while refining the dark tech layout. Feel free to check out the live preview here: https://4b00e0c0.nayom-aryansharmaswe-vercel-app.pages.dev. If you'd like to use this design or have me tweak anything, I'd be happy to send over the project files or chat for 5 minutes. No worries at all if you're happy with your current setup!",
+  "business_id": "aryansharmaswe_vercel_app",
+  "preview_url": "https://4b00e0c0.nayom-aryansharmaswe-vercel-app.pages.dev",
+  "generated_at": "2026-08-21T11:49:45.579035+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "business_name": "Aryan Sharma",
+  "key_improvements": [
+    "Added direct contact links for easier recruiter and client outreach",
+    "Implemented structured metadata and OpenGraph tags for better profile visibility"
+  ],
+  "provider": "gemini",
+  "prompt_version": "1.0.0",
+  "warnings": []
+}

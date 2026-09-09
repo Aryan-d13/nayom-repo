@@ -1,0 +1,45 @@
+{
+  "id": "cyber-brutalist",
+  "name": "Cyber Industrial Brutalist Portfolio",
+  "version": "1.0.0",
+  "author": "Nayom Studio",
+  "description": "High-velocity cyber-industrial brutalist portfolio template featuring ultra-condensed typography, 3D wireframe hero telemetry, alternating project case studies, and tactical yellow-on-black aesthetic.",
+  "category": "portfolio",
+  "tags": [
+    "cyber",
+    "brutalist",
+    "dark",
+    "yellow",
+    "developer",
+    "agency",
+    "tactical",
+    "webgl",
+    "case-studies"
+  ],
+  "capabilities": {
+    "supportsBooking": false,
+    "supportsGallery": true,
+    "supportsPricing": false,
+    "supportsMultiLocation": false,
+    "supportsTestimonials": true,
+    "supportsFaq": true,
+    "supportsBeforeAfter": false,
+    "supportsAudioFx": true,
+    "supportsCustomCursor": true
+  },
+  "default_theme": {
+    "palette": [
+      "#FFE600",
+      "#050505",
+      "#FFFFFF",
+      "#061A1E",
+      "#022417"
+    ],
+    "typography": "Barlow Condensed, JetBrains Mono, Inter, sans-serif",
+    "iconStyle": "lucide-bold",
+    "borderRadius": "0px",
+    "mediaRadius": "32px",
+    "buttonStyle": "pill-cyber",
+    "animationStyle": "tactical-kinetic"
+  }
+}

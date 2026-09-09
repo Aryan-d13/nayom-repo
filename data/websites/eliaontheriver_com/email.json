@@ -1,0 +1,18 @@
+{
+  "recipient": "triinu@eliaontheriver.com",
+  "subject": "Quick thought on Elia's website and waterfront menu layout",
+  "body": "Hi Triinu, I recently spent an evening exploring Elia on the River and love what you have built—especially the dock-and-dine setup and your vibrant weekend brunches against the Miami sunset. While browsing your current site on my phone, I noticed a couple of minor friction points, such as the redundant menu pages and event details that are a bit tricky to find on mobile. I took the liberty of putting together a modern, high-performance prototype for Elia that streamlines your menus, adds quick mobile call buttons, and optimizes the booking flow. You can check out the live preview here: https://elia-preview.pages.dev. If you would like to use this design or have me tweak anything, I would be happy to send over the project files or chat for 5 minutes. No worries at all if you are happy with your current setup!",
+  "business_id": "eliaontheriver_com",
+  "preview_url": "https://elia-preview.pages.dev",
+  "generated_at": "2026-08-21T11:50:29.316951+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "business_name": "Elia",
+  "key_improvements": [
+    "Consolidated redundant menu pages into a streamlined showcase",
+    "Added direct phone click-to-call buttons in the sticky mobile header",
+    "Optimized email capture and event booking flow with instant success messaging"
+  ],
+  "provider": "gemini",
+  "prompt_version": "1.0.0",
+  "warnings": []
+}

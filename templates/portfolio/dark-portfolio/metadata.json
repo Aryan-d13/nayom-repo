@@ -1,0 +1,84 @@
+{
+  "id": "dark-portfolio",
+  "name": "Dark Mode Systems & Developer Portfolio",
+  "version": "1.0.0",
+  "description": "High-impact dark-mode portfolio engineered for systems developers, software engineers, and technical consultants featuring bento grid case studies, stack badges, and fast conversion CTAs.",
+  "categories": [
+    "portfolio",
+    "developer",
+    "software",
+    "systems",
+    "tech",
+    "creator",
+    "dark_tech"
+  ],
+  "industries": [
+    "portfolio",
+    "developer",
+    "engineer",
+    "software",
+    "systems",
+    "tech",
+    "consultant",
+    "freelancer"
+  ],
+  "style_keywords": [
+    "dark",
+    "dark_tech",
+    "dark-tech",
+    "minimal-slate",
+    "bento",
+    "modern"
+  ],
+  "layout_patterns": [
+    "bento_grid",
+    "single_page_anchor_flow"
+  ],
+  "supported_features": [
+    "projects",
+    "tech_stack",
+    "experience",
+    "testimonials",
+    "contact_form",
+    "resume_download"
+  ],
+  "supported_slots": [
+    "site.name",
+    "site.tagline",
+    "site.niche",
+    "hero.title",
+    "hero.subtitle",
+    "hero.cta",
+    "hero.ctaLink",
+    "about.summary",
+    "about.differentiators",
+    "contact.phone",
+    "contact.email",
+    "contact.address",
+    "contact.location",
+    "services",
+    "testimonials",
+    "socialLinks",
+    "techStack"
+  ],
+  "preview_image": "preview/thumbnail.png",
+  "entrypoint": "app/page.tsx",
+  "capabilities": {
+    "supportsProjects": true,
+    "supportsTechStack": true,
+    "supportsExperience": true,
+    "supportsTestimonials": true,
+    "supportsContactForm": true,
+    "supportsResumeDownload": true
+  },
+  "defaultTheme": {
+    "palette": ["#0f172a", "#0284c7", "#10b981", "#f8fafc"],
+    "typography": "Inter, JetBrains Mono, sans-serif",
+    "iconStyle": "lucide-dark",
+    "borderRadius": "12px",
+    "buttonStyle": "rounded-pill",
+    "animationStyle": "fade-smooth"
+  },
+  "supportedVariants": ["dark", "dark-tech", "minimal-slate"],
+  "availableSections": ["hero", "tech_stack", "projects", "experience", "testimonials", "contact"]
+}

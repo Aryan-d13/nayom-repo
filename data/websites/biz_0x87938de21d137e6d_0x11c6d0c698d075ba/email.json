@@ -1,0 +1,17 @@
+{
+  "recipient": null,
+  "subject": "Quick thought on the Anding Family Dental site + a live prototype",
+  "body": "Hi Dr. Anding and team,\n\nI regularly look at local practices around Omaha and wanted to reach out because your 20-plus years of experience and flexible late-evening hours make Anding Family Dental a standout choice for families in neighborhoods like Westbrook and Aksarben.\n\nWhile reviewing andingfamilydental.com, I noticed a couple of minor areas we could polish up. Specifically, the blog pages contained some truncated text elements, and adding a direct click-to-call phone number to the sticky header could make it much easier for patients seeking emergency dental care on mobile.\n\nTo show what a refreshed setup could look like, I put together a modern, live prototype for you here: https://nayom-biz-0x87938de21d137e6d-0x11c6d0c698d075b.vercel.app\n\nFeel free to check it out whenever you have a moment. If you'd like to use this design or have me tweak anything, I'd be happy to send over the project files or chat for 5 minutes. No worries at all if you're happy with your current setup!\n\nBest regards,\nYour neighbor and web developer",
+  "business_id": "biz_0x87938de21d137e6d_0x11c6d0c698d075ba",
+  "preview_url": "https://nayom-biz-0x87938de21d137e6d-0x11c6d0c698d075b.vercel.app",
+  "generated_at": "2026-08-24T10:03:23.427225+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "business_name": "Anding Family Dental - Omaha",
+  "key_improvements": [
+    "Fixed truncated text snippets on blog pages",
+    "Added direct click-to-call phone numbers in the sticky mobile header"
+  ],
+  "provider": "gemini",
+  "prompt_version": "1.0.0",
+  "warnings": []
+}

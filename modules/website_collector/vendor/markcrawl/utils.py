@@ -1,0 +1,45 @@
+"""Shared utilities for markcrawl modules."""
+
+from __future__ import annotations
+
+import json
+from typing import Dict, List
+
+# Prefer lxml for ~5-10x faster HTML parsing; fall back to html.parser
+try:
+    import lxml  # noqa: F401
+    HTML_PARSER = "lxml"
+except ImportError:
+    HTML_PARSER = "html.parser"
+
+
+def load_pages(jsonl_path: str, tag_source: bool = False) -> List[Dict]:
+    """Load pages from a crawl JSONL file.
+
+    Args:
+        jsonl_path: Path to the JSONL file.
+        tag_source: If True, add a ``_source`` key to each page dict
+            with the file path (used for multi-file field discovery).
+    """
+    pages: List[Dict] = []
+    with open(jsonl_path, "r", encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if line:
+                page = json.loads(line)
+                if tag_source:
+                    page["_source"] = jsonl_path
+                pages.append(page)
+    return pages
+
+
+def load_pages_multi(jsonl_paths: List[str]) -> List[Dict]:
+    """Load and tag pages from multiple JSONL files.
+
+    Each page is tagged with ``_source`` so callers can identify which
+    file it came from (used for cross-site field discovery).
+    """
+    all_pages: List[Dict] = []
+    for path in jsonl_paths:
+        all_pages.extend(load_pages(path, tag_source=True))
+    return all_pages

@@ -1,0 +1,96 @@
+{
+  "id": "salon-glow",
+  "name": "Salon Glow & Beauty Spa",
+  "version": "v1",
+  "description": "Elegant beauty salon and wellness spa template featuring service menus, stylist portfolios, and online appointment booking.",
+  "categories": [
+    "salon",
+    "beauty",
+    "spa"
+  ],
+  "industries": [
+    "salon",
+    "spa",
+    "beauty",
+    "hairdresser",
+    "barber",
+    "skincare",
+    "massage"
+  ],
+  "style_keywords": [
+    "warm_editorial",
+    "soft",
+    "luxurious",
+    "elegant"
+  ],
+  "layout_patterns": [
+    "bento_grid",
+    "single_page_anchor_flow"
+  ],
+  "supported_features": [
+    "booking",
+    "pricing",
+    "testimonials",
+    "faqs",
+    "contact_form"
+  ],
+  "supported_slots": [
+    "site.name",
+    "site.tagline",
+    "site.niche",
+    "hero.title",
+    "hero.subtitle",
+    "hero.cta",
+    "hero.ctaLink",
+    "about.summary",
+    "about.differentiators",
+    "contact.phone",
+    "contact.email",
+    "contact.address",
+    "contact.location",
+    "services",
+    "testimonials",
+    "faqs",
+    "socialLinks",
+    "locations",
+    "seo"
+  ],
+  "preview_image": "preview/thumbnail.png",
+  "entrypoint": "app/page.tsx",
+  "capabilities": {
+    "supportsBooking": true,
+    "supportsGallery": true,
+    "supportsPricing": true,
+    "supportsMultiLocation": false,
+    "supportsTestimonials": true,
+    "supportsFaq": true,
+    "supportsBeforeAfter": true
+  },
+  "defaultTheme": {
+    "palette": [
+      "#e0a96d",
+      "#201e20",
+      "#ddc3a5",
+      "#ffffff"
+    ],
+    "typography": "Cormorant Garamond, sans-serif",
+    "iconStyle": "lucide-soft",
+    "borderRadius": "20px",
+    "buttonStyle": "pastel-pill",
+    "animationStyle": "fade-soft"
+  },
+  "supportedVariants": [
+    "light",
+    "glassmorphism"
+  ],
+  "availableSections": [
+    "hero",
+    "services",
+    "menu-pricing",
+    "portfolio",
+    "team",
+    "testimonials",
+    "booking",
+    "contact"
+  ]
+}

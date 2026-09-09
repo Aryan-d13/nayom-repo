@@ -1,0 +1,19 @@
+{
+  "recipient": null,
+  "subject": "Quick thought on Peak Dental's South Austin site",
+  "body": "Hi Peak Dental team, I live in the Austin area and recently came across your South Austin location online. I really appreciate your patient-friendly touches like the complimentary beverage bar and family block scheduling, plus your availability for same-day emergency appointments in the 78748 area. While browsing your current site, I noticed that the $99 New Patient Special is tucked away rather than visible immediately in the hero section, and the phone number isn't set up for quick tap-to-call. I went ahead and put together a modern, fast-loading prototype for you that brings your patient specials right to the top and adds clean tap-to-call headers. Feel free to check out the live preview here: https://nayom-preview.pages.dev/biz_0x865b4d7a5e653abd_0x9c9d76d231343eae. If you like the layout or want me to adjust anything, I would be happy to send over the code or chat for five minutes. No worries at all if you are happy with your current setup!",
+  "business_id": "biz_0x865b4d7a5e653abd_0x9c9d76d231343eae",
+  "preview_url": "https://nayom-preview.pages.dev/biz_0x865b4d7a5e653abd_0x9c9d76d231343eae",
+  "generated_at": "2026-08-26T16:01:47.489410+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "business_name": "Peak Dental - South Austin",
+  "key_improvements": [
+    "Promoted the $99 New Patient Special banner directly into the hero viewport for higher conversion",
+    "Added tap-to-call phone links in both mobile and desktop headers for immediate patient booking"
+  ],
+  "provider": "gemini",
+  "prompt_version": "1.0.0",
+  "warnings": [
+    "No deployment.json found. Using preview URL fallback: https://nayom-preview.pages.dev/biz_0x865b4d7a5e653abd_0x9c9d76d231343eae"
+  ]
+}

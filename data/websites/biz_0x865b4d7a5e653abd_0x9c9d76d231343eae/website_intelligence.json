@@ -1,0 +1,213 @@
+{
+  "site_id": "biz_0x865b4d7a5e653abd_0x9c9d76d231343eae",
+  "base_url": "http://www.peakdentaltexas.com/locations/south-austin?utm_source=google_organic&utm_medium=gmb_website&utm_campaign=gmb_website_link",
+  "domain": "www.peakdentaltexas.com",
+  "source_website_json": "E:\\Code\\Nayom\\data\\websites\\biz_0x865b4d7a5e653abd_0x9c9d76d231343eae\\website.json",
+  "business_profile": {
+    "business_name": "Peak Dental – South Austin",
+    "tagline": "Dentist in South Austin | Dentist Near Me in 78748",
+    "description": "Peak Dental in South Austin provides comprehensive dental care tailored to community needs, offering routine checkups, preventive, cosmetic, restorative, and emergency dental services in a comfortable and welcoming environment.",
+    "industry_category": "Dental & Healthcare",
+    "value_proposition": "Top-notch comprehensive dental care in South Austin with flexible hours, same-day emergency appointments, patient specials, and multiple financing options.",
+    "target_audience": "Residents in South Austin (Zip Code 78748) and surrounding areas seeking family, cosmetic, or emergency dental care.",
+    "key_differentiators": [
+      "Same-day emergency dental appointments",
+      "Extended and weekend hours",
+      "Complimentary beverage bar and TV in treatment rooms",
+      "Family block scheduling",
+      "Flexible financing options through Cherry, CareCredit, and Sunbit"
+    ]
+  },
+  "services_and_products": [
+    {
+      "name": "Pediatric Dentistry",
+      "description": "Specialized dental care designed to educate younger patients and ensure they feel safe and comfortable.",
+      "category": "Core",
+      "target_audience": "Children and families",
+      "features": [
+        "Child-friendly environment",
+        "Gentle examinations and cleanings",
+        "Patient education"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Cavities and Fillings",
+      "description": "Straightforward treatment to help achieve a healthy, cavity-free smile.",
+      "category": "Core",
+      "target_audience": "Patients with tooth decay",
+      "features": [
+        "Durable materials",
+        "Natural appearance",
+        "Pain-free procedures"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Veneers",
+      "description": "Natural-looking porcelain veneers to get a stunning Hollywood smile.",
+      "category": "Cosmetic",
+      "target_audience": "Patients seeking smile enhancement",
+      "features": [
+        "Porcelain veneers",
+        "Custom shade matching",
+        "Enhanced aesthetics"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Exams and Cleaning",
+      "description": "Regular dental cleanings and comprehensive check-ups to maintain excellent oral health.",
+      "category": "Core",
+      "target_audience": "All patients",
+      "features": [
+        "Comprehensive oral exam",
+        "Professional cleaning",
+        "Tailored oral care advice"
+      ],
+      "pricing_hint": null
+    }
+  ],
+  "contact_intelligence": {
+    "emails": [],
+    "phones": [
+      "737-717-3500",
+      "737-295-5998",
+      "737-237-2105"
+    ],
+    "addresses": [
+      "South Austin, TX 78748"
+    ],
+    "city": "Austin",
+    "state_or_region": "TX",
+    "country": "US",
+    "social_links": [],
+    "contact_forms_found": true,
+    "business_hours": "Monday - Thursday: 9:00 AM - 4:00 PM, Friday: 9:00 AM - 4:00 PM (By Appointment Only), Saturday - Sunday: Closed",
+    "has_contact_method": true
+  },
+  "brand_and_content": {
+    "tone_and_voice": [
+      "welcoming",
+      "professional",
+      "reassuring",
+      "community-focused"
+    ],
+    "brand_positioning": "Trusted, accessible neighborhood dental practice prioritizing comfort, convenience, and transparent promotional offers.",
+    "hero_headlines": [
+      "Dentist in South Austin | Dentist Near Me in 78748",
+      "Peak Dental – Your Trusted Dentist in South Austin, TX"
+    ],
+    "important_copy_snippets": [
+      "$99 New Patient Exam & X-rays",
+      "Free Implant Consultation",
+      "Same-Day Treatment for urgent dental issues"
+    ],
+    "content_quality_score": 7
+  },
+  "calls_to_action": [
+    {
+      "text": "Book your appointment now!",
+      "destination": null,
+      "intent": "booking",
+      "prominence": "primary",
+      "location": "Hero / Header"
+    },
+    {
+      "text": "Book Now",
+      "destination": "https://www.peakdentaltexas.com/service/pediatric-dentistry-austin-tx/",
+      "intent": "booking",
+      "prominence": "secondary",
+      "location": "Services Section"
+    },
+    {
+      "text": "Call Us Today",
+      "destination": null,
+      "intent": "contact",
+      "prominence": "primary",
+      "location": "Footer / Appointment Block"
+    }
+  ],
+  "design_and_ux": {
+    "visual_aesthetic": "Clean corporate medical standard with high accessibility toolbar options.",
+    "typography_assessment": "Clear sans-serif typography with distinct header and body contrast, supported by font-sizing and accessibility widgets.",
+    "color_palette_assessment": "Professional healthcare color scheme favoring clean blues, whites, and high-contrast text.",
+    "layout_and_spacing": "Structured block-based layout with clear service cards, structured hours, and promotional highlights.",
+    "ux_navigation_flow": "Logical top-to-bottom conversion funnel moving from hero to services, patient amenities, specials, and appointment booking.",
+    "visual_inputs_analyzed": false,
+    "screenshot_observations": [],
+    "strengths": [
+      "Clear prominent display of specials and promotional pricing",
+      "Strong emphasis on patient amenities and conveniences",
+      "Built-in accessibility utility bar"
+    ],
+    "weaknesses": [
+      "Heavy reliance on long scrolling text blocks",
+      "Duplicated service card links pointing to external service pages"
+    ]
+  },
+  "technical_and_seo": {
+    "inferred_tech_stack": [
+      "WordPress",
+      "Adit integration"
+    ],
+    "seo_health": "Well-optimized local SEO with targeted keywords for South Austin and zip code 78748 in meta titles, descriptions, and headings.",
+    "seo_strengths": [
+      "Strong local intent in title and meta descriptions",
+      "Schema markup present",
+      "Clear H2 hierarchy focused on local service terms"
+    ],
+    "seo_weaknesses": [
+      "Single-page deep focus could benefit from more structured internal linking silos"
+    ],
+    "accessibility_observations": "Includes an accessibility overlay/toolbar providing font resizing, contrast inversion, readable fonts, and link highlighting.",
+    "performance_and_structure_notes": "Standard WordPress page load profile with third-party widget embeds."
+  },
+  "redesign_recommendations": {
+    "overall_redesign_verdict": "A modern Next.js/Tailwind rebuild with an embedded booking widget would significantly elevate conversion rates and modernise the brand image.",
+    "strategic_recommendations": [
+      "Implement a sticky mobile booking bar for instant friction-free appointment requests",
+      "Highlight financing partner badges (Cherry, CareCredit, Sunbit) higher up on the landing page to reduce cost-of-care friction",
+      "Incorporate direct real-time appointment scheduling widgets instead of relying solely on form submissions"
+    ],
+    "ui_ux_improvements": [
+      "Use a bento-grid layout for patient amenities and office perks",
+      "Add interactive tabs for filtering services by category (Preventive, Cosmetic, Restorative)",
+      "Streamline text-heavy paragraphs into scannable bullet points"
+    ],
+    "rebuild_opportunities": [
+      "Migrate to a high-performance Next.js and Tailwind CSS architecture hosted on Vercel for lightning-fast page speeds",
+      "Integrate headless scheduling tools with automated SMS confirmation funnels"
+    ],
+    "quick_wins": [
+      "Move the $99 New Patient Special banner into the immediate hero viewport",
+      "Make phone number links tap-to-call across both mobile and desktop headers"
+    ]
+  },
+  "template_recommendation": {
+    "recommended_template": "local-service-leadgen",
+    "template_category": "local_service",
+    "style_direction": "clean_corporate",
+    "layout_pattern": "single_page_anchor_flow",
+    "template_confidence": 0.95,
+    "key_sections": [
+      "hero",
+      "promotional_banner",
+      "services_bento_grid",
+      "patient_amenities",
+      "financing_options",
+      "lead_booking_cta"
+    ],
+    "reasoning": "Local dental clinics require high trust, instant click-to-call access, prominent insurance/financing transparency, and quick conversion funnels tailored to regional patient searches."
+  },
+  "metadata": {
+    "provider": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "prompt_version": "1.0.0",
+    "analyzed_at": "2026-08-26T16:01:28.020047+00:00",
+    "screenshots_processed": 0,
+    "duration_seconds": 10.35,
+    "token_usage": null
+  },
+  "warnings": []
+}

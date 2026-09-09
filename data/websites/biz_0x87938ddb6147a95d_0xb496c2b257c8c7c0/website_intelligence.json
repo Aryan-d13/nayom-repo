@@ -1,0 +1,246 @@
+{
+  "site_id": "biz_0x87938ddb6147a95d_0xb496c2b257c8c7c0",
+  "base_url": "https://www.thedentistsomaha.com/",
+  "domain": "www.thedentistsomaha.com",
+  "source_website_json": "E:\\Code\\Nayom\\data\\websites\\biz_0x87938ddb6147a95d_0xb496c2b257c8c7c0\\website.json",
+  "business_profile": {
+    "business_name": "The Dentists of Omaha",
+    "tagline": "Expert Family and Cosmetic Dentistry Across Four Omaha Locations",
+    "description": "The Dentists of Omaha is a multi-location dental practice founded in Northwest Omaha by Dr. Jay Samuelson. Offering comprehensive general, family, cosmetic, and restorative dental services across four offices (Hillsborough, Village Pointe, Ralston Square, and Dundee), the practice is led by a team of experienced board-certified providers recognized repeatedly for excellence.",
+    "industry_category": "Healthcare / Dental Practice",
+    "value_proposition": "Multi-location expert dental care combining advanced cosmetic and restorative techniques with a welcoming neighborhood family dentist feel, backed by decades of community recognition.",
+    "target_audience": "Families and adults in Omaha, NE and surrounding areas seeking routine preventive care, cosmetic enhancements, restorative solutions, or emergency dental treatment.",
+    "key_differentiators": [
+      "Seven board-certified and experienced dental providers",
+      "Four convenient office locations across Omaha (Hillsborough, Village Pointe, Ralston Square, Dundee)",
+      "Voted Omaha Magazine's Best Family Dentist for 18 consecutive years",
+      "Led by Dr. Jay Samuelson, a graduate of the prestigious Las Vegas Institute for Advanced Dental Studies"
+    ]
+  },
+  "services_and_products": [
+    {
+      "name": "General & Preventive Dentistry",
+      "description": "Routine exams, cleanings, digital imaging, fluoride treatments, and preventive guidance to avoid tooth loss.",
+      "category": "Core",
+      "target_audience": "All ages",
+      "features": [
+        "Bi-annual cleanings and polish",
+        "Comprehensive oral exams",
+        "Gum disease screenings",
+        "Fluoride applications"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Dental Implants",
+      "description": "Titanium posts surgically placed in the jawbone to permanently replace missing teeth and preserve jawbone health.",
+      "category": "Restorative",
+      "target_audience": "Adults missing one or more teeth",
+      "features": [
+        "Natural appearance and bite function",
+        "Prevents jawbone deterioration",
+        "Long-lasting durability"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Tooth-Colored Fillings",
+      "description": "Composite resin and ceramic restorations designed to repair cavities seamlessly without metal.",
+      "category": "Restorative",
+      "target_audience": "Patients with tooth decay or cavities",
+      "features": [
+        "Mercury-free biocompatible materials",
+        "Direct bonding for structural support",
+        "Matches natural tooth shade"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Emergency Dental Care",
+      "description": "Urgent treatments for broken, chipped, knocked-out, or severely painful teeth.",
+      "category": "Emergency",
+      "target_audience": "Patients experiencing acute dental trauma or severe pain",
+      "features": [
+        "Same-day evaluation and pain relief",
+        "Tooth fragment preservation",
+        "Emergency restorative care"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Root Canal Therapy",
+      "description": "Modern, comfortable endodontic treatments to eliminate infection from inside the tooth and relieve pain.",
+      "category": "Restorative",
+      "target_audience": "Patients with deep decay or nerve inflammation",
+      "features": [
+        "Local anesthesia and gentle technique",
+        "Saves natural teeth from extraction",
+        "Restored with durable crowns"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Dental Inlays and Onlays",
+      "description": "Custom laboratory-crafted porcelain or composite restorations that provide stronger coverage than fillings without needing full crowns.",
+      "category": "Restorative",
+      "target_audience": "Patients with moderate tooth damage",
+      "features": [
+        "Preserves more natural tooth structure",
+        "Reinforces high-pressure chewing surfaces"
+      ],
+      "pricing_hint": null
+    }
+  ],
+  "contact_intelligence": {
+    "emails": [],
+    "phones": [
+      "402-307-6227",
+      "402-307-6215",
+      "402-307-6223",
+      "402-307-6244",
+      "402-445-4647"
+    ],
+    "addresses": [
+      "Hillsborough Office, Omaha, NE",
+      "Ralston Office, Omaha, NE",
+      "Village Point Office, Omaha, NE",
+      "Dundee Office, Omaha, NE"
+    ],
+    "city": "Omaha",
+    "state_or_region": "NE",
+    "country": "United States",
+    "social_links": [],
+    "contact_forms_found": true,
+    "business_hours": null,
+    "has_contact_method": true
+  },
+  "brand_and_content": {
+    "tone_and_voice": [
+      "authoritative",
+      "compassionate",
+      "educational",
+      "reassuring"
+    ],
+    "brand_positioning": "Omaha's premier award-winning family and cosmetic dental practice offering expert, multi-location neighborhood care.",
+    "hero_headlines": [
+      "Common Causes of Tooth Sensitivity And How to Treat It",
+      "Debunking Common Myths About Tooth-colored Fillings",
+      "Dental Bridges vs. Implants: Which Is Better for Missing Teeth?",
+      "Dental Implants: When And Why You Might Need One"
+    ],
+    "important_copy_snippets": [
+      "Voted Omaha Magazine’s 'Best Family Dentist' for 18 consecutive years.",
+      "Dr. Jay Samuelson is a Nebraska native, a Creighton University School of Dentistry graduate, and a Best of Omaha award-winning cosmetic dentist.",
+      "Preserving a natural tooth through preventative dentistry offers lasting benefits that restorations cannot fully replicate."
+    ],
+    "content_quality_score": 9
+  },
+  "calls_to_action": [
+    {
+      "text": "BOOK AN APPOINTMENT",
+      "destination": null,
+      "intent": "booking",
+      "prominence": "primary",
+      "location": "Header / Navigation"
+    },
+    {
+      "text": "schedule a consultation",
+      "destination": null,
+      "intent": "booking",
+      "prominence": "secondary",
+      "location": "Article Content"
+    },
+    {
+      "text": "contact us",
+      "destination": null,
+      "intent": "contact",
+      "prominence": "secondary",
+      "location": "Footer / Content"
+    }
+  ],
+  "design_and_ux": {
+    "visual_aesthetic": "Clean corporate healthcare professional with editorial blog layout",
+    "typography_assessment": "Clear sans-serif hierarchy with high contrast and readable line heights suited for educational medical content.",
+    "color_palette_assessment": "Professional medical palette featuring trustworthy blues, clean whites, and slate text accents.",
+    "layout_and_spacing": "Standard multi-column blog and informational page layout with clear content segmentation, sidebar archives, and easy-to-tap conversion triggers.",
+    "ux_navigation_flow": "Straightforward information architecture allowing users to easily navigate between dental services, educational blog content, and appointment booking.",
+    "visual_inputs_analyzed": false,
+    "screenshot_observations": [],
+    "strengths": [
+      "Strong trust signals prominently displayed (awards, credentials, multi-location presence)",
+      "Rich educational content that answers patient intent and builds organic search authority",
+      "Clear contact numbers provided for all four regional offices"
+    ],
+    "weaknesses": [
+      "Blog archives and standard WordPress layout can feel cluttered compared to modern patient-portal workflows",
+      "Call-to-action buttons could be more contextually tailored per procedure page"
+    ]
+  },
+  "technical_and_seo": {
+    "inferred_tech_stack": [
+      "WordPress",
+      "PHP",
+      "Schema.org JSON-LD"
+    ],
+    "seo_health": "Strong local SEO posture with targeted geo-modifiers (Omaha, NE) across titles, headings, and meta descriptions. Structured data schemas implemented.",
+    "seo_strengths": [
+      "Comprehensive long-form blog content targeting high-intent patient queries",
+      "Clear H1-H3 header hierarchies on every page",
+      "Effective use of local and procedure-specific keywords"
+    ],
+    "seo_weaknesses": [
+      "Some categories marked as Uncategorized",
+      "Potential URL bloat or pagination depth across extensive blog archives"
+    ],
+    "accessibility_observations": "Good semantic landmark structure and readable text color contrast. Image alt text usage should be audited consistently across media libraries.",
+    "performance_and_structure_notes": "Standard WordPress footprint; asset optimization and image compression can further improve mobile Core Web Vitals."
+  },
+  "redesign_recommendations": {
+    "overall_redesign_verdict": "An incremental modernization to a headless WordPress or Next.js frontend paired with a streamlined patient booking portal will drastically elevate conversion rates and modern appeal.",
+    "strategic_recommendations": [
+      "Integrate unified online booking widgets directly into educational article sidebars and footers to capture high-intent readers immediately.",
+      "Highlight multi-location availability more dynamically using geolocation routing.",
+      "Feature patient transformation galleries and video testimonials near service descriptions."
+    ],
+    "ui_ux_improvements": [
+      "Adopt a bento-grid layout for service offerings on the homepage to reduce cognitive load.",
+      "Enhance mobile sticky headers with a one-tap 'Call Office' and 'Book Online' persistent bar.",
+      "Refine typography and whitespace padding for a more luxurious, calming dental spa aesthetic."
+    ],
+    "rebuild_opportunities": [
+      "Rebuild on Next.js with Tailwind CSS for blazing-fast page loads and top-tier SEO performance.",
+      "Implement an integrated multi-location location finder with interactive maps and direct office calling."
+    ],
+    "quick_wins": [
+      "Add direct appointment booking links immediately below key blog article headings.",
+      "Standardize all phone number anchors as tel: links across every footer and contact section.",
+      "Clean up uncategorized blog tags into structured topical clusters."
+    ]
+  },
+  "template_recommendation": {
+    "recommended_template": "local-service-leadgen",
+    "template_category": "local_service",
+    "style_direction": "clean_corporate",
+    "layout_pattern": "split_hero_feature_stack",
+    "template_confidence": 0.95,
+    "key_sections": [
+      "hero",
+      "multi_location_grid",
+      "services_bento",
+      "trust_badges_awards",
+      "patient_testimonials",
+      "lead_booking_cta"
+    ],
+    "reasoning": "A local service lead generation template optimized for multi-location medical practices perfectly supports regional phone numbers, provider credentials, award callouts, and conversion-focused appointment booking funnels."
+  },
+  "metadata": {
+    "provider": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "prompt_version": "1.0.0",
+    "analyzed_at": "2026-08-24T10:02:18.279317+00:00",
+    "screenshots_processed": 0,
+    "duration_seconds": 12.08,
+    "token_usage": null
+  },
+  "warnings": []
+}

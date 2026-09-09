@@ -1,0 +1,334 @@
+{
+  "site_id": "biz_0x865b3585bfa9d445_0x76e8240fc51b9e2e",
+  "base_url": "https://thehillsdentalspa.com/?utm_source=GoogleMyBusiness&utm_medium=Organic&utm_campaign=Website",
+  "domain": "thehillsdentalspa.com",
+  "source_website_json": "E:\\Code\\Nayom\\data\\websites\\biz_0x865b3585bfa9d445_0x76e8240fc51b9e2e\\website.json",
+  "business_profile": {
+    "business_name": "The Hills Dental Spa",
+    "tagline": "Not Dentistry. A Return to Yourself.",
+    "description": "The Hills Dental Spa is a private dental atelier led by Dr. Kevin Winters in Austin, TX, serving West Lake Hills, Rollingwood, Lost Creek, and Lakeway. Specializing in advanced non-surgical TMJ therapy, neuromuscular dentistry, sleep apnea treatment, and refined cosmetic dentistry within a luxury spa-like environment.",
+    "industry_category": "Dental & Healthcare",
+    "value_proposition": "Uncompromised, fee-for-service dental care combining advanced neuromuscular diagnostics and exquisite cosmetic design with luxury spa amenities for absolute comfort.",
+    "target_audience": "Affluent adults and patients experiencing chronic TMJ pain, headaches, jaw tension, or seeking high-end aesthetic dental transformations in Austin and surrounding areas.",
+    "key_differentiators": [
+      "100% fee-for-service model free from insurance-driven limitations",
+      "Led by Dr. Kevin Winters, LVI Program Director and global dental educator",
+      "Advanced computer-based K7 diagnostics for non-surgical TMJ and neuromuscular therapy",
+      "Private treatment suites equipped with sensory spa amenities, aromatherapy, and massage options"
+    ]
+  },
+  "services_and_products": [
+    {
+      "name": "TMJ & Neuromuscular Therapy",
+      "description": "Non-surgical physiological treatment using advanced computer-based diagnostics to resolve chronic jaw, sleep, and neck tension at its origin.",
+      "category": "Core",
+      "target_audience": "Patients suffering from jaw pain, migraines, and chronic tension",
+      "features": [
+        "Computer-based K7 diagnostics",
+        "Bite realignment and neuromuscular orthotics",
+        "Non-surgical approach"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Porcelain Veneers",
+      "description": "Custom-crafted thin ceramic shells bonded to teeth for strength, symmetry, and a lifelike smile transformation.",
+      "category": "Core",
+      "target_audience": "Patients seeking aesthetic smile enhancements",
+      "features": [
+        "Custom color-matching",
+        "Durable porcelain materials",
+        "Facial harmony analysis"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Prepless Dental Veneers",
+      "description": "Minimally invasive veneers applied without enamel reduction or drilling for effortless natural enhancement.",
+      "category": "Core",
+      "target_audience": "Patients wanting conservative aesthetic improvements",
+      "features": [
+        "No enamel removal",
+        "Reversible option",
+        "Zero downtime"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Sleep Apnea Treatment",
+      "description": "Non-invasive custom oral appliance therapy designed to open airways during sleep without noisy CPAP machines.",
+      "category": "Core",
+      "target_audience": "Patients with obstructive sleep apnea or CPAP intolerance",
+      "features": [
+        "Custom-fit oral appliances",
+        "Quiet and portable",
+        "Non-surgical"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Smile Makeovers",
+      "description": "Personalized combinations of cosmetic and restorative procedures curated for comprehensive transformation.",
+      "category": "Core",
+      "target_audience": "Patients seeking complete smile and facial harmony",
+      "features": [
+        "Tailored multi-procedure plans",
+        "Aesthetic and functional balance"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Teeth Whitening",
+      "description": "In-office professional whitening treatment designed to lift years of staining in a single visit.",
+      "category": "Add-on",
+      "target_audience": "Patients wanting a brighter smile quickly",
+      "features": [
+        "In-office professional grade",
+        "Dramatic results"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Veneer Restoration",
+      "description": "Expert evaluation, repair, and replacement of worn, chipped, or outdated veneers.",
+      "category": "Core",
+      "target_audience": "Patients with existing veneers needing maintenance or upgrades",
+      "features": [
+        "Bite re-evaluation",
+        "Material upgrades",
+        "Individual or full replacement"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Invisalign",
+      "description": "Discreet clear aligner orthodontic treatment for subtle and precise teeth straightening.",
+      "category": "Core",
+      "target_audience": "Patients with alignment concerns wanting discreet treatment",
+      "features": [
+        "Clear custom aligners",
+        "Digital scan mapping",
+        "Removable"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Dental Crowns",
+      "description": "Full-coverage porcelain and ceramic restorations designed for compromised or damaged teeth.",
+      "category": "Core",
+      "target_audience": "Patients needing structural tooth repair",
+      "features": [
+        "High-strength porcelain or ceramic",
+        "Natural translucency and shade matching"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "CEREC Same-Day Dental Crowns",
+      "description": "Advanced same-day crown fabrication for efficient care without compromising quality.",
+      "category": "Core",
+      "target_audience": "Patients needing restorations in a single visit",
+      "features": [
+        "Same-day turnaround",
+        "Digital impressions"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Dental Implants",
+      "description": "Titanium posts placed in the jawbone to permanently support custom crowns and restore missing teeth.",
+      "category": "Core",
+      "target_audience": "Patients with missing teeth seeking permanent solutions",
+      "features": [
+        "Permanent titanium root replacement",
+        "Preserves jawbone health"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Implant-Supported Dentures",
+      "description": "Secure, fixed prosthetics attached to dental implants for full-arch restoration without slipping.",
+      "category": "Core",
+      "target_audience": "Patients missing most or all teeth seeking stability",
+      "features": [
+        "Fixed or removable options",
+        "Full-arch stability"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Occlusal & Sports Mouthguards",
+      "description": "Custom-fabricated mouthguards for nighttime bruxism protection or high-impact athletic activity.",
+      "category": "Preventative",
+      "target_audience": "Athletes and night grinders",
+      "features": [
+        "Precision digital impressions",
+        "Comfortable lightweight fit"
+      ],
+      "pricing_hint": null
+    }
+  ],
+  "contact_intelligence": {
+    "emails": [],
+    "phones": [
+      "+15123470044"
+    ],
+    "addresses": [
+      "Austin, TX"
+    ],
+    "city": "Austin",
+    "state_or_region": "TX",
+    "country": "United States",
+    "social_links": [],
+    "contact_forms_found": true,
+    "business_hours": null,
+    "has_contact_method": true
+  },
+  "brand_and_content": {
+    "tone_and_voice": [
+      "minimalist",
+      "authoritative",
+      "luxury",
+      "calm",
+      "sophisticated"
+    ],
+    "brand_positioning": "High-end private dental atelier focusing on elite neuromuscular mastery and invisible luxury aesthetic care.",
+    "hero_headlines": [
+      "Not Dentistry. A Return to Yourself.",
+      "TMJ. The Hidden Weight You Were Never Meant to Carry.",
+      "Designed Like a Private Atelier"
+    ],
+    "important_copy_snippets": [
+      "At The Hills Dental Spa, nothing begins with teeth. It begins with how you feel when tension is gone.",
+      "The Hills Dental Spa is a 100% fee-for-service practice.",
+      "Patients often tell us that their lives change here—not just their teeth. That’s exactly the point."
+    ],
+    "content_quality_score": 9
+  },
+  "calls_to_action": [
+    {
+      "text": "Request My Consultation",
+      "destination": "/contact-us",
+      "intent": "lead_capture",
+      "prominence": "primary",
+      "location": "Hero"
+    },
+    {
+      "text": "(512) 347-0044",
+      "destination": "tel:+15123470044",
+      "intent": "booking",
+      "prominence": "primary",
+      "location": "Header & Hero"
+    },
+    {
+      "text": "Explore TMJ Therapy",
+      "destination": "/services/general-dentistry/tmj-therapy",
+      "intent": "navigation",
+      "prominence": "secondary",
+      "location": "Services Section"
+    },
+    {
+      "text": "Explore Cosmetic",
+      "destination": "/services/cosmetic-dentistry",
+      "intent": "navigation",
+      "prominence": "secondary",
+      "location": "Services Section"
+    },
+    {
+      "text": "View Atelier Experience",
+      "destination": "/about/virtual-tour",
+      "intent": "navigation",
+      "prominence": "secondary",
+      "location": "Services Section"
+    },
+    {
+      "text": "Book Appointment",
+      "destination": null,
+      "intent": "booking",
+      "prominence": "primary",
+      "location": "Navigation Header"
+    }
+  ],
+  "design_and_ux": {
+    "visual_aesthetic": "Warm editorial luxury atelier style with clean typography, calming imagery, and sophisticated spacing.",
+    "typography_assessment": "High-contrast serif headings paired with clean sans-serif body copy, creating an editorial, high-end publication feel.",
+    "color_palette_assessment": "Sophisticated neutral tones, warm earth highlights, charcoal typography, and ample whitespace evoking a spa-like sanctuary.",
+    "layout_and_spacing": "Generous vertical padding, structured editorial content blocks, high-end imagery, and seamless grid spacing.",
+    "ux_navigation_flow": "Immersive storytelling flow guiding visitors from emotional resonance to clinical authority, virtual tours, and direct consultation booking.",
+    "visual_inputs_analyzed": false,
+    "screenshot_observations": [],
+    "strengths": [
+      "Exceptional emotional copywriting and brand positioning",
+      "Clear differentiation on fee-for-service model and non-surgical TMJ philosophy",
+      "Immersive virtual tour and sensory amenity highlights"
+    ],
+    "weaknesses": [
+      "Subtle conversion funnels could be enhanced with sticky mobile booking bars",
+      "Some internal pages are quite dense and could benefit from interactive calculator or self-assessment widgets"
+    ]
+  },
+  "technical_and_seo": {
+    "inferred_tech_stack": [
+      "Next.js",
+      "Tailwind CSS",
+      "Vercel",
+      "JSON-LD Schema"
+    ],
+    "seo_health": "Strong local and niche-targeted meta tags, rich structured data schemas, and comprehensive keyword targeting for Austin and surrounding areas.",
+    "seo_strengths": [
+      "Optimized geographic and service-specific landing pages",
+      "Robust JSON-LD schema implementation",
+      "Clear descriptive title tags and meta descriptions"
+    ],
+    "seo_weaknesses": [
+      "Some pages have slightly lengthy content blocks that could be structured with more modular FAQ accordions for snippet capture"
+    ],
+    "accessibility_observations": "Dedicated accessibility statement present targeting WCAG 2.2 Level AA conformance, with clear semantic landmarking.",
+    "performance_and_structure_notes": "Clean static rendering architecture with optimized asset delivery and fast load speeds."
+  },
+  "redesign_recommendations": {
+    "overall_redesign_verdict": "The website already features an elite, high-converting editorial design. Future updates should focus on micro-interactions, interactive self-assessment tools, and frictionless mobile booking flows.",
+    "strategic_recommendations": [
+      "Introduce an interactive TMJ symptom checker or aesthetic smile simulator to boost inbound lead engagement.",
+      "Embed video testimonials directly on key service landing pages to reinforce clinical trust."
+    ],
+    "ui_ux_improvements": [
+      "Add a sticky mobile consultation booking bar for immediate conversion.",
+      "Enhance image loading states with subtle skeleton loaders or blur-up placeholders."
+    ],
+    "rebuild_opportunities": [
+      "Refine the Next.js/Tailwind stack with headless CMS integration for seamless content updates across practitioner bios and smile galleries."
+    ],
+    "quick_wins": [
+      "Add prominent click-to-call buttons in the mobile sticky navigation header.",
+      "Highlight financing partners (CareCredit, Cherry, Proceed Finance) directly in pricing or FAQ sections."
+    ]
+  },
+  "template_recommendation": {
+    "recommended_template": "warm-editorial-luxury-atelier",
+    "template_category": "professional_services",
+    "style_direction": "warm_editorial",
+    "layout_pattern": "split_hero_feature_stack",
+    "template_confidence": 0.95,
+    "key_sections": [
+      "hero",
+      "value_proposition_grid",
+      "virtual_tour_gallery",
+      "practitioner_spotlight",
+      "patient_testimonials",
+      "faq_accordion",
+      "lead_booking_cta"
+    ],
+    "reasoning": "A warm editorial luxury template perfectly captures the atelier positioning, allowing emotional storytelling, high-end imagery, and clinical authority to shine while maximizing patient consultation conversions."
+  },
+  "metadata": {
+    "provider": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "prompt_version": "1.0.0",
+    "analyzed_at": "2026-08-26T15:38:16.319884+00:00",
+    "screenshots_processed": 0,
+    "duration_seconds": 19.21,
+    "token_usage": null
+  },
+  "warnings": []
+}

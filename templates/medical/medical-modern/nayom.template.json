@@ -1,0 +1,59 @@
+{
+  "id": "medical-modern",
+  "name": "Medical Modern Clinic",
+  "version": "v1",
+  "description": "Trustworthy medical practice and healthcare provider template with doctor credentials, service directories, and patient portal links.",
+  "industry": [
+    "medical",
+    "doctor",
+    "clinic",
+    "hospital",
+    "health",
+    "pediatrician"
+  ],
+  "categories": [
+    "medical",
+    "healthcare",
+    "clinic"
+  ],
+  "styles": [
+    "clean",
+    "calm",
+    "clinical",
+    "accessible"
+  ],
+  "layouts": [
+    "split_hero_feature_stack",
+    "single_page_anchor_flow"
+  ],
+  "features": [
+    "booking",
+    "pricing",
+    "testimonials",
+    "faqs",
+    "contact_form"
+  ],
+  "entrypoint": "app/page.tsx",
+  "slots": {
+    "site.name": "string",
+    "site.tagline": "string",
+    "site.niche": "string",
+    "hero.title": "string",
+    "hero.subtitle": "string",
+    "hero.cta": "string",
+    "hero.ctaLink": "string",
+    "about.summary": "string",
+    "about.differentiators": "string",
+    "contact.phone": "string",
+    "contact.email": "string",
+    "contact.address": "string",
+    "contact.location": "string",
+    "services": "string",
+    "testimonials": "string",
+    "faqs": "string",
+    "socialLinks": "string",
+    "locations": "string",
+    "seo": "string"
+  },
+  "preview_image": "preview/thumbnail.png"
+}

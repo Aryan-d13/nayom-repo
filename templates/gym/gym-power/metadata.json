@@ -1,0 +1,95 @@
+{
+  "id": "gym-power",
+  "name": "Gym Power & Fitness Hub",
+  "version": "v1",
+  "description": "High-energy fitness studio template with class schedules, trainer rosters, membership tiers, and free trial leadgen.",
+  "categories": [
+    "gym",
+    "fitness",
+    "wellness"
+  ],
+  "industries": [
+    "gym",
+    "fitness",
+    "crossfit",
+    "personal trainer",
+    "yoga",
+    "wellness"
+  ],
+  "style_keywords": [
+    "dark",
+    "bold",
+    "energetic",
+    "high-contrast"
+  ],
+  "layout_patterns": [
+    "bento_grid",
+    "single_page_anchor_flow"
+  ],
+  "supported_features": [
+    "booking",
+    "pricing",
+    "testimonials",
+    "faqs",
+    "contact_form"
+  ],
+  "supported_slots": [
+    "site.name",
+    "site.tagline",
+    "site.niche",
+    "hero.title",
+    "hero.subtitle",
+    "hero.cta",
+    "hero.ctaLink",
+    "about.summary",
+    "about.differentiators",
+    "contact.phone",
+    "contact.email",
+    "contact.address",
+    "contact.location",
+    "services",
+    "testimonials",
+    "faqs",
+    "socialLinks",
+    "locations",
+    "seo"
+  ],
+  "preview_image": "preview/thumbnail.png",
+  "entrypoint": "app/page.tsx",
+  "capabilities": {
+    "supportsBooking": true,
+    "supportsGallery": true,
+    "supportsPricing": true,
+    "supportsMultiLocation": true,
+    "supportsTestimonials": true,
+    "supportsFaq": true,
+    "supportsBeforeAfter": true
+  },
+  "defaultTheme": {
+    "palette": [
+      "#ff3e3e",
+      "#111111",
+      "#1a1a1a",
+      "#ffffff"
+    ],
+    "typography": "Montserrat, sans-serif",
+    "iconStyle": "lucide-sharp",
+    "borderRadius": "4px",
+    "buttonStyle": "high-contrast-slant",
+    "animationStyle": "slide-heavy"
+  },
+  "supportedVariants": [
+    "dark",
+    "industrial"
+  ],
+  "availableSections": [
+    "hero",
+    "classes",
+    "trainers",
+    "pricing",
+    "transformations",
+    "testimonials",
+    "schedule",
+    "contact"
+  ]
+}

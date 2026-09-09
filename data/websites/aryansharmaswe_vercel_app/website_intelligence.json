@@ -1,0 +1,217 @@
+{
+  "site_id": "aryansharmaswe_vercel_app",
+  "base_url": "https://aryansharmaswe.vercel.app",
+  "domain": "aryansharmaswe.vercel.app",
+  "source_website_json": "E:\\Code\\Nayom\\data\\websites\\aryansharmaswe_vercel_app\\website.json",
+  "business_profile": {
+    "business_name": "Aryan Sharma",
+    "tagline": "Full-Stack Systems Engineer building production-grade Python infrastructures, Next.js dashboards, and event-driven automation architectures.",
+    "description": "Aryan Sharma is a Full-Stack Systems Engineer specializing in production-grade Python infrastructures, custom data pipelines, and event-driven automation architectures. He builds robust backend services and clean Next.js interfaces that drive core business logic.",
+    "industry_category": "Software Engineering & Systems Architecture",
+    "value_proposition": "Architects reliable, high-performance data layers, automated workers, and clean interfaces that solve complex operational problems without creating new ones.",
+    "target_audience": "Tech companies, agencies, and organizations looking for production-grade Python infrastructures, custom data pipelines, and automated media/CRM workflows.",
+    "key_differentiators": [
+      "Extensive production experience in industrial-scale FFmpeg render DAGs",
+      "Proven track record of collapsing media processing runtimes from 30 minutes to under 5 minutes",
+      "End-to-end full-stack capability from Python backends to Next.js interfaces",
+      "Published research in VR and binaural audio meditation systems"
+    ]
+  },
+  "services_and_products": [
+    {
+      "name": "Julius",
+      "description": "Industry-grade automated media processing pipeline for high-volume video workflows utilizing parallel rendering tasks and Redis-backed queue workers.",
+      "category": "Core Production Work",
+      "target_audience": "Media companies and content operations",
+      "features": [
+        "Parallelized rendering tasks",
+        "Redis-backed queue workers",
+        "Collapsed end-to-end runtime from 30 min to under 5 min"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Agency Cold Outreach",
+      "description": "Contextual scraping and automated outreach pipeline.",
+      "category": "Specialized Utility Applications",
+      "target_audience": "Sales and marketing agencies",
+      "features": [
+        "Contextual scraping",
+        "Automated outreach pipeline"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "WaveClip",
+      "description": "Local-first desktop audio clipper and waveform editor.",
+      "category": "Specialized Utility Applications",
+      "target_audience": "Audio editors and creators",
+      "features": [
+        "Local-first execution",
+        "Desktop audio clipper",
+        "Waveform editor"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Social Safe-Zone Previewer",
+      "description": "9:16 layout compiler tracking platform UI overlays.",
+      "category": "Specialized Utility Applications",
+      "target_audience": "Social media managers and video creators",
+      "features": [
+        "9:16 layout compilation",
+        "Platform UI overlay tracking"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Invoice Studio",
+      "description": "Local-first client invoicing and tax record generator.",
+      "category": "Specialized Utility Applications",
+      "target_audience": "Freelancers and small business owners",
+      "features": [
+        "Local-first security",
+        "Client invoicing",
+        "Tax record generation"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Automated Design System",
+      "description": "Strict JSON token compiler to streamline assets.",
+      "category": "Specialized Utility Applications",
+      "target_audience": "Designers and frontend engineers",
+      "features": [
+        "Strict JSON token compiler",
+        "Asset streamlining"
+      ],
+      "pricing_hint": null
+    }
+  ],
+  "contact_intelligence": {
+    "emails": [],
+    "phones": [],
+    "addresses": [],
+    "city": "Indore",
+    "state_or_region": "Madhya Pradesh",
+    "country": "India",
+    "social_links": [
+      {
+        "platform": "credly",
+        "url": "https://www.credly.com"
+      }
+    ],
+    "contact_forms_found": false,
+    "business_hours": null,
+    "has_contact_method": true
+  },
+  "brand_and_content": {
+    "tone_and_voice": [
+      "technical",
+      "authoritative",
+      "minimalist",
+      "precise"
+    ],
+    "brand_positioning": "High-performance systems engineer focused on reliability, quiet efficiency, and robust backend engineering.",
+    "hero_headlines": [
+      "ENGINEERING SCALABLE SYSTEMS",
+      "Designing systems that run reliably, quietly, and forever."
+    ],
+    "important_copy_snippets": [
+      "Great systems aren't loud. They compound quietly: reliable data layers, automated workers, and clean interfaces that solve problems without creating new ones.",
+      "Built an industry-grade automated media processing pipeline for high-volume video workflows. Collapsed end-to-end runtime from 30 minutes to under 5 minutes."
+    ],
+    "content_quality_score": 9
+  },
+  "calls_to_action": [
+    {
+      "text": "View Projects →",
+      "destination": "#work",
+      "intent": "navigation",
+      "prominence": "primary",
+      "location": "Hero"
+    }
+  ],
+  "design_and_ux": {
+    "visual_aesthetic": "dark-tech minimalist systems portfolio",
+    "typography_assessment": "Clean modern sans-serif hierarchy with strong heading distinction and scannable technical metadata labels.",
+    "color_palette_assessment": "Deep dark mode color palette utilizing high contrast slate and neutral tones with crisp accent highlights suitable for developer portfolios.",
+    "layout_and_spacing": "Modular bento grid structure with clean section dividers, structured lists, and generous spacing emphasizing readability and professional case studies.",
+    "ux_navigation_flow": "Single-page anchor scroll flow optimized for recruiters and technical leads seeking fast access to case studies, stack details, and CV download.",
+    "visual_inputs_analyzed": false,
+    "screenshot_observations": [],
+    "strengths": [
+      "Clear articulation of technical impact with hard metrics (e.g., 30 -> 5 min render pipeline, 40% admin overhead removed)",
+      "Well-organized project and utility app showcase",
+      "Comprehensive professional history and academic credentials"
+    ],
+    "weaknesses": [
+      "Lack of a direct interactive contact form or clearly displayed email address",
+      "Limited direct call-to-action options beyond viewing projects"
+    ]
+  },
+  "technical_and_seo": {
+    "inferred_tech_stack": [
+      "Next.js",
+      "Tailwind CSS",
+      "Vercel",
+      "React"
+    ],
+    "seo_health": "Solid foundational meta description and H1/H2 header hierarchy reflecting core engineering competencies.",
+    "seo_strengths": [
+      "Descriptive meta tags targeting high-value developer keywords",
+      "Structured headings outlining clear information architecture"
+    ],
+    "seo_weaknesses": [
+      "Absence of explicit OpenGraph tags and structured schema markup for person/portfolio entities"
+    ],
+    "accessibility_observations": "Good color contrast inherent in dark-tech layouts; semantic tagging used across core sections.",
+    "performance_and_structure_notes": "Hosted on Vercel with optimal static performance and clean markup structure."
+  },
+  "redesign_recommendations": {
+    "overall_redesign_verdict": "The current portfolio is highly performant and clear, but can be optimized for recruiter conversion by introducing a direct calendar booking link or interactive contact modal.",
+    "strategic_recommendations": [
+      "Introduce a direct calendly or contact form integration to capture recruiter and client inquiries instantly",
+      "Highlight code snippets or architectural diagrams for complex systems like Julius to further demonstrate engineering depth"
+    ],
+    "ui_ux_improvements": [
+      "Add subtle interactive hover states to the utility application bento cards",
+      "Provide filterable tabs for project categories (e.g., AI, Infrastructure, Media)"
+    ],
+    "rebuild_opportunities": [
+      "Migrate to a fully componentized Next.js 14 App Router layout with server actions for instant contact handling"
+    ],
+    "quick_wins": [
+      "Add direct email and LinkedIn profile links in the header or footer",
+      "Include a sticky 'Download CV' action button for mobile viewers"
+    ]
+  },
+  "template_recommendation": {
+    "recommended_template": "dark-mode-systems-portfolio",
+    "template_category": "portfolio",
+    "style_direction": "dark_tech",
+    "layout_pattern": "single_page_anchor_flow",
+    "template_confidence": 0.95,
+    "key_sections": [
+      "hero",
+      "core_focus_bento",
+      "case_studies",
+      "utility_apps_grid",
+      "technical_stack",
+      "professional_history",
+      "metrics_bar",
+      "lead_booking_cta"
+    ],
+    "reasoning": "A dark-tech portfolio archetype perfectly matches a full-stack systems engineer's identity, highlighting robust infrastructure work, high-performance tooling, and technical authority."
+  },
+  "metadata": {
+    "provider": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "prompt_version": "1.0.0",
+    "analyzed_at": "2026-08-21T09:10:12.853931+00:00",
+    "screenshots_processed": 0,
+    "duration_seconds": 10.17,
+    "token_usage": null
+  },
+  "warnings": []
+}

@@ -1,0 +1,17 @@
+{
+  "recipient": "hola@suerteatx.com",
+  "subject": "Quick thought on Suerte's website and layout",
+  "body": "Hi Suerte team, I've always admired how you blend traditional nixtamalization with local Texas ingredients in East Austin. While dining with you is always top-tier, I noticed on your current site that the reservation journey bounces through third-party flows and your large party pages are slightly fragmented across multiple URLs. I spent a little time putting together a modern, live prototype for Suerte that streamlines your private dining information and adds direct navigation anchors for instant guest answers. Feel free to check out the live preview here: https://nayom-biz-0x8644b5b6fb440001-0x48219815b358937-79ot2z5bq.vercel.app. If you'd like to use this design or have me tweak anything, I'd be happy to send over the project files or chat for 5 minutes. No worries at all if you're happy with your current setup!",
+  "business_id": "biz_0x8644b5b6fb440001_0x48219815b3589371",
+  "preview_url": "https://nayom-biz-0x8644b5b6fb440001-0x48219815b358937-79ot2z5bq.vercel.app",
+  "generated_at": "2026-08-24T14:28:39.548007+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "business_name": "Suerte",
+  "key_improvements": [
+    "Consolidated large party and private dining information to eliminate redundant pages",
+    "Streamlined reservation flows and added direct anchor links for faster user navigation"
+  ],
+  "provider": "gemini",
+  "prompt_version": "1.0.0",
+  "warnings": []
+}

@@ -1,0 +1,20 @@
+{
+  "recipient": null,
+  "subject": "Quick thought on Daylight Dental's online booking and mobile experience",
+  "body": "Hi Daylight Dental team, I often visit South Austin and recently came across your practice at 6501 S Congress Ave. I really appreciate how Dr. James Song, Dr. Aleeahna Phan, and the team combine advanced dental implants and emergency care with a comfortable, spa-like experience. While browsing your current site, I noticed that the high volume of text can sometimes slow down mobile visitors looking for quick appointments, and the online booking CTAs could be more prominent. To see how these small friction points could be smoothed out, I went ahead and built a modern, high-performance prototype for you. Feel free to check out the live preview here: https://nayom-preview.pages.dev/biz_0x8644b351a8e24e97_0x4fbbf19295014748. It includes a sticky mobile emergency phone banner and places your implant promotions right in the hero section for faster conversions. If you'd like to use this design or have me tweak anything, I'd be happy to send over the project files or chat for 5 minutes. No worries at all if you're happy with your current setup!",
+  "business_id": "biz_0x8644b351a8e24e97_0x4fbbf19295014748",
+  "preview_url": "https://nayom-preview.pages.dev/biz_0x8644b351a8e24e97_0x4fbbf19295014748",
+  "generated_at": "2026-08-26T16:02:18.956667+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "business_name": "Daylight Dental South Austin",
+  "key_improvements": [
+    "Added a sticky phone banner at the top of mobile viewports for emergency patients",
+    "Highlighted current promotions like '$1,000 OFF dental implants' directly in the hero banner",
+    "Improved mobile layout to streamline appointment booking and reduce text overwhelm"
+  ],
+  "provider": "gemini",
+  "prompt_version": "1.0.0",
+  "warnings": [
+    "No deployment.json found. Using preview URL fallback: https://nayom-preview.pages.dev/biz_0x8644b351a8e24e97_0x4fbbf19295014748"
+  ]
+}

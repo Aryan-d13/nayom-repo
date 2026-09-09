@@ -1,0 +1,96 @@
+{
+  "id": "restaurant-flavor",
+  "name": "Restaurant Flavor & Bistro",
+  "version": "v1",
+  "description": "Vibrant culinary template with menu highlights, online reservations, chef stories, and atmospheric gallery.",
+  "categories": [
+    "restaurant",
+    "food",
+    "hospitality"
+  ],
+  "industries": [
+    "restaurant",
+    "cafe",
+    "bistro",
+    "bakery",
+    "bar",
+    "food",
+    "dining"
+  ],
+  "style_keywords": [
+    "warm",
+    "rich",
+    "editorial",
+    "dark"
+  ],
+  "layout_patterns": [
+    "single_page_anchor_flow",
+    "bento_grid"
+  ],
+  "supported_features": [
+    "booking",
+    "pricing",
+    "testimonials",
+    "faqs",
+    "contact_form"
+  ],
+  "supported_slots": [
+    "site.name",
+    "site.tagline",
+    "site.niche",
+    "hero.title",
+    "hero.subtitle",
+    "hero.cta",
+    "hero.ctaLink",
+    "about.summary",
+    "about.differentiators",
+    "contact.phone",
+    "contact.email",
+    "contact.address",
+    "contact.location",
+    "services",
+    "testimonials",
+    "faqs",
+    "socialLinks",
+    "locations",
+    "seo"
+  ],
+  "preview_image": "preview/thumbnail.png",
+  "entrypoint": "app/page.tsx",
+  "capabilities": {
+    "supportsBooking": true,
+    "supportsGallery": true,
+    "supportsPricing": true,
+    "supportsMultiLocation": true,
+    "supportsTestimonials": true,
+    "supportsFaq": false,
+    "supportsBeforeAfter": false
+  },
+  "defaultTheme": {
+    "palette": [
+      "#d32f2f",
+      "#ff9800",
+      "#121212",
+      "#ffffff"
+    ],
+    "typography": "DM Serif Display, sans-serif",
+    "iconStyle": "lucide-bold",
+    "borderRadius": "12px",
+    "buttonStyle": "warm-rounded",
+    "animationStyle": "zoom-subtle"
+  },
+  "supportedVariants": [
+    "light",
+    "dark"
+  ],
+  "availableSections": [
+    "hero",
+    "menu",
+    "story",
+    "gallery",
+    "reservations",
+    "testimonials",
+    "location",
+    "contact"
+  ]
+}

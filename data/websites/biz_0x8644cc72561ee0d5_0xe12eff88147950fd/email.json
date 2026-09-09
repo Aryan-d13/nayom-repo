@@ -1,0 +1,17 @@
+{
+  "recipient": "contact@culinarydropout.com",
+  "subject": "Quick thought on the Culinary Dropout Austin menu layout",
+  "body": "Hi Culinary Dropout team, I recently visited your Austin location online and stopped by to check out your scratch-made dishes and weekend live music setup. I noticed that relying on external PDF downloads for your antipasti, starters, and craft cocktails can slow things down on mobile devices and limits how search engines index your menu items. I spent a bit of time putting together a modern, live prototype that translates your menu into fast, HTML-rendered tabs with quick anchor navigation, plus an optimized signup for your e-bites club. Feel free to check out the live preview here: https://nayom-biz-0x8644cc72561ee0d5-0xe12eff88147950f-2vufzc85p.vercel.app. If you would like to use this design or have me tweak anything, I would be happy to send over the project files or chat for five minutes. No worries at all if you are happy with your current setup!",
+  "business_id": "biz_0x8644cc72561ee0d5_0xe12eff88147950fd",
+  "preview_url": "https://nayom-biz-0x8644cc72561ee0d5-0xe12eff88147950f-2vufzc85p.vercel.app",
+  "generated_at": "2026-08-24T14:31:02.657031+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "business_name": "Culinary Dropout",
+  "key_improvements": [
+    "Replaced heavy external PDF menu links with fast, HTML-rendered interactive menu tabs",
+    "Optimized the e-bites club newsletter signup section for better mobile conversion"
+  ],
+  "provider": "gemini",
+  "prompt_version": "1.0.0",
+  "warnings": []
+}

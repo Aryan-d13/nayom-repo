@@ -1,0 +1,17 @@
+{
+  "recipient": null,
+  "subject": "Quick thought on Quality Dental Care's mobile booking",
+  "body": "Hi Quality Dental Care team, I came across your practice while looking at local family clinics in Omaha and wanted to reach out. I love that you have been treating patients like family since 2006, especially with your same-day emergency care and sedation options for anxious patients. When browsing your current site on my phone, I noticed that the main contact number is a bit tucked away, and it lacks an instant online booking widget or a sticky click-to-call mobile banner for those urgent needs. I went ahead and put together a modern, live prototype for your practice to show how a cleaner layout and instant mobile click-to-call could boost your patient inquiries. You can check out the live preview here: https://nayom-biz-0x8793f265a02e9bdf-0xdefab5488f25fbe.vercel.app. If you would like to use this design or have me tweak anything, I would be happy to send over the project files or chat for 5 minutes. No worries at all if you are happy with your current setup!",
+  "business_id": "biz_0x8793f265a02e9bdf_0xdefab5488f25fbed",
+  "preview_url": "https://nayom-biz-0x8793f265a02e9bdf-0xdefab5488f25fbe.vercel.app",
+  "generated_at": "2026-08-24T10:04:10.528816+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "business_name": "Quality Dental Care",
+  "key_improvements": [
+    "Added a sticky click-to-call phone banner for mobile viewports",
+    "Streamlined patient booking and embedded direct Google Reviews trust signals"
+  ],
+  "provider": "gemini",
+  "prompt_version": "1.0.0",
+  "warnings": []
+}

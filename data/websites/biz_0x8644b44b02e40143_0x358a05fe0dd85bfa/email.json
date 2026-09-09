@@ -1,0 +1,17 @@
+{
+  "recipient": "contact@launderetteaustin.com",
+  "subject": "Quick thought on Launderette's online menu and event bookings",
+  "body": "Hi team at Launderette, I always enjoy stopping by your space in the Holly neighborhood for Chef Rene's globally inspired Southern dishes and weekend brunch. While looking over the site recently, I noticed that private event inquiries rely on a direct email address rather than an interactive form, and secondary pages could benefit from tighter search optimization. I went ahead and built a modern, single-page prototype for you that highlights your weekday happy hour right at the top and adds a streamlined private event inquiry form. You can check out the live preview here: https://nayom-biz-0x8644b44b02e40143-0x358a05fe0dd85bf-co8aqflc8.vercel.app. If you would like to use this design or have me tweak anything, I would be happy to send over the project files or chat for five minutes. No worries at all if you are happy with your current setup!",
+  "business_id": "biz_0x8644b44b02e40143_0x358a05fe0dd85bfa",
+  "preview_url": "https://nayom-biz-0x8644b44b02e40143-0x358a05fe0dd85bf-co8aqflc8.vercel.app",
+  "generated_at": "2026-08-24T14:28:37.955213+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "business_name": "Launderette",
+  "key_improvements": [
+    "Added a direct interactive inquiry form for private events",
+    "Highlighted happy hour specials prominently at the top of the homepage"
+  ],
+  "provider": "gemini",
+  "prompt_version": "1.0.0",
+  "warnings": []
+}

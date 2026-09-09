@@ -1,0 +1,18 @@
+{
+  "recipient": "patients@soladentalaustin.com",
+  "subject": "Quick thought on the Sola Smiles site + a quick prototype",
+  "body": "Hi Sola Smiles team, I love the whole-body, wellness-focused approach you bring to dentistry in South Austin, especially your IAOMT-certified SMART procedures and same-day CEREC crowns. While browsing your current site, I noticed two minor friction points: the booking journey takes a few too many clicks from the homepage, and the layout doesn't fully capture that boutique, spa-like feel of your practice. I put together a quick, modern prototype to show how your brand can look and convert with a cleaner layout, prominent patient reviews right above the fold, and a streamlined mobile booking flow. Feel free to check out the live preview here: https://nayom-biz-0x8644b519f68fab49-0xfd4e89823cd591a-mj8tgpeav.vercel.app. If you'd like to use this design or have me tweak anything, I'd be happy to send over the project files or chat for 5 minutes. No worries at all if you're happy with your current setup!",
+  "business_id": "biz_0x8644b519f68fab49_0xfd4e89823cd591a0",
+  "preview_url": "https://nayom-biz-0x8644b519f68fab49-0xfd4e89823cd591a-mj8tgpeav.vercel.app",
+  "generated_at": "2026-08-26T16:02:28.519304+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "business_name": "Sola Smile Co.",
+  "key_improvements": [
+    "Added prominent mobile booking and call-now banner",
+    "Highlighted patient reviews and ratings above the fold",
+    "Streamlined navigation and removed deep page nesting"
+  ],
+  "provider": "gemini",
+  "prompt_version": "1.0.0",
+  "warnings": []
+}

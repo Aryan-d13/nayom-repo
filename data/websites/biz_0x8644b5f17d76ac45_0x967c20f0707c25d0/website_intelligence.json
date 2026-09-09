@@ -1,0 +1,262 @@
+{
+  "site_id": "biz_0x8644b5f17d76ac45_0x967c20f0707c25d0",
+  "base_url": "https://www.trudentistryaustin.com/",
+  "domain": "www.trudentistryaustin.com",
+  "source_website_json": "E:\\Code\\Nayom\\data\\websites\\biz_0x8644b5f17d76ac45_0x967c20f0707c25d0\\website.json",
+  "business_profile": {
+    "business_name": "TRU Dentistry Austin",
+    "tagline": "Crafting Beautiful Smiles, Inside and Out",
+    "description": "TRU Dentistry Austin is a top-rated family and cosmetic dental practice led by Dr. Nichole Kostiuk, DMD, and Dr. Evan John, DDS. Located in Austin, TX, they offer comprehensive dental care including preventive, restorative, emergency, and cosmetic treatments in a comfortable, patient-centered environment.",
+    "industry_category": "Dental Healthcare",
+    "value_proposition": "Patients choose TRU Dentistry for honest, compassionate, affordable care combining advanced dental technology (like 3D CBCT imaging and same-day crowns) with a relaxing, spa-like environment featuring warm therapeutic neck wraps and massage chairs.",
+    "target_audience": "Families, adults, teenagers, and individuals in the Austin area seeking general, emergency, or cosmetic dental care, including patients with dental anxiety.",
+    "key_differentiators": [
+      "Same-day emergency appointments",
+      "Spa-like amenities including warm therapeutic neck wraps and massage chairs",
+      "Comprehensive patient-centered care with advanced 3D CBCT imaging",
+      "Flexible payment options and in-office payment plans",
+      "LGBTQ+ friendly and inclusive environment"
+    ]
+  },
+  "services_and_products": [
+    {
+      "name": "Emergency Dentistry",
+      "description": "Immediate dental care for same-day emergencies, severe toothaches, and trauma.",
+      "category": "Core",
+      "target_audience": "Patients experiencing acute dental pain or injury",
+      "features": [
+        "Same-day appointments",
+        "Pain relief",
+        "Urgent evaluations"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Clear Aligners",
+      "description": "Fast and discreet teeth straightening for adults and teenagers using Six Month Braces.",
+      "category": "Core",
+      "target_audience": "Adults and teens looking to straighten crooked or crowded teeth",
+      "features": [
+        "Fast treatment time",
+        "Clear aesthetic aligners",
+        "Custom bite correction"
+      ],
+      "pricing_hint": "$1500 off Summer Special"
+    },
+    {
+      "name": "Dental Implants",
+      "description": "Permanent titanium post implants and custom crowns for replacing missing teeth.",
+      "category": "Core",
+      "target_audience": "Patients with missing teeth seeking permanent restoration",
+      "features": [
+        "Titanium posts",
+        "Natural appearance",
+        "Full stage-by-stage guidance"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Dental Cleanings & Exams",
+      "description": "Comprehensive routine exams, yearly digital X-rays, and professional cleanings.",
+      "category": "Core",
+      "target_audience": "All patients requiring routine preventive care",
+      "features": [
+        "Digital x-rays",
+        "Hygienist cleaning",
+        "Warm neck wraps & massage chairs"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Dental Crowns",
+      "description": "Custom porcelain caps to repair and strengthen damaged, fractured, or decayed teeth.",
+      "category": "Core",
+      "target_audience": "Patients with compromised or cracked teeth",
+      "features": [
+        "Same-day crown options",
+        "Porcelain material",
+        "Tooth structure preservation"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Root Canal Treatment",
+      "description": "Infection removal and tooth preservation using advanced 3D CBCT imaging and sedation options.",
+      "category": "Core",
+      "target_audience": "Patients with infected or painful tooth pulp",
+      "features": [
+        "Infection removal",
+        "CBCT imaging",
+        "Pain relief and sedation"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Teeth Whitening",
+      "description": "Professional at-home and in-office whitening treatments using safe peroxide agents.",
+      "category": "Cosmetic",
+      "target_audience": "Patients looking to brighten stained or discolored teeth",
+      "features": [
+        "Safe bleaching agents",
+        "Complimentary for new patients after treatment",
+        "Long-lasting results"
+      ],
+      "pricing_hint": "Free for new patients after completed treatment"
+    },
+    {
+      "name": "Sedation Dentistry",
+      "description": "Nitrous oxide (laughing gas) and mild oral sedation to alleviate dental anxiety.",
+      "category": "Add-on",
+      "target_audience": "Patients with dental anxiety or undergoing long procedures",
+      "features": [
+        "Nitrous oxide",
+        "Oral conscious sedation",
+        "Stress-free environment"
+      ],
+      "pricing_hint": null
+    }
+  ],
+  "contact_intelligence": {
+    "emails": [
+      "info@trudentistryaustin.com"
+    ],
+    "phones": [
+      "7372038538"
+    ],
+    "addresses": [
+      "9901 Brodie Ln suite 130, Austin, TX"
+    ],
+    "city": "Austin",
+    "state_or_region": "TX",
+    "country": "US",
+    "social_links": [],
+    "contact_forms_found": true,
+    "business_hours": null,
+    "has_contact_method": true
+  },
+  "brand_and_content": {
+    "tone_and_voice": [
+      "compassionate",
+      "welcoming",
+      "professional",
+      "reassuring",
+      "honest"
+    ],
+    "brand_positioning": "A trusted, patient-first neighborhood dental practice in Austin combining advanced dental technology with spa-like comfort and affordable, transparent care.",
+    "hero_headlines": [
+      "Dentist In Austin, TX",
+      "Crafting Beautiful Smiles, Inside and Out"
+    ],
+    "important_copy_snippets": [
+      "TRU Dentistry Austin is a proud friend of the LGBTQ community.",
+      "We guarantee 100% satisfaction. This means that any dental work we provide including dentures, veneers, crowns, or bridges, is guaranteed.",
+      "My first experience at TRU Dentistry Austin was amazing. The friendly staff gave me a smile I’m grateful for."
+    ],
+    "content_quality_score": 8
+  },
+  "calls_to_action": [
+    {
+      "text": "Book Online Here",
+      "destination": "https://booking.adit.com/6c268bf9-83f0-41f0-98b1-b229aaa5c4d8",
+      "intent": "booking",
+      "prominence": "primary",
+      "location": "Hero"
+    },
+    {
+      "text": "(737) 203-8538",
+      "destination": "tel:7372038538",
+      "intent": "contact",
+      "prominence": "primary",
+      "location": "Header / Footer"
+    },
+    {
+      "text": "Book Now",
+      "destination": "https://booking.adit.com/6c268bf9-83f0-41f0-98b1-b229aaa5c4d8",
+      "intent": "booking",
+      "prominence": "primary",
+      "location": "Special Offers"
+    }
+  ],
+  "design_and_ux": {
+    "visual_aesthetic": "Clean corporate healthcare aesthetic with warm, welcoming imagery and patient testimonials.",
+    "typography_assessment": "Clear typographic hierarchy utilizing readable sans-serif fonts with distinct header sizes and good line spacing.",
+    "color_palette_assessment": "Trust-evoking clinical color harmony featuring clean white backgrounds, dark text, and professional accent tones.",
+    "layout_and_spacing": "Grid-based service cards, clear section dividers, and structured grid layouts for team bios and transformations.",
+    "ux_navigation_flow": "Straightforward conversion paths leading directly to online booking or phone call links on every page.",
+    "visual_inputs_analyzed": false,
+    "screenshot_observations": [],
+    "strengths": [
+      "Prominent emergency and online booking CTAs across all service pages",
+      "Strong social proof and patient testimonials integrated throughout",
+      "Clear detailing of amenities (neck wraps, massage chairs) that reduce dental anxiety"
+    ],
+    "weaknesses": [
+      "Some internal content pages rely on lengthy text blocks without visual bulleting",
+      "Social media links are largely absent from the footer extraction"
+    ]
+  },
+  "technical_and_seo": {
+    "inferred_tech_stack": [
+      "WordPress",
+      "PHP",
+      "Adit Booking Widget"
+    ],
+    "seo_health": "Strong localized SEO with targeted keyword meta descriptions and descriptive URL slugs for individual dental treatments in Austin, TX.",
+    "seo_strengths": [
+      "Rich service-specific landing pages (/austin-tx/dental-implants/, /austin-tx/root-canals/, etc.)",
+      "Descriptive meta titles and location-optimized descriptions"
+    ],
+    "seo_weaknesses": [
+      "Potential duplicate content risks across secondary benefit paragraphs on service pages"
+    ],
+    "accessibility_observations": "Semantic heading structure used across pages; interactive booking elements clearly labeled.",
+    "performance_and_structure_notes": "Standard WordPress site structure with embedded video assets and booking iframe integrations."
+  },
+  "redesign_recommendations": {
+    "overall_redesign_verdict": "A modern headless Next.js rebuild would dramatically improve mobile load speeds, booking friction, and visual polish, though current SEO structure should be carefully preserved.",
+    "strategic_recommendations": [
+      "Implement a persistent sticky mobile booking bar for instant emergency and routine appointment conversions.",
+      "Enhance trust signals by placing before-and-after smile transformation sliders directly on the homepage.",
+      "Highlight financing partner options clearly on pricing and service pages."
+    ],
+    "ui_ux_improvements": [
+      "Adopt a modern bento-grid layout for service offerings to replace traditional list stacks.",
+      "Add micro-interactions to booking buttons and service cards to elevate perceived brand quality."
+    ],
+    "rebuild_opportunities": [
+      "Migrate to a high-performance Next.js and Tailwind CSS architecture hosted on Vercel.",
+      "Integrate an automated patient review and booking widget API for seamless scheduling."
+    ],
+    "quick_wins": [
+      "Add direct click-to-call buttons in the sticky header for mobile users.",
+      "Prominently display the New Patient Whitening special offer banner above the fold on all key landing pages."
+    ]
+  },
+  "template_recommendation": {
+    "recommended_template": "local-service-leadgen",
+    "template_category": "local_service",
+    "style_direction": "clean_corporate",
+    "layout_pattern": "single_page_anchor_flow",
+    "template_confidence": 0.95,
+    "key_sections": [
+      "hero",
+      "services_bento",
+      "patient_amenities",
+      "doctor_bios",
+      "smile_transformations",
+      "testimonials",
+      "lead_booking_cta"
+    ],
+    "reasoning": "A local service lead generation template optimized for medical/dental practices allows easy appointment booking, prominent phone numbers, trust badges, and clear service categorization."
+  },
+  "metadata": {
+    "provider": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "prompt_version": "1.0.0",
+    "analyzed_at": "2026-08-26T16:01:53.915254+00:00",
+    "screenshots_processed": 0,
+    "duration_seconds": 18.32,
+    "token_usage": null
+  },
+  "warnings": []
+}

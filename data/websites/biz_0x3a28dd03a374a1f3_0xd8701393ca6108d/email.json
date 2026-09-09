@@ -1,0 +1,17 @@
+{
+  "recipient": null,
+  "subject": "A dedicated website prototype for Spark Fitness",
+  "body": "Hi Spark Fitness team, I came across your gym while looking at fitness spots in Tikrapara and noticed you are currently relying primarily on a Facebook page rather than a dedicated website. While your community-driven workout environment and experienced personal training are great draws, prospective members searching online often miss out on seeing your full range of equipment and structured membership plans in one clean view. Because of this, I went ahead and built a modern, fast-loading one-page prototype tailored for Spark Fitness to showcase your general gym memberships and personal training services more clearly. Feel free to check out the live preview here: https://nayom-biz-0x3a28dd03a374a1f3-0xd8701393ca6108d-4e4un8ngy.vercel.app. If you would like to use this design or have me tweak anything, I would be happy to send over the project files or chat for five minutes. No worries at all if you are happy with your current setup!",
+  "business_id": "biz_0x3a28dd03a374a1f3_0xd8701393ca6108d",
+  "preview_url": "https://nayom-biz-0x3a28dd03a374a1f3-0xd8701393ca6108d-4e4un8ngy.vercel.app",
+  "generated_at": "2026-08-23T09:00:21.831531+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "business_name": "Spark Fitness",
+  "key_improvements": [
+    "Transitioned from a Facebook-only presence to a dedicated, high-performance website",
+    "Created a clear presentation structure for membership plans, equipment, and personal training services"
+  ],
+  "provider": "gemini",
+  "prompt_version": "1.0.0",
+  "warnings": []
+}

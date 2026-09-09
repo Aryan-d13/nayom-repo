@@ -1,0 +1,18 @@
+{
+  "recipient": "smile@floridacitydental.com",
+  "subject": "Quick thought on Florida City Dental's website and new patient flow",
+  "body": "Hi Florida City Dental team,\n\nI’ve been following your 14 years of community service here in Homestead, and I really admire how welcoming you make your practice for patients looking for cosmetic makeovers or major restorations like All-on-X implants. \n\nWhile browsing your current site, I noticed that the mobile user experience could be streamlined by making phone numbers instantly clickable across all viewports and ensuring the $65 new patient special and operating hours stand out right near the primary contact buttons.\n\nTo see how these minor tweaks could elevate your patient booking flow, I went ahead and built a clean, modern live prototype for you here: https://nayom-biz-0x88d9e74657f8b06f-0xd765b3844973d1b-5b852glrf.vercel.app\n\nFeel free to check out the live preview. If you'd like to use this design or have me make a few adjustments, I'd be happy to send over the project files or chat for 5 minutes. No worries at all if you're completely happy with your current setup!",
+  "business_id": "biz_0x88d9e74657f8b06f_0xd765b3844973d1b9",
+  "preview_url": "https://nayom-biz-0x88d9e74657f8b06f-0xd765b3844973d1b-5b852glrf.vercel.app",
+  "generated_at": "2026-08-26T08:59:18.077224+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "business_name": "Florida City Dental - General Dentistry & Cosmetic Smile Design!",
+  "key_improvements": [
+    "Added mobile-friendly click-to-call phone number links across all viewports",
+    "Highlighted operating hours prominently near primary contact buttons",
+    "Streamlined layout for the $65 New Patient Special and All-on-X implants"
+  ],
+  "provider": "gemini",
+  "prompt_version": "1.0.0",
+  "warnings": []
+}

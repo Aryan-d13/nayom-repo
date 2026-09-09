@@ -1,0 +1,228 @@
+{
+  "site_id": "biz_0x88d9abd42c5152fd_0x2048174ae9b17cb8",
+  "base_url": "https://myaffordabledentistry.com/?utm_campaign=gmb&utm_medium=organic&utm_source=google",
+  "domain": "myaffordabledentistry.com",
+  "source_website_json": "E:\\Code\\Nayom\\data\\websites\\biz_0x88d9abd42c5152fd_0x2048174ae9b17cb8\\website.json",
+  "business_profile": {
+    "business_name": "Affordable Dentistry of South Florida (Concierge Dentistry of South Florida)",
+    "tagline": "A more Complete dental experience has arrived in hollywood",
+    "description": "Affordable Dentistry of South Florida provides comprehensive concierge-level dental care in Hollywood, FL, combining exceptional clinical standards, advanced technology, and personalized solutions at reasonable prices with flexible financing options.",
+    "industry_category": "Healthcare / Dentistry",
+    "value_proposition": "Boutique, concierge-level dental care with high clinical standards and advanced technology made affordable and accessible through transparent pricing, trusted local lab partnerships, and 0% down financing options.",
+    "target_audience": "South Florida residents seeking high-quality cosmetic, restorative, emergency, or routine dental care without traveling to major metropolitan hubs like Miami or West Palm Beach.",
+    "key_differentiators": [
+      "Concierge philosophy and boutique care at affordable prices",
+      "Trusted local dental lab partnerships under one roof",
+      "Same-day emergency appointments with reserved daily slots",
+      "Flexible financing partnerships including CareCredit, Alpheon, and Sunbit",
+      "$29 Exam + X-Ray promotional entry point"
+    ]
+  },
+  "services_and_products": [
+    {
+      "name": "Routine Cleanings & New Patient Exams",
+      "description": "Comprehensive initial consultations, examinations, X-rays, and routine cleanings.",
+      "category": "Core",
+      "target_audience": "New patients seeking preventative care",
+      "features": [
+        "Seamless first appointment",
+        "Exam + X-Ray special pricing"
+      ],
+      "pricing_hint": "$29 Exam + X-Ray"
+    },
+    {
+      "name": "Dental Emergencies & Same-Day Care",
+      "description": "Urgent dental services with reserved daily appointment slots for acute pain and emergencies.",
+      "category": "Core",
+      "target_audience": "Patients experiencing dental pain or trauma",
+      "features": [
+        "Same-day appointments",
+        "Dedicated daily schedule buffer"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Cosmetic & Restorative Dentistry",
+      "description": "Advanced procedures including dental implants, crowns, veneers, and full-mouth rehabilitation.",
+      "category": "Advanced",
+      "target_audience": "Patients seeking smile transformations or major restorations",
+      "features": [
+        "High-quality materials",
+        "Precision craftsmanship",
+        "Local lab partnership"
+      ],
+      "pricing_hint": null
+    },
+    {
+      "name": "Dentures & Full-Mouth Solutions",
+      "description": "Finest custom dentures crafted for comfort, aesthetics, and function.",
+      "category": "Specialized",
+      "target_audience": "Patients requiring tooth replacement",
+      "features": [
+        "Crafted from trusted local lab",
+        "Natural look and feel"
+      ],
+      "pricing_hint": null
+    }
+  ],
+  "contact_intelligence": {
+    "emails": [],
+    "phones": [
+      "(754) 253-3633",
+      "(754) 221-9988"
+    ],
+    "addresses": [
+      "4000 Sheridan St suite b, Hollywood, FL 33021, USA"
+    ],
+    "city": "Hollywood",
+    "state_or_region": "FL",
+    "country": "USA",
+    "social_links": [],
+    "contact_forms_found": true,
+    "business_hours": null,
+    "has_contact_method": true
+  },
+  "brand_and_content": {
+    "tone_and_voice": [
+      "welcoming",
+      "professional",
+      "authoritative",
+      "reassuring",
+      "accessible"
+    ],
+    "brand_positioning": "Boutique concierge dental care made accessible and affordable for the local South Florida community.",
+    "hero_headlines": [
+      "A more Complete dental experience has arrived in hollywood"
+    ],
+    "important_copy_snippets": [
+      "If you are looking for a top-rated dentist near me in Hollywood, FL, at Concierge Dentistry of South Florida, we believe patients should not have to travel to Boca, West Palm Beach, or Miami to experience truly elevated dental care.",
+      "We'll never let cost keep you from a beautiful smile."
+    ],
+    "content_quality_score": 8
+  },
+  "calls_to_action": [
+    {
+      "text": "EMERGENCY CALL NOW!",
+      "destination": "tel:+1-754-2533633",
+      "intent": "contact",
+      "prominence": "primary",
+      "location": "Hero"
+    },
+    {
+      "text": "GET IN ON THESE!",
+      "destination": "https://www.myaffordabledentistry.com/specials",
+      "intent": "lead_capture",
+      "prominence": "secondary",
+      "location": "Specials Section"
+    },
+    {
+      "text": "BOOK NOW!",
+      "destination": "https://www.myaffordabledentistry.com/bookings",
+      "intent": "booking",
+      "prominence": "primary",
+      "location": "Booking Banner"
+    },
+    {
+      "text": "ABOUT US",
+      "destination": "https://www.myaffordabledentistry.com/about-us",
+      "intent": "navigation",
+      "prominence": "secondary",
+      "location": "Concierge Section"
+    },
+    {
+      "text": "APPLY",
+      "destination": "https://sunbit.com/",
+      "intent": "checkout",
+      "prominence": "secondary",
+      "location": "Finance Section"
+    },
+    {
+      "text": "Subscribe",
+      "destination": null,
+      "intent": "lead_capture",
+      "prominence": "secondary",
+      "location": "Footer / Newsletter"
+    }
+  ],
+  "design_and_ux": {
+    "visual_aesthetic": "Clean corporate medical practice with a modern concierge touch",
+    "typography_assessment": "Clear sans-serif header and body font hierarchy, though heading sizes and casing vary slightly across sections.",
+    "color_palette_assessment": "Professional clinical palette featuring trustworthy medical blues, clean whites, and high-contrast dark text with vibrant accent buttons.",
+    "layout_and_spacing": "Modular card-based layout featuring distinct service callouts, financing partner badges, and prominent promotional banners.",
+    "ux_navigation_flow": "Clear, direct paths to booking, emergency calls, specials, and financing options right from the landing page.",
+    "visual_inputs_analyzed": false,
+    "screenshot_observations": [],
+    "strengths": [
+      "Prominent emergency contact and direct telephone integration",
+      "Clear promotional hooks ($29 Exam + X-Ray)",
+      "Strong trust signals through major financing partners (Sunbit, CareCredit, Cherry)"
+    ],
+    "weaknesses": [
+      "Brand naming inconsistency between 'Affordable Dentistry of South Florida' and 'Concierge Dentistry of South Florida'",
+      "Multiple disparate phone numbers displayed across different sections"
+    ]
+  },
+  "technical_and_seo": {
+    "inferred_tech_stack": [
+      "Next.js",
+      "Tailwind CSS",
+      "Vercel"
+    ],
+    "seo_health": "Good local SEO foundation with explicit meta descriptions and schema markup, but brand naming unification is needed for optimal GMB alignment.",
+    "seo_strengths": [
+      "Local keyword targeting ('dentist near me', 'Hollywood, FL')",
+      "Structured JSON-LD schema entities implemented",
+      "Geo-targeted metadata"
+    ],
+    "seo_weaknesses": [
+      "Dual business name references in metadata and copy may dilute local brand authority"
+    ],
+    "accessibility_observations": "High contrast buttons and clear interactive links, though image alt text should be audited across promotional banners.",
+    "performance_and_structure_notes": "Fast-loading single-page structure with clean semantic HTML landmarks."
+  },
+  "redesign_recommendations": {
+    "overall_redesign_verdict": "Minor refinement recommended to unify brand messaging and streamline conversion funnels rather than a complete architectural rebuild.",
+    "strategic_recommendations": [
+      "Unify the practice name across all headers, titles, and footers to eliminate confusion between Affordable Dentistry and Concierge Dentistry.",
+      "Consolidate contact phone numbers to a single primary number to prevent patient call routing confusion."
+    ],
+    "ui_ux_improvements": [
+      "Add a sticky mobile booking and emergency call bar for instant conversions on smartphones.",
+      "Enhance visual spacing around financing badges for cleaner visual rhythm."
+    ],
+    "rebuild_opportunities": [
+      "Integrate an automated online booking and patient intake widget directly into the landing page flow."
+    ],
+    "quick_wins": [
+      "Standardize the primary phone number in the header banner.",
+      "Add direct anchor links to the financing calculator."
+    ]
+  },
+  "template_recommendation": {
+    "recommended_template": "local-service-leadgen",
+    "template_category": "local_service",
+    "style_direction": "clean_corporate",
+    "layout_pattern": "single_page_anchor_flow",
+    "template_confidence": 0.95,
+    "key_sections": [
+      "hero",
+      "emergency_banner",
+      "services_bento",
+      "specials_promo",
+      "financing_partners",
+      "lead_booking_cta",
+      "footer"
+    ],
+    "reasoning": "A local service lead-generation template with clean corporate aesthetics and high-converting emergency/booking CTAs perfectly matches the needs of a modern dental practice."
+  },
+  "metadata": {
+    "provider": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "prompt_version": "1.0.0",
+    "analyzed_at": "2026-08-26T08:58:35.106645+00:00",
+    "screenshots_processed": 0,
+    "duration_seconds": 16.04,
+    "token_usage": null
+  },
+  "warnings": []
+}

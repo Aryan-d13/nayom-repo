@@ -1,0 +1,1976 @@
+[
+  {
+    "longitude": -97.8825773,
+    "input_id": "3FSMavOXBPPE4-EPnuKAuAI",
+    "link": "",
+    "cid": "",
+    "title": "Jack Allen's Kitchen Oak Hill",
+    "categories": [
+      "American restaurant",
+      "Brunch restaurant",
+      "Restaurant",
+      "Southwestern restaurant (US)"
+    ],
+    "category": "",
+    "address": "7720 State Hwy 71 West, Austin, TX 78735, United States",
+    "open_hours": {
+      "Monday": [
+        "11 am–9 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://www.jackallenskitchen.com/",
+    "phone": "+1512-852-8558",
+    "plus_code": "862464V8+CX",
+    "review_count": 0,
+    "review_rating": 4.6,
+    "reviews_per_rating": null,
+    "latitude": 30.2435734,
+    "longtitude": -97.8825773,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x865b497819550c5b:0x51f5579d6f2e3af4",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.716982,
+    "input_id": "3lSMavOpPIWw4-EPpuj2uQo",
+    "link": "",
+    "cid": "",
+    "title": "Vic and Al's",
+    "categories": [
+      "Cajun restaurant",
+      "Breakfast restaurant",
+      "Po’ boys restaurant",
+      "Restaurant"
+    ],
+    "category": "",
+    "address": "2406 Manor Rd D, Austin, TX 78722, United States",
+    "open_hours": {
+      "Monday": [
+        "11 am–11 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://www.vicandals.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=16065829198384685157",
+    "phone": "+1346-658-5809",
+    "plus_code": "862477MM+X6",
+    "review_count": 0,
+    "review_rating": 4.7,
+    "reviews_per_rating": null,
+    "latitude": 30.284943,
+    "longtitude": -97.716982,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b56fc9860415:0x1d28b50cac9fd2dd",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.7232758,
+    "input_id": "3lSMavOpPIWw4-EPpuj2uQo",
+    "link": "",
+    "cid": "",
+    "title": "Suerte",
+    "categories": [
+      "Mexican restaurant"
+    ],
+    "category": "",
+    "address": "1800 E 6th St, Austin, TX 78702, United States",
+    "open_hours": {
+      "Monday": [
+        "5–10 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.suerteatx.com/",
+    "phone": "+1512-522-3031",
+    "plus_code": "8624776G+WM",
+    "review_count": 0,
+    "review_rating": 4.6,
+    "reviews_per_rating": null,
+    "latitude": 30.2622778,
+    "longtitude": -97.7232758,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b5b6fb440001:0x48219815b3589371",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.7227868,
+    "input_id": "3lSMavOpPIWw4-EPpuj2uQo",
+    "link": "",
+    "cid": "",
+    "title": "Launderette",
+    "categories": [
+      "American restaurant",
+      "Restaurant"
+    ],
+    "category": "",
+    "address": "2115 Holly St, Austin, TX 78702, United States",
+    "open_hours": {
+      "Monday": [
+        "11 am–2:15 pm",
+        "5–10 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://launderetteaustin.com/",
+    "phone": "+1512-382-1599",
+    "plus_code": "8624772G+QV",
+    "review_count": 0,
+    "review_rating": 4.6,
+    "reviews_per_rating": null,
+    "latitude": 30.2518902,
+    "longtitude": -97.7227868,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b44b02e40143:0x358a05fe0dd85bfa",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.7215815,
+    "input_id": "3lSMavOpPIWw4-EPpuj2uQo",
+    "link": "",
+    "cid": "",
+    "title": "Sour Duck Market",
+    "categories": [
+      "American restaurant"
+    ],
+    "category": "",
+    "address": "1814 E Martin Luther King Jr Blvd, Austin, TX 78702, United States",
+    "open_hours": {
+      "Monday": [
+        "9 am–9 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://sourduckmarket.com/",
+    "phone": "+1512-394-5776",
+    "plus_code": "862477HH+X9",
+    "review_count": 0,
+    "review_rating": 4.5,
+    "reviews_per_rating": null,
+    "latitude": 30.2798806,
+    "longtitude": -97.7215815,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b594e1e61e01:0x70d7243021911e1c",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.72123169999999,
+    "input_id": "3lSMavOpPIWw4-EPpuj2uQo",
+    "link": "",
+    "cid": "",
+    "title": "Salty Sow",
+    "categories": [
+      "American restaurant"
+    ],
+    "category": "",
+    "address": "1917 Manor Rd, Austin, TX 78722, United States",
+    "open_hours": {
+      "Monday": [
+        "4–9 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://www.saltysow.com/",
+    "phone": "+1512-391-2337",
+    "plus_code": "862477MH+GG",
+    "review_count": 0,
+    "review_rating": 4.6,
+    "reviews_per_rating": null,
+    "latitude": 30.2838279,
+    "longtitude": -97.72123169999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b59369be58eb:0x6f73c991a0600c2a",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.73828669999999,
+    "input_id": "31SMapP4BaO4nesP9o-hkAg",
+    "link": "",
+    "cid": "",
+    "title": "Barley Swine",
+    "categories": [
+      "American restaurant",
+      "Bar",
+      "Fine dining restaurant",
+      "Restaurant",
+      "Small plates restaurant"
+    ],
+    "category": "",
+    "address": "6555 Burnet Rd #400, Austin, TX 78757, United States",
+    "open_hours": {
+      "Monday": [
+        "Closed"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://www.barleyswine.com/",
+    "phone": "+1512-394-8150",
+    "plus_code": "862487R6+GM",
+    "review_count": 0,
+    "review_rating": 4.7,
+    "reviews_per_rating": null,
+    "latitude": 30.341314599999997,
+    "longtitude": -97.73828669999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b4df2ef2dd89:0x47d117aa79f293fc",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.73782469999999,
+    "input_id": "31SMapP4BaO4nesP9o-hkAg",
+    "link": "",
+    "cid": "",
+    "title": "Roaring Fork",
+    "categories": [
+      "American restaurant"
+    ],
+    "category": "",
+    "address": "10850 Stonelake Blvd, Austin, TX 78759, United States",
+    "open_hours": {
+      "Monday": [
+        "4–9 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://roaringfork.com/",
+    "phone": "+1512-342-2700",
+    "plus_code": "8624C726+9V",
+    "review_count": 0,
+    "review_rating": 4.5,
+    "reviews_per_rating": null,
+    "latitude": 30.4008874,
+    "longtitude": -97.73782469999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644cc7b14ae180b:0x3106b969068a2f43",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.7215123,
+    "input_id": "31SMapP4BaO4nesP9o-hkAg",
+    "link": "",
+    "cid": "",
+    "title": "Culinary Dropout",
+    "categories": [
+      "American restaurant",
+      "Bar",
+      "Brunch restaurant",
+      "Charcuterie",
+      "Chicken restaurant",
+      "Hamburger restaurant",
+      "Live music bar",
+      "Lunch restaurant",
+      "New American restaurant",
+      "Restaurant"
+    ],
+    "category": "",
+    "address": "11721 Rock Rose Ave #100, Austin, TX 78758, United States",
+    "open_hours": {
+      "Monday": [
+        "11 am–11 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.culinarydropout.com/locations/austin-tx/?utm_source=Google&utm_medium=Organic&utm_campaign=Maps",
+    "phone": "+1512-777-3394",
+    "plus_code": "8624C73H+99",
+    "review_count": 0,
+    "review_rating": 4.4,
+    "reviews_per_rating": null,
+    "latitude": 30.4034725,
+    "longtitude": -97.7215123,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644cc72561ee0d5:0xe12eff88147950fd",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.7197442,
+    "input_id": "31SMapP4BaO4nesP9o-hkAg",
+    "link": "",
+    "cid": "",
+    "title": "Doc B's Restaurant",
+    "categories": [
+      "American restaurant",
+      "Bar",
+      "Restaurant"
+    ],
+    "category": "",
+    "address": "3001 Palm Way Ste 120, Austin, TX 78758, United States",
+    "open_hours": {
+      "Monday": [
+        "11 am–10 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://docbsrestaurant.com/locations/austin",
+    "phone": "+1512-672-8400",
+    "plus_code": "8624C73J+44",
+    "review_count": 0,
+    "review_rating": 4.7,
+    "reviews_per_rating": null,
+    "latitude": 30.4027556,
+    "longtitude": -97.7197442,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644cc729a302889:0x2455f0aa5c20fb89",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.74287299999999,
+    "input_id": "31SMapP4BaO4nesP9o-hkAg",
+    "link": "",
+    "cid": "",
+    "title": "Acre 41",
+    "categories": [
+      "Restaurant",
+      "Bar"
+    ],
+    "category": "",
+    "address": "1901 San Antonio St, Austin, TX 78705, United States",
+    "open_hours": {
+      "Monday": [
+        "7 am–2 pm",
+        "5–10 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.acre41austin.com/?utm_source=google&utm_medium=organic&utm_campaign=business_listing",
+    "phone": "+1737-243-9020",
+    "plus_code": "862477J4+XV",
+    "review_count": 0,
+    "review_rating": 4.8,
+    "reviews_per_rating": null,
+    "latitude": 30.282409299999998,
+    "longtitude": -97.74287299999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b5a5b6abeddd:0x38803822ae003c65",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.7492858,
+    "input_id": "3lSMasTROuiy4-EP7a_lgA8",
+    "link": "",
+    "cid": "",
+    "title": "ATX Cocina",
+    "categories": [
+      "Mexican restaurant"
+    ],
+    "category": "",
+    "address": "110 San Antonio St #170, Austin, TX 78701, United States",
+    "open_hours": {
+      "Monday": [
+        "5–10 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://www.atxcocina.com/",
+    "phone": "+1512-263-2322",
+    "plus_code": "86247772+X7",
+    "review_count": 0,
+    "review_rating": 4.6,
+    "reviews_per_rating": null,
+    "latitude": 30.264920099999998,
+    "longtitude": -97.7492858,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b50f70ffa159:0xa0c1027ee8ffa534",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.74932559999999,
+    "input_id": "3lSMasTROuiy4-EP7a_lgA8",
+    "link": "",
+    "cid": "",
+    "title": "The Guest House",
+    "categories": [
+      "New American restaurant",
+      "Steak house"
+    ],
+    "category": "",
+    "address": "110 San Antonio St Ste R140, Austin, TX 78701, United States",
+    "open_hours": {
+      "Monday": [
+        "4–10 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.welcometgh.com/",
+    "phone": "+1512-720-0000",
+    "plus_code": "86247782+77",
+    "review_count": 0,
+    "review_rating": 4.7,
+    "reviews_per_rating": null,
+    "latitude": 30.2656426,
+    "longtitude": -97.74932559999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b5f634da0ea9:0x95ae401d6be54410",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.7438317,
+    "input_id": "3lSMasTROuiy4-EP7a_lgA8",
+    "link": "",
+    "cid": "",
+    "title": "Corner Restaurant",
+    "categories": [
+      "Restaurant",
+      "American restaurant",
+      "Bar"
+    ],
+    "category": "",
+    "address": "110 E 2nd St, Austin, TX 78701, United States",
+    "open_hours": {
+      "Monday": [
+        "6:30 am–12 am"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.cornerrestaurantaustin.com/?utm_source=google&utm_medium=organic&utm_campaign=business_listing",
+    "phone": "+1512-608-4488",
+    "plus_code": "86247774+RF",
+    "review_count": 0,
+    "review_rating": 4.8,
+    "reviews_per_rating": null,
+    "latitude": 30.2645703,
+    "longtitude": -97.7438317,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b508789cc0c5:0x270f96c74f970af4",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.74494089999999,
+    "input_id": "3lSMasTROuiy4-EP7a_lgA8",
+    "link": "",
+    "cid": "",
+    "title": "Red Ash",
+    "categories": [
+      "Italian restaurant",
+      "Restaurant"
+    ],
+    "category": "",
+    "address": "Colorado Tower, 303 Colorado St #200, Austin, TX 78701, United States",
+    "open_hours": {
+      "Monday": [
+        "5–10 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://redashgrill.com/",
+    "phone": "+1512-379-2906",
+    "plus_code": "86247784+72",
+    "review_count": 0,
+    "review_rating": 4.7,
+    "reviews_per_rating": null,
+    "latitude": 30.2657022,
+    "longtitude": -97.74494089999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b5088b41fa59:0xada04b221220ebe",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.74157629999999,
+    "input_id": "3lSMasTROuiy4-EP7a_lgA8",
+    "link": "",
+    "cid": "",
+    "title": "Corinne Austin",
+    "categories": [
+      "Restaurant",
+      "American restaurant"
+    ],
+    "category": "",
+    "address": "304 E Cesar Chavez St, Austin, TX 78701, United States",
+    "open_hours": {
+      "Monday": [
+        "7 am–11 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.corinneatx.com/?utm_source=google&utm_medium=organic&utm_campaign=business_listing",
+    "phone": "+1737-787-7018",
+    "plus_code": "86247775+39",
+    "review_count": 0,
+    "review_rating": 4.8,
+    "reviews_per_rating": null,
+    "latitude": 30.262701099999997,
+    "longtitude": -97.74157629999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b5a2efae9207:0x29c9c30dffef66c0",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.7528456,
+    "input_id": "3lSMasTROuiy4-EP7a_lgA8",
+    "link": "",
+    "cid": "",
+    "title": "Ember Kitchen",
+    "categories": [
+      "Latin American restaurant"
+    ],
+    "category": "",
+    "address": "800 W Cesar Chavez St Ste PP110, Austin, TX 78701, United States",
+    "open_hours": {
+      "Monday": [
+        "5–10 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.emberatx.com/",
+    "phone": "+1512-291-6846",
+    "plus_code": "8624768W+QV",
+    "review_count": 0,
+    "review_rating": 4.8,
+    "reviews_per_rating": null,
+    "latitude": 30.266876,
+    "longtitude": -97.7528456,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b5723cde91d1:0x14bf1e14920af2da",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.74802439999999,
+    "input_id": "3lSMasTROuiy4-EP7a_lgA8",
+    "link": "",
+    "cid": "",
+    "title": "Aba Austin",
+    "categories": [
+      "Mediterranean restaurant",
+      "Bar",
+      "Restaurant"
+    ],
+    "category": "",
+    "address": "1011 S Congress Ave Bldg 2 Suite 180, Austin, TX 78704, United States",
+    "open_hours": {
+      "Monday": [
+        "11 am–10 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.abarestaurants.com/austin/",
+    "phone": "+1737-273-0199",
+    "plus_code": "86247732+8Q",
+    "review_count": 0,
+    "review_rating": 4.7,
+    "reviews_per_rating": null,
+    "latitude": 30.253315399999998,
+    "longtitude": -97.74802439999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b536d664f80d:0xc9f3e7f84a08d2dc",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.75673669999999,
+    "input_id": "3lSMasTROuiy4-EP7a_lgA8",
+    "link": "",
+    "cid": "",
+    "title": "Nido",
+    "categories": [
+      "Restaurant",
+      "American restaurant"
+    ],
+    "category": "",
+    "address": "Rooftop, 1211 W Riverside Dr, Austin, TX 78704, United States",
+    "open_hours": {
+      "Monday": [
+        "7 am–10 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.thelorenhotels.com/cuisine/restaurant#nido",
+    "phone": "+1512-580-1183",
+    "plus_code": "8624767V+J8",
+    "review_count": 0,
+    "review_rating": 4.5,
+    "reviews_per_rating": null,
+    "latitude": 30.264083799999998,
+    "longtitude": -97.75673669999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b56fbc6871cb:0x2d7cc03f74ed004b",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.7485651,
+    "input_id": "3lSMasTROuiy4-EP7a_lgA8",
+    "link": "",
+    "cid": "",
+    "title": "Fixe Southern House",
+    "categories": [
+      "Southern restaurant (US)"
+    ],
+    "category": "",
+    "address": "500 W 5th St, Austin, TX 78701, United States",
+    "open_hours": {
+      "Monday": [
+        "4–9 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://fixesouthernhouse.com/",
+    "phone": "+1512-888-9133",
+    "plus_code": "86247792+HH",
+    "review_count": 0,
+    "review_rating": 4.6,
+    "reviews_per_rating": null,
+    "latitude": 30.2688775,
+    "longtitude": -97.7485651,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b50eb631c4cd:0xdd01a7ff9e5f3595",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.73925779999999,
+    "input_id": "3lSMasTROuiy4-EP7a_lgA8",
+    "link": "",
+    "cid": "",
+    "title": "Geraldine's",
+    "categories": [
+      "Restaurant"
+    ],
+    "category": "",
+    "address": "605 Davis St, Austin, TX 78701, United States",
+    "open_hours": {
+      "Monday": [
+        "7–11 am",
+        "5–11 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.hotelvanzandt.com/geraldines/",
+    "phone": "+1512-476-4755",
+    "plus_code": "86247766+27",
+    "review_count": 0,
+    "review_rating": 4.6,
+    "reviews_per_rating": null,
+    "latitude": 30.260057399999997,
+    "longtitude": -97.73925779999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b5a97517417b:0xb8b44815c75713d8",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.7390667,
+    "input_id": "3lSMasTROuiy4-EP7a_lgA8",
+    "link": "",
+    "cid": "",
+    "title": "Emmer & Rye",
+    "categories": [
+      "Restaurant",
+      "American restaurant",
+      "Bar",
+      "Cocktail bar",
+      "Fine dining restaurant",
+      "Italian restaurant",
+      "New American restaurant",
+      "Small plates restaurant",
+      "Wine bar"
+    ],
+    "category": "",
+    "address": "SkyHouse, 51 Rainey St Unit 110, Austin, TX 78701, United States",
+    "open_hours": {
+      "Monday": [
+        "Closed"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://www.emmerandrye.com/",
+    "phone": "+1512-366-5530",
+    "plus_code": "86247746+X9",
+    "review_count": 0,
+    "review_rating": 4.4,
+    "reviews_per_rating": null,
+    "latitude": 30.2574194,
+    "longtitude": -97.7390667,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b5aa4ba7633d:0xfb14f97a7bd4e90c",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.7489064,
+    "input_id": "3lSMasTROuiy4-EP7a_lgA8",
+    "link": "",
+    "cid": "",
+    "title": "Verbena Food & Drink",
+    "categories": [
+      "Restaurant",
+      "Bar",
+      "Event venue",
+      "Lounge bar"
+    ],
+    "category": "",
+    "address": "612 W 6th St, Austin, TX 78701, United States",
+    "open_hours": {
+      "Monday": [
+        "7 am–10 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://verbenaatx.com/",
+    "phone": "+1512-991-3019",
+    "plus_code": "86247792+XC",
+    "review_count": 0,
+    "review_rating": 4.7,
+    "reviews_per_rating": null,
+    "latitude": 30.2699121,
+    "longtitude": -97.7489064,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b5671c80691b:0x38d7e3bd3637504b",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.7380364,
+    "input_id": "3lSMasTROuiy4-EP7a_lgA8",
+    "link": "",
+    "cid": "",
+    "title": "Garrison",
+    "categories": [
+      "Restaurant"
+    ],
+    "category": "",
+    "address": "101 Red River St, Austin, TX 78701, United States",
+    "open_hours": {
+      "Monday": [
+        "Closed"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.garrisongrill.com/?utm_source=google+Maps&utm_medium=seo+maps&utm_campaign=seo+maps",
+    "phone": "+1512-600-2000",
+    "plus_code": "86247766+QQ",
+    "review_count": 0,
+    "review_rating": 4.7,
+    "reviews_per_rating": null,
+    "latitude": 30.2619965,
+    "longtitude": -97.7380364,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b5a8e3404775:0x1c1feacbb73b7726",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.75979579999999,
+    "input_id": "3lSMasTROuiy4-EP7a_lgA8",
+    "link": "",
+    "cid": "",
+    "title": "Uchi Austin",
+    "categories": [
+      "Sushi restaurant",
+      "Asian fusion restaurant",
+      "Fine dining restaurant",
+      "Sushi takeaway"
+    ],
+    "category": "",
+    "address": "801 S Lamar Blvd, Austin, TX 78704, United States",
+    "open_hours": {
+      "Monday": [
+        "4–10 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://uchi.uchirestaurants.com/location/austin/",
+    "phone": "+1512-916-4808",
+    "plus_code": "8624765R+23",
+    "review_count": 0,
+    "review_rating": 4.6,
+    "reviews_per_rating": null,
+    "latitude": 30.2575392,
+    "longtitude": -97.75979579999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b51ecba165cf:0x6c41be37669e60ee",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.7422982,
+    "input_id": "3lSMasTROuiy4-EP7a_lgA8",
+    "link": "",
+    "cid": "",
+    "title": "Caroline",
+    "categories": [
+      "American restaurant",
+      "Coffee shop"
+    ],
+    "category": "",
+    "address": "621 Congress Ave Suite 101, Austin, TX 78701, United States",
+    "open_hours": {
+      "Monday": [
+        "7 am–11 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://www.carolinerestaurant.com/?utm_source=google&utm_medium=organic&utm_campaign=business_listing",
+    "phone": "+1512-982-6766",
+    "plus_code": "86247795+G3",
+    "review_count": 0,
+    "review_rating": 4.8,
+    "reviews_per_rating": null,
+    "latitude": 30.268815699999998,
+    "longtitude": -97.7422982,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b509e7e92743:0x38cd855b7c17b277",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.7412877,
+    "input_id": "3lSMasTROuiy4-EP7a_lgA8",
+    "link": "",
+    "cid": "",
+    "title": "Sapori Italian Roots",
+    "categories": [
+      "Restaurant"
+    ],
+    "category": "",
+    "address": "800 Brazos St Ste 215, Austin, TX 78701, United States",
+    "open_hours": {
+      "Monday": [
+        "4–10 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://saporiatx.com/",
+    "phone": "+1737-393-3784",
+    "plus_code": "86247795+WF",
+    "review_count": 0,
+    "review_rating": 4.8,
+    "reviews_per_rating": null,
+    "latitude": 30.269833499999997,
+    "longtitude": -97.7412877,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b5dcfd4ebba7:0x1b7abfe12cf1df5b",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.762051,
+    "input_id": "3lSMasTROuiy4-EP7a_lgA8",
+    "link": "",
+    "cid": "",
+    "title": "Odd Duck",
+    "categories": [
+      "New American restaurant",
+      "Restaurant"
+    ],
+    "category": "",
+    "address": "1201 S Lamar Blvd, Austin, TX 78704, United States",
+    "open_hours": {
+      "Monday": [
+        "4:30–9 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://oddduckaustin.com/",
+    "phone": "+1512-433-6521",
+    "plus_code": "8624763Q+V5",
+    "review_count": 0,
+    "review_rating": 4.7,
+    "reviews_per_rating": null,
+    "latitude": 30.254672,
+    "longtitude": -97.762051,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b51f9fffcf8b:0xb12c453f1063a7e7",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.7232758,
+    "input_id": "3lSMasTROuiy4-EP7a_lgA8",
+    "link": "",
+    "cid": "",
+    "title": "Suerte",
+    "categories": [
+      "Mexican restaurant"
+    ],
+    "category": "",
+    "address": "1800 E 6th St, Austin, TX 78702, United States",
+    "open_hours": {
+      "Monday": [
+        "5–10 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.suerteatx.com/",
+    "phone": "+1512-522-3031",
+    "plus_code": "8624776G+WM",
+    "review_count": 0,
+    "review_rating": 4.6,
+    "reviews_per_rating": null,
+    "latitude": 30.2622778,
+    "longtitude": -97.7232758,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b5b6fb440001:0x48219815b3589371",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.74287299999999,
+    "input_id": "3lSMasTROuiy4-EP7a_lgA8",
+    "link": "",
+    "cid": "",
+    "title": "Acre 41",
+    "categories": [
+      "Restaurant",
+      "Bar"
+    ],
+    "category": "",
+    "address": "1901 San Antonio St, Austin, TX 78705, United States",
+    "open_hours": {
+      "Monday": [
+        "7 am–2 pm",
+        "5–10 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://www.acre41austin.com/?utm_source=google&utm_medium=organic&utm_campaign=business_listing",
+    "phone": "+1737-243-9020",
+    "plus_code": "862477J4+XV",
+    "review_count": 0,
+    "review_rating": 4.8,
+    "reviews_per_rating": null,
+    "latitude": 30.282409299999998,
+    "longtitude": -97.74287299999999,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b5a5b6abeddd:0x38803822ae003c65",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.7215815,
+    "input_id": "3lSMasTROuiy4-EP7a_lgA8",
+    "link": "",
+    "cid": "",
+    "title": "Sour Duck Market",
+    "categories": [
+      "American restaurant"
+    ],
+    "category": "",
+    "address": "1814 E Martin Luther King Jr Blvd, Austin, TX 78702, United States",
+    "open_hours": {
+      "Monday": [
+        "9 am–9 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "http://sourduckmarket.com/",
+    "phone": "+1512-394-5776",
+    "plus_code": "862477HH+X9",
+    "review_count": 0,
+    "review_rating": 4.5,
+    "reviews_per_rating": null,
+    "latitude": 30.2798806,
+    "longtitude": -97.7215815,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644b594e1e61e01:0x70d7243021911e1c",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  },
+  {
+    "longitude": -97.7197442,
+    "input_id": "4VSMavPXJ-eRnesP-MuJ-QE",
+    "link": "",
+    "cid": "",
+    "title": "Doc B's Restaurant",
+    "categories": [
+      "American restaurant",
+      "Bar",
+      "Restaurant"
+    ],
+    "category": "",
+    "address": "3001 Palm Way Ste 120, Austin, TX 78758, United States",
+    "open_hours": {
+      "Monday": [
+        "11 am–10 pm"
+      ]
+    },
+    "popular_times": null,
+    "web_site": "https://docbsrestaurant.com/locations/austin",
+    "phone": "+1512-672-8400",
+    "plus_code": "8624C73J+44",
+    "review_count": 0,
+    "review_rating": 4.7,
+    "reviews_per_rating": null,
+    "latitude": 30.4027556,
+    "longtitude": -97.7197442,
+    "status": "",
+    "description": "",
+    "reviews_link": "",
+    "thumbnail": "",
+    "timezone": "America/Chicago",
+    "price_range": "",
+    "data_id": "0x8644cc729a302889:0x2455f0aa5c20fb89",
+    "street_view_url": "",
+    "place_id": "",
+    "images": null,
+    "reservations": null,
+    "order_online": null,
+    "menu": {
+      "link": "",
+      "source": ""
+    },
+    "owner": {
+      "id": "",
+      "name": "",
+      "link": ""
+    },
+    "complete_address": {
+      "borough": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country": ""
+    },
+    "credit_cards_accepted": null,
+    "about": null,
+    "user_reviews": null,
+    "user_reviews_extended": null,
+    "emails": null
+  }
+]

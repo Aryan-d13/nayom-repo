@@ -1,0 +1,316 @@
+{
+  "query": "Automobiles in Maryland",
+  "total_found": 10,
+  "usable_count": 10,
+  "grid_tiles_searched": 8,
+  "executed_at": "2026-08-21T07:34:22.187839+00:00",
+  "duration_seconds": 10.16,
+  "businesses": [
+    {
+      "id": "biz_0x89b903959678c833_0xf2ba8bd98807a778",
+      "name": "Peninsula Total Car Care",
+      "category": "Auto repair shop",
+      "categories": [
+        "Auto repair shop",
+        "Tire shop",
+        "Vehicle inspection service"
+      ],
+      "address": "309 E Carroll St, Salisbury, MD 21804, United States",
+      "city": "Salisbury",
+      "state": "MD",
+      "country": "United States",
+      "postal_code": "21804",
+      "latitude": 38.3631588,
+      "longitude": -75.5940681,
+      "phone": "+1410-219-7712",
+      "email": null,
+      "website": "http://www.peninsulatotalcarcare.com/?utm_campaign=gmb",
+      "rating": 4.8,
+      "review_count": 0,
+      "google_place_id": "0x89b903959678c833:0xf2ba8bd98807a778",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Peninsula%20Total%20Car%20Care%20309%20E%20Carroll%20St%2C%20Salisbury%2C%20MD%2021804%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-21T07:34:14.759340+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260821_073412_automobiles_in_maryland_raw.json"
+    },
+    {
+      "id": "biz_0x89b91d7f90f23a8d_0x15388dce39e7314a",
+      "name": "Automotive Services of Delmarva",
+      "category": "Auto repair shop",
+      "categories": [
+        "Auto repair shop"
+      ],
+      "address": "7066 Forest Grove Rd, Parsonsburg, MD 21849, United States",
+      "city": "Parsonsburg",
+      "state": "MD",
+      "country": "United States",
+      "postal_code": "21849",
+      "latitude": 38.3853735,
+      "longitude": -75.4727279,
+      "phone": "+1667-853-6033",
+      "email": null,
+      "website": "https://www.automotiveservicesofdelmarva.com/",
+      "rating": 5.0,
+      "review_count": 0,
+      "google_place_id": "0x89b91d7f90f23a8d:0x15388dce39e7314a",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Automotive%20Services%20of%20Delmarva%207066%20Forest%20Grove%20Rd%2C%20Parsonsburg%2C%20MD%2021849%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-21T07:34:14.759433+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260821_073412_automobiles_in_maryland_raw.json"
+    },
+    {
+      "id": "biz_0x89b927b9be5be4fd_0x7f83b6feabdb5453",
+      "name": "Racetrack Auto Sales",
+      "category": "Used car dealer",
+      "categories": [
+        "Used car dealer",
+        "Auto tag agency",
+        "Car detailing service",
+        "Trailer dealer"
+      ],
+      "address": "11740 Worcester Hwy, Showell, MD 21862, United States",
+      "city": "Showell",
+      "state": "MD",
+      "country": "United States",
+      "postal_code": "21862",
+      "latitude": 38.4034492,
+      "longitude": -75.2119195,
+      "phone": "+1410-352-5070",
+      "email": null,
+      "website": "https://www.racetrackoc.com/",
+      "rating": 4.5,
+      "review_count": 0,
+      "google_place_id": "0x89b927b9be5be4fd:0x7f83b6feabdb5453",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Racetrack%20Auto%20Sales%2011740%20Worcester%20Hwy%2C%20Showell%2C%20MD%2021862%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-21T07:34:14.759467+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260821_073412_automobiles_in_maryland_raw.json"
+    },
+    {
+      "id": "biz_0x89b76ba51628ff01_0x654c01f50ee3217a",
+      "name": "Hill's Auto Repair",
+      "category": "Auto repair shop",
+      "categories": [
+        "Auto repair shop"
+      ],
+      "address": "22829 Colton Point Rd, Bushwood, MD 20618, United States",
+      "city": "Bushwood",
+      "state": "MD",
+      "country": "United States",
+      "postal_code": "20618",
+      "latitude": 38.2894322,
+      "longitude": -76.7697281,
+      "phone": "+1301-769-2400",
+      "email": null,
+      "website": "https://www.hillsautorepair.com/",
+      "rating": 4.9,
+      "review_count": 0,
+      "google_place_id": "0x89b76ba51628ff01:0x654c01f50ee3217a",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Hill%27s%20Auto%20Repair%2022829%20Colton%20Point%20Rd%2C%20Bushwood%2C%20MD%2020618%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-21T07:34:15.143403+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260821_073412_automobiles_in_maryland_raw.json"
+    },
+    {
+      "id": "biz_0x89b773ab3f75510f_0xb57a1ae0fa0b9a6a",
+      "name": "Speed Lane Automotive",
+      "category": "Car dealer",
+      "categories": [
+        "Car dealer"
+      ],
+      "address": "28916 Three Notch Rd Unit 1, Mechanicsville, MD 20659, United States",
+      "city": "Mechanicsville",
+      "state": "MD",
+      "country": "United States",
+      "postal_code": "20659",
+      "latitude": 38.4630189,
+      "longitude": -76.7650994,
+      "phone": "+1703-868-9376",
+      "email": null,
+      "website": "https://www.speedlaneauto.com/",
+      "rating": 4.8,
+      "review_count": 0,
+      "google_place_id": "0x89b773ab3f75510f:0xb57a1ae0fa0b9a6a",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Speed%20Lane%20Automotive%2028916%20Three%20Notch%20Rd%20Unit%201%2C%20Mechanicsville%2C%20MD%2020659%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-21T07:34:15.143498+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260821_073412_automobiles_in_maryland_raw.json"
+    },
+    {
+      "id": "biz_0x89b707fb85e24301_0x48c5a05a2f07afb",
+      "name": "Southern Maryland Auto Repair",
+      "category": "Auto repair shop",
+      "categories": [
+        "Auto repair shop"
+      ],
+      "address": "6530 Bensville Rd, Pomfret, MD 20675, United States",
+      "city": "Pomfret",
+      "state": "MD",
+      "country": "United States",
+      "postal_code": "20675",
+      "latitude": 38.5877433,
+      "longitude": -77.01683609999999,
+      "phone": "+1301-645-9639",
+      "email": null,
+      "website": null,
+      "rating": 4.8,
+      "review_count": 0,
+      "google_place_id": "0x89b707fb85e24301:0x48c5a05a2f07afb",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Southern%20Maryland%20Auto%20Repair%206530%20Bensville%20Rd%2C%20Pomfret%2C%20MD%2020675%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-21T07:34:15.143523+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing website",
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260821_073412_automobiles_in_maryland_raw.json"
+    },
+    {
+      "id": "biz_0x28f2f747bcef003b_0x7fa22c2c0a851130",
+      "name": "MOD AUTOMOTIVE LLC",
+      "category": "Vehicle wrapping service",
+      "categories": [
+        "Vehicle wrapping service",
+        "Auto repair shop"
+      ],
+      "address": "28 Industrial Park Dr Unit H, Waldorf, MD 20602, United States",
+      "city": "Waldorf",
+      "state": "MD",
+      "country": "United States",
+      "postal_code": "20602",
+      "latitude": 38.6173632,
+      "longitude": -76.9086767,
+      "phone": "+1240-410-7333",
+      "email": null,
+      "website": "http://www.modautomotivellc.com/",
+      "rating": 5.0,
+      "review_count": 0,
+      "google_place_id": "0x28f2f747bcef003b:0x7fa22c2c0a851130",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=MOD%20AUTOMOTIVE%20LLC%2028%20Industrial%20Park%20Dr%20Unit%20H%2C%20Waldorf%2C%20MD%2020602%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-21T07:34:15.143554+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260821_073412_automobiles_in_maryland_raw.json"
+    },
+    {
+      "id": "biz_0x89b700878d62897b_0xe97283fa0188462c",
+      "name": "Ben Nielsen's Charles County Automotive",
+      "category": "Auto repair shop",
+      "categories": [
+        "Auto repair shop",
+        "Auto air conditioning service",
+        "Auto tune up service",
+        "Brake shop",
+        "Car repair and maintenance service",
+        "Mechanic",
+        "Muffler shop",
+        "Oil change service",
+        "Tire shop",
+        "Wheel alignment service"
+      ],
+      "address": "4615 MD-210, Indian Head, MD 20640, United States",
+      "city": "Indian Head",
+      "state": "MD",
+      "country": "United States",
+      "postal_code": "20640",
+      "latitude": 38.600926099999995,
+      "longitude": -77.1480217,
+      "phone": "+1301-743-5000",
+      "email": null,
+      "website": "http://www.charlescountyautomotive.com/?utm_campaign=gmb",
+      "rating": 4.6,
+      "review_count": 0,
+      "google_place_id": "0x89b700878d62897b:0xe97283fa0188462c",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ben%20Nielsen%27s%20Charles%20County%20Automotive%204615%20MD-210%2C%20Indian%20Head%2C%20MD%2020640%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-21T07:34:15.143576+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260821_073412_automobiles_in_maryland_raw.json"
+    },
+    {
+      "id": "biz_0x89b7bbaf041caa0f_0xa64f2d545ebadc10",
+      "name": "Arlington Motors of Maryland",
+      "category": "Motor vehicle dealer",
+      "categories": [
+        "Motor vehicle dealer"
+      ],
+      "address": "4711 Auth Pl, Camp Springs, MD 20746, United States",
+      "city": "Camp Springs",
+      "state": "MD",
+      "country": "United States",
+      "postal_code": "20746",
+      "latitude": 38.8256217,
+      "longitude": -76.92106869999999,
+      "phone": "+1301-888-6733",
+      "email": null,
+      "website": "https://www.arlingtonmotormd.com/",
+      "rating": 4.9,
+      "review_count": 0,
+      "google_place_id": "0x89b7bbaf041caa0f:0xa64f2d545ebadc10",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Arlington%20Motors%20of%20Maryland%204711%20Auth%20Pl%2C%20Camp%20Springs%2C%20MD%2020746%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-21T07:34:15.143597+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260821_073412_automobiles_in_maryland_raw.json"
+    },
+    {
+      "id": "biz_0x89b7bb00415de22b_0xa2a84099e62c3b96",
+      "name": "Auto hispano - Arlington Motors of Maryland",
+      "category": "Car dealer",
+      "categories": [
+        "Car dealer"
+      ],
+      "address": "4711 Auth Pl, Camp Springs, MD 20746, United States",
+      "city": "Camp Springs",
+      "state": "MD",
+      "country": "United States",
+      "postal_code": "20746",
+      "latitude": 38.8256217,
+      "longitude": -76.92106869999999,
+      "phone": "+1240-463-6564",
+      "email": null,
+      "website": "https://www.arlingtonmotormd.com/cars-for-sale",
+      "rating": 4.8,
+      "review_count": 0,
+      "google_place_id": "0x89b7bb00415de22b:0xa2a84099e62c3b96",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Auto%20hispano%20-%20Arlington%20Motors%20of%20Maryland%204711%20Auth%20Pl%2C%20Camp%20Springs%2C%20MD%2020746%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-21T07:34:15.143617+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260821_073412_automobiles_in_maryland_raw.json"
+    }
+  ]
+}

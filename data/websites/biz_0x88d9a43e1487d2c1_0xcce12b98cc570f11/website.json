@@ -1,0 +1,527 @@
+{
+  "request": {
+    "url": "http://myfloridadentist.net/",
+    "site_id": "biz_0x88d9a43e1487d2c1_0xcce12b98cc570f11",
+    "max_pages": 20,
+    "render_js": false,
+    "screenshot": false,
+    "concurrency": 5,
+    "timeout": 20,
+    "delay": 0.25,
+    "use_sitemap": true,
+    "include_subdomains": false,
+    "min_words": 5,
+    "download_images": false,
+    "user_agent": null
+  },
+  "site_id": "biz_0x88d9a43e1487d2c1_0xcce12b98cc570f11",
+  "base_url": "http://myfloridadentist.net/",
+  "domain": "myfloridadentist.net",
+  "total_pages_crawled": 1,
+  "successful_pages": 1,
+  "failed_pages": 0,
+  "pages": [
+    {
+      "url": "http://myfloridadentist.net/",
+      "path": "/",
+      "title": "Biomimetic dentist | Florida Dental Health & Esthetics Institute | Miramar",
+      "status_code": 200,
+      "crawled_at": "2026-08-26T08:58:27.403825+00:00",
+      "duration_ms": 7097.23,
+      "content": {
+        "markdown": "*Looking for the best dental care? Dr. Suate is a Biomimetic general and cosmetic dentist that has created a relaxing atmosphere at Florida Dental Health and Esthetics Institute to make your smile healthy and beautiful!*\n\n\n[Image: 20260305_073702.jpg]\n\n###### WELCOME TO\n\n###### FLORIDA DENTAL HEALTH &  ESTHETICS INSTITUTE\n\nUncompromised Excellence\n\nin Dental Care\n\nRequest an Appointment\n\nAbout us\n\n## THE BIOMIMETIC DIFFERENCE\n\nBiomimetic dentistry is a form of dental care science-based that aims to mimic the natural composition of the teeth, using materials that are as close to the tooth structure as possible.\n\n​\n\nBiomimetic dentistry focuses on less invasive treatment methods, conserving as much natural tooth structure as possible, it relies on techniques that only removes the decayed and damaged area of your teeth, and then using advanced adhesive techniques creates a restoration that behaves naturally and is longer-lasting.\n\n​\n\nBiomimetic dentistry looks to preserve the dental pulp and minimize the need for root canals, remove the disease,  repair or eliminate cracks, preserve and reinforce tooth structure and delay retreatment.\n\nREQUEST AN APPOINTMENT\n\n## our team\n\nWe are a highly educated and trained team, which is motivated and committed to the well being of our patients and delivering the best dental care without compromises.\n\nOur goal is to be a dental home for our patients, listening to their needs, treating them with respect and kindness to deliver high quality dentistry in a pleasant and positive environment.\n\nWe value our patients and build honest relationships with them, help them achieve and maintain optimal dental health and esthetics to improve their overall health, appearance and quality of life.\n\nOur Team\n\n[[Image: 0C58649D-68E4-486D-AF8F-ECD78B0B45AB_edi]](https://www.myfloridadentist.net/drisabelsuate)\n\nDr. Isabel Suate\n\nBiomimetic & Cosmetic Dentist\n\n[[Image: AA951524-7930-4266-BF4D-B160C442C3C4_edited.png]](https://www.myfloridadentist.net/about-dranatoro)\n\nDr. Ana Toro\n\nBiomimetic  Dentist\n\n[[Image: drmas_edited_edited.png]](https://www.myfloridadentist.net/copy-of-about-dr-ana-toro)\n\n[Dr. Emilia Mas](https://www.myfloridadentist.net/copy-of-about-dr-ana-toro)\n\nBiomimetic  Dentist\n\n[Meet all the Team](https://www.myfloridadentist.net/team-4)\n\n[Image: ABD logo.png]\n\n## WHAT PEOPLE SAY\n\n## Priscilla C.\n\nDr. Suate is absolutely amazing, and the staff is just as great. From the moment you walk in through the door, to the moment you leave they make you feel super comfortable. Not everyone likes a visit to the dentist, but you will love visiting Dr. Suate and her team. They take their time with you, and make sure all your dental needs are met and taken care of. They are truly remarkable.\n\n## Tania O.\n\nI was highly recommended to this dental office by a close friend and I cannot thank her enough! From the dentist herself to the staff to the hygienist and to how nice and clean the office is, I would definitely recommend family, friends and all of the above. They are all very friendly, welcoming and attentive to your needs. It feels like I’ve been going here for years. I can, without a doubt, trust these people to keep my smile looking amazing!!\n\n## Ingrid M.\n\nAwesome office. Absolutely everyone was so nice and helpful. Got there and barely had any wait to go in. Everyone was extremely courteous and professional. Felt super comfortable. The cleaning was well done. And really enjoyed meeting with Dr. Suate, she explained everything super well, answered any questions I had. Didn't just rush through everything. Overall super pleasant dentist visit.\n\nHappy patients\n\n## OUR OFFICE\n\nOur Office\n\n## High tech, relaxing, clean office\n\nDesigned\n\nto give you a comfortable and enjoyable experience\n\n## CONTACT US\n\n#### Adress\n\n14601 SW 29 St, Suite 201\n\nMiramar, FL 33027\n\n[info@myfloridadentist.net](mailto:info@myfloridadentist.net) \\\\ Tel: 754-500-1050\n\n#### Hours\n\nMondays  8AM – 4PM\n\nTuesdays  8AM – 4PM\n\nWednesdays 10AM – 6PM\n\nThursdays  8AM – 4PM\n\nFridays  8AM – 4PM\n\n​\n\nContact\n\n## connect with us on instagram\n\n[Privacy Policy](https://www.myfloridadentist.net/privacy)\n\n[Website Accessibility Statement](https://www.myfloridadentist.net/website-accesability)\n\n[Chat](https://wa.me/+17545001050)",
+        "plain_text": "top of page Home Privacy Website accesability About Our Team How can we help you More Use tab to navigate through the menu items. Call Us 754-500-1050 BIOMIMETIC ● COSMETIC ● GENERAL DENTISTRY Home Our Team Our Office Contact Happy patients About us WELCOME TO FLORIDA DENTAL HEALTH & ESTHETICS INSTITUTE Uncompromised Excellence in Dental Care Request an Appointment About us THE BIOMIMETIC DIFFERENCE Biomimetic dentistry is a form of dental care science-based that aims to mimic the natural composition of the teeth, using materials that are as close to the tooth structure as possible. ​ Biomimetic dentistry focuses on less invasive treatment methods, conserving as much natural tooth structure as possible, it relies on techniques that only removes the decayed and damaged area of your teeth, and then using advanced adhesive techniques creates a restoration that behaves naturally and is longer-lasting. ​ Biomimetic dentistry looks to preserve the dental pulp and minimize the need for root canals, remove the disease, repair or eliminate cracks, preserve and reinforce tooth structure and delay retreatment. REQUEST AN APPOINTMENT our team We are a highly educated and trained team, which is motivated and committed to the well being of our patients and delivering the best dental care without compromises. Our goal is to be a dental home for our patients, listening to their needs, treating them with respect and kindness to deliver high quality dentistry in a pleasant and positive environment. We value our patients and build honest relationships with them, help them achieve and maintain optimal dental health and esthetics to improve their overall health, appearance and quality of life. Our Team Dr. Isabel Suate Biomimetic & Cosmetic Dentist Dr. Ana Toro Biomimetic Dentist Dr. Emilia Mas Biomimetic Dentist Meet all the Team WHAT PEOPLE SAY Priscilla C. Dr. Suate is absolutely amazing, and the staff is just as great. From the moment you walk in through the door, to the moment you leave they make you feel super comfortable. Not everyone likes a visit to the dentist, but you will love visiting Dr. Suate and her team. They take their time with you, and make sure all your dental needs are met and taken care of. They are truly remarkable. Tania O. I was highly recommended to this dental office by a close friend and I cannot thank her enough! From the dentist herself to the staff to the hygienist and to how nice and clean the office is, I would definitely recommend family, friends and all of the above. They are all very friendly, welcoming and attentive to your needs. It feels like I’ve been going here for years. I can, without a doubt, trust these people to keep my smile looking amazing!! Ingrid M. Awesome office. Absolutely everyone was so nice and helpful. Got there and barely had any wait to go in. Everyone was extremely courteous and professional. Felt super comfortable. The cleaning was well done. And really enjoyed meeting with Dr. Suate, she explained everything super well, answered any questions I had. Didn't just rush through everything. Overall super pleasant dentist visit. Happy patients OUR OFFICE Our Office High tech, relaxing, clean office Designed to give you a comfortable and enjoyable experience CONTACT US Adress 14601 SW 29 St, Suite 201 Miramar, FL 33027 info@myfloridadentist.net \\\\ Tel: 754-500-1050 Hours Mondays 8AM – 4PM Tuesdays 8AM – 4PM Wednesdays 10AM – 6PM Thursdays 8AM – 4PM Fridays 8AM – 4PM ​ Contact connect with us on instagram Privacy Policy Website Accessibility Statement Chat bottom of page",
+        "word_count": 588,
+        "character_count": 3569,
+        "excerpt": "top of page Home Privacy Website accesability About Our Team How can we help you More Use tab to navigate through the menu items. Call Us 754-500-1050 BIOMIMETIC ● COSMETIC ● GENERAL DENTISTRY Home Our Team Our Office Contact Happy patients About us..."
+      },
+      "headings": [
+        {
+          "level": 4,
+          "text": "BIOMIMETIC ● COSMETIC ● GENERAL DENTISTRY",
+          "id": null
+        },
+        {
+          "level": 6,
+          "text": "WELCOME TO",
+          "id": null
+        },
+        {
+          "level": 6,
+          "text": "FLORIDA DENTAL HEALTH & ESTHETICS INSTITUTE",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "THE BIOMIMETIC DIFFERENCE",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "our team",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "WHAT PEOPLE SAY",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Priscilla C.",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Tania O.",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Ingrid M.",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "OUR OFFICE",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "High tech, relaxing, clean office",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "CONTACT US",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Adress",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Hours",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "connect with us on instagram",
+          "id": null
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.myfloridadentist.net",
+          "text": "Home",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.myfloridadentist.net/privacy",
+          "text": "Privacy",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.myfloridadentist.net/website-accesability",
+          "text": "Website accesability",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.myfloridadentist.net/drisabelsuate",
+          "text": "About",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.myfloridadentist.net",
+          "text": "Our Team",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.myfloridadentist.net/how-can-we-help-you",
+          "text": "How can we help you",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "tel:754-500-1050",
+          "text": "Call Us 754-500-1050",
+          "title": "Phone: 754-500-1050",
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.myfloridadentist.net",
+          "text": "final2.jpg",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.facebook.com/myfloridadentist",
+          "text": "White Facebook Icon",
+          "title": null,
+          "is_external": true,
+          "rel": "noreferrer noopener"
+        },
+        {
+          "url": "https://www.instagram.com/myfloridadentist/",
+          "text": "White Instagram Icon",
+          "title": null,
+          "is_external": true,
+          "rel": "noreferrer noopener"
+        },
+        {
+          "url": "https://www.myfloridadentist.net",
+          "text": "Our Office",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.myfloridadentist.net",
+          "text": "Contact",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.myfloridadentist.net",
+          "text": "Happy patients",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.myfloridadentist.net",
+          "text": "About us",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "http://myfloridadentist.net/#comp-k8j48yx9",
+          "text": "",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "http://myfloridadentist.net/#comp-lujqjw60",
+          "text": "",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.myfloridadentist.net/drisabelsuate",
+          "text": "0C58649D-68E4-486D-AF8F-ECD78B0B45AB_edi",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.myfloridadentist.net/about-dranatoro",
+          "text": "AA951524-7930-4266-BF4D-B160C442C3C4_edited.png",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.myfloridadentist.net/copy-of-about-dr-ana-toro",
+          "text": "drmas_edited_edited.png",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.myfloridadentist.net/copy-of-about-dr-ana-toro",
+          "text": "Dr. Emilia Mas",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.myfloridadentist.net/team-4",
+          "text": "Meet all the Team",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "mailto:info@myfloridadentist.net",
+          "text": "info@myfloridadentist.net",
+          "title": "Email: info@myfloridadentist.net",
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.myfloridadentist.net/privacy",
+          "text": "Privacy Policy",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.myfloridadentist.net/website-accesability",
+          "text": "Website Accessibility Statement",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://wa.me/+17545001050",
+          "text": "Chat",
+          "title": null,
+          "is_external": true,
+          "rel": "noreferrer noopener"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://static.wixstatic.com/media/f23dde_10fc6787ced644b293c911acce2ef667~mv2.jpg/v1/crop/x_53,y_128,w_2236,h_639/fill/w_251,h_71,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/final2.jpg",
+          "alt": "final2.jpg",
+          "title": null,
+          "width": 251,
+          "height": 71,
+          "loading": null,
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/23fd2a2be53141ed810f4d3dcdcd01fa.png/v1/fill/w_25,h_25,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/23fd2a2be53141ed810f4d3dcdcd01fa.png",
+          "alt": "White Facebook Icon",
+          "title": null,
+          "width": 25,
+          "height": 25,
+          "loading": null,
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/81af6121f84c41a5b4391d7d37fce12a.png/v1/fill/w_25,h_25,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/81af6121f84c41a5b4391d7d37fce12a.png",
+          "alt": "White Instagram Icon",
+          "title": null,
+          "width": 25,
+          "height": 25,
+          "loading": null,
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/f23dde_857e05e3ad41432a9233ca4e2d259d49~mv2.jpg/v1/fill/w_182,h_136,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/f23dde_857e05e3ad41432a9233ca4e2d259d49~mv2.jpg",
+          "alt": "20260305_073702.jpg",
+          "title": null,
+          "width": 1805,
+          "height": 909,
+          "loading": null,
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/f23dde_a4344c77ff594824bcd662f445b273dd~mv2.png/v1/fill/w_269,h_323,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0C58649D-68E4-486D-AF8F-ECD78B0B45AB_edi.png",
+          "alt": "0C58649D-68E4-486D-AF8F-ECD78B0B45AB_edi",
+          "title": null,
+          "width": 269,
+          "height": 323,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/f23dde_e64d443ad7db4d85b461dbc0c1d71fca~mv2.png/v1/fill/w_269,h_323,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/AA951524-7930-4266-BF4D-B160C442C3C4_edited.png",
+          "alt": "AA951524-7930-4266-BF4D-B160C442C3C4_edited.png",
+          "title": null,
+          "width": 269,
+          "height": 323,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/f23dde_a8e9bd6d24d1479bbea4fdb579cfae78~mv2.png/v1/crop/x_149,y_40,w_763,h_916/fill/w_269,h_323,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/drmas_edited_edited.png",
+          "alt": "drmas_edited_edited.png",
+          "title": null,
+          "width": 269,
+          "height": 323,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/f23dde_33624f813ab94a1881767a0622dac909~mv2.png/v1/crop/x_0,y_0,w_400,h_288/fill/w_159,h_116,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/f23dde_33624f813ab94a1881767a0622dac909~mv2.png",
+          "alt": null,
+          "title": null,
+          "width": 159,
+          "height": 116,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/f23dde_b58152a8f74243cdb6b6396fed56e338~mv2.png/v1/fill/w_170,h_93,al_c,lg_1,q_85,enc_avif,quality_auto/ABD%20logo.png",
+          "alt": "ABD logo.png",
+          "title": null,
+          "width": 170,
+          "height": 93,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/f23dde_e6c49b64bc5042efa376c2c95b946b00~mv2.png/v1/fill/w_156,h_114,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/f23dde_e6c49b64bc5042efa376c2c95b946b00~mv2.png",
+          "alt": null,
+          "title": null,
+          "width": 156,
+          "height": 114,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/f23dde_1e4068680a8340b9936436ad80d92406~mv2.png/v1/crop/x_0,y_1,w_124,h_118/fill/w_68,h_63,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/f23dde_1e4068680a8340b9936436ad80d92406~mv2.png",
+          "alt": null,
+          "title": null,
+          "width": 68,
+          "height": 63,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/f23dde_1e4068680a8340b9936436ad80d92406~mv2.png/v1/crop/x_133,y_1,w_367,h_118/fill/w_220,h_68,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/f23dde_1e4068680a8340b9936436ad80d92406~mv2.png",
+          "alt": null,
+          "title": null,
+          "width": 220,
+          "height": 68,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/f23dde_4aa097741cad4a379ebd47c49a6426dc~mv2.jpg/v1/fill/w_124,h_115,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/f23dde_4aa097741cad4a379ebd47c49a6426dc~mv2.jpg",
+          "alt": null,
+          "title": null,
+          "width": 124,
+          "height": 115,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://static.wixstatic.com/media/f23dde_cce272f06b004c168d35d7de740432ef~mv2.jpg/v1/fill/w_101,h_75,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/f23dde_cce272f06b004c168d35d7de740432ef~mv2.jpg",
+          "alt": null,
+          "title": null,
+          "width": 559,
+          "height": 613,
+          "loading": null,
+          "local_path": null
+        }
+      ],
+      "metadata": {
+        "title": "Biomimetic dentist | Florida Dental Health & Esthetics Institute | Miramar",
+        "description": "Looking for the best dental care? Dr. Suate is a Biomimetic general and cosmetic dentist that has created a relaxing atmosphere at Florida Dental Health and Esthetics Institute to make your smile healthy and beautiful!",
+        "keywords": [],
+        "canonical": "https://www.myfloridadentist.net",
+        "language": "en",
+        "charset": "utf-8",
+        "viewport": "width=device-width, initial-scale=1",
+        "author": null,
+        "robots": null,
+        "og_tags": {
+          "og:title": "Biomimetic dentist | Florida Dental Health & Esthetics Institute | Miramar",
+          "og:description": "Looking for the best dental care? Dr. Suate is a Biomimetic general and cosmetic dentist that has created a relaxing atmosphere at Florida Dental Health and Esthetics Institute to make your smile healthy and beautiful!",
+          "og:url": "https://www.myfloridadentist.net",
+          "og:site_name": "Myisa2020",
+          "og:type": "website"
+        },
+        "twitter_tags": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Biomimetic dentist | Florida Dental Health & Esthetics Institute | Miramar",
+          "twitter:description": "Looking for the best dental care? Dr. Suate is a Biomimetic general and cosmetic dentist that has created a relaxing atmosphere at Florida Dental Health and Esthetics Institute to make your smile healthy and beautiful!"
+        },
+        "favicon": "https://static.parastorage.com/client/pfavico.ico",
+        "other_meta": {
+          "generator": "Wix.com Website Builder",
+          "format-detection": "telephone=no",
+          "skype_toolbar": "skype_toolbar_parser_compatible",
+          "google-site-verification": "k--3JTweySEhXh6l1YPrsf82KJezAjV2mpJ7aDtFdU0"
+        }
+      },
+      "forms": [],
+      "buttons": [
+        {
+          "text": "Call Us 754-500-1050",
+          "type": "link_cta",
+          "href": "tel:754-500-1050",
+          "onclick": null,
+          "id": null,
+          "class_name": "StylableButton2545352419__root style-ky0mrcsv__root wixui-button StylableButton2545352419__link",
+          "is_cta": true
+        },
+        {
+          "text": "Meet all the Team",
+          "type": "link_cta",
+          "href": "https://www.myfloridadentist.net/team-4",
+          "onclick": null,
+          "id": null,
+          "class_name": "twJknM wixui-button ZhVEJq",
+          "is_cta": true
+        },
+        {
+          "text": "Privacy Policy",
+          "type": "link_cta",
+          "href": "https://www.myfloridadentist.net/privacy",
+          "onclick": null,
+          "id": null,
+          "class_name": "twJknM wixui-button ZhVEJq",
+          "is_cta": true
+        },
+        {
+          "text": "Website Accessibility Statement",
+          "type": "link_cta",
+          "href": "https://www.myfloridadentist.net/website-accesability",
+          "onclick": null,
+          "id": null,
+          "class_name": "twJknM wixui-button ZhVEJq",
+          "is_cta": true
+        },
+        {
+          "text": "Chat",
+          "type": "link_cta",
+          "href": "https://wa.me/+17545001050",
+          "onclick": null,
+          "id": null,
+          "class_name": "StylableButton2545352419__root style-l5obcrxo__root wixui-button StylableButton2545352419__link",
+          "is_cta": true
+        }
+      ],
+      "structured_data": {
+        "json_ld": [
+          {
+            "@context": "https://schema.org/",
+            "@type": "WebSite",
+            "name": "Myisa2020",
+            "url": "https://www.myfloridadentist.net"
+          }
+        ],
+        "opengraph": {},
+        "microdata": []
+      },
+      "screenshot_path": null,
+      "raw_markdown_path": null,
+      "is_success": true,
+      "errors": [],
+      "warnings": []
+    }
+  ],
+  "sitemap_urls_found": 0,
+  "site_title": "Biomimetic dentist | Florida Dental Health & Esthetics Institute | Miramar",
+  "site_description": "Looking for the best dental care? Dr. Suate is a Biomimetic general and cosmetic dentist that has created a relaxing atmosphere at Florida Dental Health and Esthetics Institute to make your smile healthy and beautiful!",
+  "started_at": "2026-08-26T08:58:08.686427+00:00",
+  "completed_at": "2026-08-26T08:58:27.477926+00:00",
+  "duration_seconds": 18.79,
+  "raw_output_dir": "E:\\Code\\Nayom\\data\\websites\\biz_0x88d9a43e1487d2c1_0xcce12b98cc570f11\\raw",
+  "website_json_path": "E:\\Code\\Nayom\\data\\websites\\biz_0x88d9a43e1487d2c1_0xcce12b98cc570f11\\website.json",
+  "errors": [],
+  "warnings": []
+}

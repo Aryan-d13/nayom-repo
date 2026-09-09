@@ -1,0 +1,329 @@
+{
+  "query": "gyms in Miami FL",
+  "total_found": 10,
+  "usable_count": 10,
+  "executed_at": "2026-08-21T07:20:19.200608+00:00",
+  "duration_seconds": 4.41,
+  "businesses": [
+    {
+      "id": "biz_0x88d9b68479e43deb_0x64053ec7e7534be3",
+      "name": "LA Fitness",
+      "category": "Gym",
+      "categories": [
+        "Gym"
+      ],
+      "address": "900 S Miami Ave Spc 236, Miami, FL 33130, United States",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "postal_code": "33130",
+      "latitude": 25.7650877,
+      "longitude": -80.1942998,
+      "phone": "+1786-718-1750",
+      "email": null,
+      "website": "https://www.lafitness.com/Pages/clubhome.aspx?clubid=553&utm_source=google&utm_medium=googlemaps&utm_campaign=maps",
+      "rating": 3.7,
+      "review_count": 0,
+      "google_place_id": "0x88d9b68479e43deb:0x64053ec7e7534be3",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=LA%20Fitness%20900%20S%20Miami%20Ave%20Spc%20236%2C%20Miami%2C%20FL%2033130%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-21T07:20:19.200264+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260821_072014_gyms_in_miami_fl_raw.json"
+    },
+    {
+      "id": "biz_0x88d9b7a7544e69bb_0x62d817080d072db6",
+      "name": "City Zero Miami",
+      "category": "Gym",
+      "categories": [
+        "Gym"
+      ],
+      "address": "591 SW 8th St, Miami, FL 33130, United States",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "postal_code": "33130",
+      "latitude": 25.7662727,
+      "longitude": -80.2039672,
+      "phone": "+1305-204-2497",
+      "email": null,
+      "website": "https://cityzero.com/",
+      "rating": 4.8,
+      "review_count": 0,
+      "google_place_id": "0x88d9b7a7544e69bb:0x62d817080d072db6",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=City%20Zero%20Miami%20591%20SW%208th%20St%2C%20Miami%2C%20FL%2033130%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-21T07:20:19.200360+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260821_072014_gyms_in_miami_fl_raw.json"
+    },
+    {
+      "id": "biz_0x88d9b7f750cb1023_0x3fcdec40f4f916b9",
+      "name": "Downtown Strength and Conditioning",
+      "category": "Gym",
+      "categories": [
+        "Gym",
+        "Boot camp",
+        "Personal trainer",
+        "Physical fitness program",
+        "Weight loss service",
+        "Weightlifting area"
+      ],
+      "address": "15 SE 2nd Ave, Miami, FL 33131, United States",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "postal_code": "33131",
+      "latitude": 25.7739279,
+      "longitude": -80.1900726,
+      "phone": "+1305-775-7004",
+      "email": null,
+      "website": "http://downtownstrengthandconditioning.com/",
+      "rating": 5.0,
+      "review_count": 0,
+      "google_place_id": "0x88d9b7f750cb1023:0x3fcdec40f4f916b9",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Downtown%20Strength%20and%20Conditioning%2015%20SE%202nd%20Ave%2C%20Miami%2C%20FL%2033131%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-21T07:20:19.200394+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260821_072014_gyms_in_miami_fl_raw.json"
+    },
+    {
+      "id": "biz_0x88d9b7ed30d0f6ef_0x753587c47287247f",
+      "name": "Planet Fitness",
+      "category": "Gym",
+      "categories": [
+        "Gym",
+        "Fitness center",
+        "Spa",
+        "Tanning salon"
+      ],
+      "address": "775 SW 8th Ave, Miami, FL 33130, United States",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "postal_code": "33130",
+      "latitude": 25.766368,
+      "longitude": -80.20692729999999,
+      "phone": "+1305-858-2249",
+      "email": null,
+      "website": "https://www.planetfitness.com/gyms/little-havana-fl?utm_medium=organic&utm_source=extnet",
+      "rating": 4.5,
+      "review_count": 0,
+      "google_place_id": "0x88d9b7ed30d0f6ef:0x753587c47287247f",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Planet%20Fitness%20775%20SW%208th%20Ave%2C%20Miami%2C%20FL%2033130%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-21T07:20:19.200420+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260821_072014_gyms_in_miami_fl_raw.json"
+    },
+    {
+      "id": "biz_0x88d9b69444289b2f_0x5f8e3ad85056f8dd",
+      "name": "Yachtside Fitness: Downtown Miami",
+      "category": "Gym",
+      "categories": [
+        "Gym",
+        "Boot camp",
+        "Fitness center",
+        "Personal trainer",
+        "Physical fitness program",
+        "Spa and health club",
+        "Weightlifting area",
+        "Yoga studio"
+      ],
+      "address": "341 NW S River Dr, Miami, FL 33128, United States",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "postal_code": "33128",
+      "latitude": 25.777442699999998,
+      "longitude": -80.2059713,
+      "phone": "+1305-640-5859",
+      "email": null,
+      "website": "https://www.yachtsidefitness.com/",
+      "rating": 4.8,
+      "review_count": 0,
+      "google_place_id": "0x88d9b69444289b2f:0x5f8e3ad85056f8dd",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Yachtside%20Fitness%3A%20Downtown%20Miami%20341%20NW%20S%20River%20Dr%2C%20Miami%2C%20FL%2033128%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-21T07:20:19.200444+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260821_072014_gyms_in_miami_fl_raw.json"
+    },
+    {
+      "id": "biz_0x88d9b6e2ac3accef_0x7521ce6163bc3633",
+      "name": "Thunder Gym",
+      "category": "Gym",
+      "categories": [
+        "Gym",
+        "Health spa",
+        "Spa and health club"
+      ],
+      "address": "1524 W Flagler St, Miami, FL 33135, United States",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "postal_code": "33135",
+      "latitude": 25.7730841,
+      "longitude": -80.2202897,
+      "phone": "+1305-642-0413",
+      "email": null,
+      "website": "http://www.miamithundergym.com/",
+      "rating": 4.1,
+      "review_count": 0,
+      "google_place_id": "0x88d9b6e2ac3accef:0x7521ce6163bc3633",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Thunder%20Gym%201524%20W%20Flagler%20St%2C%20Miami%2C%20FL%2033135%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-21T07:20:19.200463+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260821_072014_gyms_in_miami_fl_raw.json"
+    },
+    {
+      "id": "biz_0x88d9b5816d0d24e5_0x57aa62e96d8f5ef3",
+      "name": "Miami Strong Gym",
+      "category": "Gym",
+      "categories": [
+        "Gym",
+        "Fitness center",
+        "Personal trainer",
+        "Physical fitness program",
+        "Sauna",
+        "Smoothie shop"
+      ],
+      "address": "1830 N Bayshore Dr, Miami, FL 33132, United States",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "postal_code": "33132",
+      "latitude": 25.794160599999998,
+      "longitude": -80.1866841,
+      "phone": "+1786-746-8112",
+      "email": null,
+      "website": "https://www.miamistronggym.com/",
+      "rating": 4.9,
+      "review_count": 0,
+      "google_place_id": "0x88d9b5816d0d24e5:0x57aa62e96d8f5ef3",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Miami%20Strong%20Gym%201830%20N%20Bayshore%20Dr%2C%20Miami%2C%20FL%2033132%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-21T07:20:19.200482+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260821_072014_gyms_in_miami_fl_raw.json"
+    },
+    {
+      "id": "biz_0x88d9b776a3d505a1_0x1c4f14220ee4162",
+      "name": "Planet Fitness",
+      "category": "Gym",
+      "categories": [
+        "Gym",
+        "Fitness center",
+        "Spa",
+        "Tanning salon"
+      ],
+      "address": "1440 NW N River Dr #440, Miami, FL 33125, United States",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "postal_code": "33125",
+      "latitude": 25.785688399999998,
+      "longitude": -80.2198051,
+      "phone": "+1305-504-6980",
+      "email": null,
+      "website": "https://www.planetfitness.com/gyms/miami-allapattah-fl?utm_medium=organic&utm_source=extnet",
+      "rating": 4.6,
+      "review_count": 0,
+      "google_place_id": "0x88d9b776a3d505a1:0x1c4f14220ee4162",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Planet%20Fitness%201440%20NW%20N%20River%20Dr%20%23440%2C%20Miami%2C%20FL%2033125%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-21T07:20:19.200501+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260821_072014_gyms_in_miami_fl_raw.json"
+    },
+    {
+      "id": "biz_0x88d9b6fe0bba17ab_0x44ba4846a1392eaf",
+      "name": "Coolto Gym",
+      "category": "Gym",
+      "categories": [
+        "Gym",
+        "Bar"
+      ],
+      "address": "2206 SW 8th St, Miami, FL 33135, United States",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "postal_code": "33135",
+      "latitude": 25.765266699999998,
+      "longitude": -80.2309722,
+      "phone": "+1305-269-5978",
+      "email": null,
+      "website": "http://gym.cooltofitness.com/",
+      "rating": 4.8,
+      "review_count": 0,
+      "google_place_id": "0x88d9b6fe0bba17ab:0x44ba4846a1392eaf",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Coolto%20Gym%202206%20SW%208th%20St%2C%20Miami%2C%20FL%2033135%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-21T07:20:19.200518+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260821_072014_gyms_in_miami_fl_raw.json"
+    },
+    {
+      "id": "biz_0x88d9b6ac768fa9db_0xaa9fa91e822aedfb",
+      "name": "LEGACY",
+      "category": "Gym",
+      "categories": [
+        "Gym",
+        "Fitness center",
+        "Personal trainer",
+        "Physical fitness program",
+        "Sauna"
+      ],
+      "address": "2243 N Miami Ave #110, Miami, FL 33127, United States",
+      "city": "Miami",
+      "state": "FL",
+      "country": "United States",
+      "postal_code": "33127",
+      "latitude": 25.798213099999998,
+      "longitude": -80.1947252,
+      "phone": "+1305-799-0850",
+      "email": null,
+      "website": "https://www.legacyfit.com/",
+      "rating": 4.8,
+      "review_count": 0,
+      "google_place_id": "0x88d9b6ac768fa9db:0xaa9fa91e822aedfb",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=LEGACY%202243%20N%20Miami%20Ave%20%23110%2C%20Miami%2C%20FL%2033127%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-21T07:20:19.200536+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260821_072014_gyms_in_miami_fl_raw.json"
+    }
+  ]
+}

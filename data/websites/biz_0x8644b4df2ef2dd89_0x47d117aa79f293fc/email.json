@@ -1,0 +1,18 @@
+{
+  "recipient": "contact@barleyswine.com",
+  "subject": "Quick thought on the Barley Swine website",
+  "body": "Hi team at Barley Swine, I recently came across your Austin-based spot while looking for places with a truly curated wine selection and expert knowledge. I love what you do for local wine enthusiasts and casual patrons alike. While browsing your current site, I noticed it could use a few quick updates to help local guests connect with you faster—specifically adding clear operating hours, your physical address, and a direct contact phone number right on the page. Since I build modern websites, I went ahead and put together a live warm-editorial prototype for you to see how those details and a streamlined layout can look in action. You can check out the live preview here: https://nayom-biz-0x8644b4df2ef2dd89-0x47d117aa79f293f-iyfbksjwj.vercel.app. If you would like to use this design or have me tweak anything, I would be happy to send over the project files or chat for five minutes. No worries at all if you are happy with your current setup!",
+  "business_id": "biz_0x8644b4df2ef2dd89_0x47d117aa79f293fc",
+  "preview_url": "https://nayom-biz-0x8644b4df2ef2dd89-0x47d117aa79f293f-iyfbksjwj.vercel.app",
+  "generated_at": "2026-08-24T14:30:27.453458+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "business_name": "Barley Swine",
+  "key_improvements": [
+    "Added direct contact phone number and physical address",
+    "Included operating hours",
+    "Improved visual layout and interactive elements"
+  ],
+  "provider": "gemini",
+  "prompt_version": "1.0.0",
+  "warnings": []
+}

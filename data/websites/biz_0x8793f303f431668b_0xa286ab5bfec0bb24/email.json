@@ -1,0 +1,18 @@
+{
+  "recipient": null,
+  "subject": "Quick thought on the Horizon Dental Center website + live prototype",
+  "body": "Hi Horizon Dental team,\n\nI always appreciate finding local practices like yours in Omaha that offer such a comprehensive range of care, from standard preventative cleanings to specialized treatments like apicoectomies and dental bone grafting in a calm environment.\n\nWhile reviewing your current site, I noticed a couple of friction points that might be slowing down new patient inquiries—specifically, having to navigate away to a separate page to book an appointment, and the lack of an embedded direct booking widget or click-to-call tracking for your Google Business Profile traffic.\n\nTo see how these could be smoothed out, I went ahead and built a clean, modern preview of your site here: https://nayom-biz-0x8793f303f431668b-0xa286ab5bfec0bb2.vercel.app\n\nFeel free to check out the live preview. If you would like to use this design or have me tweak anything, I would be happy to send over the project files or chat for 5 minutes. No worries at all if you are happy with your current setup!",
+  "business_id": "biz_0x8793f303f431668b_0xa286ab5bfec0bb24",
+  "preview_url": "https://nayom-biz-0x8793f303f431668b-0xa286ab5bfec0bb2.vercel.app",
+  "generated_at": "2026-08-24T10:05:13.159588+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "business_name": "Horizon Dental Center",
+  "key_improvements": [
+    "Embedded interactive booking widget to reduce appointment friction",
+    "Click-to-call tracking on phone numbers for Google Business Profile traffic",
+    "Enhanced doctor bios and team sections to build immediate patient trust"
+  ],
+  "provider": "gemini",
+  "prompt_version": "1.0.0",
+  "warnings": []
+}

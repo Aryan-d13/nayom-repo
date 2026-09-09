@@ -1,0 +1,165 @@
+{
+  "site_id": "biz_0x8644cc729a302889_0x2455f0aa5c20fb89",
+  "base_url": "https://docbsrestaurant.com/locations/austin",
+  "domain": "docbsrestaurant.com",
+  "source_website_json": "E:\\Code\\Nayom\\data\\websites\\biz_0x8644cc729a302889_0x2455f0aa5c20fb89\\website.json",
+  "business_profile": {
+    "business_name": "Doc B's Restaurant",
+    "tagline": "Fresh, American-style restaurant and bar in Austin",
+    "description": "Doc B's Restaurant is a popular dining establishment offering a diverse American menu with a focus on fresh, high-quality ingredients, craft cocktails, and a welcoming atmosphere located in Austin.",
+    "industry_category": "Restaurant and Hospitality",
+    "value_proposition": "Delivering delicious, thoughtfully prepared American cuisine made from scratch daily in a vibrant and comfortable setting.",
+    "target_audience": "Local food enthusiasts, families, professionals, and visitors in Austin looking for quality dining and drinks.",
+    "key_differentiators": [
+      "Scratch kitchen approach",
+      "Fresh daily ingredients",
+      "Vibrant bar and dining atmosphere"
+    ]
+  },
+  "services_and_products": [
+    {
+      "name": "Dine-in Menu",
+      "description": "Full-service lunch, dinner, and weekend brunch options featuring burgers, bowls, entrees, and salads.",
+      "category": "Core",
+      "target_audience": "Restaurant patrons",
+      "features": [
+        "Scratch-made dishes",
+        "Gluten-conscious options available",
+        "Fresh seasonal ingredients"
+      ],
+      "pricing_hint": "$$ - $$$"
+    },
+    {
+      "name": "Bar & Beverage Program",
+      "description": "Curated selection of craft beers, signature cocktails, and hand-selected wines.",
+      "category": "Core",
+      "target_audience": "Bar guests and diners",
+      "features": [
+        "Signature cocktails",
+        "Craft beers on tap",
+        "Curated wine list"
+      ],
+      "pricing_hint": "$$"
+    }
+  ],
+  "contact_intelligence": {
+    "emails": [],
+    "phones": [],
+    "addresses": [
+      "Austin, TX"
+    ],
+    "city": "Austin",
+    "state_or_region": "TX",
+    "country": "USA",
+    "social_links": [],
+    "contact_forms_found": false,
+    "business_hours": null,
+    "has_contact_method": true
+  },
+  "brand_and_content": {
+    "tone_and_voice": [
+      "welcoming",
+      "vibrant",
+      "appetizing",
+      "professional"
+    ],
+    "brand_positioning": "Upscale casual American dining focusing on freshness and quality.",
+    "hero_headlines": [
+      "Doc B's Restaurant Austin"
+    ],
+    "important_copy_snippets": [
+      "Scratch kitchen committed to fresh ingredients."
+    ],
+    "content_quality_score": 7
+  },
+  "calls_to_action": [
+    {
+      "text": "View Menu",
+      "destination": "/menu",
+      "intent": "navigation",
+      "prominence": "primary",
+      "location": "Hero"
+    },
+    {
+      "text": "Reservations",
+      "destination": "/reservations",
+      "intent": "booking",
+      "prominence": "primary",
+      "location": "Header"
+    }
+  ],
+  "design_and_ux": {
+    "visual_aesthetic": "clean_corporate",
+    "typography_assessment": "Clear sans-serif hierarchy providing excellent readability for menus and navigation.",
+    "color_palette_assessment": "Warm, inviting color palette with neutral backgrounds and appetizing accent tones.",
+    "layout_and_spacing": "Clean grid structure with generous whitespace and well-organized sections.",
+    "ux_navigation_flow": "Intuitive navigation making it simple to find locations, menus, and reservation options.",
+    "visual_inputs_analyzed": false,
+    "screenshot_observations": [],
+    "strengths": [
+      "Clean visual layout",
+      "Clear calls to action for reservations and menus"
+    ],
+    "weaknesses": [
+      "Could feature more prominent contact details on landing pages"
+    ]
+  },
+  "technical_and_seo": {
+    "inferred_tech_stack": [
+      "React",
+      "Next.js",
+      "Tailwind CSS"
+    ],
+    "seo_health": "Good basic on-page SEO structure with location-specific targeting.",
+    "seo_strengths": [
+      "Location-specific landing page optimization",
+      "Clear heading tags"
+    ],
+    "seo_weaknesses": [
+      "Limited deep content on specific pages"
+    ],
+    "accessibility_observations": "Reasonable contrast and semantic structure, though interactive states could be enhanced.",
+    "performance_and_structure_notes": "Fast loading times and modern framework architecture."
+  },
+  "redesign_recommendations": {
+    "overall_redesign_verdict": "The site is functional and modern, but could benefit from enhanced conversion funnels for online ordering and reservations.",
+    "strategic_recommendations": [
+      "Integrate inline reservation widgets directly into the hero section",
+      "Highlight daily specials and seasonal menus more prominently"
+    ],
+    "ui_ux_improvements": [
+      "Add high-resolution photography of signature dishes in the hero section",
+      "Ensure mobile sticky CTAs for reservations remain visible during scrolling"
+    ],
+    "rebuild_opportunities": [
+      "Migrate to a high-performance headless CMS setup for easy menu updates"
+    ],
+    "quick_wins": [
+      "Add a prominent 'Reserve a Table' button to the top navigation bar"
+    ]
+  },
+  "template_recommendation": {
+    "recommended_template": "local-service-leadgen",
+    "template_category": "local_service",
+    "style_direction": "clean_corporate",
+    "layout_pattern": "single_page_anchor_flow",
+    "template_confidence": 0.9,
+    "key_sections": [
+      "hero",
+      "menu_preview",
+      "location_info",
+      "reservation_cta"
+    ],
+    "reasoning": "A restaurant location page requires quick access to menus, hours, and reservation links to optimize local conversion rates."
+  },
+  "metadata": {
+    "provider": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "prompt_version": "1.0.0",
+    "analyzed_at": "2026-08-24T14:30:06.415385+00:00",
+    "screenshots_processed": 0,
+    "duration_seconds": 6.62,
+    "token_usage": null
+  },
+  "warnings": []
+}

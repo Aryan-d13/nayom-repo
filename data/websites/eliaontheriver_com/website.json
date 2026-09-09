@@ -1,0 +1,3462 @@
+{
+  "request": {
+    "url": "https://www.eliaontheriver.com",
+    "site_id": null,
+    "max_pages": 50,
+    "render_js": false,
+    "screenshot": false,
+    "concurrency": 5,
+    "timeout": 20,
+    "delay": 0.25,
+    "use_sitemap": true,
+    "include_subdomains": false,
+    "min_words": 5,
+    "download_images": false,
+    "user_agent": null
+  },
+  "site_id": "eliaontheriver_com",
+  "base_url": "https://www.eliaontheriver.com",
+  "domain": "www.eliaontheriver.com",
+  "total_pages_crawled": 11,
+  "successful_pages": 11,
+  "failed_pages": 0,
+  "pages": [
+    {
+      "url": "https://www.eliaontheriver.com/home-1",
+      "path": "/home-1",
+      "title": "Elia",
+      "status_code": 200,
+      "crawled_at": "2026-08-21T09:52:08.399849+00:00",
+      "duration_ms": 160.84,
+      "content": {
+        "markdown": "*Discover Elia on the River, Miami’s best premier destination for authentic Southern Italian cuisine with coastal flair. Experience carefully curated menu, and handcrafted cocktails in a stunning riverside setting. Perfect for romantic dinners, group celebrations, and private events.*\n\n\n## WEDNESDAY, AUGUST 19TH | 7PM\n\n### DJ JANIKA TENN\n\n**From London to Ibiza. From New York to Miami** 🌎\n\nProducer & DJ Janika Tenn returns to Elia this Wednesday, bringing her signature house sounds back to the waterfront.\n\nOne night. 7PM. Don’t miss this.\n\n[RESERVE NOW](/reservations)\n\n### August at Elia on the River:\n\n[BOOK NOW](https://www.opentable.com/r/elia-miami?ot_source=Instagram)\n\n#### WHISPERING HOUR AT ELIA\n\n**SUNSET HOUR**\n**MONDAY TO FRIDAY**\n**3 - 6 PM**\n\nGlass of Whispering Angel & Bruschetta\n$18\n\nBottle of Whispering Angel & Burrata\n$60\n\n#### TIPSY TEA THURSDAYS WITH APEROL\n\n**EVERY THURSDAY**\n**3 - 6 PM**\n\nWhat happens when Thirsty Thursday meets Afternoon Tea? You will get Tipsy Tea!\n\nCome and spill the tea with us every Thursday\n3:00 to 6:00 PM. With three-tier bites towers, spritzes, live entertainment, & riverfront views designed to make Thursday afternoons\nfeel a little more special.\n\n## Where Water Meets Sunset\n\nElia on the River offers an unparalleled dining experience on the river, combining stunning views with a carefully curated menu showcasing a harmonious blend of coastal flavors and locally sourced ingredients.\n\nGuests can look forward to enjoying their meals surrounded by luxurious imported marbles and a stunning hand-painted mural masterpiece, all while taking in panoramic views of passing yachts and breathtaking sunsets.\n\n**In line with local health regulations, pets are not permitted at Elia. We truly appreciate your understanding.**\n\n[RESERVE](https://www.opentable.com/r/elia-miami?ot_source=Instagram)\n\n### Dock & Dine\n\nPerched right on the water, we’re the perfect destination to dock your boat and enjoy comforting coastal cuisine and warm riverfront atmosphere.\n\n* How do I reserve?\n\n  Docking with us is now easier than ever.\n\n  Use the link below to access River Landing on Dockwa, then search “River Landing” to send your request.\n* What are the fees?\n\n  The docking fee is waived on tables over $500, otherwise, the fee is $5 per foot per hour.\n\n[CONTACT CONCIERGE](https://dockwa.com)\n\n### A Little Luxury… Give the Gift of Elia on the River\n\nOur Elia on the River gift certificates can be issued in any amount, making them the perfect way to treat someone to cocktails by the water, a romantic dinner, or a night out with friends.\n\nA beautiful, effortless gift for every occasion.\n\n[ELIA GIFT CARDS](https://order.toasttab.com/egiftcards/elia-restaurant-1440-nw-north-river-drive-195)\n\n### “Each dish is crafted with meticulous attention to detail, ensuring a memorable and delightful meal.”\n\n— Executive Chef, *Elia*\n\n## Be the first to know about our latest events and specials\n\nEmail Address\n\nSUBSCRIBE\n\n* All the photography & videography taken at Elia, may take place for promotional purposes.\nIf you prefer not to be featured, please notify staff.\n\nThank you!",
+        "plain_text": "0 Skip to Content HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE Open Menu Close Menu Open Menu Close Menu HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE WEDNESDAY, AUGUST 19TH | 7PM DJ JANIKA TENN From London to Ibiza. From New York to Miami 🌎 Producer & DJ Janika Tenn returns to Elia this Wednesday, bringing her signature house sounds back to the waterfront. One night. 7PM. Don’t miss this. RESERVE NOW August at Elia on the River: BOOK NOW WHISPERING HOUR AT ELIA SUNSET HOUR MONDAY TO FRIDAY 3 - 6 PM Glass of Whispering Angel & Bruschetta $18 Bottle of Whispering Angel & Burrata $60 TIPSY TEA THURSDAYS WITH APEROL EVERY THURSDAY 3 - 6 PM What happens when Thirsty Thursday meets Afternoon Tea? You will get Tipsy Tea! Come and spill the tea with us every Thursday 3:00 to 6:00 PM. With three-tier bites towers, spritzes, live entertainment, & riverfront views designed to make Thursday afternoons feel a little more special. Where Water Meets Sunset Elia on the River offers an unparalleled dining experience on the river, combining stunning views with a carefully curated menu showcasing a harmonious blend of coastal flavors and locally sourced ingredients. Guests can look forward to enjoying their meals surrounded by luxurious imported marbles and a stunning hand-painted mural masterpiece, all while taking in panoramic views of passing yachts and breathtaking sunsets. In line with local health regulations, pets are not permitted at Elia. We truly appreciate your understanding. RESERVE Dock & Dine Perched right on the water, we’re the perfect destination to dock your boat and enjoy comforting coastal cuisine and warm riverfront atmosphere. How do I reserve? Docking with us is now easier than ever. Use the link below to access River Landing on Dockwa, then search “River Landing” to send your request. What are the fees? The docking fee is waived on tables over $500, otherwise, the fee is $5 per foot per hour. CONTACT CONCIERGE A Little Luxury… Give the Gift of Elia on the River Our Elia on the River gift certificates can be issued in any amount, making them the perfect way to treat someone to cocktails by the water, a romantic dinner, or a night out with friends. A beautiful, effortless gift for every occasion. ELIA GIFT CARDS “Each dish is crafted with meticulous attention to detail, ensuring a memorable and delightful meal.” — Executive Chef, Elia Be the first to know about our latest events and specials Email Address SUBSCRIBE * All the photography & videography taken at Elia, may take place for promotional purposes. If you prefer not to be featured, please notify staff. Thank you! ⚲ River Landing 1440 NW N River Dr., #195 Miami, FL 33125 TELEPHONE: 305.904.4045 Follow Company PRIVATE EVENTS CAREERS PRIVACY POLICY",
+        "word_count": 497,
+        "character_count": 2946,
+        "excerpt": "0 Skip to Content HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE Open Menu Close Menu Open Menu Close Menu HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE HO..."
+      },
+      "headings": [
+        {
+          "level": 2,
+          "text": "WEDNESDAY, AUGUST 19TH | 7PM",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "DJ JANIKA TENN",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "August at Elia on the River:",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "WHISPERING HOURAT ELIA",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "TIPSY TEA THURSDAYSWITH APEROL",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Where Water Meets Sunset",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "Dock & Dine",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "A Little Luxury…Give the Gift of Elia on the River",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "“Each dish is crafted with meticulous attention to detail, ensuring a memorable and delightful meal.”",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Be the first to know about our latest events and specials",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "⚲ River Landing",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Follow",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Company",
+          "id": null
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.eliaontheriver.com/cart",
+          "text": "0",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/",
+          "text": "Elia",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/hours-location",
+          "text": "HOURS & LOCATION",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/private-events",
+          "text": "GROUP DINING & EVENTS",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/menu",
+          "text": "MENU",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/weekly-events",
+          "text": "WEEKLY EVENTS",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/tipsyteathursdays",
+          "text": "Tipsy Tea Thursdays",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/reservations",
+          "text": "RESERVE A TABLE",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/reservations",
+          "text": "RESERVE NOW",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.opentable.com/r/elia-miami?ot_source=Instagram",
+          "text": "BOOK NOW",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.opentable.com/r/elia-miami?ot_source=Instagram",
+          "text": "RESERVE",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://dockwa.com",
+          "text": "CONTACT CONCIERGE",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://order.toasttab.com/egiftcards/elia-restaurant-1440-nw-north-river-drive-195",
+          "text": "ELIA GIFT CARDS",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://instagram.com/eliaontheriver",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.facebook.com/eliaontheriver",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.tiktok.com/@eliaontheriver",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/private-events",
+          "text": "PRIVATE EVENTS",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/careers",
+          "text": "CAREERS",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/privacy-policy",
+          "text": "PRIVACY POLICY",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/1d9371c7-1a27-4438-a427-c85e5ad40138/Elia+on+the+River.png?format=1500w",
+          "alt": "Elia",
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": "eager",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/651a4bd3-8fc5-4f41-b646-431ed931e3c1/Elia-lounge.jpg",
+          "alt": null,
+          "title": null,
+          "width": 6000,
+          "height": 4000,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/ab3d8002-35e6-411e-bfe6-9e19864e9472/Elia+Logo+%281%29.png",
+          "alt": null,
+          "title": null,
+          "width": 1080,
+          "height": 1080,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/74dbe704-c19d-4332-86da-7b34a9ee2b53/QqX3Gkew.jpeg",
+          "alt": null,
+          "title": null,
+          "width": 1280,
+          "height": 854,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/1782415225535-7PV5K13K6O38Q75K2K5D/4T4A2815.jpg",
+          "alt": null,
+          "title": null,
+          "width": 1633,
+          "height": 2450,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/0ec80e3a-a838-461a-9116-22ac489670e1/Elia+Special+Promos-4+%281%29.png",
+          "alt": null,
+          "title": null,
+          "width": 1654,
+          "height": 2480,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/14a65314-0b5c-4580-9095-410458e83e7c/DSC09575.jpg",
+          "alt": null,
+          "title": null,
+          "width": 6000,
+          "height": 4000,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/4edd37c9-4709-409c-934c-7223a0dce3f5/_T9A9172.jpg",
+          "alt": null,
+          "title": null,
+          "width": 1365,
+          "height": 2048,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/97d0b582-39a7-4406-8437-ff7e47f61d0f/Brunch-Elia.jpg",
+          "alt": null,
+          "title": null,
+          "width": 3908,
+          "height": 5710,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/c230bfe0-8e6e-4995-b536-de6b37c67602/EliaWRE-52.jpg",
+          "alt": null,
+          "title": null,
+          "width": 6144,
+          "height": 4095,
+          "loading": "lazy",
+          "local_path": null
+        }
+      ],
+      "metadata": {
+        "title": "Elia",
+        "description": "Discover Elia on the River, Miami’s best premier destination for authentic Southern Italian cuisine with coastal flair. Experience carefully curated menu, and handcrafted cocktails in a stunning riverside setting. Perfect for romantic dinners, group celebrations, and private events.",
+        "keywords": [],
+        "canonical": "https://www.eliaontheriver.com",
+        "language": "en-US",
+        "charset": "utf-8",
+        "viewport": "width=device-width, initial-scale=1",
+        "author": null,
+        "robots": null,
+        "og_tags": {
+          "og:site_name": "Elia",
+          "og:title": "Elia",
+          "og:url": "https://www.eliaontheriver.com",
+          "og:type": "website",
+          "og:description": "Discover Elia on the River, Miami’s best premier destination for authentic Southern Italian cuisine with coastal flair. Experience carefully curated menu, and handcrafted cocktails in a stunning riverside setting. Perfect for romantic dinners, group celebrations, and private events.",
+          "og:image": "http://static1.squarespace.com/static/65d4ead9ad0aa1164d8977fc/t/69248083c5759a482b1b84aa/1763999875827/Elia+on+the+River.png?format=1500w",
+          "og:image:width": "1500",
+          "og:image:height": "915"
+        },
+        "twitter_tags": {
+          "twitter:title": "Elia",
+          "twitter:image": "http://static1.squarespace.com/static/65d4ead9ad0aa1164d8977fc/t/69248083c5759a482b1b84aa/1763999875827/Elia+on+the+River.png?format=1500w",
+          "twitter:url": "https://www.eliaontheriver.com",
+          "twitter:card": "summary",
+          "twitter:description": "Discover Elia on the River, Miami’s best premier destination for authentic Southern Italian cuisine with coastal flair. Experience carefully curated menu, and handcrafted cocktails in a stunning riverside setting. Perfect for romantic dinners, group celebrations, and private events."
+        },
+        "favicon": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/e04b9ae0-d231-4af7-8441-5e73f7ad96a5/favicon.ico?format=100w",
+        "other_meta": {
+          "facebook-domain-verification": "ud9g8haoe7rj4vz4mrx4joya9n5ech"
+        }
+      },
+      "forms": [
+        {
+          "id": null,
+          "name": null,
+          "action": null,
+          "method": "POST",
+          "fields": [
+            {
+              "name": "email",
+              "type": "email",
+              "label": "Email Address",
+              "placeholder": "Email Address",
+              "required": false,
+              "value": null,
+              "options": []
+            }
+          ],
+          "submit_text": "SUBSCRIBE"
+        }
+      ],
+      "buttons": [
+        {
+          "text": "Open Menu Close Menu",
+          "type": "button",
+          "href": null,
+          "onclick": null,
+          "id": null,
+          "class_name": "header-burger-btn burger",
+          "is_cta": true
+        },
+        {
+          "text": "How do I reserve?",
+          "type": "button",
+          "href": null,
+          "onclick": null,
+          "id": "button-dcc49c4e2acb5fc7437e-1",
+          "class_name": "accordion-item__click-target",
+          "is_cta": false
+        },
+        {
+          "text": "What are the fees?",
+          "type": "button",
+          "href": null,
+          "onclick": null,
+          "id": "button-dcc49c4e2acb5fc7437e-2",
+          "class_name": "accordion-item__click-target",
+          "is_cta": false
+        },
+        {
+          "text": "SUBSCRIBE",
+          "type": "submit",
+          "href": null,
+          "onclick": null,
+          "id": null,
+          "class_name": "newsletter-form-button sqs-system-button sqs-editable-button-layout sqs-editable-button-style sqs-editable-button-shape sqs-button-element--primary",
+          "is_cta": true
+        },
+        {
+          "text": "Skip to Content",
+          "type": "link_cta",
+          "href": "https://www.eliaontheriver.com/home-1#page",
+          "onclick": null,
+          "id": null,
+          "class_name": "header-skip-link sqs-button-element--primary",
+          "is_cta": true
+        },
+        {
+          "text": "RESERVE A TABLE",
+          "type": "link_cta",
+          "href": "https://www.eliaontheriver.com/reservations",
+          "onclick": null,
+          "id": null,
+          "class_name": "btn btn--border theme-btn--primary-inverse sqs-button-element--primary",
+          "is_cta": true
+        },
+        {
+          "text": "RESERVE NOW",
+          "type": "link_cta",
+          "href": "https://www.eliaontheriver.com/reservations",
+          "onclick": null,
+          "id": null,
+          "class_name": "sqs-block-button-element--large sqs-button-element--secondary sqs-block-button-element",
+          "is_cta": true
+        },
+        {
+          "text": "BOOK NOW",
+          "type": "link_cta",
+          "href": "https://www.opentable.com/r/elia-miami?ot_source=Instagram",
+          "onclick": null,
+          "id": null,
+          "class_name": "sqs-block-button-element--large sqs-button-element--secondary sqs-block-button-element",
+          "is_cta": true
+        },
+        {
+          "text": "RESERVE",
+          "type": "link_cta",
+          "href": "https://www.opentable.com/r/elia-miami?ot_source=Instagram",
+          "onclick": null,
+          "id": null,
+          "class_name": "sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element",
+          "is_cta": true
+        },
+        {
+          "text": "CONTACT CONCIERGE",
+          "type": "link_cta",
+          "href": "https://dockwa.com",
+          "onclick": null,
+          "id": null,
+          "class_name": "sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element",
+          "is_cta": true
+        },
+        {
+          "text": "ELIA GIFT CARDS",
+          "type": "link_cta",
+          "href": "https://order.toasttab.com/egiftcards/elia-restaurant-1440-nw-north-river-drive-195",
+          "onclick": null,
+          "id": null,
+          "class_name": "sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element",
+          "is_cta": true
+        }
+      ],
+      "structured_data": {
+        "json_ld": [
+          {
+            "url": "https://www.eliaontheriver.com",
+            "name": "Elia",
+            "description": "",
+            "image": "//images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/1d9371c7-1a27-4438-a427-c85e5ad40138/Elia+on+the+River.png",
+            "@context": "http://schema.org",
+            "@type": "WebSite"
+          },
+          {
+            "address": "",
+            "image": "https://static1.squarespace.com/static/65d4ead9ad0aa1164d8977fc/t/69248083c5759a482b1b84aa/1787161668162/",
+            "openingHours": "",
+            "@context": "http://schema.org",
+            "@type": "LocalBusiness"
+          }
+        ],
+        "opengraph": {},
+        "microdata": []
+      },
+      "screenshot_path": null,
+      "raw_markdown_path": null,
+      "is_success": true,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "url": "https://www.eliaontheriver.com/private-events",
+      "path": "/private-events",
+      "title": "PRIVATE EVENTS — Elia",
+      "status_code": 200,
+      "crawled_at": "2026-08-21T09:52:08.495393+00:00",
+      "duration_ms": 93.24,
+      "content": {
+        "markdown": "*Host your private event at Elia on the River, a stunning Miami waterfront venue. Perfect for celebrations, corporate gatherings, and special occasions with Southern Italian cuisine with coastal flair.*\n\n\n# GROUP DINING & EVENTS\n\nHost your next celebration, group dinner, or private event at Elia. From intimate gatherings to large-scale occasions, every detail is tailored to create an unforgettable experience.",
+        "plain_text": "0 Skip to Content HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE Open Menu Close Menu Open Menu Close Menu HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE GROUP DINING & EVENTS Host your next celebration, group dinner, or private event at Elia. From intimate gatherings to large-scale occasions, every detail is tailored to create an unforgettable experience. ⚲ River Landing 1440 NW N River Dr., #195 Miami, FL 33125 TELEPHONE: 305.904.4045 Follow Company PRIVATE EVENTS CAREERS PRIVACY POLICY",
+        "word_count": 111,
+        "character_count": 681,
+        "excerpt": "0 Skip to Content HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE Open Menu Close Menu Open Menu Close Menu HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE HO..."
+      },
+      "headings": [
+        {
+          "level": 1,
+          "text": "GROUP DINING & EVENTS",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "⚲ River Landing",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Follow",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Company",
+          "id": null
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.eliaontheriver.com/cart",
+          "text": "0",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/",
+          "text": "Elia",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/hours-location",
+          "text": "HOURS & LOCATION",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/private-events",
+          "text": "GROUP DINING & EVENTS",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/menu",
+          "text": "MENU",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/weekly-events",
+          "text": "WEEKLY EVENTS",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/tipsyteathursdays",
+          "text": "Tipsy Tea Thursdays",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/reservations",
+          "text": "RESERVE A TABLE",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "http://instagram.com/eliaontheriver",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.facebook.com/eliaontheriver",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.tiktok.com/@eliaontheriver",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/private-events",
+          "text": "PRIVATE EVENTS",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/careers",
+          "text": "CAREERS",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/privacy-policy",
+          "text": "PRIVACY POLICY",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/1d9371c7-1a27-4438-a427-c85e5ad40138/Elia+on+the+River.png?format=1500w",
+          "alt": "Elia",
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": "eager",
+          "local_path": null
+        }
+      ],
+      "metadata": {
+        "title": "PRIVATE EVENTS — Elia",
+        "description": "Host your private event at Elia on the River, a stunning Miami waterfront venue. Perfect for celebrations, corporate gatherings, and special occasions with Southern Italian cuisine with coastal flair.",
+        "keywords": [],
+        "canonical": "https://www.eliaontheriver.com/private-events",
+        "language": "en-US",
+        "charset": "utf-8",
+        "viewport": "width=device-width, initial-scale=1",
+        "author": null,
+        "robots": null,
+        "og_tags": {
+          "og:site_name": "Elia",
+          "og:title": "PRIVATE EVENTS — Elia",
+          "og:url": "https://www.eliaontheriver.com/private-events",
+          "og:type": "website",
+          "og:description": "Host your private event at Elia on the River, a stunning Miami waterfront venue. Perfect for celebrations, corporate gatherings, and special occasions with Southern Italian cuisine with coastal flair."
+        },
+        "twitter_tags": {
+          "twitter:title": "PRIVATE EVENTS — Elia",
+          "twitter:url": "https://www.eliaontheriver.com/private-events",
+          "twitter:card": "summary",
+          "twitter:description": "Host your private event at Elia on the River, a stunning Miami waterfront venue. Perfect for celebrations, corporate gatherings, and special occasions with Southern Italian cuisine with coastal flair."
+        },
+        "favicon": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/e04b9ae0-d231-4af7-8441-5e73f7ad96a5/favicon.ico?format=100w",
+        "other_meta": {
+          "facebook-domain-verification": "ud9g8haoe7rj4vz4mrx4joya9n5ech"
+        }
+      },
+      "forms": [],
+      "buttons": [
+        {
+          "text": "Open Menu Close Menu",
+          "type": "button",
+          "href": null,
+          "onclick": null,
+          "id": null,
+          "class_name": "header-burger-btn burger",
+          "is_cta": true
+        },
+        {
+          "text": "Skip to Content",
+          "type": "link_cta",
+          "href": "https://www.eliaontheriver.com/private-events#page",
+          "onclick": null,
+          "id": null,
+          "class_name": "header-skip-link sqs-button-element--primary",
+          "is_cta": true
+        },
+        {
+          "text": "RESERVE A TABLE",
+          "type": "link_cta",
+          "href": "https://www.eliaontheriver.com/reservations",
+          "onclick": null,
+          "id": null,
+          "class_name": "btn btn--border theme-btn--primary-inverse sqs-button-element--primary",
+          "is_cta": true
+        }
+      ],
+      "structured_data": {
+        "json_ld": [
+          {
+            "url": "https://www.eliaontheriver.com",
+            "name": "Elia",
+            "description": "",
+            "image": "//images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/1d9371c7-1a27-4438-a427-c85e5ad40138/Elia+on+the+River.png",
+            "@context": "http://schema.org",
+            "@type": "WebSite"
+          },
+          {
+            "address": "",
+            "image": "https://static1.squarespace.com/static/65d4ead9ad0aa1164d8977fc/t/69248083c5759a482b1b84aa/1787161668162/",
+            "openingHours": "",
+            "@context": "http://schema.org",
+            "@type": "LocalBusiness"
+          }
+        ],
+        "opengraph": {},
+        "microdata": []
+      },
+      "screenshot_path": null,
+      "raw_markdown_path": null,
+      "is_success": true,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "url": "https://www.eliaontheriver.com/careers",
+      "path": "/careers",
+      "title": "CAREERS — Elia",
+      "status_code": 200,
+      "crawled_at": "2026-08-21T09:52:08.588459+00:00",
+      "duration_ms": 90.46,
+      "content": {
+        "markdown": "## Careers\n\nWe're on the lookout for passionate individuals to join our team and craft exceptional dining experiences. Whether you're a seasoned chef, a talented server, or an aspiring kitchen hand, we want to hear from you.\n\n[APPLICATION](https://app.goformz.com/s/Jxo9qM3OYiBDdNocQb)\n\n[APPLY ON INDEED](https://www.indeed.com/cmp/Elia-On-the-River)",
+        "plain_text": "0 Skip to Content HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE Open Menu Close Menu Open Menu Close Menu HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE Careers We're on the lookout for passionate individuals to join our team and craft exceptional dining experiences. Whether you're a seasoned chef, a talented server, or an aspiring kitchen hand, we want to hear from you. APPLICATION APPLY ON INDEED ⚲ River Landing 1440 NW N River Dr., #195 Miami, FL 33125 TELEPHONE: 305.904.4045 Follow Company PRIVATE EVENTS CAREERS PRIVACY POLICY",
+        "word_count": 121,
+        "character_count": 725,
+        "excerpt": "0 Skip to Content HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE Open Menu Close Menu Open Menu Close Menu HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE HO..."
+      },
+      "headings": [
+        {
+          "level": 2,
+          "text": "Careers",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "⚲ River Landing",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Follow",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Company",
+          "id": null
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.eliaontheriver.com/cart",
+          "text": "0",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/",
+          "text": "Elia",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/hours-location",
+          "text": "HOURS & LOCATION",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/private-events",
+          "text": "GROUP DINING & EVENTS",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/menu",
+          "text": "MENU",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/weekly-events",
+          "text": "WEEKLY EVENTS",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/tipsyteathursdays",
+          "text": "Tipsy Tea Thursdays",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/reservations",
+          "text": "RESERVE A TABLE",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://app.goformz.com/s/Jxo9qM3OYiBDdNocQb",
+          "text": "APPLICATION",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.indeed.com/cmp/Elia-On-the-River",
+          "text": "APPLY ON INDEED",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://instagram.com/eliaontheriver",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.facebook.com/eliaontheriver",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.tiktok.com/@eliaontheriver",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/private-events",
+          "text": "PRIVATE EVENTS",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/careers",
+          "text": "CAREERS",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/privacy-policy",
+          "text": "PRIVACY POLICY",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/1d9371c7-1a27-4438-a427-c85e5ad40138/Elia+on+the+River.png?format=1500w",
+          "alt": "Elia",
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": "eager",
+          "local_path": null
+        }
+      ],
+      "metadata": {
+        "title": "CAREERS — Elia",
+        "description": null,
+        "keywords": [],
+        "canonical": "https://www.eliaontheriver.com/careers",
+        "language": "en-US",
+        "charset": "utf-8",
+        "viewport": "width=device-width, initial-scale=1",
+        "author": null,
+        "robots": null,
+        "og_tags": {
+          "og:site_name": "Elia",
+          "og:title": "CAREERS — Elia",
+          "og:url": "https://www.eliaontheriver.com/careers",
+          "og:type": "website"
+        },
+        "twitter_tags": {
+          "twitter:title": "CAREERS — Elia",
+          "twitter:url": "https://www.eliaontheriver.com/careers",
+          "twitter:card": "summary"
+        },
+        "favicon": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/e04b9ae0-d231-4af7-8441-5e73f7ad96a5/favicon.ico?format=100w",
+        "other_meta": {
+          "facebook-domain-verification": "ud9g8haoe7rj4vz4mrx4joya9n5ech"
+        }
+      },
+      "forms": [],
+      "buttons": [
+        {
+          "text": "Open Menu Close Menu",
+          "type": "button",
+          "href": null,
+          "onclick": null,
+          "id": null,
+          "class_name": "header-burger-btn burger",
+          "is_cta": true
+        },
+        {
+          "text": "Skip to Content",
+          "type": "link_cta",
+          "href": "https://www.eliaontheriver.com/careers#page",
+          "onclick": null,
+          "id": null,
+          "class_name": "header-skip-link sqs-button-element--primary",
+          "is_cta": true
+        },
+        {
+          "text": "RESERVE A TABLE",
+          "type": "link_cta",
+          "href": "https://www.eliaontheriver.com/reservations",
+          "onclick": null,
+          "id": null,
+          "class_name": "btn btn--border theme-btn--primary-inverse sqs-button-element--primary",
+          "is_cta": true
+        },
+        {
+          "text": "APPLICATION",
+          "type": "link_cta",
+          "href": "https://app.goformz.com/s/Jxo9qM3OYiBDdNocQb",
+          "onclick": null,
+          "id": null,
+          "class_name": "sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element",
+          "is_cta": true
+        },
+        {
+          "text": "APPLY ON INDEED",
+          "type": "link_cta",
+          "href": "https://www.indeed.com/cmp/Elia-On-the-River",
+          "onclick": null,
+          "id": null,
+          "class_name": "sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element",
+          "is_cta": true
+        }
+      ],
+      "structured_data": {
+        "json_ld": [
+          {
+            "url": "https://www.eliaontheriver.com",
+            "name": "Elia",
+            "description": "",
+            "image": "//images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/1d9371c7-1a27-4438-a427-c85e5ad40138/Elia+on+the+River.png",
+            "@context": "http://schema.org",
+            "@type": "WebSite"
+          },
+          {
+            "address": "",
+            "image": "https://static1.squarespace.com/static/65d4ead9ad0aa1164d8977fc/t/69248083c5759a482b1b84aa/1787161668162/",
+            "openingHours": "",
+            "@context": "http://schema.org",
+            "@type": "LocalBusiness"
+          }
+        ],
+        "opengraph": {},
+        "microdata": []
+      },
+      "screenshot_path": null,
+      "raw_markdown_path": null,
+      "is_success": true,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "url": "https://www.eliaontheriver.com/menu",
+      "path": "/menu",
+      "title": "MENU — Elia",
+      "status_code": 200,
+      "crawled_at": "2026-08-21T09:52:08.881988+00:00",
+      "duration_ms": 292.13,
+      "content": {
+        "markdown": "*Explore the menu at Elia on the River, featuring Southern Italian cuisine with a coastal flair. Enjoy fresh seafood, handmade pasta, and signature dishes at Miami’s premier waterfront dining spot.*\n\n\n# MENU\n\nANTIPASTI & SALAD\nPASTA & PIZZA\nLAND & SEA\nDESSERT\nBEVERAGE\nLUNCH\nSUNSET HOUR\nBRUNCH\nMIAMI SPICE\n\nANTIPASTI\n\nFRITTO MISTO\n\nLIGHTLY BREADED SEAFOOD MIX | ROASTED LEMON | LEMON-CAPERE AIOLI\n\nCHARRED OCTOPUS\n\nCICI PURÉE | OLIVE | SALMORIGLIO\n\nPOLPETTA DI ELIA\n\nWILD BOAR & BEEF | RICOTTA | FENNEL | BASIL | POMODORO\n\nPANZEROTTO QUATTRO FORMAGGI\n\nCRISPY ITALIAN DOUGH | PESTO | POMODORO\n\nBURRATA\n\nHEIRLOOM TOMATO | OREGANO | ARUGULA | ORANGE | TOMATO VINAIGRETTE\n\nBRUSCHETTA\n\nBAGUETTE | CRUSHED TOMATO | GARLIC | BASIL | SICILIAN OREGANO\n\nSALMON TUNA TARTARE*\n\nAVOCADO MOUSSE | SESAME SEEDS | TRUFFLE OIL\n\nTRUFFLE CARPACCIO*\n\nFILET | ARUGULA | CRISPY PARMESAN | TRUFFLE AIOLI\n\nSALAD\n\nITALIAN SALAD\n\nTOMATO | RED ONION | BANANA PEPPER | PARMESAN REGGIANO\n\nTOMATO SALAD\n\nCOSTOLUTO GENOVESE | OREGANO | ARUGULA | ORANGE | TOMATO BALSAMIC\n\nELIA CAESAR\n\nCRISPY CHICKPEAS | RADISH | AVOCADO | SHAVED REGGINAO\n\nGREEK SALAD\n\nFETA | TOMATO | CUCUMBER | ONION | OLIVES | HERB VINAIGRETTE\n\nMAKE IT YOUR OWN: CHICKEN | SHRIMP | FILET TIPS | SALMON\n\nPASTA\n\nSPICY RIGATONI\n\nCALABRIAN VODKA POMODORO | BASIL\n\nGARLIC SHRIMP SPAGHETTI\n\nTOMATO | EVOO | HERB MIX | VONGOLE SUGO\n\nFUSILLI BOLOGNESE\n\nBEEF & WILD BOAR | SAN MARZANO | PECORINO\n\nTRUFFLE FETTUCINE\n\nTRUFFLE CREAM | REGGIANO | FILET TIP | BLACK TRUFFLE\n\nLAMB TAGLIATELLE\n\nTRUFFLE JUS | BRAISED LAMB | REGGIANO | BLACK TRUFFLE\n\nLEMON PESTO LINGUINE\n\nSTRACCHIATELLA | PINE NUT | PISTACHIO | GARLIC | LEMON\n\nPIZZA\n\nPEPPERONI\n\nMOZZARELLA | PEPPERONI | POMODORO\n\nTRUFFLE ROYALE\n\nCARAMELIZED PEAR | TRUFFLE FORMAGGIO | BLACK TRUFFLE\n\nDOLCE INFERNO\n\nSALAMI | CALABRIAN HONEY | POMODORO | STRACCIATELLA\n\nLAND\n\nKUROBUTA PORK CHOP\n\nCHICKEN PARMESAN\n\nGRILLED RIBEYE\n\nNY STRIP\n\nLAMB CHOPS\n\nSEA\n\nGRILLED BRANZINO\n\nGRILLED SALMON\n\nSIDES\n\nPARMESAN TRUFFLE FRIES\n\nHONEY GLAZED CARROTS\n\nMASHED POTATOES\n\nCREAMY SPINACH\n\nDESSERT\n\nPISTACHIO DREAM\n\nTORTA DE LA NONNA\n\nCHOCOLATE DATE\n\nCHOCOLATE MOSAIC\n\nBREAD PUDDING\n\nMANGO SORBET\n\nLEMON SORBET\n\nPASSION FRUIT GELATO\n\nDULCE DE LECHE\n\nPISTACHIO GELATO\n\nVANILLA GELATO\n\nCHOCOLATE GELATO\n\nVANILLA MASTIKA ICE CREAM\n\nCHOCOLATE MASTIKA ICE CREAM\n\nELIA SIGNATURES\n\nVELVET KISS\n\nELIA ESPRESSO MARTINI | KETEL ONE\n\nRED SICILIAN\n\nDON JULIO BLANCO | BLOOD ORANGE | BASIL\n\nELIA BELLINI\n\nVANILLA-INFUSED VODKA | PASSION FRUIT\n\nSICILY SMOKE\n\nMEZCAL | PINEAPPLE SHRUB | CHILI AGAVE\n\nFROM CAPRI WITH SPICE\n\nKETEL ONE | GINGER | JALAPEÑO\n\nREBEL FLOWER\n\nVOLCAN TEQUILA | CILANTRO | JALAPEÑO | LIME\n\nELIA LYCHEE MARTINI\n\nATIAN ROSE GIN | LYCHEE\n\nRONALDO'S PLEA\n\nHENNESSY | GINGER | LIME\n\nELIA SIGNATURES\n\nOLD CUBAN\n\nHAVANA CLUB CLÁSICO | MINT | LIME | PROSECCO\n\nRIVERSIDE WITH HUGO\n\nPROSECCO | ELDERFLOWER | MINT\n\nAPEROL SPRITZ\n\nPROSECCO | CLUB SODA | APEROL\n\nLIMONCELLO SPRITZ\n\nPROSECCO | LIMONCELLO | CLUB SODA\n\nSARTI SPRITZ\n\nPROSECCO | SARTI ROSA | CLUB SODA\n\nMARGA MARGARITHA\n\nESPOLÒN TEQUILA | AGAVE | LIME\n\nGRAPEFRUIT SPRITZ\n\nKETEL ONE | PROSECCO | CLUB SODA\n\nLUNCH\n\n** Our set lunch menu is designed per person and cannot be shared. We’d be happy to suggest some à la carte options if you’d prefer to share dishes.\n\nMonday - Friday, 11:30am - 3pm\n\n* Lunch special is available for parties of 6 or fewer. Larger parties are kindly asked to order from the regular menu.\n\n** Our set lunch menu is designed per person and cannot be shared. We’d be happy to suggest some à la carte options if you’d prefer to share dishes.\n\n25 | 3 COURSES\n\nANTIPASTI\n\nCHOOSE ONE\n\nSOUP OF THE DAY\n\nBRUSCHETTA\n\nBAGUETTE | CRUSHED TOMATO | GARLIC | BASIL\n\nBOLOGNESE FRITTA\n\nPARMIGIANO REGGIANO | POMODORO\n\nSALAD\n\nCHOOSE ONE\n\nELIA ITALIAN\n\nTOMATO | RED ONION | BANANA PEPPER | PARMESAN\n\nGREEK SALAD\n\nGOAT CHEESE FETA | TOMATO | CUCUMBER | ONION | OLIVES | HERB VINAIGRETTE\n\nLAND & SEA\n\nCHOOSE ONE\n\nGNOCCHI DI SORRENTO\n\nPOMODORO | MOZZARELLA | BASIL\n\nCHICKEN PAILLARD\n\nGRILLED CHICKEN | MIXED GREENS\n\nGRILLED SALMON\n\nGRILLED SALMON | SALMORIGLIO\n\nAUSTRALIAN LAMB\n\nGRILLED LAMB | AROMATIC HERBS +25\n\n* Kindly note that on select holidays and special occasions, lunch service may not be available.\n\nSUNSET HOUR\n\n----\n\nMonday - Friday, 3pm - 6pm\n\nAT THE BAR & LOUNGE\n\n----\n\nELIA SIGNATURES - $10\n\nRED SICILIAN\n\nTEQUILA | BLOOD ORANGE | LEMON\n\nELIA BELLINI\n\nVODKA | VANILLA | PASSION FRUIT\n\nRIVERSIDE WITH HUGO\n\nPROSECCO | ELDERFLOWER | MINT\n\nAPEROL SPRITZ\n\nPROSECCO | CLUB SODA | APEROL\n\nELIA LYCHEE MARTINI\n\nATIAN ROSE GIN | LYCHEE\n\nMAGRA MARGARITA\n\nTEQUILA | AGAVE | LIME\n\n$8\n\nHOUSE SPIRITS & BEER\n\n$8\n\n$8\n\nHOUSE WINES\n\n$8\n\nBAR BITES\n\nPROSCUITTO COTTO TOASTY 5\n\nTRUFFLE FOCACCIA BITES 8\n\nBOLOGNESE FRITTA 10\n\nTRUFFLE FRIES 10\n\nMARGHERITA FLATBREAD 10\n\nBEEF TARTARE BITES 10\n\nBRUNCH\n\nSaturday - Sunday, 11:30am - 5pm\n\nLast seating for brunch menu 4pm\n\nRIVERSIDE REFRESHERS\n\n2-HOUR BOTTOMLESS\n\nHUGO SPRITZ | APEROL SPRITZ | LIMONCELLO SPRITZ | SARTI SPRITZ | MIMOSA | PROSECCO | PINOT GRIGIO | SAUVIGNON BLANC | ROSÉ | BEER | BLOODY MARY\n\nBRUNCH\n\nCOASTAL CROISSANT\n\nCURED SALMON | PICKLED ONION | AVOCADO | DILL CHEESE\n\nAVOCADO TOAST\n\nCRISPY SUNFLOWER | RED ONION | RADISH | FETA | AVOCADO MOUSSE\n\nFRENCH TOAST MONTE CRISTO\n\nFONTINA | PROSCIUTTO DI PARMA\n\nCHICKEN MARSALA\n\nFARROTTO | SCALLION | MUSHROOM MARSALA\n\nCHEESY POLENTA\n\nBRAISED SHORT RIB & LAMB | POLENTA\n\nSTEAK & EGGS\n\n12oz NY STRIP | POACHED EGG | FRIES | AU JUS TARTUFO\n\nLOBSTER BENEDICT\n\nMAINE LOBSTER | TOASTED BRIOCHE | HOLLANDAISE FOAM\n\nSALMON SHAKSHUKA\n\nSPICED POMODORO | FRESH HERBS SALMORIGLIO\n\nSUMMER PESTO GNOCCHI\n\nPESTO | PISTACHIO| LEMON | STRACCHIATELLA\n\nBREAKFAST PIZZA\n\nEGGS | PROSCIUTTO | ARUGULA | PARMESAN\n\nSMOKED SALMON FLATBREAD\n\nDILL CREAM | ONION | CAPPER | ARUGULA\n\nSTUFFED CHICKEN MILANESE\n\nFONTINA | PROSCIUTTO COTTO\n\nMAKE IT YOUR OWN: FRIED EGG | POACHED EGG\n\nANTIPASTI\n\nBURRATA\n\nHEIRLOOM TOMATO | OREGANO | ARUGULA | ORANGE | WHITE BALSAMIC\n\nPOLPETTA DI ELIA\n\nWILD BOAR & BEEF | WHIPPED RICOTTA | BASIL | POMODORO\n\nTRUFFLE CARPACCIO\n\nFILET | ARUGULA | PARMIGIANO REGGIANO | TRUFFLE AIOLI\n\nSALAD\n\nELIA CAESAR\n\nCRISPY CHICKPEAS | RADISH | AVOCADO | SHAVED REGGIANO\n\nGREEK SALAD\n\nFETA CHEESE | TOMATO | CUCUMBER | ONION | OLIVES | HERB VINAIGRETTE\n\nTOMATO SALAD\n\nCOSTOLUTO GENOVESE | OREGANO | ARUGULA | ORANGE | TOMATO BALSAMIC\n\nMAKE IT YOUR OWN: CHICKEN | SHRIMP | FILET TIPS | SALMON\n\nPASTA\n\nSPICY RIGATONI\n\nCALABRIAN VODKA POMODORO\n\nFUSILLI BOLOGNESE\n\nWILD BOAR & BEEF RAGÙ | SAN MARZANO TOMATO\n\nPIZZA\n\nPEPPERONI\n\nMOZZARELLA | PEPPERONI | POMODORO\n\nTRUFFLE ROYALE\n\nCARAMELIZED PEAR | PECORINO | BLACK TRUFFLE\n\nDOLCE INFERNO\n\nSALAMI | CALABRIAN HONEY | POMODORO | STRACCIATELLA\n\nMIAMI SPICE\n\n** Our Miami Spice menu is designed per person and cannot be shared. We’d be happy to suggest some à la carte options if you’d prefer to share dishes.\n\nSunday - Thursday, 6pm - 10:30pm\n\n* Miami Spice dinner menu is available for parties of 6 or fewer. Larger parties are kindly asked to order from the regular menu.\n\n** Our Miami Spice menu is designed per person and cannot be shared. We’d be happy to suggest some à la carte options if you’d prefer to share dishes.\n\n65 | 3 COURSES\n\nANTIPASTI\n\nCHOOSE ONE\n\nBRUSCHETTA\n\nBAGUETTE | CRUSHED TOMATO | GARLIC | BASIL\n\nCHARRED OCTOPUS\n\nCECI PURÉE | OLIVES | SALMORIGLIO\n\nPANZEROTTO FRITTO\n\nQUATTRO FORMAGGI | PESTO | POMODORO\n\nELIA CAESAR\n\nCRISPY CHICKPEAS | RADISH | AVOCADO | SHAVED REGGIANO\n\nGREEK SALAD\n\nFETA | TOMATO | CUCUMBER | ONION | OLIVES | HERB VINAIGRETTE\n\nENTRÉE\n\nCHOOSE ONE\n\nSALMON\n\nGRILLED SALMON | SALMORIGLIO\n\nSPICY RIGATONI\n\nCALABRIAN VODKA POMODORO | BASIL\n\nCHICKEN PAILLARD\n\nMARINATED GRILLED CHICKEN\n\nMARGHERITA PIZZA\n\nMOZZARELLA | BASIL | SICILIAN OREGANO\n\nSPAGHETTI POMODORO\n\nTOMATO | GARLIC | BASIL\n\nDESSERT\n\nCHOOSE ONE\n\nPISTACHIO TIRAMISU\n\nICE CREAM\n\nCHOCOLATE CAKE\n\nFor the convenience of our valued patrons, a service charge of 20% will be automatically included in your bill. Should you wish to have this charge removed, we kindly request that you speak with a member of our management team.\n\n*Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness, especially if you have certain medical conditions.\n\n*Menu offerings, pricing, and availability are subject to change. For holidays, special events, and limited-time experiences, a curated menu may be offered in place of our standard menu.\n\n**For corkage, celebratory cake, or special arrangement inquiries, please contact the restaurant directly at (305) 904-4045.*\n\n[Image: Elia-VDaydrink.jpg]\n[Image: _T9A1464.jpg]\n[Image: _T9A8736.jpg]\n[Image: _T9A1317.jpg]\n[Image: _T9A8970.jpg]\n[Image: _T9A1500.jpg]",
+        "plain_text": "0 Skip to Content HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE Open Menu Close Menu Open Menu Close Menu HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE MENU ANTIPASTI & SALAD PASTA & PIZZA LAND & SEA DESSERT BEVERAGE LUNCH SUNSET HOUR BRUNCH MIAMI SPICE ANTIPASTI FRITTO MISTO LIGHTLY BREADED SEAFOOD MIX | ROASTED LEMON | LEMON-CAPERE AIOLI CHARRED OCTOPUS CICI PURÉE | OLIVE | SALMORIGLIO POLPETTA DI ELIA WILD BOAR & BEEF | RICOTTA | FENNEL | BASIL | POMODORO PANZEROTTO QUATTRO FORMAGGI CRISPY ITALIAN DOUGH | PESTO | POMODORO BURRATA HEIRLOOM TOMATO | OREGANO | ARUGULA | ORANGE | TOMATO VINAIGRETTE BRUSCHETTA BAGUETTE | CRUSHED TOMATO | GARLIC | BASIL | SICILIAN OREGANO SALMON TUNA TARTARE* AVOCADO MOUSSE | SESAME SEEDS | TRUFFLE OIL TRUFFLE CARPACCIO* FILET | ARUGULA | CRISPY PARMESAN | TRUFFLE AIOLI SALAD ITALIAN SALAD TOMATO | RED ONION | BANANA PEPPER | PARMESAN REGGIANO TOMATO SALAD COSTOLUTO GENOVESE | OREGANO | ARUGULA | ORANGE | TOMATO BALSAMIC ELIA CAESAR CRISPY CHICKPEAS | RADISH | AVOCADO | SHAVED REGGINAO GREEK SALAD FETA | TOMATO | CUCUMBER | ONION | OLIVES | HERB VINAIGRETTE MAKE IT YOUR OWN: CHICKEN | SHRIMP | FILET TIPS | SALMON PASTA SPICY RIGATONI CALABRIAN VODKA POMODORO | BASIL GARLIC SHRIMP SPAGHETTI TOMATO | EVOO | HERB MIX | VONGOLE SUGO FUSILLI BOLOGNESE BEEF & WILD BOAR | SAN MARZANO | PECORINO TRUFFLE FETTUCINE TRUFFLE CREAM | REGGIANO | FILET TIP | BLACK TRUFFLE LAMB TAGLIATELLE TRUFFLE JUS | BRAISED LAMB | REGGIANO | BLACK TRUFFLE LEMON PESTO LINGUINE STRACCHIATELLA | PINE NUT | PISTACHIO | GARLIC | LEMON PIZZA PEPPERONI MOZZARELLA | PEPPERONI | POMODORO TRUFFLE ROYALE CARAMELIZED PEAR | TRUFFLE FORMAGGIO | BLACK TRUFFLE DOLCE INFERNO SALAMI | CALABRIAN HONEY | POMODORO | STRACCIATELLA LAND KUROBUTA PORK CHOP CHICKEN PARMESAN GRILLED RIBEYE NY STRIP LAMB CHOPS SEA GRILLED BRANZINO GRILLED SALMON SIDES PARMESAN TRUFFLE FRIES HONEY GLAZED CARROTS MASHED POTATOES CREAMY SPINACH DESSERT PISTACHIO DREAM TORTA DE LA NONNA CHOCOLATE DATE CHOCOLATE MOSAIC BREAD PUDDING MANGO SORBET LEMON SORBET PASSION FRUIT GELATO DULCE DE LECHE PISTACHIO GELATO VANILLA GELATO CHOCOLATE GELATO VANILLA MASTIKA ICE CREAM CHOCOLATE MASTIKA ICE CREAM ELIA SIGNATURES VELVET KISS ELIA ESPRESSO MARTINI | KETEL ONE RED SICILIAN DON JULIO BLANCO | BLOOD ORANGE | BASIL ELIA BELLINI VANILLA-INFUSED VODKA | PASSION FRUIT SICILY SMOKE MEZCAL | PINEAPPLE SHRUB | CHILI AGAVE FROM CAPRI WITH SPICE KETEL ONE | GINGER | JALAPEÑO REBEL FLOWER VOLCAN TEQUILA | CILANTRO | JALAPEÑO | LIME ELIA LYCHEE MARTINI ATIAN ROSE GIN | LYCHEE RONALDO'S PLEA HENNESSY | GINGER | LIME ELIA SIGNATURES OLD CUBAN HAVANA CLUB CLÁSICO | MINT | LIME | PROSECCO RIVERSIDE WITH HUGO PROSECCO | ELDERFLOWER | MINT APEROL SPRITZ PROSECCO | CLUB SODA | APEROL LIMONCELLO SPRITZ PROSECCO | LIMONCELLO | CLUB SODA SARTI SPRITZ PROSECCO | SARTI ROSA | CLUB SODA MARGA MARGARITHA ESPOLÒN TEQUILA | AGAVE | LIME GRAPEFRUIT SPRITZ KETEL ONE | PROSECCO | CLUB SODA LUNCH ** Our set lunch menu is designed per person and cannot be shared. We’d be happy to suggest some à la carte options if you’d prefer to share dishes. Monday - Friday, 11:30am - 3pm * Lunch special is available for parties of 6 or fewer. Larger parties are kindly asked to order from the regular menu. ** Our set lunch menu is designed per person and cannot be shared. We’d be happy to suggest some à la carte options if you’d prefer to share dishes. 25 | 3 COURSES ANTIPASTI CHOOSE ONE SOUP OF THE DAY BRUSCHETTA BAGUETTE | CRUSHED TOMATO | GARLIC | BASIL BOLOGNESE FRITTA PARMIGIANO REGGIANO | POMODORO SALAD CHOOSE ONE ELIA ITALIAN TOMATO | RED ONION | BANANA PEPPER | PARMESAN GREEK SALAD GOAT CHEESE FETA | TOMATO | CUCUMBER | ONION | OLIVES | HERB VINAIGRETTE LAND & SEA CHOOSE ONE GNOCCHI DI SORRENTO POMODORO | MOZZARELLA | BASIL CHICKEN PAILLARD GRILLED CHICKEN | MIXED GREENS GRILLED SALMON GRILLED SALMON | SALMORIGLIO AUSTRALIAN LAMB GRILLED LAMB | AROMATIC HERBS +25 * Kindly note that on select holidays and special occasions, lunch service may not be available. SUNSET HOUR ---- Monday - Friday, 3pm - 6pm AT THE BAR & LOUNGE ---- ELIA SIGNATURES - $10 RED SICILIAN TEQUILA | BLOOD ORANGE | LEMON ELIA BELLINI VODKA | VANILLA | PASSION FRUIT RIVERSIDE WITH HUGO PROSECCO | ELDERFLOWER | MINT APEROL SPRITZ PROSECCO | CLUB SODA | APEROL ELIA LYCHEE MARTINI ATIAN ROSE GIN | LYCHEE MAGRA MARGARITA TEQUILA | AGAVE | LIME $ 8 HOUSE SPIRITS & BEER $ 8 $ 8 HOUSE WINES $ 8 BAR BITES PROSCUITTO COTTO TOASTY 5 TRUFFLE FOCACCIA BITES 8 BOLOGNESE FRITTA 10 TRUFFLE FRIES 10 MARGHERITA FLATBREAD 10 BEEF TARTARE BITES 10 BRUNCH Saturday - Sunday, 11:30am - 5pm Last seating for brunch menu 4pm RIVERSIDE REFRESHERS 2-HOUR BOTTOMLESS HUGO SPRITZ | APEROL SPRITZ | LIMONCELLO SPRITZ | SARTI SPRITZ | MIMOSA | PROSECCO | PINOT GRIGIO | SAUVIGNON BLANC | ROSÉ | BEER | BLOODY MARY BRUNCH COASTAL CROISSANT CURED SALMON | PICKLED ONION | AVOCADO | DILL CHEESE AVOCADO TOAST CRISPY SUNFLOWER | RED ONION | RADISH | FETA | AVOCADO MOUSSE FRENCH TOAST MONTE CRISTO FONTINA | PROSCIUTTO DI PARMA CHICKEN MARSALA FARROTTO | SCALLION | MUSHROOM MARSALA CHEESY POLENTA BRAISED SHORT RIB & LAMB | POLENTA STEAK & EGGS 12oz NY STRIP | POACHED EGG | FRIES | AU JUS TARTUFO LOBSTER BENEDICT MAINE LOBSTER | TOASTED BRIOCHE | HOLLANDAISE FOAM SALMON SHAKSHUKA SPICED POMODORO | FRESH HERBS SALMORIGLIO SUMMER PESTO GNOCCHI PESTO | PISTACHIO| LEMON | STRACCHIATELLA BREAKFAST PIZZA EGGS | PROSCIUTTO | ARUGULA | PARMESAN SMOKED SALMON FLATBREAD DILL CREAM | ONION | CAPPER | ARUGULA STUFFED CHICKEN MILANESE FONTINA | PROSCIUTTO COTTO MAKE IT YOUR OWN: FRIED EGG | POACHED EGG ANTIPASTI BURRATA HEIRLOOM TOMATO | OREGANO | ARUGULA | ORANGE | WHITE BALSAMIC POLPETTA DI ELIA WILD BOAR & BEEF | WHIPPED RICOTTA | BASIL | POMODORO TRUFFLE CARPACCIO FILET | ARUGULA | PARMIGIANO REGGIANO | TRUFFLE AIOLI SALAD ELIA CAESAR CRISPY CHICKPEAS | RADISH | AVOCADO | SHAVED REGGIANO GREEK SALAD FETA CHEESE | TOMATO | CUCUMBER | ONION | OLIVES | HERB VINAIGRETTE TOMATO SALAD COSTOLUTO GENOVESE | OREGANO | ARUGULA | ORANGE | TOMATO BALSAMIC MAKE IT YOUR OWN: CHICKEN | SHRIMP | FILET TIPS | SALMON PASTA SPICY RIGATONI CALABRIAN VODKA POMODORO FUSILLI BOLOGNESE WILD BOAR & BEEF RAGÙ | SAN MARZANO TOMATO PIZZA PEPPERONI MOZZARELLA | PEPPERONI | POMODORO TRUFFLE ROYALE CARAMELIZED PEAR | PECORINO | BLACK TRUFFLE DOLCE INFERNO SALAMI | CALABRIAN HONEY | POMODORO | STRACCIATELLA MIAMI SPICE ** Our Miami Spice menu is designed per person and cannot be shared. We’d be happy to suggest some à la carte options if you’d prefer to share dishes. Sunday - Thursday, 6pm - 10:30pm * Miami Spice dinner menu is available for parties of 6 or fewer. Larger parties are kindly asked to order from the regular menu. ** Our Miami Spice menu is designed per person and cannot be shared. We’d be happy to suggest some à la carte options if you’d prefer to share dishes. 65 | 3 COURSES ANTIPASTI CHOOSE ONE BRUSCHETTA BAGUETTE | CRUSHED TOMATO | GARLIC | BASIL CHARRED OCTOPUS CECI PURÉE | OLIVES | SALMORIGLIO PANZEROTTO FRITTO QUATTRO FORMAGGI | PESTO | POMODORO ELIA CAESAR CRISPY CHICKPEAS | RADISH | AVOCADO | SHAVED REGGIANO GREEK SALAD FETA | TOMATO | CUCUMBER | ONION | OLIVES | HERB VINAIGRETTE ENTRÉE CHOOSE ONE SALMON GRILLED SALMON | SALMORIGLIO SPICY RIGATONI CALABRIAN VODKA POMODORO | BASIL CHICKEN PAILLARD MARINATED GRILLED CHICKEN MARGHERITA PIZZA MOZZARELLA | BASIL | SICILIAN OREGANO SPAGHETTI POMODORO TOMATO | GARLIC | BASIL DESSERT CHOOSE ONE PISTACHIO TIRAMISU ICE CREAM CHOCOLATE CAKE For the convenience of our valued patrons, a service charge of 20% will be automatically included in your bill. Should you wish to have this charge removed, we kindly request that you speak with a member of our management team. *Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness, especially if you have certain medical conditions. *Menu offerings, pricing, and availability are subject to change. For holidays, special events, and limited-time experiences, a curated menu may be offered in place of our standard menu. * For corkage, celebratory cake, or special arrangement inquiries, please contact the restaurant directly at (305) 904-4045. ⚲ River Landing 1440 NW N River Dr., #195 Miami, FL 33125 TELEPHONE: 305.904.4045 Follow Company PRIVATE EVENTS CAREERS PRIVACY POLICY",
+        "word_count": 1453,
+        "character_count": 8574,
+        "excerpt": "0 Skip to Content HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE Open Menu Close Menu Open Menu Close Menu HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE HO..."
+      },
+      "headings": [
+        {
+          "level": 1,
+          "text": "MENU",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "⚲ River Landing",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Follow",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Company",
+          "id": null
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.eliaontheriver.com/cart",
+          "text": "0",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/",
+          "text": "Elia",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/hours-location",
+          "text": "HOURS & LOCATION",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/private-events",
+          "text": "GROUP DINING & EVENTS",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/menu",
+          "text": "MENU",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/weekly-events",
+          "text": "WEEKLY EVENTS",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/tipsyteathursdays",
+          "text": "Tipsy Tea Thursdays",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/reservations",
+          "text": "RESERVE A TABLE",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "http://instagram.com/eliaontheriver",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.facebook.com/eliaontheriver",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.tiktok.com/@eliaontheriver",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/private-events",
+          "text": "PRIVATE EVENTS",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/careers",
+          "text": "CAREERS",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/privacy-policy",
+          "text": "PRIVACY POLICY",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/1d9371c7-1a27-4438-a427-c85e5ad40138/Elia+on+the+River.png?format=1500w",
+          "alt": "Elia",
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": "eager",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/d6b97b2a-218c-4d6e-80a2-eecf793fd887/_T9A8934.jpg",
+          "alt": null,
+          "title": null,
+          "width": 2048,
+          "height": 1365,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/cb622334-edcc-4b8b-a611-38d5678d7d51/_T9A9192.JPEG",
+          "alt": null,
+          "title": null,
+          "width": 1365,
+          "height": 2048,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/1770757552469-77RQHY8TCAEQEC7HBSMC/Elia-VDaydrink.jpg",
+          "alt": "Elia-VDaydrink.jpg",
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": null,
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/b070d8cb-e175-414d-b92c-5bd986e5157c/_T9A1464.jpg",
+          "alt": "_T9A1464.jpg",
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": null,
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/d5fdab55-45ae-406d-bb92-3a6fc612baac/_T9A8736.jpg",
+          "alt": "_T9A8736.jpg",
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": null,
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/5871d244-40e4-4896-833e-4785e9eef540/_T9A1317.jpg",
+          "alt": "_T9A1317.jpg",
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": null,
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/7c5657fb-4ce2-487b-8cd5-8fc1a3ffcbd3/_T9A8970.jpg",
+          "alt": "_T9A8970.jpg",
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": null,
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/6c65beb5-7bb4-4b16-b12c-8fa4d39a3727/_T9A1500.jpg",
+          "alt": "_T9A1500.jpg",
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": null,
+          "local_path": null
+        }
+      ],
+      "metadata": {
+        "title": "MENU — Elia",
+        "description": "Explore the menu at Elia on the River, featuring Southern Italian cuisine with a coastal flair. Enjoy fresh seafood, handmade pasta, and signature dishes at Miami’s premier waterfront dining spot.",
+        "keywords": [],
+        "canonical": "https://www.eliaontheriver.com/menu",
+        "language": "en-US",
+        "charset": "utf-8",
+        "viewport": "width=device-width, initial-scale=1",
+        "author": null,
+        "robots": null,
+        "og_tags": {
+          "og:site_name": "Elia",
+          "og:title": "MENU — Elia",
+          "og:url": "https://www.eliaontheriver.com/menu",
+          "og:type": "website",
+          "og:description": "Explore the menu at Elia on the River, featuring Southern Italian cuisine with a coastal flair. Enjoy fresh seafood, handmade pasta, and signature dishes at Miami’s premier waterfront dining spot."
+        },
+        "twitter_tags": {
+          "twitter:title": "MENU — Elia",
+          "twitter:url": "https://www.eliaontheriver.com/menu",
+          "twitter:card": "summary",
+          "twitter:description": "Explore the menu at Elia on the River, featuring Southern Italian cuisine with a coastal flair. Enjoy fresh seafood, handmade pasta, and signature dishes at Miami’s premier waterfront dining spot."
+        },
+        "favicon": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/e04b9ae0-d231-4af7-8441-5e73f7ad96a5/favicon.ico?format=100w",
+        "other_meta": {
+          "facebook-domain-verification": "ud9g8haoe7rj4vz4mrx4joya9n5ech"
+        }
+      },
+      "forms": [],
+      "buttons": [
+        {
+          "text": "Open Menu Close Menu",
+          "type": "button",
+          "href": null,
+          "onclick": null,
+          "id": null,
+          "class_name": "header-burger-btn burger",
+          "is_cta": true
+        },
+        {
+          "text": "Skip to Content",
+          "type": "link_cta",
+          "href": "https://www.eliaontheriver.com/menu#page",
+          "onclick": null,
+          "id": null,
+          "class_name": "header-skip-link sqs-button-element--primary",
+          "is_cta": true
+        },
+        {
+          "text": "RESERVE A TABLE",
+          "type": "link_cta",
+          "href": "https://www.eliaontheriver.com/reservations",
+          "onclick": null,
+          "id": null,
+          "class_name": "btn btn--border theme-btn--primary-inverse sqs-button-element--primary",
+          "is_cta": true
+        }
+      ],
+      "structured_data": {
+        "json_ld": [
+          {
+            "url": "https://www.eliaontheriver.com",
+            "name": "Elia",
+            "description": "",
+            "image": "//images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/1d9371c7-1a27-4438-a427-c85e5ad40138/Elia+on+the+River.png",
+            "@context": "http://schema.org",
+            "@type": "WebSite"
+          },
+          {
+            "address": "",
+            "image": "https://static1.squarespace.com/static/65d4ead9ad0aa1164d8977fc/t/69248083c5759a482b1b84aa/1787161668162/",
+            "openingHours": "",
+            "@context": "http://schema.org",
+            "@type": "LocalBusiness"
+          }
+        ],
+        "opengraph": {},
+        "microdata": []
+      },
+      "screenshot_path": null,
+      "raw_markdown_path": null,
+      "is_success": true,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "url": "https://www.eliaontheriver.com/hours-location",
+      "path": "/hours-location",
+      "title": "HOURS & LOCATION — Elia",
+      "status_code": 200,
+      "crawled_at": "2026-08-21T09:52:09.035497+00:00",
+      "duration_ms": 142.04,
+      "content": {
+        "markdown": "*Find Elia on the River’s location, hours, and directions. Experience Southern Italian cuisine with a coastal flair at this Miami waterfront destination.*\n\n\n## MEET US ON THE RIVER\n\n## HOURS\n\n#### **Mondays - Thursdays 11:30 AM - 11:00 PM**\n\n#### Lunch: 11:30 AM - 3:00 PM Sunset Hour: 3:00 PM - 6:00 PM (in the lounge) Dinner: 6:00 PM - 10:45 PM\n\n#### **Fridays 11:30 AM - 12:00 AM**\n\n#### Lunch: 11:30 AM - 3:00 PM Sunset Hour: 3:00 PM - 6:00 PM (in the lounge) Dinner: 6:00 PM - 11:30 PM *~ Lounge open until late on Fridays ~*\n\n#### **Saturdays** **11:30 AM - 12:00 AM**\n\n#### Brunch: 11:30 AM - 5:00 PM (last seating at 4:00 PM) Dinner: 5:00 PM - 11:30 PM\n\n#### *~ Lounge open until late ~*\n\n#### **Sundays** **11:30 AM - 11:00 PM**\n\n#### Brunch: 11:30 AM - 5:00 PM (last seating at 4:00 PM) Dinner: 5:00 PM - 10:45 PM\n\n**In line with local health regulations, pets are not permitted at Elia. We truly appreciate your understanding.**\n\n## Address\n\nRiver Landing\n\n1440 NW N River Dr., #195, Miami, FL 33125\n\n*(Ground level, facing the river)*\n\n**Free Garage Parking** for the first two hours in the River Landing parking garage. Follow the garage signage for instructions.\n\n**Paid Parking** on the street.\n\n**Docking** available via dockwa.com.\n\n[MAP IT](https://www.google.com/maps/dir//Elia,+1440+NW+N+River+Dr+%23195,+Miami,+FL+33125/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d9b7d019639e87:0xb8d7b429d4283c8a?sa=X&ved=1t:57443&ictx=111)\n\n[CALL US](tel:3059044045)\n\n## “Each dish is crafted with meticulous attention to detail, ensuring a memorable and delightful meal.”\n\n— Executive Chef, *Elia*\n\n## Be the first to know about our latest events and specials.\n\nEmail Address\n\nSUBSCRIBE\n\nThank you!",
+        "plain_text": "0 Skip to Content HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE Open Menu Close Menu Open Menu Close Menu HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE MEET US ON THE RIVER HOURS Mondays - Thursdays 11:30 AM - 11:00 PM Lunch: 11:30 AM - 3:00 PM Sunset Hour: 3:00 PM - 6:00 PM (in the lounge) Dinner: 6:00 PM - 10:45 PM Fridays 11:30 AM - 12:00 AM Lunch: 11:30 AM - 3:00 PM Sunset Hour: 3:00 PM - 6:00 PM (in the lounge) Dinner: 6:00 PM - 11:30 PM ~ Lounge open until late on Fridays ~ Saturdays 11:30 AM - 12:00 AM Brunch: 11:30 AM - 5:00 PM (last seating at 4:00 PM) Dinner: 5:00 PM - 11:30 PM ~ Lounge open until late ~ Sundays 11:30 AM - 11:00 PM Brunch: 11:30 AM - 5:00 PM (last seating at 4:00 PM) Dinner: 5:00 PM - 10:45 PM In line with local health regulations, pets are not permitted at Elia. We truly appreciate your understanding. Address River Landing 1440 NW N River Dr., #195, Miami, FL 33125 (Ground level, facing the river) Free Garage Parking for the first two hours in the River Landing parking garage. Follow the garage signage for instructions. Paid Parking on the street. Docking available via dockwa.com. MAP IT CALL US “Each dish is crafted with meticulous attention to detail, ensuring a memorable and delightful meal.” — Executive Chef, Elia Be the first to know about our latest events and specials. Email Address SUBSCRIBE Thank you! ⚲ River Landing 1440 NW N River Dr., #195 Miami, FL 33125 TELEPHONE: 305.904.4045 Follow Company PRIVATE EVENTS CAREERS PRIVACY POLICY",
+        "word_count": 307,
+        "character_count": 1684,
+        "excerpt": "0 Skip to Content HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE Open Menu Close Menu Open Menu Close Menu HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE HO..."
+      },
+      "headings": [
+        {
+          "level": 2,
+          "text": "MEET US ON THE RIVER",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "HOURS",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Mondays - Thursdays11:30 AM - 11:00 PM",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Lunch: 11:30 AM - 3:00 PMSunset Hour: 3:00 PM - 6:00 PM (in the lounge)Dinner: 6:00 PM - 10:45 PM",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Fridays11:30 AM - 12:00 AM",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Lunch: 11:30 AM - 3:00 PMSunset Hour: 3:00 PM - 6:00 PM (in the lounge)Dinner: 6:00 PM - 11:30 PM ~ Lounge open until late on Fridays ~",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Saturdays11:30 AM - 12:00 AM",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Brunch: 11:30 AM - 5:00 PM (last seating at 4:00 PM)Dinner: 5:00 PM - 11:30 PM",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "~ Lounge open until late ~",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Sundays11:30 AM - 11:00 PM",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Brunch: 11:30 AM - 5:00 PM (last seating at 4:00 PM)Dinner: 5:00 PM - 10:45 PM",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Address",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "“Each dish is crafted with meticulous attention to detail, ensuring a memorable and delightful meal.”",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Be the first to know about our latest events and specials.",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "⚲ River Landing",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Follow",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Company",
+          "id": null
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.eliaontheriver.com/cart",
+          "text": "0",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/",
+          "text": "Elia",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/hours-location",
+          "text": "HOURS & LOCATION",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/private-events",
+          "text": "GROUP DINING & EVENTS",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/menu",
+          "text": "MENU",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/weekly-events",
+          "text": "WEEKLY EVENTS",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/tipsyteathursdays",
+          "text": "Tipsy Tea Thursdays",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/reservations",
+          "text": "RESERVE A TABLE",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.google.com/maps/dir//Elia,+1440+NW+N+River+Dr+%23195,+Miami,+FL+33125/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d9b7d019639e87:0xb8d7b429d4283c8a?sa=X&ved=1t:57443&ictx=111",
+          "text": "MAP IT",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://instagram.com/eliaontheriver",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.facebook.com/eliaontheriver",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.tiktok.com/@eliaontheriver",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/private-events",
+          "text": "PRIVATE EVENTS",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/careers",
+          "text": "CAREERS",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/privacy-policy",
+          "text": "PRIVACY POLICY",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/1d9371c7-1a27-4438-a427-c85e5ad40138/Elia+on+the+River.png?format=1500w",
+          "alt": "Elia",
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": "eager",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/b5685d65-55da-4d32-92fe-4f00c05981ff/Elia-patio.jpg",
+          "alt": null,
+          "title": null,
+          "width": 6000,
+          "height": 4000,
+          "loading": "eager",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/9e9aefed-f4ca-40c7-beb7-b20e8bee2297/_T9A8982.jpg",
+          "alt": null,
+          "title": null,
+          "width": 1365,
+          "height": 2048,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/c230bfe0-8e6e-4995-b536-de6b37c67602/EliaWRE-52.jpg",
+          "alt": null,
+          "title": null,
+          "width": 6144,
+          "height": 4095,
+          "loading": "lazy",
+          "local_path": null
+        }
+      ],
+      "metadata": {
+        "title": "HOURS & LOCATION — Elia",
+        "description": "Find Elia on the River’s location, hours, and directions. Experience Southern Italian cuisine with a coastal flair at this Miami waterfront destination.",
+        "keywords": [],
+        "canonical": "https://www.eliaontheriver.com/hours-location",
+        "language": "en-US",
+        "charset": "utf-8",
+        "viewport": "width=device-width, initial-scale=1",
+        "author": null,
+        "robots": null,
+        "og_tags": {
+          "og:site_name": "Elia",
+          "og:title": "HOURS & LOCATION — Elia",
+          "og:url": "https://www.eliaontheriver.com/hours-location",
+          "og:type": "website",
+          "og:description": "Find Elia on the River’s location, hours, and directions. Experience Southern Italian cuisine with a coastal flair at this Miami waterfront destination."
+        },
+        "twitter_tags": {
+          "twitter:title": "HOURS & LOCATION — Elia",
+          "twitter:url": "https://www.eliaontheriver.com/hours-location",
+          "twitter:card": "summary",
+          "twitter:description": "Find Elia on the River’s location, hours, and directions. Experience Southern Italian cuisine with a coastal flair at this Miami waterfront destination."
+        },
+        "favicon": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/e04b9ae0-d231-4af7-8441-5e73f7ad96a5/favicon.ico?format=100w",
+        "other_meta": {
+          "facebook-domain-verification": "ud9g8haoe7rj4vz4mrx4joya9n5ech"
+        }
+      },
+      "forms": [
+        {
+          "id": null,
+          "name": null,
+          "action": null,
+          "method": "POST",
+          "fields": [
+            {
+              "name": "email",
+              "type": "email",
+              "label": "Email Address",
+              "placeholder": "Email Address",
+              "required": false,
+              "value": null,
+              "options": []
+            }
+          ],
+          "submit_text": "SUBSCRIBE"
+        }
+      ],
+      "buttons": [
+        {
+          "text": "Open Menu Close Menu",
+          "type": "button",
+          "href": null,
+          "onclick": null,
+          "id": null,
+          "class_name": "header-burger-btn burger",
+          "is_cta": true
+        },
+        {
+          "text": "SUBSCRIBE",
+          "type": "submit",
+          "href": null,
+          "onclick": null,
+          "id": null,
+          "class_name": "newsletter-form-button sqs-system-button sqs-editable-button-layout sqs-editable-button-style sqs-editable-button-shape sqs-button-element--primary",
+          "is_cta": true
+        },
+        {
+          "text": "Skip to Content",
+          "type": "link_cta",
+          "href": "https://www.eliaontheriver.com/hours-location#page",
+          "onclick": null,
+          "id": null,
+          "class_name": "header-skip-link sqs-button-element--primary",
+          "is_cta": true
+        },
+        {
+          "text": "RESERVE A TABLE",
+          "type": "link_cta",
+          "href": "https://www.eliaontheriver.com/reservations",
+          "onclick": null,
+          "id": null,
+          "class_name": "btn btn--border theme-btn--primary-inverse sqs-button-element--primary",
+          "is_cta": true
+        },
+        {
+          "text": "MAP IT",
+          "type": "link_cta",
+          "href": "https://www.google.com/maps/dir//Elia,+1440+NW+N+River+Dr+%23195,+Miami,+FL+33125/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d9b7d019639e87:0xb8d7b429d4283c8a?sa=X&ved=1t:57443&ictx=111",
+          "onclick": null,
+          "id": null,
+          "class_name": "sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element",
+          "is_cta": true
+        },
+        {
+          "text": "CALL US",
+          "type": "link_cta",
+          "href": "tel:3059044045",
+          "onclick": null,
+          "id": null,
+          "class_name": "sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element",
+          "is_cta": true
+        }
+      ],
+      "structured_data": {
+        "json_ld": [
+          {
+            "url": "https://www.eliaontheriver.com",
+            "name": "Elia",
+            "description": "",
+            "image": "//images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/1d9371c7-1a27-4438-a427-c85e5ad40138/Elia+on+the+River.png",
+            "@context": "http://schema.org",
+            "@type": "WebSite"
+          },
+          {
+            "address": "",
+            "image": "https://static1.squarespace.com/static/65d4ead9ad0aa1164d8977fc/t/69248083c5759a482b1b84aa/1787161668162/",
+            "openingHours": "",
+            "@context": "http://schema.org",
+            "@type": "LocalBusiness"
+          }
+        ],
+        "opengraph": {},
+        "microdata": []
+      },
+      "screenshot_path": null,
+      "raw_markdown_path": null,
+      "is_success": true,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "url": "https://www.eliaontheriver.com/reservations",
+      "path": "/reservations",
+      "title": "RESERVATIONS — Elia",
+      "status_code": 200,
+      "crawled_at": "2026-08-21T09:52:09.113342+00:00",
+      "duration_ms": 75.39,
+      "content": {
+        "markdown": "*** Please note:** We kindly hold table reservations for up to **15 minutes** past the scheduled reservation time. During peak dining hours, tables are released after the grace period to accommodate other guests. If you’re running late, please give us a call, and we’ll do our best to assist.\n\n## “Each dish is crafted with meticulous attention to detail, ensuring a memorable and delightful meal.”\n\n— Executive Chef, *Elia*",
+        "plain_text": "0 Skip to Content HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE Open Menu Close Menu Open Menu Close Menu HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE * Please note: We kindly hold table reservations for up to 15 minutes past the scheduled reservation time. During peak dining hours, tables are released after the grace period to accommodate other guests. If you’re running late, please give us a call, and we’ll do our best to assist. “Each dish is crafted with meticulous attention to detail, ensuring a memorable and delightful meal.” — Executive Chef, Elia ⚲ River Landing 1440 NW N River Dr., #195 Miami, FL 33125 TELEPHONE: 305.904.4045 Follow Company PRIVATE EVENTS CAREERS PRIVACY POLICY",
+        "word_count": 149,
+        "character_count": 886,
+        "excerpt": "0 Skip to Content HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE Open Menu Close Menu Open Menu Close Menu HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE HO..."
+      },
+      "headings": [
+        {
+          "level": 2,
+          "text": "“Each dish is crafted with meticulous attention to detail, ensuring a memorable and delightful meal.”",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "⚲ River Landing",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Follow",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Company",
+          "id": null
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.eliaontheriver.com/cart",
+          "text": "0",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/",
+          "text": "Elia",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/hours-location",
+          "text": "HOURS & LOCATION",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/private-events",
+          "text": "GROUP DINING & EVENTS",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/menu",
+          "text": "MENU",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/weekly-events",
+          "text": "WEEKLY EVENTS",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/tipsyteathursdays",
+          "text": "Tipsy Tea Thursdays",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/reservations",
+          "text": "RESERVE A TABLE",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "http://instagram.com/eliaontheriver",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.facebook.com/eliaontheriver",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.tiktok.com/@eliaontheriver",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/private-events",
+          "text": "PRIVATE EVENTS",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/careers",
+          "text": "CAREERS",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/privacy-policy",
+          "text": "PRIVACY POLICY",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/1d9371c7-1a27-4438-a427-c85e5ad40138/Elia+on+the+River.png?format=1500w",
+          "alt": "Elia",
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": "eager",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/b8c6d32d-6270-4917-b9a9-54e7c425d1d5/EliaWRE-65.jpg",
+          "alt": null,
+          "title": null,
+          "width": 5499,
+          "height": 3666,
+          "loading": "lazy",
+          "local_path": null
+        }
+      ],
+      "metadata": {
+        "title": "RESERVATIONS — Elia",
+        "description": null,
+        "keywords": [],
+        "canonical": "https://www.eliaontheriver.com/reservations",
+        "language": "en-US",
+        "charset": "utf-8",
+        "viewport": "width=device-width, initial-scale=1",
+        "author": null,
+        "robots": null,
+        "og_tags": {
+          "og:site_name": "Elia",
+          "og:title": "RESERVATIONS — Elia",
+          "og:url": "https://www.eliaontheriver.com/reservations",
+          "og:type": "website"
+        },
+        "twitter_tags": {
+          "twitter:title": "RESERVATIONS — Elia",
+          "twitter:url": "https://www.eliaontheriver.com/reservations",
+          "twitter:card": "summary"
+        },
+        "favicon": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/e04b9ae0-d231-4af7-8441-5e73f7ad96a5/favicon.ico?format=100w",
+        "other_meta": {
+          "facebook-domain-verification": "ud9g8haoe7rj4vz4mrx4joya9n5ech"
+        }
+      },
+      "forms": [],
+      "buttons": [
+        {
+          "text": "Open Menu Close Menu",
+          "type": "button",
+          "href": null,
+          "onclick": null,
+          "id": null,
+          "class_name": "header-burger-btn burger",
+          "is_cta": true
+        },
+        {
+          "text": "Skip to Content",
+          "type": "link_cta",
+          "href": "https://www.eliaontheriver.com/reservations#page",
+          "onclick": null,
+          "id": null,
+          "class_name": "header-skip-link sqs-button-element--primary",
+          "is_cta": true
+        },
+        {
+          "text": "RESERVE A TABLE",
+          "type": "link_cta",
+          "href": "https://www.eliaontheriver.com/reservations",
+          "onclick": null,
+          "id": null,
+          "class_name": "btn btn--border theme-btn--primary-inverse sqs-button-element--primary",
+          "is_cta": true
+        }
+      ],
+      "structured_data": {
+        "json_ld": [
+          {
+            "url": "https://www.eliaontheriver.com",
+            "name": "Elia",
+            "description": "",
+            "image": "//images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/1d9371c7-1a27-4438-a427-c85e5ad40138/Elia+on+the+River.png",
+            "@context": "http://schema.org",
+            "@type": "WebSite"
+          },
+          {
+            "address": "",
+            "image": "https://static1.squarespace.com/static/65d4ead9ad0aa1164d8977fc/t/69248083c5759a482b1b84aa/1787161668162/",
+            "openingHours": "",
+            "@context": "http://schema.org",
+            "@type": "LocalBusiness"
+          }
+        ],
+        "opengraph": {},
+        "microdata": []
+      },
+      "screenshot_path": null,
+      "raw_markdown_path": null,
+      "is_success": true,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "url": "https://www.eliaontheriver.com/weekly-events",
+      "path": "/weekly-events",
+      "title": "WEEKLY EVENTS — Elia",
+      "status_code": 200,
+      "crawled_at": "2026-08-21T09:52:09.318907+00:00",
+      "duration_ms": 204.01,
+      "content": {
+        "markdown": "*Experience unforgettable weekly events at Elia on the River. From live salsa nights and elegant jazz brunches to high-energy DJ sets and ladies’ nights, enjoy vibrant entertainment, handcrafted cocktails, and Southern Italian flavors at Miami’s premier waterfront destination.*\n\n\n## WEEKLY EVENTS\n\n* ## Viva Salsa Mondays\n\n  Mondays | 7:00 PM\n\n  **Live band playing salsa music**. Dance the night away by the river with Latin rhythms and Southern Italian flavors.\n* ## Wednesdays at Elia\n\n  Wednesdays | 7:00 PM\n\n  Enjoy some mid-week beats with **DJ Chacalsen**. paired with Elia’s handcrafted cocktails & delicious food.\n* ## Tipsy Tea Thursdays\n\n  Thursdays | 3:00 PM\n\n  Three-tier towers, spritzes, cocktails, live entertainment, and riverfront views - brought to you by Aperol.\n* ## Bella Notte Thursdays\n\n  Thursdays | 7:00 PM\n\n  Ladies' Night with **DJ**. *Complimentary spritzes for the ladies in the lounge.* The perfect midweek escape!\n* ## Dolce Vita Fridays\n\n  Fridays | 5:00 PM\n\n  Sunset live **from live band**, followed by **DJ Ornella**. Flavorful cocktails and elegant dining.\n* ## Saturdays on the River\n\n  Saturdays | 8:00 PM\n\n  Live violinist **Kiara Fernandez** & a **DJ**. A mix of sophistication & high-energy beats by the river of Miami.\n* ## Weekend by the River\n\n  Weekends | 11:30 AM - 5:00 PM\n\n  Brunch favorites, **live jazz band** & bottomless drinks — the perfect riverside escape! (*last-seating 4:00 PM)\n* ## Sundays at Elia\n\n  Sundays | 6:30PM\n\n  Close the weekend on a high note with a **DJ** — the perfect blend of lively vibes & Southern Italian flavors.\n\n[Book a Table](https://www.opentable.com/r/elia-miami?ot_source=Instagram)",
+        "plain_text": "0 Skip to Content HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE Open Menu Close Menu Open Menu Close Menu HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE WEEKLY EVENTS Viva Salsa Mondays Mondays | 7:00 PM Live band playing salsa music . Dance the night away by the river with Latin rhythms and Southern Italian flavors. Wednesdays at Elia Wednesdays | 7:00 PM Enjoy some mid-week beats with DJ Chacalsen . paired with Elia’s handcrafted cocktails & delicious food. Tipsy Tea Thursdays Thursdays | 3:00 PM Three-tier towers, spritzes, cocktails, live entertainment, and riverfront views - brought to you by Aperol. Bella Notte Thursdays Thursdays | 7:00 PM Ladies' Night with DJ . Complimentary spritzes for the ladies in the lounge. The perfect midweek escape! Dolce Vita Fridays Fridays | 5:00 PM Sunset live from live band , followed by DJ Ornella . Flavorful cocktails and elegant dining. Saturdays on the River Saturdays | 8:00 PM Live violinist Kiara Fernandez & a DJ . A mix of sophistication & high-energy beats by the river of Miami. Weekend by the River Weekends | 11:30 AM - 5:00 PM Brunch favorites, live jazz band & bottomless drinks — the perfect riverside escape! (*last-seating 4:00 PM) Sundays at Elia Sundays | 6:30PM Close the weekend on a high note with a DJ — the perfect blend of lively vibes & Southern Italian flavors. Book a Table ⚲ River Landing 1440 NW N River Dr., #195 Miami, FL 33125 TELEPHONE: 305.904.4045 Follow Company PRIVATE EVENTS CAREERS PRIVACY POLICY",
+        "word_count": 287,
+        "character_count": 1677,
+        "excerpt": "0 Skip to Content HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE Open Menu Close Menu Open Menu Close Menu HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE HO..."
+      },
+      "headings": [
+        {
+          "level": 2,
+          "text": "WEEKLY EVENTS",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Viva Salsa Mondays",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Wednesdays at Elia",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Tipsy Tea Thursdays",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Bella Notte Thursdays",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Dolce Vita Fridays",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Saturdays on the River",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Weekend by the River",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Sundays at Elia",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "⚲ River Landing",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Follow",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Company",
+          "id": null
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.eliaontheriver.com/cart",
+          "text": "0",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/",
+          "text": "Elia",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/hours-location",
+          "text": "HOURS & LOCATION",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/private-events",
+          "text": "GROUP DINING & EVENTS",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/menu",
+          "text": "MENU",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/weekly-events",
+          "text": "WEEKLY EVENTS",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/tipsyteathursdays",
+          "text": "Tipsy Tea Thursdays",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/reservations",
+          "text": "RESERVE A TABLE",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/",
+          "text": "",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.opentable.com/r/elia-miami?ot_source=Instagram",
+          "text": "Book a Table",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://instagram.com/eliaontheriver",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.facebook.com/eliaontheriver",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.tiktok.com/@eliaontheriver",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/private-events",
+          "text": "PRIVATE EVENTS",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/careers",
+          "text": "CAREERS",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/privacy-policy",
+          "text": "PRIVACY POLICY",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/1d9371c7-1a27-4438-a427-c85e5ad40138/Elia+on+the+River.png?format=1500w",
+          "alt": "Elia",
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": "eager",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/3317c395-6f4b-4adb-a3e1-9076d057bec9/5W2A4196.jpg",
+          "alt": null,
+          "title": null,
+          "width": 3000,
+          "height": 2000,
+          "loading": "eager",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/46a798a9-ef20-4e30-b9ec-5f5ac61de3bd/RALV0450.jpg",
+          "alt": null,
+          "title": null,
+          "width": 3200,
+          "height": 2134,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/b05f632c-82c0-4b57-9a51-85877bb95d54/RALV1124.JPEG",
+          "alt": null,
+          "title": null,
+          "width": 3200,
+          "height": 2134,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/9f8bd4b1-18ea-4903-953b-f90a7c908715/4T4A2815.jpg",
+          "alt": null,
+          "title": null,
+          "width": 4000,
+          "height": 6000,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/eeff892c-216b-4bab-b56d-4d07ff49b409/_W4A9317.JPG",
+          "alt": null,
+          "title": null,
+          "width": 2560,
+          "height": 3840,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/ec4415e6-178d-4f48-a8fb-ba3ad24c64c7/_W4A9288.JPG",
+          "alt": null,
+          "title": null,
+          "width": 3840,
+          "height": 2560,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/cb120e27-51c6-4ae8-bab8-99eb89fa193d/_W4A9341.JPG",
+          "alt": null,
+          "title": null,
+          "width": 2560,
+          "height": 3840,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/b665c1e1-a4e7-4f05-b109-dba423d8b180/_T9A9301.jpg",
+          "alt": null,
+          "title": null,
+          "width": 1487,
+          "height": 2048,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/5be67795-9143-450c-a4a1-dfd2db6da601/RALV0382-Enhanced-NR.jpg",
+          "alt": null,
+          "title": null,
+          "width": 3200,
+          "height": 2134,
+          "loading": "lazy",
+          "local_path": null
+        }
+      ],
+      "metadata": {
+        "title": "WEEKLY EVENTS — Elia",
+        "description": "Experience unforgettable weekly events at Elia on the River. From live salsa nights and elegant jazz brunches to high-energy DJ sets and ladies’ nights, enjoy vibrant entertainment, handcrafted cocktails, and Southern Italian flavors at Miami’s premier waterfront destination.",
+        "keywords": [],
+        "canonical": "https://www.eliaontheriver.com/weekly-events",
+        "language": "en-US",
+        "charset": "utf-8",
+        "viewport": "width=device-width, initial-scale=1",
+        "author": null,
+        "robots": null,
+        "og_tags": {
+          "og:site_name": "Elia",
+          "og:title": "WEEKLY EVENTS — Elia",
+          "og:url": "https://www.eliaontheriver.com/weekly-events",
+          "og:type": "website",
+          "og:description": "Experience unforgettable weekly events at Elia on the River. From live salsa nights and elegant jazz brunches to high-energy DJ sets and ladies’ nights, enjoy vibrant entertainment, handcrafted cocktails, and Southern Italian flavors at Miami’s premier waterfront destination."
+        },
+        "twitter_tags": {
+          "twitter:title": "WEEKLY EVENTS — Elia",
+          "twitter:url": "https://www.eliaontheriver.com/weekly-events",
+          "twitter:card": "summary",
+          "twitter:description": "Experience unforgettable weekly events at Elia on the River. From live salsa nights and elegant jazz brunches to high-energy DJ sets and ladies’ nights, enjoy vibrant entertainment, handcrafted cocktails, and Southern Italian flavors at Miami’s premier waterfront destination."
+        },
+        "favicon": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/e04b9ae0-d231-4af7-8441-5e73f7ad96a5/favicon.ico?format=100w",
+        "other_meta": {
+          "facebook-domain-verification": "ud9g8haoe7rj4vz4mrx4joya9n5ech"
+        }
+      },
+      "forms": [],
+      "buttons": [
+        {
+          "text": "Open Menu Close Menu",
+          "type": "button",
+          "href": null,
+          "onclick": null,
+          "id": null,
+          "class_name": "header-burger-btn burger",
+          "is_cta": true
+        },
+        {
+          "text": "Skip to Content",
+          "type": "link_cta",
+          "href": "https://www.eliaontheriver.com/weekly-events#page",
+          "onclick": null,
+          "id": null,
+          "class_name": "header-skip-link sqs-button-element--primary",
+          "is_cta": true
+        },
+        {
+          "text": "RESERVE A TABLE",
+          "type": "link_cta",
+          "href": "https://www.eliaontheriver.com/reservations",
+          "onclick": null,
+          "id": null,
+          "class_name": "btn btn--border theme-btn--primary-inverse sqs-button-element--primary",
+          "is_cta": true
+        },
+        {
+          "text": "Book a Table",
+          "type": "link_cta",
+          "href": "https://www.opentable.com/r/elia-miami?ot_source=Instagram",
+          "onclick": null,
+          "id": null,
+          "class_name": "list-section-button sqs-block-button-element sqs-block-button-element--large sqs-button-element--secondary",
+          "is_cta": true
+        }
+      ],
+      "structured_data": {
+        "json_ld": [
+          {
+            "url": "https://www.eliaontheriver.com",
+            "name": "Elia",
+            "description": "",
+            "image": "//images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/1d9371c7-1a27-4438-a427-c85e5ad40138/Elia+on+the+River.png",
+            "@context": "http://schema.org",
+            "@type": "WebSite"
+          },
+          {
+            "address": "",
+            "image": "https://static1.squarespace.com/static/65d4ead9ad0aa1164d8977fc/t/69248083c5759a482b1b84aa/1787161668162/",
+            "openingHours": "",
+            "@context": "http://schema.org",
+            "@type": "LocalBusiness"
+          }
+        ],
+        "opengraph": {},
+        "microdata": []
+      },
+      "screenshot_path": null,
+      "raw_markdown_path": null,
+      "is_success": true,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "url": "https://www.eliaontheriver.com/incognito-thursdays",
+      "path": "/incognito-thursdays",
+      "title": "Incognito Thursdays — Elia",
+      "status_code": 200,
+      "crawled_at": "2026-08-21T09:52:09.425999+00:00",
+      "duration_ms": 105.4,
+      "content": {
+        "markdown": "## Incognito Thursdays —\n\n## Welcome to the other side of Midnight\n\nWhen the lights go down and the whispers grow louder, Elia transforms.\n\nBehind the charm of the riverfront restaurant lies something unexpected —\na secret waiting for those who know where to look.\n\nOn **Thursday, October 23rd**, as the clock strikes midnight, doors open to an after-hours speakeasy unlike any other.\n\nFrom 12AM until 5AM, the night belongs to ‘golden-hour’ cocktails, hidden corners, & beats only the brave discover.\n\n*It’s exclusive, it’s indulgent, and it’s yours to uncover.*\n\n**Midnight is calling… will you answer?**\n\nRSVP: triinu@eliaontheriver.com",
+        "plain_text": "0 Skip to Content HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE Open Menu Close Menu Open Menu Close Menu HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE Incognito Thursdays — Welcome to the other side of Midnight When the lights go down and the whispers grow louder, Elia transforms. Behind the charm of the riverfront restaurant lies something unexpected — a secret waiting for those who know where to look. On Thursday, October 23rd , as the clock strikes midnight, doors open to an after-hours speakeasy unlike any other. From 12AM until 5AM, the night belongs to ‘golden-hour’ cocktails, hidden corners, & beats only the brave discover. It’s exclusive, it’s indulgent, and it’s yours to uncover. Midnight is calling… will you answer? RSVP: triinu@eliaontheriver.com ⚲ River Landing 1440 NW N River Dr., #195 Miami, FL 33125 TELEPHONE: 305.904.4045 Follow Company PRIVATE EVENTS CAREERS PRIVACY POLICY",
+        "word_count": 178,
+        "character_count": 1093,
+        "excerpt": "0 Skip to Content HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE Open Menu Close Menu Open Menu Close Menu HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE HO..."
+      },
+      "headings": [
+        {
+          "level": 2,
+          "text": "Incognito Thursdays —",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Welcome to the other side of Midnight",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "⚲ River Landing",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Follow",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Company",
+          "id": null
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.eliaontheriver.com/cart",
+          "text": "0",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/",
+          "text": "Elia",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/hours-location",
+          "text": "HOURS & LOCATION",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/private-events",
+          "text": "GROUP DINING & EVENTS",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/menu",
+          "text": "MENU",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/weekly-events",
+          "text": "WEEKLY EVENTS",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/tipsyteathursdays",
+          "text": "Tipsy Tea Thursdays",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/reservations",
+          "text": "RESERVE A TABLE",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "http://instagram.com/eliaontheriver",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.facebook.com/eliaontheriver",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.tiktok.com/@eliaontheriver",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/private-events",
+          "text": "PRIVATE EVENTS",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/careers",
+          "text": "CAREERS",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/privacy-policy",
+          "text": "PRIVACY POLICY",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/1d9371c7-1a27-4438-a427-c85e5ad40138/Elia+on+the+River.png?format=1500w",
+          "alt": "Elia",
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": "eager",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/960671c1-48d7-44b2-bc7f-adfea653e305/Untitled.png",
+          "alt": null,
+          "title": null,
+          "width": 1920,
+          "height": 1080,
+          "loading": "eager",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/3ef20175-7d30-4939-b18c-8bbeea15643d/Stories-30.png",
+          "alt": null,
+          "title": null,
+          "width": 1080,
+          "height": 1920,
+          "loading": "lazy",
+          "local_path": null
+        }
+      ],
+      "metadata": {
+        "title": "Incognito Thursdays — Elia",
+        "description": null,
+        "keywords": [],
+        "canonical": "https://www.eliaontheriver.com/incognito-thursdays",
+        "language": "en-US",
+        "charset": "utf-8",
+        "viewport": "width=device-width, initial-scale=1",
+        "author": null,
+        "robots": null,
+        "og_tags": {
+          "og:site_name": "Elia",
+          "og:title": "Incognito Thursdays — Elia",
+          "og:url": "https://www.eliaontheriver.com/incognito-thursdays",
+          "og:type": "website"
+        },
+        "twitter_tags": {
+          "twitter:title": "Incognito Thursdays — Elia",
+          "twitter:url": "https://www.eliaontheriver.com/incognito-thursdays",
+          "twitter:card": "summary"
+        },
+        "favicon": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/e04b9ae0-d231-4af7-8441-5e73f7ad96a5/favicon.ico?format=100w",
+        "other_meta": {
+          "facebook-domain-verification": "ud9g8haoe7rj4vz4mrx4joya9n5ech"
+        }
+      },
+      "forms": [],
+      "buttons": [
+        {
+          "text": "Open Menu Close Menu",
+          "type": "button",
+          "href": null,
+          "onclick": null,
+          "id": null,
+          "class_name": "header-burger-btn burger",
+          "is_cta": true
+        },
+        {
+          "text": "Skip to Content",
+          "type": "link_cta",
+          "href": "https://www.eliaontheriver.com/incognito-thursdays#page",
+          "onclick": null,
+          "id": null,
+          "class_name": "header-skip-link sqs-button-element--primary",
+          "is_cta": true
+        },
+        {
+          "text": "RESERVE A TABLE",
+          "type": "link_cta",
+          "href": "https://www.eliaontheriver.com/reservations",
+          "onclick": null,
+          "id": null,
+          "class_name": "btn btn--border theme-btn--primary-inverse sqs-button-element--primary",
+          "is_cta": true
+        }
+      ],
+      "structured_data": {
+        "json_ld": [
+          {
+            "url": "https://www.eliaontheriver.com",
+            "name": "Elia",
+            "description": "",
+            "image": "//images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/1d9371c7-1a27-4438-a427-c85e5ad40138/Elia+on+the+River.png",
+            "@context": "http://schema.org",
+            "@type": "WebSite"
+          },
+          {
+            "address": "",
+            "image": "https://static1.squarespace.com/static/65d4ead9ad0aa1164d8977fc/t/69248083c5759a482b1b84aa/1787161668162/",
+            "openingHours": "",
+            "@context": "http://schema.org",
+            "@type": "LocalBusiness"
+          }
+        ],
+        "opengraph": {},
+        "microdata": []
+      },
+      "screenshot_path": null,
+      "raw_markdown_path": null,
+      "is_success": true,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "url": "https://www.eliaontheriver.com/menu-hotel",
+      "path": "/menu-hotel",
+      "title": "MENU — Elia",
+      "status_code": 200,
+      "crawled_at": "2026-08-21T09:52:12.103350+00:00",
+      "duration_ms": 266.41,
+      "content": {
+        "markdown": "*Explore the menu at Elia on the River, featuring Southern Italian cuisine with a coastal flair. Enjoy fresh seafood, handmade pasta, and signature dishes at Miami’s premier waterfront dining spot.*\n\n\n# Welcome to Elia on the River!\n\n### Southern Italian cuisine with coastal flair, waterfront views, handcrafted cocktails, live music, and vibrant Miami energy. All along the Miami River.\n\n[Reservations](https://www.opentable.com/r/elia-miami?ot_source=Instagram)\n\n### Experience Miami by the River\n\nJust minutes from Downtown Miami, Brickell, Wynwood, and the Design District.\n\n**Weekly at Elia:**\n\n* Viva Salsa Mondays with live salsa band;\n* Bella Notte Thursdays with live band;\n* Live DJs on Wednesday through & Sunday evenings;\n* Live Latin Jazz during weekend Brunch.\n\nAn ideal destination for sunset cocktails, waterfront dinners, and late-night Miami evenings by the river.\n\n**FAQ**\n\n* Reservations highly recommended;\n* Resort chic/upscale casual attire encouraged;\n* Located inside River Landing Shops & Residences, Miami;\n* Parking available in River Landing garage (please check the on-site signage) ;\n* Boat docking available, for more info call us at 305-904-4045.\n\n# MENU\n\nANTIPASTI & SALAD\nPASTA & PIZZA\nLAND & SEA\nDESSERT\nBEVERAGE\nLUNCH\nSUNSET HOUR\nBRUNCH\n\nANTIPASTI\n\nBURRATA\n\nHEIRLOOM TOMATO | OREGANO | ARUGULA | ORANGE | TOMATO BALSAMIC\n\nPROSCIUTTO DI PARMA\n\nPARMIGIANO REGGIANO | TARALLI | AGED PROSCIUTTO | EVOO\n\nCRISPY CALAMARI\n\nLIGHTLY BREADED | MARINARA | LEMON-CAPER AIOLI\n\nBRUSCHETTA\n\nHEIRLOOM TOMATO | BASIL OIL\n\nCHARRED OCTOPUS\n\nCICI PURÉE | CHERRY TOMATO | OLIVE | SALMORIGLIO\n\nWAGYU MEATBALL\n\nWHIPPED RICOTTA | BASIL | POMODORO\n\nSALMON TUNA TARTARE*\n\nAVOCADO | SESAME | TRUFFLE OIL\n\nTRUFFLE CARPACCIO*\n\nFILET | ARUGULA | PARMIGIANO REGGIANO | TRUFFLE AIOLI\n\nSALAD\n\nTOMATO SALAD\n\nCOSTOLUTO GENOVESE | OREGANO | ARUGULA | ORANGE | TOMATO BALSAMIC\n\nELIA CAESAR\n\nCRISPY CHICKPEAS | RADISH | AVOCADO | SHAVED REGGINAO\n\nGREEK SALAD\n\nFETA | TOMATO | CUCUMBER | ONION | OLIVES | HERB VINAIGRETTE\n\nENHANCE WITH: CHICKEN | SHRIMP | FILET TIPS | SALMON\n\nPASTA\n\nSPICY RIGATONI\n\nCALABRIAN VODKA POMODORO\n\nSEAFOOD CAPELLINI\n\nSHRIMP | LOBSTER STOCK | TOMATO | LEMON-BUTTER CREAM SAUCE\n\nWAGYU BOLOGNESE\n\nGROUND WAGYU & VEAL RAGÙ | SAN MARZANO TOMATO\n\nGNOCCHI DI SORRENTO\n\nPOMODORO | FRESH MOZZARELLA | BASIL\n\nBUCATINI CACIO E PEPE\n\nBUCATINI | PECORINO ROMANO | TOASTED PEPPERCORNS\n\nPIZZA\n\nPEPPERONI\n\nMOZZARELLA | PEPPERONI | POMODORO\n\nTRUFFLE ROYALE\n\nCARAMELIZED PEAR | PECORINO | BLACK TRUFFLE\n\nDOLCE INFERNO\n\nSALAMI | CALABRIAN HONEY | POMODORO | STRACCIATELLA\n\nLAND\n\nGRILLED AUSTRALIAN LAMB CHOPS\n\nPRIME 12oz GRILLED RIBEYE\n\nCHICKEN MILANESE\n\nSEA\n\nGRILLED BRANZINO\n\nGRILLED SALMON\n\nSIDES\n\nPARMESAN TRUFFLE FRIES\n\nROASTED ARTICHOKES\n\nSAUTÉED MUSHROOMS\n\nMASHED POTATOES\n\nDESSERT\n\nPISTACHIO BLISS\n\nTIRAMISU\n\nCHOCOLATE TEMPTATION\n\nORANGE CAKE\n\nPISTACHIO GELATO\n\nVANILLA GELATO\n\nCHOCOLATE GELATO\n\nVANILLA MASTIKA ICE CREAM\n\nCHOCOLATE MASTIKA ICE CREAM\n\nELIA SIGNATURES\n\nVELVET KISS\n\nELIAS ESPRESSO MARTINI\n\nRED SICILIAN\n\nBLANCO | BLOOD ORANGE | BASIL\n\nELIA BELLINI\n\nVANILLA INFUSED VODKA | PASSION FRUIT\n\nSICILY SMOKE\n\nMEZCAL | PINEAPPLE | CHILI AGAVE\n\nRIVERSIDE WITH HUGO\n\nPROSECCO | ELDERFLOWER | MINT\n\nFROM CAPRI WITH SPICE\n\nVODKA | GINGER | JALAPEÑO\n\nREBEL FLOWER\n\nTEQUILA | CILANTRO | JALAPEÑO | LIME\n\nELIA LYCHEE MARTINI\n\nATIAN ROSE GIN | LYCHEE\n\nRONALDO'S PLEA\n\nHENNESSY | GINGER | LIME\n\nLUNCH\n\n** Our set lunch menu is designed per person and cannot be shared. We’d be happy to suggest some à la carte options if you’d prefer to share dishes.\n\nMonday - Friday, 11:30am - 3pm\n\n* Lunch special is available for parties of 6 or fewer. Larger parties are kindly asked to order from the regular menu.\n\n** Our set lunch menu is designed per person and cannot be shared. We’d be happy to suggest some à la carte options if you’d prefer to share dishes.\n\n25 | 3 COURSES\n\nANTIPASTI\n\nCHOOSE ONE\n\nSOUP OF THE DAY\n\nBRUSCHETTA\n\nTOMATO | CROSTINI\n\nBOLOGNESE FRITTA\n\nPARMIGIANO REGGIANO | POMODORO\n\nSALAD\n\nCHOOSE ONE\n\nELIA ITALIAN\n\nTOMATO | RED ONION | BANANA PEPPER | PARMESAN\n\nGREEK SALAD\n\nGOAT CHEESE FETA | TOMATO | CUCUMBER | ONION | OLIVES | HERB VINAIGRETTE\n\nLAND & SEA\n\nCHOOSE ONE\n\nGNOCCHI DI SORRENTO\n\nPOMODORO | MOZZARELLA | BASIL\n\nCHICKEN PAILLARD\n\nGRILLED CHICKEN | MIXED GREENS\n\nGRILLED SALMON\n\nGRILLED SALMON | SALMORIGLIO\n\n* Kindly note that on select holidays and special occasions, lunch service may not be available.\n\nSUNSET HOUR\n\n----\n\nMonday - Friday, 3pm - 6pm\n\nAT THE BAR & LOUNGE\n\n----\n\nELIA SIGNATURES - $10\n\nRED SICILIAN\n\nTEQUILA | BLOOD ORANGE | LEMON\n\nELIA BELLINI\n\nVODKA | VANILLA | PASSION FRUIT\n\nRIVERSIDE WITH HUGO\n\nPROSECCO | ELDERFLOWER | MINT\n\nAPEROL SPRITZ\n\nPROSECCO | CLUB SODA | APEROL\n\nELIA LYCHEE MARTINI\n\nATIAN ROSE GIN | LYCHEE\n\nMAGRA MARGARITA\n\nTEQUILA | AGAVE | LIME\n\n$8\n\nHOUSE SPIRITS & BEER\n\n$8\n\n$8\n\nHOUSE WINES\n\n$8\n\nBAR BITES\n\nBRUSCHETTA 10\n\nBOLOGNESE FRITTA 10\n\nTRUFFLE FRIES 10\n\nMARGHERITA PIZZA 10\n\nPEPPERONI PIZZA 10\n\nCRISPY CALAMARI 15\n\nBRUNCH\n\nSaturday - Sunday, 11:30am - 5pm\n\nLast seating for brunch menu 4pm\n\nRIVERSIDE REFRESHERS\n\n2-HOUR BOTTOMLESS\n\nHUGO SPRITZ | APEROL SPRITZ | LIMONCELLO SPRITZ | MIMOSA | PROSECCO | PINOT GRIGIO | SAUVIGNON BLANC | ROSÉ | BEER | BLOODY MARY\n\nBRUNCH\n\nAVOCADO TOAST\n\nCRISPY SUNFLOWER | RED ONION | RADISH | FETA | AVOCADO MOUSSE\n\nFRENCH TOAST MONTE CRISTO\n\nFONTINA | PROSCIUTTO DI PARMA\n\nSMOKED SALMON FLATBREAD\n\nDILL CREAM | ONION | CAPPER | ARUGULA\n\nCHICKEN MARSALA\n\nFARROTTO | SCALLION | MUSHROOM MARSALA\n\nSHORT RIB\n\nGRILLED CHEESY POLENTA | BRAISED SHORT RIB\n\nSTEAK & EGGS\n\n12oz PRIME RIBEYE | POACHED EGG | FRIES | AU JUS TARTUFO\n\nLOBSTER BENEDICT\n\nMAINE LOBSTER | TOASTED BRIOCHE | HOLLANDAISE FOAM\n\nSALMON SHAKSHUKA\n\nSMOKED POMODORO | CHIVE | SALMORIGLIO\n\nBAKED RIGATONI\n\nCALABRIAN VODKA POMODORO | MOZZARELLA\n\nGNOCCHI 'NDUJA CARBONARA\n\nSPICY NDUJA | POACHED EGG\n\n'NDUJA PIZZA\n\nRICOTTA | PARMIGIANO REGGIANO | ARUGULA | BROCCOLINI\n\nBREAKFAST PIZZA\n\nEGGS | PROSCIUTTO | ARUGULA | PARMESAN\n\nANTIPASTI\n\nBURRATA\n\nHEIRLOOM TOMATO | OREGANO | ARUGULA | ORANGE | WHITE BALSAMIC\n\nWAGYU MEATBALLS\n\nGROUND WAGYU & VEAL | WHIPPED RICOTTA | BASIL | POMODORO\n\nTRUFFLE CARPACCIO\n\nFILET | ARUGULA | PARMIGIANO REGGIANO | TRUFFLE AIOLI\n\nSALAD\n\nELIA CAESAR\n\nCRISPY CHICKPEAS | RADISH | AVOCADO | SHAVED REGGIANO\n\nGREEK SALAD\n\nFETA CHEESE | TOMATO | CUCUMBER | ONION | OLIVES | HERB VINAIGRETTE\n\nTOMATO SALAD\n\nCOSTOLUTO GENOVESE | OREGANO | ARUGULA | ORANGE | TOMATO BALSAMIC\n\nENHANCE WITH: CHICKEN | SHRIMP | FILET TIPS | SALMON\n\nPASTA\n\nSPICY RIGATONI\n\nCALABRIAN VODKA POMODORO\n\nWAGYU BOLOGNESE\n\nGROUND WAGYU & VEAL RAGÙ | SAN MARZANO TOMATO\n\nBUCATINI CACIO E PEPE\n\nBUCATINI | PECORINO ROMANO | TOASTED PEPPERCORN\n\nPIZZA\n\nPEPPERONI\n\nMOZZARELLA | PEPPERONI | POMODORO\n\nTRUFFLE ROYALE\n\nCARAMELIZED PEAR | PECORINO | BLACK TRUFFLE\n\nDOLCE INFERNO\n\nSALAMI | CALABRIAN HONEY | POMODORO | STRACCIATELLA\n\nFor the convenience of our valued patrons, a service charge of 20% will be automatically included in your bill. Should you wish to have this charge removed, we kindly request that you speak with a member of our management team.\n\n*Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness, especially if you have certain medical conditions.\n\n*Menu offerings, pricing, and availability are subject to change. For holidays, special events, and limited-time experiences, a curated menu may be offered in place of our standard menu.\n\n**For corkage, celebratory cake, or special arrangement inquiries, please contact the restaurant directly at (305) 904-4045.*\n\n[Image: Elia-VDaydrink.jpg]\n[Image: _T9A8736.jpg]\n[Image: _T9A8970.jpg]\n[Image: Copy of _T9A3321.JPEG]\n[Image: Copy of _T9A3399.JPEG]\n[Image: _T9A3371.jpg]",
+        "plain_text": "0 Skip to Content HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE Open Menu Close Menu Open Menu Close Menu HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE Welcome to Elia on the River! Southern Italian cuisine with coastal flair, waterfront views, handcrafted cocktails, live music, and vibrant Miami energy. All along the Miami River. Reservations Experience Miami by the River Just minutes from Downtown Miami, Brickell, Wynwood, and the Design District. Weekly at Elia: Viva Salsa Mondays with live salsa band; Bella Notte Thursdays with live band; Live DJs on Wednesday through & Sunday evenings; Live Latin Jazz during weekend Brunch. An ideal destination for sunset cocktails, waterfront dinners, and late-night Miami evenings by the river. FAQ Reservations highly recommended; Resort chic/upscale casual attire encouraged; Located inside River Landing Shops & Residences, Miami; Parking available in River Landing garage (please check the on-site signage) ; Boat docking available, for more info call us at 305-904-4045. MENU ANTIPASTI & SALAD PASTA & PIZZA LAND & SEA DESSERT BEVERAGE LUNCH SUNSET HOUR BRUNCH ANTIPASTI BURRATA HEIRLOOM TOMATO | OREGANO | ARUGULA | ORANGE | TOMATO BALSAMIC PROSCIUTTO DI PARMA PARMIGIANO REGGIANO | TARALLI | AGED PROSCIUTTO | EVOO CRISPY CALAMARI LIGHTLY BREADED | MARINARA | LEMON-CAPER AIOLI BRUSCHETTA HEIRLOOM TOMATO | BASIL OIL CHARRED OCTOPUS CICI PURÉE | CHERRY TOMATO | OLIVE | SALMORIGLIO WAGYU MEATBALL WHIPPED RICOTTA | BASIL | POMODORO SALMON TUNA TARTARE* AVOCADO | SESAME | TRUFFLE OIL TRUFFLE CARPACCIO* FILET | ARUGULA | PARMIGIANO REGGIANO | TRUFFLE AIOLI SALAD TOMATO SALAD COSTOLUTO GENOVESE | OREGANO | ARUGULA | ORANGE | TOMATO BALSAMIC ELIA CAESAR CRISPY CHICKPEAS | RADISH | AVOCADO | SHAVED REGGINAO GREEK SALAD FETA | TOMATO | CUCUMBER | ONION | OLIVES | HERB VINAIGRETTE ENHANCE WITH: CHICKEN | SHRIMP | FILET TIPS | SALMON PASTA SPICY RIGATONI CALABRIAN VODKA POMODORO SEAFOOD CAPELLINI SHRIMP | LOBSTER STOCK | TOMATO | LEMON-BUTTER CREAM SAUCE WAGYU BOLOGNESE GROUND WAGYU & VEAL RAGÙ | SAN MARZANO TOMATO GNOCCHI DI SORRENTO POMODORO | FRESH MOZZARELLA | BASIL BUCATINI CACIO E PEPE BUCATINI | PECORINO ROMANO | TOASTED PEPPERCORNS PIZZA PEPPERONI MOZZARELLA | PEPPERONI | POMODORO TRUFFLE ROYALE CARAMELIZED PEAR | PECORINO | BLACK TRUFFLE DOLCE INFERNO SALAMI | CALABRIAN HONEY | POMODORO | STRACCIATELLA LAND GRILLED AUSTRALIAN LAMB CHOPS PRIME 12oz GRILLED RIBEYE CHICKEN MILANESE SEA GRILLED BRANZINO GRILLED SALMON SIDES PARMESAN TRUFFLE FRIES ROASTED ARTICHOKES SAUTÉED MUSHROOMS MASHED POTATOES DESSERT PISTACHIO BLISS TIRAMISU CHOCOLATE TEMPTATION ORANGE CAKE PISTACHIO GELATO VANILLA GELATO CHOCOLATE GELATO VANILLA MASTIKA ICE CREAM CHOCOLATE MASTIKA ICE CREAM ELIA SIGNATURES VELVET KISS ELIAS ESPRESSO MARTINI RED SICILIAN BLANCO | BLOOD ORANGE | BASIL ELIA BELLINI VANILLA INFUSED VODKA | PASSION FRUIT SICILY SMOKE MEZCAL | PINEAPPLE | CHILI AGAVE RIVERSIDE WITH HUGO PROSECCO | ELDERFLOWER | MINT FROM CAPRI WITH SPICE VODKA | GINGER | JALAPEÑO REBEL FLOWER TEQUILA | CILANTRO | JALAPEÑO | LIME ELIA LYCHEE MARTINI ATIAN ROSE GIN | LYCHEE RONALDO'S PLEA HENNESSY | GINGER | LIME LUNCH ** Our set lunch menu is designed per person and cannot be shared. We’d be happy to suggest some à la carte options if you’d prefer to share dishes. Monday - Friday, 11:30am - 3pm * Lunch special is available for parties of 6 or fewer. Larger parties are kindly asked to order from the regular menu. ** Our set lunch menu is designed per person and cannot be shared. We’d be happy to suggest some à la carte options if you’d prefer to share dishes. 25 | 3 COURSES ANTIPASTI CHOOSE ONE SOUP OF THE DAY BRUSCHETTA TOMATO | CROSTINI BOLOGNESE FRITTA PARMIGIANO REGGIANO | POMODORO SALAD CHOOSE ONE ELIA ITALIAN TOMATO | RED ONION | BANANA PEPPER | PARMESAN GREEK SALAD GOAT CHEESE FETA | TOMATO | CUCUMBER | ONION | OLIVES | HERB VINAIGRETTE LAND & SEA CHOOSE ONE GNOCCHI DI SORRENTO POMODORO | MOZZARELLA | BASIL CHICKEN PAILLARD GRILLED CHICKEN | MIXED GREENS GRILLED SALMON GRILLED SALMON | SALMORIGLIO * Kindly note that on select holidays and special occasions, lunch service may not be available. SUNSET HOUR ---- Monday - Friday, 3pm - 6pm AT THE BAR & LOUNGE ---- ELIA SIGNATURES - $10 RED SICILIAN TEQUILA | BLOOD ORANGE | LEMON ELIA BELLINI VODKA | VANILLA | PASSION FRUIT RIVERSIDE WITH HUGO PROSECCO | ELDERFLOWER | MINT APEROL SPRITZ PROSECCO | CLUB SODA | APEROL ELIA LYCHEE MARTINI ATIAN ROSE GIN | LYCHEE MAGRA MARGARITA TEQUILA | AGAVE | LIME $ 8 HOUSE SPIRITS & BEER $ 8 $ 8 HOUSE WINES $ 8 BAR BITES BRUSCHETTA 10 BOLOGNESE FRITTA 10 TRUFFLE FRIES 10 MARGHERITA PIZZA 10 PEPPERONI PIZZA 10 CRISPY CALAMARI 15 BRUNCH Saturday - Sunday, 11:30am - 5pm Last seating for brunch menu 4pm RIVERSIDE REFRESHERS 2-HOUR BOTTOMLESS HUGO SPRITZ | APEROL SPRITZ | LIMONCELLO SPRITZ | MIMOSA | PROSECCO | PINOT GRIGIO | SAUVIGNON BLANC | ROSÉ | BEER | BLOODY MARY BRUNCH AVOCADO TOAST CRISPY SUNFLOWER | RED ONION | RADISH | FETA | AVOCADO MOUSSE FRENCH TOAST MONTE CRISTO FONTINA | PROSCIUTTO DI PARMA SMOKED SALMON FLATBREAD DILL CREAM | ONION | CAPPER | ARUGULA CHICKEN MARSALA FARROTTO | SCALLION | MUSHROOM MARSALA SHORT RIB GRILLED CHEESY POLENTA | BRAISED SHORT RIB STEAK & EGGS 12oz PRIME RIBEYE | POACHED EGG | FRIES | AU JUS TARTUFO LOBSTER BENEDICT MAINE LOBSTER | TOASTED BRIOCHE | HOLLANDAISE FOAM SALMON SHAKSHUKA SMOKED POMODORO | CHIVE | SALMORIGLIO BAKED RIGATONI CALABRIAN VODKA POMODORO | MOZZARELLA GNOCCHI 'NDUJA CARBONARA SPICY NDUJA | POACHED EGG 'NDUJA PIZZA RICOTTA | PARMIGIANO REGGIANO | ARUGULA | BROCCOLINI BREAKFAST PIZZA EGGS | PROSCIUTTO | ARUGULA | PARMESAN ANTIPASTI BURRATA HEIRLOOM TOMATO | OREGANO | ARUGULA | ORANGE | WHITE BALSAMIC WAGYU MEATBALLS GROUND WAGYU & VEAL | WHIPPED RICOTTA | BASIL | POMODORO TRUFFLE CARPACCIO FILET | ARUGULA | PARMIGIANO REGGIANO | TRUFFLE AIOLI SALAD ELIA CAESAR CRISPY CHICKPEAS | RADISH | AVOCADO | SHAVED REGGIANO GREEK SALAD FETA CHEESE | TOMATO | CUCUMBER | ONION | OLIVES | HERB VINAIGRETTE TOMATO SALAD COSTOLUTO GENOVESE | OREGANO | ARUGULA | ORANGE | TOMATO BALSAMIC ENHANCE WITH: CHICKEN | SHRIMP | FILET TIPS | SALMON PASTA SPICY RIGATONI CALABRIAN VODKA POMODORO WAGYU BOLOGNESE GROUND WAGYU & VEAL RAGÙ | SAN MARZANO TOMATO BUCATINI CACIO E PEPE BUCATINI | PECORINO ROMANO | TOASTED PEPPERCORN PIZZA PEPPERONI MOZZARELLA | PEPPERONI | POMODORO TRUFFLE ROYALE CARAMELIZED PEAR | PECORINO | BLACK TRUFFLE DOLCE INFERNO SALAMI | CALABRIAN HONEY | POMODORO | STRACCIATELLA For the convenience of our valued patrons, a service charge of 20% will be automatically included in your bill. Should you wish to have this charge removed, we kindly request that you speak with a member of our management team. *Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness, especially if you have certain medical conditions. *Menu offerings, pricing, and availability are subject to change. For holidays, special events, and limited-time experiences, a curated menu may be offered in place of our standard menu. * For corkage, celebratory cake, or special arrangement inquiries, please contact the restaurant directly at (305) 904-4045. ⚲ River Landing 1440 NW N River Dr., #195 Miami, FL 33125 TELEPHONE: 305.904.4045 Follow Company PRIVATE EVENTS CAREERS PRIVACY POLICY",
+        "word_count": 1238,
+        "character_count": 7560,
+        "excerpt": "0 Skip to Content HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE Open Menu Close Menu Open Menu Close Menu HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE HO..."
+      },
+      "headings": [
+        {
+          "level": 1,
+          "text": "Welcome to Elia on the River!",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "Southern Italian cuisine with coastal flair, waterfront views, handcrafted cocktails, live music, and vibrant Miami energy.All along the Miami River.",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "Experience Miami by the River",
+          "id": null
+        },
+        {
+          "level": 1,
+          "text": "MENU",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "⚲ River Landing",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Follow",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Company",
+          "id": null
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.eliaontheriver.com/cart",
+          "text": "0",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/",
+          "text": "Elia",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/hours-location",
+          "text": "HOURS & LOCATION",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/private-events",
+          "text": "GROUP DINING & EVENTS",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/menu",
+          "text": "MENU",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/weekly-events",
+          "text": "WEEKLY EVENTS",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/tipsyteathursdays",
+          "text": "Tipsy Tea Thursdays",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/reservations",
+          "text": "RESERVE A TABLE",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.opentable.com/r/elia-miami?ot_source=Instagram",
+          "text": "Reservations",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://instagram.com/eliaontheriver",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.facebook.com/eliaontheriver",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.tiktok.com/@eliaontheriver",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/private-events",
+          "text": "PRIVATE EVENTS",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/careers",
+          "text": "CAREERS",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/privacy-policy",
+          "text": "PRIVACY POLICY",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/1d9371c7-1a27-4438-a427-c85e5ad40138/Elia+on+the+River.png?format=1500w",
+          "alt": "Elia",
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": "eager",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/c694c344-ba28-4b33-86c0-3ecb470d76a6/Elia.png",
+          "alt": null,
+          "title": null,
+          "width": 2228,
+          "height": 1488,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/5f4fcdfb-29fd-4279-b640-643b4caac98a/Screenshot+2026-05-19+at+2.06.13%E2%80%AFPM.png",
+          "alt": null,
+          "title": null,
+          "width": 2182,
+          "height": 1468,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/1770757552469-77RQHY8TCAEQEC7HBSMC/Elia-VDaydrink.jpg",
+          "alt": "Elia-VDaydrink.jpg",
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": null,
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/d5fdab55-45ae-406d-bb92-3a6fc612baac/_T9A8736.jpg",
+          "alt": "_T9A8736.jpg",
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": null,
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/7c5657fb-4ce2-487b-8cd5-8fc1a3ffcbd3/_T9A8970.jpg",
+          "alt": "_T9A8970.jpg",
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": null,
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/979f699a-94aa-4304-918b-1669e1a6f84e/Copy+of+_T9A3321.JPEG",
+          "alt": "Copy of _T9A3321.JPEG",
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": null,
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/a40318a7-4dcc-4308-8c9c-85940a8e76b6/Copy+of+_T9A3399.JPEG",
+          "alt": "Copy of _T9A3399.JPEG",
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": null,
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/1770757164255-SHXGL8NIPQQ5EL10MSLG/_T9A3371.jpg",
+          "alt": "_T9A3371.jpg",
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": null,
+          "local_path": null
+        }
+      ],
+      "metadata": {
+        "title": "MENU — Elia",
+        "description": "Explore the menu at Elia on the River, featuring Southern Italian cuisine with a coastal flair. Enjoy fresh seafood, handmade pasta, and signature dishes at Miami’s premier waterfront dining spot.",
+        "keywords": [],
+        "canonical": "https://www.eliaontheriver.com/menu-hotel",
+        "language": "en-US",
+        "charset": "utf-8",
+        "viewport": "width=device-width, initial-scale=1",
+        "author": null,
+        "robots": null,
+        "og_tags": {
+          "og:site_name": "Elia",
+          "og:title": "MENU — Elia",
+          "og:url": "https://www.eliaontheriver.com/menu-hotel",
+          "og:type": "website",
+          "og:description": "Explore the menu at Elia on the River, featuring Southern Italian cuisine with a coastal flair. Enjoy fresh seafood, handmade pasta, and signature dishes at Miami’s premier waterfront dining spot."
+        },
+        "twitter_tags": {
+          "twitter:title": "MENU — Elia",
+          "twitter:url": "https://www.eliaontheriver.com/menu-hotel",
+          "twitter:card": "summary",
+          "twitter:description": "Explore the menu at Elia on the River, featuring Southern Italian cuisine with a coastal flair. Enjoy fresh seafood, handmade pasta, and signature dishes at Miami’s premier waterfront dining spot."
+        },
+        "favicon": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/e04b9ae0-d231-4af7-8441-5e73f7ad96a5/favicon.ico?format=100w",
+        "other_meta": {
+          "facebook-domain-verification": "ud9g8haoe7rj4vz4mrx4joya9n5ech"
+        }
+      },
+      "forms": [],
+      "buttons": [
+        {
+          "text": "Open Menu Close Menu",
+          "type": "button",
+          "href": null,
+          "onclick": null,
+          "id": null,
+          "class_name": "header-burger-btn burger",
+          "is_cta": true
+        },
+        {
+          "text": "Skip to Content",
+          "type": "link_cta",
+          "href": "https://www.eliaontheriver.com/menu-hotel#page",
+          "onclick": null,
+          "id": null,
+          "class_name": "header-skip-link sqs-button-element--primary",
+          "is_cta": true
+        },
+        {
+          "text": "RESERVE A TABLE",
+          "type": "link_cta",
+          "href": "https://www.eliaontheriver.com/reservations",
+          "onclick": null,
+          "id": null,
+          "class_name": "btn btn--border theme-btn--primary-inverse sqs-button-element--primary",
+          "is_cta": true
+        },
+        {
+          "text": "Reservations",
+          "type": "link_cta",
+          "href": "https://www.opentable.com/r/elia-miami?ot_source=Instagram",
+          "onclick": null,
+          "id": null,
+          "class_name": "sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element",
+          "is_cta": true
+        }
+      ],
+      "structured_data": {
+        "json_ld": [
+          {
+            "url": "https://www.eliaontheriver.com",
+            "name": "Elia",
+            "description": "",
+            "image": "//images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/1d9371c7-1a27-4438-a427-c85e5ad40138/Elia+on+the+River.png",
+            "@context": "http://schema.org",
+            "@type": "WebSite"
+          },
+          {
+            "address": "",
+            "image": "https://static1.squarespace.com/static/65d4ead9ad0aa1164d8977fc/t/69248083c5759a482b1b84aa/1787161668162/",
+            "openingHours": "",
+            "@context": "http://schema.org",
+            "@type": "LocalBusiness"
+          }
+        ],
+        "opengraph": {},
+        "microdata": []
+      },
+      "screenshot_path": null,
+      "raw_markdown_path": null,
+      "is_success": true,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "url": "https://www.eliaontheriver.com/tipsyteathursdays",
+      "path": "/tipsyteathursdays",
+      "title": "Tipsy Tea Thursdays — Elia",
+      "status_code": 200,
+      "crawled_at": "2026-08-21T09:52:12.200104+00:00",
+      "duration_ms": 95.7,
+      "content": {
+        "markdown": "# Tipsy Tea Thursdays with Aperol\n\n### Come Spill the Tea\n\n### **What happens when Thirsty Thursday meets Afternoon Tea? You will get Tipsy Tea!**\n\n#### **Thursdays | 3 PM – 6 PM**\n\n#### Three-Tier Towers | Spritzes | Live Entertainment | River Views\n\n**TIPSY TEA (/ˈtɪpsi tiː/) (noun)**\n\n**A social gathering featuring savory & sweet towers, spritzes, and good conversation,\ntraditionally enjoyed on Thursday afternoons by the river.**\n\nYou can choose between River Tower ($55 per person) or Sunset Tower ($85 per person).\nPS! * *Caviar Bites are only included with Sunset Tower.\nFor reservation $25 pre-payment is required.*\n\nElia on the River is adding a playful twist on two beloved traditions - the classic afternoon tea experience and everyone’s favorite excuse to start the weekend early.\n\nEvery Thursday from 3 PM to 6 PM, the Miami River becomes the place to be.\nWith three-tier towers, spritzes, live entertainment, and riverfront views designed to make Thursday afternoons\nfeel a little more special.\n\n#### **But forget the teacups.** At Tipsy Tea, towers arrive stacked with sweet & savory bites, Spritzes replace the tea service, and the soundtrack will be upbeat.\n\n### Dress code: Italian Riviera Chic\n\n**Tipsy Tea is available via online booking only!*\n\n[LEARN MORE & BOOK](https://www.opentable.com/booking/experiences-availability?rid=1356508&restref=1356508&experienceId=760501&utm_source=external&utm_medium=referral&utm_campaign=shared)\n\n[Image: 4T4A2815.jpg]\n[Image: 4T4A2806.jpg]\n[Image: 4T4A2807.jpg]\n[Image: 4T4A2786.jpg]\n\n---\n\n#### Signature experiences:\n\n**THE RIVER TOWER** (90-minute experience)\n\n• One three-tier tower per two guests;\n\n• Choice of two cocktails per person.\n\n**THE SUNSET TOWER** (90-minute experience)\n\n• Premium luxury tower\n\n• 90-minute bottomless spritz package\n\nTipsy Tea was created to turn Thursdays into an occasion.\n\nThink less London & more Miami. Less tea party & more riverfront cocktails, spritzes, and music.\n\n**THURSDAYS: 3 PM – 6 PM, AT ELIA ON THE RIVER**\n\n**Because sometimes tea is better a little tipsy.**\n\n* *Tipsy Tea Thursdays is available by reservation only & must be booked in advance.*\n*Walk-ins and same-day accommodations for the experience are not available.*",
+        "plain_text": "0 Skip to Content HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE Open Menu Close Menu Open Menu Close Menu HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE Tipsy Tea Thursdays with Aperol Come Spill the Tea What happens when Thirsty Thursday meets Afternoon Tea? You will get Tipsy Tea! Thursdays | 3 PM – 6 PM Three-Tier Towers | Spritzes | Live Entertainment | River Views TIPSY TEA (/ˈtɪpsi tiː/) (noun) A social gathering featuring savory & sweet towers, spritzes, and good conversation, traditionally enjoyed on Thursday afternoons by the river. You can choose between River Tower ($55 per person) or Sunset Tower ($85 per person). PS! * Caviar Bites are only included with Sunset Tower. For reservation $25 pre-payment is required. Elia on the River is adding a playful twist on two beloved traditions - the classic afternoon tea experience and everyone’s favorite excuse to start the weekend early. Every Thursday from 3 PM to 6 PM, the Miami River becomes the place to be. With three-tier towers, spritzes, live entertainment, and riverfront views designed to make Thursday afternoons feel a little more special. But forget the teacups. At Tipsy Tea, towers arrive stacked with sweet & savory bites, Spritzes replace the tea service, and the soundtrack will be upbeat. Dress code: Italian Riviera Chic *Tipsy Tea is available via online booking only! LEARN MORE & BOOK Signature experiences: THE RIVER TOWER (90-minute experience) • One three-tier tower per two guests; • Choice of two cocktails per person. THE SUNSET TOWER (90-minute experience) • Premium luxury tower • 90-minute bottomless spritz package Tipsy Tea was created to turn Thursdays into an occasion. Think less London & more Miami. Less tea party & more riverfront cocktails, spritzes, and music. THURSDAYS: 3 PM – 6 PM, AT ELIA ON THE RIVER Because sometimes tea is better a little tipsy. * Tipsy Tea Thursdays is available by reservation only & must be booked in advance. Walk-ins and same-day accommodations for the experience are not available. ⚲ River Landing 1440 NW N River Dr., #195 Miami, FL 33125 TELEPHONE: 305.904.4045 Follow Company PRIVATE EVENTS CAREERS PRIVACY POLICY",
+        "word_count": 387,
+        "character_count": 2344,
+        "excerpt": "0 Skip to Content HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE Open Menu Close Menu Open Menu Close Menu HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE HO..."
+      },
+      "headings": [
+        {
+          "level": 1,
+          "text": "Tipsy Tea Thursdays with Aperol",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "Come Spill the Tea",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "What happens when Thirsty Thursday meets Afternoon Tea? You will get Tipsy Tea!",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Thursdays | 3 PM – 6 PM",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Three-Tier Towers | Spritzes | Live Entertainment | River Views",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "But forget the teacups. At Tipsy Tea, towers arrive stacked with sweet & savory bites, Spritzes replace the tea service, and the soundtrack will be upbeat.",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "Dress code: Italian Riviera Chic",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Signature experiences:",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "⚲ River Landing",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Follow",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Company",
+          "id": null
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.eliaontheriver.com/cart",
+          "text": "0",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/",
+          "text": "Elia",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/hours-location",
+          "text": "HOURS & LOCATION",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/private-events",
+          "text": "GROUP DINING & EVENTS",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/menu",
+          "text": "MENU",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/weekly-events",
+          "text": "WEEKLY EVENTS",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/tipsyteathursdays",
+          "text": "Tipsy Tea Thursdays",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/reservations",
+          "text": "RESERVE A TABLE",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.opentable.com/booking/experiences-availability?rid=1356508&restref=1356508&experienceId=760501&utm_source=external&utm_medium=referral&utm_campaign=shared",
+          "text": "LEARN MORE & BOOK",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "http://instagram.com/eliaontheriver",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.facebook.com/eliaontheriver",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.tiktok.com/@eliaontheriver",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/private-events",
+          "text": "PRIVATE EVENTS",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/careers",
+          "text": "CAREERS",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/privacy-policy",
+          "text": "PRIVACY POLICY",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/1d9371c7-1a27-4438-a427-c85e5ad40138/Elia+on+the+River.png?format=1500w",
+          "alt": "Elia",
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": "eager",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/1782415225535-7PV5K13K6O38Q75K2K5D/4T4A2815.jpg",
+          "alt": "4T4A2815.jpg",
+          "title": null,
+          "width": 1633,
+          "height": 2450,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/05639733-7fd8-4eef-8455-e9392d3d8516/4T4A2806.jpg",
+          "alt": "4T4A2806.jpg",
+          "title": null,
+          "width": 4000,
+          "height": 6000,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/b86e8767-55e0-4ee9-afee-81113b3fd111/4T4A2807.jpg",
+          "alt": "4T4A2807.jpg",
+          "title": null,
+          "width": 2722,
+          "height": 4041,
+          "loading": "lazy",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/0d63b1c0-422d-4734-9842-236bdf873561/4T4A2786.jpg",
+          "alt": "4T4A2786.jpg",
+          "title": null,
+          "width": 3455,
+          "height": 5183,
+          "loading": "lazy",
+          "local_path": null
+        }
+      ],
+      "metadata": {
+        "title": "Tipsy Tea Thursdays — Elia",
+        "description": null,
+        "keywords": [],
+        "canonical": "https://www.eliaontheriver.com/tipsyteathursdays",
+        "language": "en-US",
+        "charset": "utf-8",
+        "viewport": "width=device-width, initial-scale=1",
+        "author": null,
+        "robots": null,
+        "og_tags": {
+          "og:site_name": "Elia",
+          "og:title": "Tipsy Tea Thursdays — Elia",
+          "og:url": "https://www.eliaontheriver.com/tipsyteathursdays",
+          "og:type": "website"
+        },
+        "twitter_tags": {
+          "twitter:title": "Tipsy Tea Thursdays — Elia",
+          "twitter:url": "https://www.eliaontheriver.com/tipsyteathursdays",
+          "twitter:card": "summary"
+        },
+        "favicon": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/e04b9ae0-d231-4af7-8441-5e73f7ad96a5/favicon.ico?format=100w",
+        "other_meta": {
+          "facebook-domain-verification": "ud9g8haoe7rj4vz4mrx4joya9n5ech"
+        }
+      },
+      "forms": [],
+      "buttons": [
+        {
+          "text": "Open Menu Close Menu",
+          "type": "button",
+          "href": null,
+          "onclick": null,
+          "id": null,
+          "class_name": "header-burger-btn burger",
+          "is_cta": true
+        },
+        {
+          "text": "Skip to Content",
+          "type": "link_cta",
+          "href": "https://www.eliaontheriver.com/tipsyteathursdays#page",
+          "onclick": null,
+          "id": null,
+          "class_name": "header-skip-link sqs-button-element--primary",
+          "is_cta": true
+        },
+        {
+          "text": "RESERVE A TABLE",
+          "type": "link_cta",
+          "href": "https://www.eliaontheriver.com/reservations",
+          "onclick": null,
+          "id": null,
+          "class_name": "btn btn--border theme-btn--primary-inverse sqs-button-element--primary",
+          "is_cta": true
+        },
+        {
+          "text": "LEARN MORE & BOOK",
+          "type": "link_cta",
+          "href": "https://www.opentable.com/booking/experiences-availability?rid=1356508&restref=1356508&experienceId=760501&utm_source=external&utm_medium=referral&utm_campaign=shared",
+          "onclick": null,
+          "id": null,
+          "class_name": "sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element",
+          "is_cta": true
+        }
+      ],
+      "structured_data": {
+        "json_ld": [
+          {
+            "url": "https://www.eliaontheriver.com",
+            "name": "Elia",
+            "description": "",
+            "image": "//images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/1d9371c7-1a27-4438-a427-c85e5ad40138/Elia+on+the+River.png",
+            "@context": "http://schema.org",
+            "@type": "WebSite"
+          },
+          {
+            "address": "",
+            "image": "https://static1.squarespace.com/static/65d4ead9ad0aa1164d8977fc/t/69248083c5759a482b1b84aa/1787161668162/",
+            "openingHours": "",
+            "@context": "http://schema.org",
+            "@type": "LocalBusiness"
+          }
+        ],
+        "opengraph": {},
+        "microdata": []
+      },
+      "screenshot_path": null,
+      "raw_markdown_path": null,
+      "is_success": true,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "url": "https://www.eliaontheriver.com/privacy-policy",
+      "path": "/privacy-policy",
+      "title": "Privacy Policy — Elia",
+      "status_code": 200,
+      "crawled_at": "2026-08-21T09:52:12.309192+00:00",
+      "duration_ms": 107.55,
+      "content": {
+        "markdown": "```\nOctober 3-7  |  Starting at $500\n```\n\n# Privacy Policy\n\n#### At **Elia on the River** (“Elia,” “we,” “our,” or “us”), we respect your privacy and are committed to protecting your personal information. This Privacy Policy explains what information we collect, how we use it, and your choices regarding your information.\n\n‍ **Information We Collect**\n\nWe may collect personal information when you:\n\n* Make a reservation;\n* Register for an event;\n* Join our mailing list;\n* Submit a contact form;\n* Participate in promotions, giveaways, or special experiences;\n* Contact us through our website, social media, email, or phone.\n\nThe information we may collect includes:\n\n* Full name;\n* Email address;\n* Phone number;\n* Reservation details;\n* Event registration information;\n* Any additional information you choose to provide.\n\nWe may also automatically collect certain technical information, including:\n\n* IP address;\n* Browser type;\n* Device information;\n* Website usage through cookies and analytics tools.\n\n**How We Use Your Information**\n\nWe use your information to:\n\n* Confirm reservations and event registrations;\n* Communicate important event updates;\n* Respond to your inquiries;\n* Improve our website and guest experience;\n* Send newsletters, promotions, and special event invitations (only if you choose to receive them);\n* Maintain internal business records;\n* Comply with legal obligations.\n\n**Marketing Communications**\n\nIf you provide your email address or otherwise opt in, we may occasionally send you:\n\n* Upcoming events;\n* Exclusive offers;\n* Restaurant news;\n* Seasonal menus;\n* Promotions.\n\nYou may unsubscribe from marketing emails at any time by clicking the unsubscribe link included in our emails or by contacting us directly.\n\n**Sharing Your Information**\n\nWe do **not** sell your personal information.\n\nWe may share your information only with trusted service providers that help us operate our business, including:\n\n* Reservation platforms;\n* Email marketing providers;\n* Event registration platforms;\n* Payment processors;\n* Website hosting providers;\n* Technology and analytics providers.\n\nThese providers are only permitted to use your information as necessary to perform services on our behalf.\n\nWe may also disclose information when required by law.\n\n**Cookies**\n\nOur website may use cookies and similar technologies to:\n\n* Improve website performance;\n* Understand visitor behavior;\n* Enhance your browsing experience;\n* Measure marketing effectiveness.\n\nYou can adjust your browser settings to disable cookies if you prefer.\n\n**Data Security**\n\nWe take reasonable administrative, technical, and physical measures to protect your personal information from unauthorized access, disclosure, alteration, or destruction.\n\nWhile we strive to protect your information, no method of internet transmission or electronic storage is completely secure.\n\n**Your Rights**\n\nDepending on your location, you may have the right to:\n\n* Request access to your personal information;\n* Request corrections to inaccurate information;\n* Request deletion of your information;\n* Withdraw consent for marketing communications;\n* Ask questions about how your information is used.\n\nTo exercise these rights, please contact us using the information below.\n\n**Third-Party Links**\n\nOur website may contain links to third-party websites or services. We are not responsible for the privacy practices or content of those websites.\n\n**Children’s Privacy**\n\nOur website and services are not directed to children under the age of 13, and we do not knowingly collect personal information from children.\n\n**Changes to This Privacy Policy**\n\nWe may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated Effective Date.\n\n**Contact Us**\n\nIf you have any questions regarding this Privacy Policy or how your information is handled, please contact us:\n\n**Elia on the River**\n 1440 NW North River Drive, Suite 195\n Miami, FL 33125\n\nEmail: [**hello@eliaontheriver.com**](mailto:hello@eliaontheriver.com)\n\nPhone: [**(305) 904-404**](tel:(305)%20894-7075)\n\n**By using our website, submitting a reservation, registering for an event, or providing your personal information, you acknowledge that you have read and agree to this Privacy Policy**",
+        "plain_text": "0 Skip to Content HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE Open Menu Close Menu Open Menu Close Menu HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE October 3-7 | Starting at $500 Privacy Policy At Elia on the River (“Elia,” “we,” “our,” or “us”), we respect your privacy and are committed to protecting your personal information. This Privacy Policy explains what information we collect, how we use it, and your choices regarding your information. ‍ Information We Collect We may collect personal information when you: Make a reservation; Register for an event; Join our mailing list; Submit a contact form; Participate in promotions, giveaways, or special experiences; Contact us through our website, social media, email, or phone. The information we may collect includes: Full name; Email address; Phone number; Reservation details; Event registration information; Any additional information you choose to provide. We may also automatically collect certain technical information, including: IP address; Browser type; Device information; Website usage through cookies and analytics tools. How We Use Your Information We use your information to: Confirm reservations and event registrations; Communicate important event updates; Respond to your inquiries; Improve our website and guest experience; Send newsletters, promotions, and special event invitations (only if you choose to receive them); Maintain internal business records; Comply with legal obligations. Marketing Communications If you provide your email address or otherwise opt in, we may occasionally send you: Upcoming events; Exclusive offers; Restaurant news; Seasonal menus; Promotions. You may unsubscribe from marketing emails at any time by clicking the unsubscribe link included in our emails or by contacting us directly. Sharing Your Information We do not sell your personal information. We may share your information only with trusted service providers that help us operate our business, including: Reservation platforms; Email marketing providers; Event registration platforms; Payment processors; Website hosting providers; Technology and analytics providers. These providers are only permitted to use your information as necessary to perform services on our behalf. We may also disclose information when required by law. Cookies Our website may use cookies and similar technologies to: Improve website performance; Understand visitor behavior; Enhance your browsing experience; Measure marketing effectiveness. You can adjust your browser settings to disable cookies if you prefer. Data Security We take reasonable administrative, technical, and physical measures to protect your personal information from unauthorized access, disclosure, alteration, or destruction. While we strive to protect your information, no method of internet transmission or electronic storage is completely secure. Your Rights Depending on your location, you may have the right to: Request access to your personal information; Request corrections to inaccurate information; Request deletion of your information; Withdraw consent for marketing communications; Ask questions about how your information is used. To exercise these rights, please contact us using the information below. Third-Party Links Our website may contain links to third-party websites or services. We are not responsible for the privacy practices or content of those websites. Children’s Privacy Our website and services are not directed to children under the age of 13, and we do not knowingly collect personal information from children. Changes to This Privacy Policy We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated Effective Date. Contact Us If you have any questions regarding this Privacy Policy or how your information is handled, please contact us: Elia on the River 1440 NW North River Drive, Suite 195 Miami, FL 33125 Email: hello@eliaontheriver.com Phone: (305) 904-404 By using our website, submitting a reservation, registering for an event, or providing your personal information, you acknowledge that you have read and agree to this Privacy Policy ⚲ River Landing 1440 NW N River Dr., #195 Miami, FL 33125 TELEPHONE: 305.904.4045 Follow Company PRIVATE EVENTS CAREERS PRIVACY POLICY",
+        "word_count": 661,
+        "character_count": 4472,
+        "excerpt": "0 Skip to Content HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE Open Menu Close Menu Open Menu Close Menu HOURS & LOCATION GROUP DINING & EVENTS MENU WEEKLY EVENTS Tipsy Tea Thursdays RESERVE A TABLE HO..."
+      },
+      "headings": [
+        {
+          "level": 1,
+          "text": "Privacy Policy",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "At Elia on the River (“Elia,” “we,” “our,” or “us”), we respect your privacy and are committed to protecting your personal information. This Privacy Policy explains what information we collect, how we use it, and your choices regarding your information.",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "⚲ River Landing",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Follow",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Company",
+          "id": null
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.eliaontheriver.com/cart",
+          "text": "0",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/",
+          "text": "Elia",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/hours-location",
+          "text": "HOURS & LOCATION",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/private-events",
+          "text": "GROUP DINING & EVENTS",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/menu",
+          "text": "MENU",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/weekly-events",
+          "text": "WEEKLY EVENTS",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/tipsyteathursdays",
+          "text": "Tipsy Tea Thursdays",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/reservations",
+          "text": "RESERVE A TABLE",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "http://instagram.com/eliaontheriver",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.facebook.com/eliaontheriver",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.tiktok.com/@eliaontheriver",
+          "text": "",
+          "title": null,
+          "is_external": true,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/private-events",
+          "text": "PRIVATE EVENTS",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/careers",
+          "text": "CAREERS",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        },
+        {
+          "url": "https://www.eliaontheriver.com/privacy-policy",
+          "text": "PRIVACY POLICY",
+          "title": null,
+          "is_external": false,
+          "rel": null
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/1d9371c7-1a27-4438-a427-c85e5ad40138/Elia+on+the+River.png?format=1500w",
+          "alt": "Elia",
+          "title": null,
+          "width": null,
+          "height": null,
+          "loading": "eager",
+          "local_path": null
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/9e637f28-2602-4727-8ed4-9f644cc7471c/Screenshot+2026-05-19+at+2.02.21%E2%80%AFPM.png",
+          "alt": null,
+          "title": null,
+          "width": 2228,
+          "height": 1488,
+          "loading": "eager",
+          "local_path": null
+        }
+      ],
+      "metadata": {
+        "title": "Privacy Policy — Elia",
+        "description": null,
+        "keywords": [],
+        "canonical": "https://www.eliaontheriver.com/privacy-policy",
+        "language": "en-US",
+        "charset": "utf-8",
+        "viewport": "width=device-width, initial-scale=1",
+        "author": null,
+        "robots": null,
+        "og_tags": {
+          "og:site_name": "Elia",
+          "og:title": "Privacy Policy — Elia",
+          "og:url": "https://www.eliaontheriver.com/privacy-policy",
+          "og:type": "website"
+        },
+        "twitter_tags": {
+          "twitter:title": "Privacy Policy — Elia",
+          "twitter:url": "https://www.eliaontheriver.com/privacy-policy",
+          "twitter:card": "summary"
+        },
+        "favicon": "https://images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/e04b9ae0-d231-4af7-8441-5e73f7ad96a5/favicon.ico?format=100w",
+        "other_meta": {
+          "facebook-domain-verification": "ud9g8haoe7rj4vz4mrx4joya9n5ech"
+        }
+      },
+      "forms": [],
+      "buttons": [
+        {
+          "text": "Open Menu Close Menu",
+          "type": "button",
+          "href": null,
+          "onclick": null,
+          "id": null,
+          "class_name": "header-burger-btn burger",
+          "is_cta": true
+        },
+        {
+          "text": "Skip to Content",
+          "type": "link_cta",
+          "href": "https://www.eliaontheriver.com/privacy-policy#page",
+          "onclick": null,
+          "id": null,
+          "class_name": "header-skip-link sqs-button-element--primary",
+          "is_cta": true
+        },
+        {
+          "text": "RESERVE A TABLE",
+          "type": "link_cta",
+          "href": "https://www.eliaontheriver.com/reservations",
+          "onclick": null,
+          "id": null,
+          "class_name": "btn btn--border theme-btn--primary-inverse sqs-button-element--primary",
+          "is_cta": true
+        }
+      ],
+      "structured_data": {
+        "json_ld": [
+          {
+            "url": "https://www.eliaontheriver.com",
+            "name": "Elia",
+            "description": "",
+            "image": "//images.squarespace-cdn.com/content/v1/65d4ead9ad0aa1164d8977fc/1d9371c7-1a27-4438-a427-c85e5ad40138/Elia+on+the+River.png",
+            "@context": "http://schema.org",
+            "@type": "WebSite"
+          },
+          {
+            "address": "",
+            "image": "https://static1.squarespace.com/static/65d4ead9ad0aa1164d8977fc/t/69248083c5759a482b1b84aa/1787161668162/",
+            "openingHours": "",
+            "@context": "http://schema.org",
+            "@type": "LocalBusiness"
+          }
+        ],
+        "opengraph": {},
+        "microdata": []
+      },
+      "screenshot_path": null,
+      "raw_markdown_path": null,
+      "is_success": true,
+      "errors": [],
+      "warnings": []
+    }
+  ],
+  "sitemap_urls_found": 0,
+  "site_title": "Elia",
+  "site_description": "Discover Elia on the River, Miami’s best premier destination for authentic Southern Italian cuisine with coastal flair. Experience carefully curated menu, and handcrafted cocktails in a stunning riverside setting. Perfect for romantic dinners, group celebrations, and private events.",
+  "started_at": "2026-08-21T09:51:34.597759+00:00",
+  "completed_at": "2026-08-21T09:52:12.350519+00:00",
+  "duration_seconds": 37.75,
+  "raw_output_dir": "E:\\Code\\Nayom\\data\\websites\\eliaontheriver_com\\raw",
+  "website_json_path": "E:\\Code\\Nayom\\data\\websites\\eliaontheriver_com\\website.json",
+  "errors": [],
+  "warnings": []
+}

@@ -1,0 +1,59 @@
+{
+  "id": "gym-power",
+  "name": "Gym Power & Fitness Hub",
+  "version": "v1",
+  "description": "High-energy fitness studio template with class schedules, trainer rosters, membership tiers, and free trial leadgen.",
+  "industry": [
+    "gym",
+    "fitness",
+    "crossfit",
+    "personal trainer",
+    "yoga",
+    "wellness"
+  ],
+  "categories": [
+    "gym",
+    "fitness",
+    "wellness"
+  ],
+  "styles": [
+    "dark",
+    "bold",
+    "energetic",
+    "high-contrast"
+  ],
+  "layouts": [
+    "bento_grid",
+    "single_page_anchor_flow"
+  ],
+  "features": [
+    "booking",
+    "pricing",
+    "testimonials",
+    "faqs",
+    "contact_form"
+  ],
+  "entrypoint": "app/page.tsx",
+  "slots": {
+    "site.name": "string",
+    "site.tagline": "string",
+    "site.niche": "string",
+    "hero.title": "string",
+    "hero.subtitle": "string",
+    "hero.cta": "string",
+    "hero.ctaLink": "string",
+    "about.summary": "string",
+    "about.differentiators": "string",
+    "contact.phone": "string",
+    "contact.email": "string",
+    "contact.address": "string",
+    "contact.location": "string",
+    "services": "string",
+    "testimonials": "string",
+    "faqs": "string",
+    "socialLinks": "string",
+    "locations": "string",
+    "seo": "string"
+  },
+  "preview_image": "preview/thumbnail.png"
+}

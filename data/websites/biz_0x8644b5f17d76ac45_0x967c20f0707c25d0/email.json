@@ -1,0 +1,19 @@
+{
+  "recipient": "info@trudentistryaustin.com",
+  "subject": "Quick thought on TRU Dentistry's Austin site + a quick prototype",
+  "body": "Hi TRU Dentistry Team,\n\nI always appreciate practices like yours in Austin that genuinely cater to patient comfort—especially combining advanced tools like 3D CBCT imaging with spa-like touches like massage chairs and therapeutic neck wraps for those with dental anxiety.\n\nWhile browsing your current site, I noticed that mobile users could benefit from a direct click-to-call button in the sticky header, and that key new-patient offers could be featured more prominently above the fold to drive bookings for services like clear aligners and emergency care.\n\nTo see how these tweaks could look in practice, I put together a modern, fast-loading prototype for you here: https://nayom-preview.pages.dev/biz_0x8644b5f17d76ac45_0x967c20f0707c25d0.\n\nFeel free to check out the live preview. If you'd like to use this design or have me tweak anything, I'd be happy to send over the project files or chat for 5 minutes. No worries at all if you're happy with your current setup!",
+  "business_id": "biz_0x8644b5f17d76ac45_0x967c20f0707c25d0",
+  "preview_url": "https://nayom-preview.pages.dev/biz_0x8644b5f17d76ac45_0x967c20f0707c25d0",
+  "generated_at": "2026-08-26T16:02:11.024526+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "business_name": "TRU Dentistry Austin",
+  "key_improvements": [
+    "Added direct click-to-call buttons in the sticky header for mobile users",
+    "Prominently displayed new patient special offers above the fold"
+  ],
+  "provider": "gemini",
+  "prompt_version": "1.0.0",
+  "warnings": [
+    "No deployment.json found. Using preview URL fallback: https://nayom-preview.pages.dev/biz_0x8644b5f17d76ac45_0x967c20f0707c25d0"
+  ]
+}

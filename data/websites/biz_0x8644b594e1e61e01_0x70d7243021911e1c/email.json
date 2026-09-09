@@ -1,0 +1,18 @@
+{
+  "recipient": "info@sourduckaustin.com",
+  "subject": "Quick thought on Sour Duck's website + a live mockup",
+  "body": "Hi Sour Duck Team, I am a huge fan of your scratch-made baking using Barton Springs Mill flour and those smoked meats coming straight out of the 1,000-gallon pit smoker. While grabbing lunch and checking your menu on my phone in the beer garden, I noticed that the mobile typography contrast could be improved for easy outdoor viewing, and direct social media icons in the footer would make it simpler for locals to stay connected. I put together a quick, modern prototype for Sour Duck Market with cleaner menu tabs and optimized typography so it is easier to browse on mobile. Feel free to check out the live preview here: https://nayom-biz-0x8644b594e1e61e01-0x70d7243021911e1-99epsxjb8.vercel.app. If you would like to use this design or have me tweak anything, I am happy to send over the project files or chat for 5 minutes. No worries at all if you are happy with your current setup!",
+  "business_id": "biz_0x8644b594e1e61e01_0x70d7243021911e1c",
+  "preview_url": "https://nayom-biz-0x8644b594e1e61e01-0x70d7243021911e1-99epsxjb8.vercel.app",
+  "generated_at": "2026-08-24T14:29:53.998187+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "business_name": "Sour Duck Market",
+  "key_improvements": [
+    "Optimized menu typography contrast for outdoor smartphone viewing",
+    "Added direct social media icon links to the footer",
+    "Implemented clean interactive menu tabs"
+  ],
+  "provider": "gemini",
+  "prompt_version": "1.0.0",
+  "warnings": []
+}

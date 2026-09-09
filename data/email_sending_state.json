@@ -1,0 +1,17 @@
+{
+  "current_index": 1,
+  "last_used_provider": "gmail",
+  "last_sent_at": "2026-08-26T16:03:43.857771+00:00",
+  "total_sent_count": 35,
+  "today_date": "2026-08-26",
+  "provider_daily_usage": {
+    "mock": {
+      "sent_today": 0,
+      "last_reset_date": "2026-08-26"
+    },
+    "gmail": {
+      "sent_today": 19,
+      "last_reset_date": "2026-08-26"
+    }
+  }
+}

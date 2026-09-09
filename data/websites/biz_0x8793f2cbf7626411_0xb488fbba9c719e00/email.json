@@ -1,0 +1,17 @@
+{
+  "recipient": null,
+  "subject": "Quick thought on the Regency Dental site / Omaha",
+  "body": "Hi Regency Dental team,\n\nI live in the area and was checking out your practice online. It is great to see how dedicated you are to providing patient-centered care and comprehensive services like preventive cleanings and restorative implants for families around Omaha.\n\nWhile browsing your current site, I noticed a couple of missed opportunities that might be slowing down patient inquiries. Specifically, adding a direct click-to-call button in the mobile header and incorporating stronger local schema markup would make it much easier for local patients to reach you quickly from their phones.\n\nI went ahead and built a modern, clean prototype for your practice to show how these adjustments look in practice: https://nayom-biz-0x8793f2cbf7626411-0xb488fbba9c719e0.vercel.app\n\nFeel free to check out the live preview there. If you would like to use this design or have me tweak anything, I would be happy to send over the project files or chat for five minutes. No worries at all if you are happy with your current setup!",
+  "business_id": "biz_0x8793f2cbf7626411_0xb488fbba9c719e00",
+  "preview_url": "https://nayom-biz-0x8793f2cbf7626411-0xb488fbba9c719e0.vercel.app",
+  "generated_at": "2026-08-24T10:01:43.181321+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "business_name": "Regency Dental",
+  "key_improvements": [
+    "Added a click-to-call phone number in the mobile header",
+    "Improved local search markup and lead booking CTAs"
+  ],
+  "provider": "gemini",
+  "prompt_version": "1.0.0",
+  "warnings": []
+}

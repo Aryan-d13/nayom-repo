@@ -1,0 +1,330 @@
+{
+  "query": "Dentists in Baltimore Maryland",
+  "total_found": 10,
+  "usable_count": 10,
+  "executed_at": "2026-08-21T07:22:33.749817+00:00",
+  "duration_seconds": 5.21,
+  "businesses": [
+    {
+      "id": "biz_0x89c8049fb22d28b1_0xaf4abca36b28d9fa",
+      "name": "Inner Harbor Dental Associates",
+      "category": "Dentist",
+      "categories": [
+        "Dentist"
+      ],
+      "address": "2 N Charles St Ste 130, Baltimore, MD 21201, United States",
+      "city": "Baltimore",
+      "state": "MD",
+      "country": "United States",
+      "postal_code": "21201",
+      "latitude": 39.289806999999996,
+      "longitude": -76.615602,
+      "phone": "+1410-584-3795",
+      "email": null,
+      "website": "http://innerharbordental.com/?utm_source=gbp&utm_medium=organic&utm_campaign=yext_listing",
+      "rating": 4.6,
+      "review_count": 1063,
+      "google_place_id": "0x89c8049fb22d28b1:0xaf4abca36b28d9fa",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Inner%20Harbor%20Dental%20Associates%202%20N%20Charles%20St%20Ste%20130%2C%20Baltimore%2C%20MD%2021201%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-21T07:22:33.749310+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260821_072228_dentists_in_baltimore_maryland_raw.json"
+    },
+    {
+      "id": "biz_0x89c80361d521844f_0xe5d1c1ed716d7fee",
+      "name": "Dr. Garcia General & Cosmetic Dentistry",
+      "category": "Dentist",
+      "categories": [
+        "Dentist",
+        "Cosmetic dentist",
+        "Dental clinic",
+        "Emergency dental service",
+        "Orthodontist"
+      ],
+      "address": "36 S Charles St #2202, Baltimore, MD 21201, United States",
+      "city": "Baltimore",
+      "state": "MD",
+      "country": "United States",
+      "postal_code": "21201",
+      "latitude": 39.287943999999996,
+      "longitude": -76.615494,
+      "phone": "+1410-834-0207",
+      "email": null,
+      "website": "http://www.drgarciadds.com/",
+      "rating": 4.9,
+      "review_count": 887,
+      "google_place_id": "0x89c80361d521844f:0xe5d1c1ed716d7fee",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Garcia%20General%20%26%20Cosmetic%20Dentistry%2036%20S%20Charles%20St%20%232202%2C%20Baltimore%2C%20MD%2021201%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-21T07:22:33.749412+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260821_072228_dentists_in_baltimore_maryland_raw.json"
+    },
+    {
+      "id": "biz_0x89c8049f2f31f8bd_0xdfc8e0d5de91b3af",
+      "name": "Baltimore City Dental Group",
+      "category": "Dentist",
+      "categories": [
+        "Dentist",
+        "Cosmetic dentist",
+        "Dental implants periodontist",
+        "Dental implants provider",
+        "Dental radiology",
+        "Denture care center",
+        "Endodontist",
+        "Pediatric dentist",
+        "Periodontist"
+      ],
+      "address": "334 N Charles St, Baltimore, MD 21201, United States",
+      "city": "Baltimore",
+      "state": "MD",
+      "country": "United States",
+      "postal_code": "21201",
+      "latitude": 39.2936532,
+      "longitude": -76.61574139999999,
+      "phone": "+1410-685-0002",
+      "email": null,
+      "website": "https://baltimorecitydentalgroup.com/",
+      "rating": 4.5,
+      "review_count": 719,
+      "google_place_id": "0x89c8049f2f31f8bd:0xdfc8e0d5de91b3af",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Baltimore%20City%20Dental%20Group%20334%20N%20Charles%20St%2C%20Baltimore%2C%20MD%2021201%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-21T07:22:33.749468+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260821_072228_dentists_in_baltimore_maryland_raw.json"
+    },
+    {
+      "id": "biz_0x89c80341e8cc6e39_0x9b5c49ce309f365c",
+      "name": "Waterfront Dental",
+      "category": "Dentist",
+      "categories": [
+        "Dentist",
+        "Cosmetic dentist",
+        "Dental clinic",
+        "Dental implants provider",
+        "Emergency dental service",
+        "Endodontist",
+        "Oral surgeon",
+        "Orthodontist"
+      ],
+      "address": "221 Key Hwy, Baltimore, MD 21230, United States",
+      "city": "Baltimore",
+      "state": "MD",
+      "country": "United States",
+      "postal_code": "21230",
+      "latitude": 39.2804851,
+      "longitude": -76.6100072,
+      "phone": "+1443-346-1262",
+      "email": null,
+      "website": "https://www.baltimorewaterfrontdental.com/?utm_campaign=gmb",
+      "rating": 5.0,
+      "review_count": 752,
+      "google_place_id": "0x89c80341e8cc6e39:0x9b5c49ce309f365c",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Waterfront%20Dental%20221%20Key%20Hwy%2C%20Baltimore%2C%20MD%2021230%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-21T07:22:33.749494+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260821_072228_dentists_in_baltimore_maryland_raw.json"
+    },
+    {
+      "id": "biz_0x89c8048e8341c3fd_0xdd73e8f6b79c7322",
+      "name": "Quest Dental",
+      "category": "Dentist",
+      "categories": [
+        "Dentist"
+      ],
+      "address": "1000 E Eager St, Baltimore, MD 21202, United States",
+      "city": "Baltimore",
+      "state": "MD",
+      "country": "United States",
+      "postal_code": "21202",
+      "latitude": 39.3019544,
+      "longitude": -76.60291219999999,
+      "phone": "+1410-541-4430",
+      "email": null,
+      "website": "https://dentistry-baltimore.com/",
+      "rating": 4.6,
+      "review_count": 340,
+      "google_place_id": "0x89c8048e8341c3fd:0xdd73e8f6b79c7322",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Quest%20Dental%201000%20E%20Eager%20St%2C%20Baltimore%2C%20MD%2021202%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-21T07:22:33.749515+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260821_072228_dentists_in_baltimore_maryland_raw.json"
+    },
+    {
+      "id": "biz_0x89c804964220c05b_0xdeda58d162ccd180",
+      "name": "Tomicka Jackson - George, DMD, P.A.",
+      "category": "Dentist",
+      "categories": [
+        "Dentist",
+        "Dental clinic",
+        "Denture care center",
+        "Emergency dental service",
+        "Teeth whitening service"
+      ],
+      "address": "1501 St Paul St #124, Baltimore, MD 21202, United States",
+      "city": "Baltimore",
+      "state": "MD",
+      "country": "United States",
+      "postal_code": "21202",
+      "latitude": 39.3066308,
+      "longitude": -76.6140762,
+      "phone": "+1410-685-2850",
+      "email": null,
+      "website": "http://www.jacksongeorgedental.com/",
+      "rating": 4.8,
+      "review_count": 303,
+      "google_place_id": "0x89c804964220c05b:0xdeda58d162ccd180",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Tomicka%20Jackson%20-%20George%2C%20DMD%2C%20P.A.%201501%20St%20Paul%20St%20%23124%2C%20Baltimore%2C%20MD%2021202%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-21T07:22:33.749536+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260821_072228_dentists_in_baltimore_maryland_raw.json"
+    },
+    {
+      "id": "biz_0x89c803fdf03eb71d_0xbd1b5e0a3d3fbe",
+      "name": "Fells Point Dental",
+      "category": "Dentist",
+      "categories": [
+        "Dentist"
+      ],
+      "address": "949 Fell St, Baltimore, MD 21231, United States",
+      "city": "Baltimore",
+      "state": "MD",
+      "country": "United States",
+      "postal_code": "21231",
+      "latitude": 39.2806272,
+      "longitude": -76.5892465,
+      "phone": "+1410-970-0440",
+      "email": null,
+      "website": "http://www.fellspointdental.com/",
+      "rating": 4.7,
+      "review_count": 284,
+      "google_place_id": "0x89c803fdf03eb71d:0xbd1b5e0a3d3fbe",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fells%20Point%20Dental%20949%20Fell%20St%2C%20Baltimore%2C%20MD%2021231%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-21T07:22:33.749555+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260821_072228_dentists_in_baltimore_maryland_raw.json"
+    },
+    {
+      "id": "biz_0x89c80f3a60398b37_0x8375e6c66ca0a55d",
+      "name": "Horizon Family Dental Care",
+      "category": "Dentist",
+      "categories": [
+        "Dentist",
+        "Cosmetic dentist",
+        "Dental implants periodontist",
+        "Periodontist"
+      ],
+      "address": "1712 Whetstone Way, Baltimore, MD 21230, United States",
+      "city": "Baltimore",
+      "state": "MD",
+      "country": "United States",
+      "postal_code": "21230",
+      "latitude": 39.2686829,
+      "longitude": -76.6001692,
+      "phone": "+1410-332-9998",
+      "email": null,
+      "website": "https://www.horizonfamilydentist.com/our-dentist-office/dentist-baltimore-md/?utm_source=GMBlisting&utm_medium=organic",
+      "rating": 4.7,
+      "review_count": 449,
+      "google_place_id": "0x89c80f3a60398b37:0x8375e6c66ca0a55d",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Horizon%20Family%20Dental%20Care%201712%20Whetstone%20Way%2C%20Baltimore%2C%20MD%2021230%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-21T07:22:33.749576+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260821_072228_dentists_in_baltimore_maryland_raw.json"
+    },
+    {
+      "id": "biz_0x89c803892f6d7eed_0xe7137fc0e85a0d60",
+      "name": "Canton Dental Associates",
+      "category": "Dentist",
+      "categories": [
+        "Dentist",
+        "Cosmetic dentist",
+        "Dental hygienist",
+        "Dental implants periodontist",
+        "Pediatric dentist",
+        "Teeth whitening service"
+      ],
+      "address": "2700 Lighthouse Point E Unit 210, Baltimore, MD 21224, United States",
+      "city": "Baltimore",
+      "state": "MD",
+      "country": "United States",
+      "postal_code": "21224",
+      "latitude": 39.2786827,
+      "longitude": -76.5779037,
+      "phone": "+1410-675-3300",
+      "email": null,
+      "website": "http://cantondentalassociates.com/",
+      "rating": 4.8,
+      "review_count": 466,
+      "google_place_id": "0x89c803892f6d7eed:0xe7137fc0e85a0d60",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Canton%20Dental%20Associates%202700%20Lighthouse%20Point%20E%20Unit%20210%2C%20Baltimore%2C%20MD%2021224%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-21T07:22:33.749596+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260821_072228_dentists_in_baltimore_maryland_raw.json"
+    },
+    {
+      "id": "biz_0x89c803ab0a3fdb51_0xc43bcb65c8b88921",
+      "name": "Canton Smile Studio",
+      "category": "Dentist",
+      "categories": [
+        "Dentist"
+      ],
+      "address": "1030 S Linwood Ave Suite 200, Baltimore, MD 21224, United States",
+      "city": "Baltimore",
+      "state": "MD",
+      "country": "United States",
+      "postal_code": "21224",
+      "latitude": 39.2801705,
+      "longitude": -76.5756842,
+      "phone": "+1410-921-0097",
+      "email": null,
+      "website": "http://www.cantonsmilestudio.com/",
+      "rating": 4.9,
+      "review_count": 898,
+      "google_place_id": "0x89c803ab0a3fdb51:0xc43bcb65c8b88921",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Canton%20Smile%20Studio%201030%20S%20Linwood%20Ave%20Suite%20200%2C%20Baltimore%2C%20MD%2021224%2C%20United%20States",
+      "source": "google_maps_gosom",
+      "discovered_at": "2026-08-21T07:22:33.749616+00:00",
+      "usable": true,
+      "validation_warnings": [
+        "Missing email"
+      ],
+      "raw_data_ref": "E:\\Code\\Nayom\\data\\raw\\20260821_072228_dentists_in_baltimore_maryland_raw.json"
+    }
+  ]
+}

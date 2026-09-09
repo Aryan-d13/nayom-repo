@@ -1,0 +1,18 @@
+{
+  "recipient": null,
+  "subject": "Quick thought on Smile Designs of Southern Ohio's website",
+  "body": "Hi Smile Designs team, I came across your practice while looking at dental care in West Union and really appreciate your focus on patient-centered, compassionate cosmetic and restorative treatments. When browsing your current site, I noticed a couple of missed opportunities that could help turn more visitors into patients, such as making your phone number more prominent in the header and adding clear insurance trust badges above the fold. Since I design clean, high-performance sites for independent practices, I went ahead and built a live working prototype for you to check out. It features a streamlined layout, prominent contact details, and a dedicated services grid. Feel free to explore the live preview here: https://nayom-biz-0x8846b56e281a3915-0x202de.netlify.app. If you like how this design looks or want me to adjust anything, I'm happy to send over the project files or chat for five minutes. No worries at all if you are happy with your current setup!",
+  "business_id": "biz_0x8846b56e281a3915_0x202de892f516426b",
+  "preview_url": "https://nayom-biz-0x8846b56e281a3915-0x202de.netlify.app",
+  "generated_at": "2026-08-23T07:11:57.073525+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "business_name": "Smile Designs of Southern Ohio",
+  "key_improvements": [
+    "Prominently displayed phone number in the header",
+    "Added trust badges and insurance providers accepted",
+    "Streamlined layout with a clear services grid"
+  ],
+  "provider": "gemini",
+  "prompt_version": "1.0.0",
+  "warnings": []
+}

@@ -1,0 +1,95 @@
+{
+  "id": "dental-smooth",
+  "name": "Dental Smooth Practice",
+  "version": "v1",
+  "description": "Welcoming dental template emphasizing smile makeovers, appointment booking, and patient testimonials.",
+  "categories": [
+    "dental",
+    "medical",
+    "health"
+  ],
+  "industries": [
+    "dental",
+    "orthodontics",
+    "pediatric dental",
+    "teeth whitening",
+    "dentist"
+  ],
+  "style_keywords": [
+    "clean",
+    "bright",
+    "soft",
+    "medical"
+  ],
+  "layout_patterns": [
+    "split_hero_feature_stack",
+    "single_page_anchor_flow"
+  ],
+  "supported_features": [
+    "booking",
+    "pricing",
+    "testimonials",
+    "faqs",
+    "contact_form"
+  ],
+  "supported_slots": [
+    "site.name",
+    "site.tagline",
+    "site.niche",
+    "hero.title",
+    "hero.subtitle",
+    "hero.cta",
+    "hero.ctaLink",
+    "about.summary",
+    "about.differentiators",
+    "contact.phone",
+    "contact.email",
+    "contact.address",
+    "contact.location",
+    "services",
+    "testimonials",
+    "faqs",
+    "socialLinks",
+    "locations",
+    "seo"
+  ],
+  "preview_image": "preview/thumbnail.png",
+  "entrypoint": "app/page.tsx",
+  "capabilities": {
+    "supportsBooking": true,
+    "supportsGallery": true,
+    "supportsPricing": true,
+    "supportsMultiLocation": false,
+    "supportsTestimonials": true,
+    "supportsFaq": true,
+    "supportsBeforeAfter": true
+  },
+  "defaultTheme": {
+    "palette": [
+      "#00a8ff",
+      "#00d2d3",
+      "#f5f6fa",
+      "#2f3640"
+    ],
+    "typography": "Plus Jakarta Sans, sans-serif",
+    "iconStyle": "lucide-soft",
+    "borderRadius": "16px",
+    "buttonStyle": "rounded-soft",
+    "animationStyle": "bounce-subtle"
+  },
+  "supportedVariants": [
+    "light",
+    "glassmorphism"
+  ],
+  "availableSections": [
+    "hero",
+    "services",
+    "about",
+    "before-after",
+    "testimonials",
+    "pricing",
+    "faqs",
+    "booking",
+    "contact"
+  ]
+}

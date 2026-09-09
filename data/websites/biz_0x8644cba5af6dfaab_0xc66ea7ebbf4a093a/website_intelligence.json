@@ -1,0 +1,278 @@
+{
+  "site_id": "biz_0x8644cba5af6dfaab_0xc66ea7ebbf4a093a",
+  "base_url": "http://forestfamily.com/",
+  "domain": "forestfamily.com",
+  "source_website_json": "E:\\Code\\Nayom\\data\\websites\\biz_0x8644cba5af6dfaab_0xc66ea7ebbf4a093a\\website.json",
+  "business_profile": {
+    "business_name": "Forest Family Dentistry",
+    "tagline": "Family, cosmetic and Invisalign care across six Austin & Round Rock offices.",
+    "description": "Forest Family Dentistry is an established dental practice with multiple convenient locations across Austin and Round Rock, Texas, offering family, cosmetic, and advanced Invisalign care since 2013.",
+    "industry_category": "Healthcare / Dentistry",
+    "value_proposition": "Straightforward, warm, and modern dental care delivered across multiple neighborhood offices in Austin & Round Rock, backed by top-tier Invisalign expertise and in-house financing alternatives.",
+    "target_audience": "Families, working professionals, and individuals in Austin and Round Rock looking for comprehensive preventive, cosmetic, and orthodontic dental care.",
+    "key_differentiators": [
+      "Invisalign Diamond Plus Provider (Top 1%)",
+      "Six convenient neighborhood locations across Austin and Round Rock",
+      "Proprietary FFD Membership Plan for uninsured patients",
+      "Established since 2013 with exceptional Google ratings"
+    ]
+  },
+  "services_and_products": [
+    {
+      "name": "New Patient Exam & Cleaning",
+      "description": "Comprehensive exam, professional cleaning, and digital X-rays.",
+      "category": "Core",
+      "target_audience": "New patients",
+      "features": [],
+      "pricing_hint": "$363"
+    },
+    {
+      "name": "Invisalign Consultation",
+      "description": "Complimentary consultation and 3D digital scan with an Invisalign Diamond Plus provider.",
+      "category": "Core",
+      "target_audience": "Patients seeking alignment correction",
+      "features": [],
+      "pricing_hint": "FREE"
+    },
+    {
+      "name": "Teeth Whitening",
+      "description": "Professional Zoom whitening for a brighter, more confident smile.",
+      "category": "Cosmetic",
+      "target_audience": "Patients seeking cosmetic improvement",
+      "features": [],
+      "pricing_hint": "Price to confirm"
+    },
+    {
+      "name": "Veneers",
+      "description": "Custom traditional porcelain veneers and HALO no-prep veneers.",
+      "category": "Cosmetic",
+      "target_audience": "Patients seeking smile makeovers",
+      "features": [],
+      "pricing_hint": null
+    },
+    {
+      "name": "Air Polisher",
+      "description": "Gentle air polishing cleanings using a fine powder and warm water to remove stains and plaque.",
+      "category": "Preventive",
+      "target_audience": null,
+      "features": [],
+      "pricing_hint": null
+    },
+    {
+      "name": "Basic Oral Surgery",
+      "description": "Tooth extractions, baby tooth removal, bone grafting, and dental implant placement.",
+      "category": "Specialty",
+      "target_audience": null,
+      "features": [],
+      "pricing_hint": null
+    },
+    {
+      "name": "Crowns & Bridges",
+      "description": "Custom dental crowns and fixed bridges to restore damaged or missing teeth.",
+      "category": "Restorative",
+      "target_audience": null,
+      "features": [],
+      "pricing_hint": null
+    },
+    {
+      "name": "Gum Therapy",
+      "description": "Scaling and root planing for periodontal disease treatment and maintenance.",
+      "category": "Preventive",
+      "target_audience": null,
+      "features": [],
+      "pricing_hint": null
+    },
+    {
+      "name": "HealthyStart",
+      "description": "Airway-focused early orthodontic and breathing treatment for children.",
+      "category": "Family & Children",
+      "target_audience": null,
+      "features": [],
+      "pricing_hint": null
+    },
+    {
+      "name": "Root Canal",
+      "description": "Gentle root canal therapy to remove infection and save natural teeth.",
+      "category": "Restorative",
+      "target_audience": null,
+      "features": [],
+      "pricing_hint": null
+    },
+    {
+      "name": "Sedation Dentistry",
+      "description": "Nitrous oxide sedation for anxious patients or children during treatments.",
+      "category": "Specialty",
+      "target_audience": null,
+      "features": [],
+      "pricing_hint": null
+    },
+    {
+      "name": "Sleep Dentistry",
+      "description": "Dental sleep medicine and oral appliance therapy for sleep apnea and snoring.",
+      "category": "Specialty",
+      "target_audience": null,
+      "features": [],
+      "pricing_hint": null
+    }
+  ],
+  "contact_intelligence": {
+    "emails": [],
+    "phones": [
+      "(512) 334-9894",
+      "(512) 898-9036",
+      "(512) 494-4459"
+    ],
+    "addresses": [
+      "2700 West Anderson Ln, #418, Austin, TX 78757",
+      "5531 Burnet Rd, Austin, TX 78756",
+      "2681 Gattis School Rd #270, Round Rock, TX 78664"
+    ],
+    "city": "Austin",
+    "state_or_region": "TX",
+    "country": "US",
+    "social_links": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/ForestFamilyDentistry/"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/forestfamilydentist/"
+      },
+      {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/company/forest-family-dentistry-pllc/"
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/channel/UCP4maFehPfd5w9k60JV4mLA"
+      }
+    ],
+    "contact_forms_found": true,
+    "business_hours": "Monday 8:30am – 5:30pm, Tuesday-Thursday 7:30am – 7:30pm, Friday 8:30am – 5:30pm, Saturday 9:00am – 2:00pm (rotating)",
+    "has_contact_method": true
+  },
+  "brand_and_content": {
+    "tone_and_voice": [
+      "warm",
+      "straightforward",
+      "professional",
+      "reassuring",
+      "modern"
+    ],
+    "brand_positioning": "A trusted, patient-centric family and cosmetic dental network offering high-end clinical expertise in approachable neighborhood settings.",
+    "hero_headlines": [
+      "Welcome to the family",
+      "Advanced smiles, expertly guided.",
+      "Invisalign, done by the top 1%"
+    ],
+    "important_copy_snippets": [
+      "Good dental care should feel straightforward and never overwhelming.",
+      "We accept most PPO insurance plans. Flexible financing available through CareCredit."
+    ],
+    "content_quality_score": 9
+  },
+  "calls_to_action": [
+    {
+      "text": "SCHEDULE NOW",
+      "destination": "https://www.flexbook.me/ffdrr?rwg_token=AE37R_gOrFovXdxoTQw-2ubJzdQ9LZFS3Nm77wpErwx_ZODQ1s9nRetqvJnss9M885dX8VOT8YHMnWqCdEnYyjt7QUIzEPTAlQ%3D%3D",
+      "intent": "booking",
+      "prominence": "primary",
+      "location": "Hero"
+    },
+    {
+      "text": "BOOK CONSULTATION",
+      "destination": "/schedule",
+      "intent": "lead_capture",
+      "prominence": "primary",
+      "location": "Pricing Card"
+    },
+    {
+      "text": "EXPLORE INVISALIGN",
+      "destination": "/invisalign",
+      "intent": "navigation",
+      "prominence": "secondary",
+      "location": "Body"
+    }
+  ],
+  "design_and_ux": {
+    "visual_aesthetic": "clean_corporate",
+    "typography_assessment": "Clean modern sans-serif typography with excellent scaling contrast, strong heading weights, and high readability across desktop and mobile formats.",
+    "color_palette_assessment": "Harmonious health-sector palette utilizing calming neutral tones, deep slate typography, and clean white backgrounds with purposeful accent buttons.",
+    "layout_and_spacing": "Generous white space, card-based service breakdowns, and clear bento-style groupings that guide user attention logically from introduction to neighborhood selection.",
+    "ux_navigation_flow": "Frictionless booking flows with distinct location-based scheduling anchors and direct paths to service pages, membership information, and pricing.",
+    "visual_inputs_analyzed": false,
+    "screenshot_observations": [],
+    "strengths": [
+      "Multi-location selectors make local discovery seamless",
+      "Transparent pricing on introductory exams and Invisalign tiers",
+      "Exceptional social proof with direct patient testimonials"
+    ],
+    "weaknesses": [
+      "Extremely long scroll pages with deep content nesting",
+      "Some internal navigation paths duplicate booking workflows"
+    ]
+  },
+  "technical_and_seo": {
+    "inferred_tech_stack": [
+      "Webflow",
+      "Flexbook",
+      "Vercel CDN"
+    ],
+    "seo_health": "Robust on-page SEO implementation with targeted geo-modifiers for Austin and Round Rock, clean URL structuring, and comprehensive meta descriptions.",
+    "seo_strengths": [
+      "Strong local landing page optimization for specific neighborhoods",
+      "Structured JSON-LD schema integration",
+      "Rich keyword targeting across preventive, cosmetic, and orthodontic treatments"
+    ],
+    "seo_weaknesses": [
+      "Potential keyword cannibalization across similar service subpages"
+    ],
+    "accessibility_observations": "Clean semantic HTML structure with logical heading hierarchy (H1 through H3).",
+    "performance_and_structure_notes": "Optimized asset delivery with fast load times and clean component architecture."
+  },
+  "redesign_recommendations": {
+    "overall_redesign_verdict": "The website is highly polished, conversion-optimized, and well-structured. A full overhaul is not necessary; however, iterative UX refinement around mobile booking speed and sticky location bars would yield further gains.",
+    "strategic_recommendations": [
+      "Enhance local SEO landing pages with embedded neighborhood-specific maps and practitioner bios.",
+      "Streamline the online booking modal to minimize form friction on mobile devices."
+    ],
+    "ui_ux_improvements": [
+      "Implement a sticky mobile booking bar for instant access to office scheduling.",
+      "Condense lengthy service descriptions using interactive accordion tabs."
+    ],
+    "rebuild_opportunities": [
+      "Transition high-traffic pages to a high-performance Next.js and Tailwind CSS setup for instant page loads."
+    ],
+    "quick_wins": [
+      "Add direct click-to-call phone numbers prominently in the global navigation bar.",
+      "Prominently display emergency dental availability badges."
+    ]
+  },
+  "template_recommendation": {
+    "recommended_template": "local-service-leadgen",
+    "template_category": "local_service",
+    "style_direction": "clean_corporate",
+    "layout_pattern": "single_page_anchor_flow",
+    "template_confidence": 0.95,
+    "key_sections": [
+      "hero",
+      "multi_location_selector",
+      "services_bento_grid",
+      "patient_testimonials",
+      "membership_and_insurance_banner",
+      "lead_booking_cta"
+    ],
+    "reasoning": "A local service lead-generation archetype with multi-location support perfectly matches the needs of a multi-office dental practice seeking to maximize online bookings and local search visibility."
+  },
+  "metadata": {
+    "provider": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "prompt_version": "1.0.0",
+    "analyzed_at": "2026-08-26T16:03:05.672931+00:00",
+    "screenshots_processed": 0,
+    "duration_seconds": 13.69,
+    "token_usage": null
+  },
+  "warnings": []
+}

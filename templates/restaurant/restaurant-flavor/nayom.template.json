@@ -1,0 +1,60 @@
+{
+  "id": "restaurant-flavor",
+  "name": "Restaurant Flavor & Bistro",
+  "version": "v1",
+  "description": "Vibrant culinary template with menu highlights, online reservations, chef stories, and atmospheric gallery.",
+  "industry": [
+    "restaurant",
+    "cafe",
+    "bistro",
+    "bakery",
+    "bar",
+    "food",
+    "dining"
+  ],
+  "categories": [
+    "restaurant",
+    "food",
+    "hospitality"
+  ],
+  "styles": [
+    "warm",
+    "rich",
+    "editorial",
+    "dark"
+  ],
+  "layouts": [
+    "single_page_anchor_flow",
+    "bento_grid"
+  ],
+  "features": [
+    "booking",
+    "pricing",
+    "testimonials",
+    "faqs",
+    "contact_form"
+  ],
+  "entrypoint": "app/page.tsx",
+  "slots": {
+    "site.name": "string",
+    "site.tagline": "string",
+    "site.niche": "string",
+    "hero.title": "string",
+    "hero.subtitle": "string",
+    "hero.cta": "string",
+    "hero.ctaLink": "string",
+    "about.summary": "string",
+    "about.differentiators": "string",
+    "contact.phone": "string",
+    "contact.email": "string",
+    "contact.address": "string",
+    "contact.location": "string",
+    "services": "string",
+    "testimonials": "string",
+    "faqs": "string",
+    "socialLinks": "string",
+    "locations": "string",
+    "seo": "string"
+  },
+  "preview_image": "preview/thumbnail.png"
+}

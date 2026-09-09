@@ -1,0 +1,226 @@
+{
+  "site": {
+    "name": "KAI VALENTINE",
+    "tagline": "KINETIC SYSTEMS ARCHITECT // DIGITAL AVANT-GARDE",
+    "niche": "Principal Systems Architect & Creative Technologist",
+    "status": "AVAILABLE FOR HIGH-VELOCITY CONTRACTS // Q3-Q4",
+    "location": "37.7749° N, 122.4194° W",
+    "systemVersion": "SYS.VER 4.9.2"
+  },
+  "hero": {
+    "badge": "PROTOCOL // 01 [INITIALIZED]",
+    "titleLine1": "KINETIC SYSTEMS",
+    "titleLine2": "DIGITAL AVANT-GARDE",
+    "subtitle": "Engineering ultra-low-latency distributed infrastructure, WebGL kinetic compute pipelines, and unapologetic brutalist software interfaces.",
+    "ctaPrimary": "EXPLORE PROTOCOLS",
+    "ctaPrimaryLink": "#projects",
+    "ctaSecondary": "INITIALIZE TRANSMISSION",
+    "ctaSecondaryLink": "#contact",
+    "coordinates": "LAT 37.7749° N / LON 122.4194° W",
+    "metrics": [
+      { "label": "RUNTIME ENGINE", "value": "RUST + NEXT.JS" },
+      { "label": "COMPUTE LATENCY", "value": "< 12MS P99" },
+      { "label": "GRID STATUS", "value": "100% OPERATIONAL" },
+      { "label": "TELEMETRY SYNC", "value": "REAL-TIME EDGE" }
+    ]
+  },
+  "about": {
+    "eyebrow": "01 // SYSTEM ARCHITECTURE",
+    "headline": "ENGINEERED FOR EXTREME VELOCITY AND ZERO COMPROMISE",
+    "bio": "We reject bloated abstraction layers and boilerplate aesthetics. Every line of code is forged for microsecond execution, extreme graphic fidelity, and high architectural density. We build digital artifacts that command immediate attention and scale without friction.",
+    "stats": [
+      { "value": "99.99%", "label": "UP-TIME RECORD", "detail": "Fault-tolerant multi-region failover" },
+      { "value": "140+", "label": "SHIPPED SYSTEMS", "detail": "Production deployments worldwide" },
+      { "value": "40M+", "label": "REQS / SECOND", "detail": "Peak distributed throughput handled" },
+      { "value": "0.18s", "label": "FIRST CONTENTFUL PAINT", "detail": "Ultra-lightweight edge delivery" }
+    ],
+    "terminalLogs": [
+      "INITIALIZING HYPERVISOR V4.9.2...",
+      "SYNCHRONIZING GLOBAL DISTRIBUTED NODES [12/12]",
+      "WEBGL KINETIC SHADER COMPILED [0.04ms]",
+      "EDGE ROUTING RE-CONFIGURED FOR ZERO HOP LATENCY",
+      "ALL SYSTEMS NOMINAL. READY FOR USER TRANSMISSION."
+    ]
+  },
+  "services": [
+    {
+      "id": "srv-01",
+      "title": "DISTRIBUTED CLOUD ARCHITECTURE",
+      "category": "CORE INFRASTRUCTURE",
+      "description": "Building high-throughput microservices, actor-model worker pools, and geo-replicated data meshes capable of sustained 100k+ RPS with zero downtime.",
+      "metrics": "SUB-10MS P99",
+      "tags": ["Rust", "Kubernetes", "Kafka", "Edge Workers"],
+      "patternType": "checker"
+    },
+    {
+      "id": "srv-02",
+      "title": "KINETIC WEBGL & 3D INTERFACES",
+      "category": "GRAPHICS COMPUTATION",
+      "description": "Custom GLSL fragment shaders, GPU compute particles, dynamic physics simulations, and seamless 60FPS browser canvas choreography.",
+      "metrics": "60-120 FPS FLUID",
+      "tags": ["Three.js", "GLSL", "Canvas API", "WebGPU"],
+      "patternType": "target"
+    },
+    {
+      "id": "srv-03",
+      "title": "TACTICAL FRONTEND ENGINEERING",
+      "category": "SURFACE DESIGN",
+      "description": "Unapologetic cyber-brutalist interfaces built with strict type safety, zero-jank micro-interactions, and edge-to-edge typography.",
+      "metrics": "100/100 LIGHTHOUSE",
+      "tags": ["Next.js", "TypeScript", "Tailwind CSS", "Motion"],
+      "patternType": "hazard"
+    },
+    {
+      "id": "srv-04",
+      "title": "REAL-TIME TELEMETRY & TOOLS",
+      "category": "DEVELOPER PLATFORMS",
+      "description": "Internal observability cockpits, automated stress testing harnesses, and developer command centers with sub-second feedback loops.",
+      "metrics": "REAL-TIME DUPLEX",
+      "tags": ["WebSockets", "Prometheus", "Wasm", "gRPC"],
+      "patternType": "radar"
+    }
+  ],
+  "partners": [
+    { "name": "VERCEL" },
+    { "name": "CLOUDFLARE" },
+    { "name": "LINEAR" },
+    { "name": "SUPABASE" },
+    { "name": "STRIPE" },
+    { "name": "GITHUB" },
+    { "name": "RAYCAST" },
+    { "name": "DOCKER" },
+    { "name": "NVIDIA" }
+  ],
+  "projects": [
+    {
+      "id": "01",
+      "title": "NEURAL SYNAPSE CORE",
+      "category": "EDGE INFERENCE ENGINE",
+      "year": "2024",
+      "bgTone": "black",
+      "description": "Ultra-low-latency distributed AI model serving cluster with real-time token streaming and GPU tensor virtualization across 18 global edge points of presence.",
+      "metrics": [
+        "0.08ms Token Latency",
+        "12k Concurrent Streams",
+        "100% Rust Engine"
+      ],
+      "tags": ["Rust Engine", "CUDA", "Wasm Edge", "WebSockets"],
+      "liveUrl": "https://github.com",
+      "image": "/projects/neural-core.svg"
+    },
+    {
+      "id": "02",
+      "title": "AERO-TACTICAL HUD",
+      "category": "REAL-TIME TELEMETRY",
+      "year": "2024",
+      "bgTone": "teal",
+      "description": "Next-generation cockpit flight telemetry system and command dashboard rendering 4k real-time point clouds and sensor vectors at 120 FPS without frame drops.",
+      "metrics": [
+        "120 FPS Rendering",
+        "60k Sensor Vectors",
+        "Custom GLSL Shader"
+      ],
+      "tags": ["WebGL", "Three.js", "WebAudio", "TypeScript"],
+      "liveUrl": "https://github.com",
+      "image": "/projects/aero-hud.svg"
+    },
+    {
+      "id": "03",
+      "title": "VORTEX QUANTUM PROTOCOL",
+      "category": "CRYPTOGRAPHIC VAULT",
+      "year": "2023",
+      "bgTone": "mint",
+      "description": "Zero-knowledge proof verification pipeline and decentralized asset sequencer processing multi-million dollar institutional settlements securely.",
+      "metrics": [
+        "$4.2B Volume Verified",
+        "0 Slashing Events",
+        "Sub-second ZK-SNARKs"
+      ],
+      "tags": ["Zero-Knowledge", "Solidity", "Rust", "Distributed Consensus"],
+      "liveUrl": "https://github.com",
+      "image": "/projects/vortex-protocol.svg"
+    },
+    {
+      "id": "04",
+      "title": "CYBER MATRIX TERMINAL",
+      "category": "DEVELOPER PLATFORM",
+      "year": "2023",
+      "bgTone": "carbon",
+      "description": "Hyper-performant web-based terminal multiplexer and cloud workstation manager with hardware key security and instant state synchronization.",
+      "metrics": [
+        "10ms Input Latency",
+        "90k Active Sessions",
+        "AES-256-GCM"
+      ],
+      "tags": ["Next.js", "WebAssembly", "WebRTC", "Tailwind"],
+      "liveUrl": "https://github.com",
+      "image": "/projects/matrix-terminal.svg"
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "Kai delivered a distributed compute pipeline that reduced our P99 latency from 450ms to 12ms overnight. The engineering rigor and visual execution are second to none.",
+      "author": "Dr. Elena Rostova",
+      "role": "VP of Engineering",
+      "company": "Synapse Bio-Compute",
+      "verifiedMetric": "P99 LATENCY -97.3%"
+    },
+    {
+      "quote": "Working with Kai was like adding a military-grade skunkworks unit to our team. The frontend choreography and WebGL telemetry won us multiple design awards.",
+      "author": "Marcus Thorne",
+      "role": "Chief Technology Officer",
+      "company": "Vortex Dynamics",
+      "verifiedMetric": "120FPS GPU RUNTIME"
+    },
+    {
+      "quote": "Uncompromising brutalist aesthetics backed by bulletproof distributed systems. Rare to find an architect who masters low-level Rust and high-end visual design.",
+      "author": "Aria Chen",
+      "role": "Founding Partner",
+      "company": "Hyperion Capital",
+      "verifiedMetric": "140+ NODES DEPLOYED"
+    }
+  ],
+  "faq": [
+    {
+      "question": "HOW QUICKLY CAN A HIGH-VELOCITY SYSTEM BE DEPLOYED?",
+      "answer": "Standard architectural sprints span 3 to 6 weeks from initial technical blueprinting to global production rollout, including end-to-end stress testing and zero-downtime cutover.",
+      "category": "TIMELINE"
+    },
+    {
+      "question": "WHAT INFRASTRUCTURE AND STACKS DO YOU SPECIALIZE IN?",
+      "answer": "Primary core stack: Rust, Go, TypeScript, Next.js, WebGL/Three.js, Kubernetes, Kafka, Cloudflare Edge, and AWS/GCP bare-metal compute. We adapt to client infrastructure needs.",
+      "category": "TECH STACK"
+    },
+    {
+      "question": "DO YOU PROVIDE POST-LAUNCH PERFORMANCE AUDITING?",
+      "answer": "Yes. Every production delivery includes 90 days of continuous telemetry monitoring, latency profiling, and real-time incident diagnostics with dedicated SLA response guarantees.",
+      "category": "SLA & SUPPORT"
+    },
+    {
+      "question": "ARE CONTRACTS FIXED-PRICE OR TIME-AND-MATERIALS?",
+      "answer": "We primarily operate on fixed-deliverable milestone retainers to guarantee predictable outcomes and velocity, or embedded skunkworks leadership retainers for long-term engagements.",
+      "category": "ENGAGEMENT"
+    }
+  ],
+  "contact": {
+    "headline": "LET'S BUILD SOMETHING UNFORGIVABLY FAST",
+    "subtext": "Direct line for architecture consultation, high-velocity contracts, and avant-garde technical collaborations.",
+    "email": "transmission@kaivalentine.io",
+    "phone": "+1 (415) 890-CYBER",
+    "location": "San Francisco, CA // Global Remote",
+    "timezone": "UTC-8 (PST / PDT)",
+    "availability": "Accepting 2 new enterprise engagements for Q3/Q4"
+  },
+  "socialLinks": {
+    "github": "https://github.com",
+    "twitter": "https://x.com",
+    "linkedin": "https://linkedin.com",
+    "discord": "https://discord.com",
+    "telegram": "https://telegram.org"
+  },
+  "seo": {
+    "title": "Kai Valentine // Kinetic Systems Architect & Creative Technologist",
+    "description": "Ultra-low latency distributed systems, WebGL kinetic compute pipelines, and unapologetic cyber-industrial brutalist web engineering.",
+    "keywords": ["systems architect", "creative developer", "webgl", "rust", "cyber brutalism", "next.js", "frontend engineer"]
+  }
+}
