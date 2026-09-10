@@ -70,6 +70,9 @@ data/websites/
 data/leads.db
 data/raw/
 data/normalized/
+demo/screenshots/
+demo/*.png
+demo/*.webp
 
 # Executables & temporary build artifacts
 *.exe
