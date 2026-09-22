@@ -1,0 +1,25 @@
+1:"$Sreact.fragment"
+2:I[8785,[],"ClientPageRoot"]
+3:I[3556,["888","static/chunks/888-f3675a2cbd4c4b5b.js","974","static/chunks/app/page-f3e303d4f6372288.js"],"default"]
+6:I[3393,[],"OutletBoundary"]
+7:"$Sreact.suspense"
+b:I[3393,[],"ViewportBoundary"]
+c:I[3393,[],"MetadataBoundary"]
+d:I[6004,[],"IconMark"]
+f:I[7781,["177","static/chunks/app/layout-896345acc2541b8d.js"],"ReactLenis"]
+10:I[1412,[],""]
+11:I[4354,[],""]
+:HL["/_next/static/css/100b99acfd3b387c.css","style"]
+:HL["/_next/static/css/7488fa93342d5ef7.css","style"]
+a:X
+0:{"buildId":"49RyrxMgr4scuSQy5Tu_q","data":[{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":"$@9","staleTime":"$a","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$Lb",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"St. John’s Community Health · Los Angeles · Dentists"}],["$","meta","1",{"name":"description","content":"Welcome to St. John’s Community Health in Los Angeles. Care, considered."}],["$","meta","2",{"name":"keywords","content":"St. John’s Community Health,Dentist Los Angeles,General Dentistry,Cosmetic Dentistry,Invisalign Los Angeles,Restorative Dentistry"}],["$","link","3",{"rel":"icon","href":"/favicon.ico?603d046c9a6fdfbb","type":"image/x-icon","sizes":"16x16"}],["$","$Ld","4",{}]]}]}]}],null]}],"isPartial":"$@e","staleTime":"$a","varyParams":null},{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/100b99acfd3b387c.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/7488fa93342d5ef7.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__variable_f367f3 __variable_2b785a font-sans bg-bone text-ink antialiased selection:bg-clay/20 selection:text-ink min-h-screen","children":["$","$Lf",null,{"root":true,"children":["$","$L10",null,{"parallelRouterKey":"children","template":["$","$L11",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]}]}]]}],"isPartial":"$@12","staleTime":"$a","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@13","rootVaryParams":null,"needsRuntimeRequest":"$@14"}
+4:{}
+5:"$0:data:0:rsc:props:children:0:props:serverProvidedParams:params"
+8:null
+a:300
+14:true
+a:C
+13:0
+e:"$undefined"
+12:"$undefined"
+9:"$undefined"
